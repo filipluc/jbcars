@@ -5,7 +5,7 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "vw polo 1.9 tdi, Garantie, Financiering, 5 deurs/euro 4"
+var_title = "vw polo 1.9 tdi,  Garantie,  Financiering,  5 deurs/euro 4"
 var_brand = "Volkswagen"
 var_model = "Polo"
 var_desc = "1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"

@@ -14,9 +14,8 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException
 from xmlrunner import *
 from AddCars.general import GeneralFunctions
-from AddCars import car_detail15
-from AddCars import car_detail16
-
+from AddCars import car_detail18
+from AddCars import car_detail19
 
 
 
@@ -55,18 +54,14 @@ class AdaugaMasiniSingle(unittest.TestCase):
     def tearDown(self):
         self.driver.quit()
 
-
     #@unittest.skip("skip car") 
-    def test_addcar115(self):
-        GeneralFunctions.deleteAddCarFunction(self, car_detail15)
-        #GeneralFunctions.addCarFunction(self, car_detail15)
-
-
-    #@unittest.skip("skip car") 
-    def test_addcar116(self):
-        GeneralFunctions.deleteAddCarFunction(self, car_detail16)
-        #GeneralFunctions.addCarFunction(self, car_detail16)
+    def test_addcar118(self):
+        GeneralFunctions.deleteAddCarFunction(self, car_detail18)
         
+    #@unittest.skip("skip car") 
+    def test_addcar119(self):
+        GeneralFunctions.deleteAddCarFunction(self, car_detail19)
+
         
 def suite():
     suite = unittest.TestLoader().loadTestsFromTestCase(AdaugaMasiniSingle)

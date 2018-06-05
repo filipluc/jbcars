@@ -5,7 +5,7 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "opel corsa 1.2 benzine,Garantie,Financiering,airco, euro 4"
+var_title = "opel corsa 1.2 benzine,Garantie,Financiering,airco,   euro 4"
 var_brand = "Opel"
 var_model = "Corsa"
 var_desc = "1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"

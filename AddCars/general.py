@@ -105,9 +105,8 @@ class GeneralFunctions():
         elem13.clear()
         elem13.send_keys("www.jbcars.be")
         elem13.send_keys(Keys.TAB)
-        picspathgeneral = "d:\Eclipse\jbcarsnew\AddCars\Pics"
+        picspathgeneral = "d:\Github\jbcars\AddCars\pics"
         picspath = os.path.join(picspathgeneral, car_detail.var_picspath)
-        #picspath = "d:\Eclipse\jbcars\AddCars\Pics\" + str(car_detail.var_picspath)
         for dirname, dirnames, filenames in os.walk(picspath):
             # print path to all filenames.
             for filename in filenames:

@@ -14,7 +14,11 @@
 14.opel astra GTC,coupe,1.6 benzine,Garantie,Financiering,euro4
 15.opel vectra 2.0 dth dti 16v
 16.Renault Scenic 1.9 dCi
-
+17.mazda 2 , 1.2 i , Garantie, Financiering, euro 4
+18.vw polo 1.9 tdi, Garantie, Financiering, 5 deurs/euro 4
+19.opel corsa 1.2 benzine,Garantie,Financiering,airco, euro 4
+20.---
+21.toyota aygo 1.0 i ,benzine,Garantie,Financiering,euro 4
 
 
 poze lipsa: corsa, polo, mazda2, zafira, aygo

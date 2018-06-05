@@ -20,16 +20,16 @@ for root, dirs, files in os.walk(rootDir):
 
 from AddCars import addcarall
 from AddCars import addcar_single
-#from AddCars import addcarTOATE
+from AddCars import addcarTOATE
 
 suite1 = addcarall.suite()
 suite2 = addcar_single.suite()
-#suite3 = addcarTOATE.suite()
+suite3 = addcarTOATE.suite()
 
 
 def suite():
     suite = unittest.TestSuite()
-    tests = [suite2]
+    tests = [suite3]
     #tests = [suite1, suite2]
     for test in tests:
         suite.addTest(test)

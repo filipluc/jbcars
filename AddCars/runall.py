@@ -12,7 +12,7 @@ import os
 import sys
 
 
-rootDir = "d:\Eclipse\jbcarsnew"
+rootDir = "d:\Github\jbcars"
 # add all paths inside rootDir in sys.path, in order for the import to find all tests
 for root, dirs, files in os.walk(rootDir):
     sys.path.append(root)

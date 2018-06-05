@@ -10,7 +10,6 @@ import unittest
 from xmlrunner import *
 import os
 import sys
-print(sys.path)
 
 
 rootDir = "d:\Eclipse\jbcarsnew"

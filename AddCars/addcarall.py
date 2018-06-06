@@ -14,16 +14,16 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException
 from xmlrunner import *
 from AddCars.general import GeneralFunctions
-from AddCars import car101
-from AddCars import car102
-from AddCars import car103
-from AddCars import car104
-from AddCars import car105
-from AddCars import car106
-from AddCars import car107
-from AddCars import car108
-from AddCars import car109
-from AddCars import car110
+from AddCars.cars import car101
+from AddCars.cars import car102
+from AddCars.cars import car103
+from AddCars.cars import car104
+from AddCars.cars import car105
+from AddCars.cars import car106
+from AddCars.cars import car107
+from AddCars.cars import car108
+from AddCars.cars import car109
+from AddCars.cars import car110
 
 
 

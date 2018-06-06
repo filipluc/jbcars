@@ -36,6 +36,7 @@ from AddCars import car_detail19
 from AddCars import car_detail20
 from AddCars import car_detail21
 from AddCars import car_detail22
+from AddCars import car_detail23
 
 
 
@@ -160,6 +161,10 @@ class AdaugaMasini(unittest.TestCase):
     #@unittest.skip("skip car") 
     def test_addcar122(self):
         GeneralFunctions.deleteAddCarFunction(self, car_detail22)
+        
+    #@unittest.skip("skip car") 
+    def test_addcar123(self):
+        GeneralFunctions.deleteAddCarFunction(self, car_detail23)
  
     
         

@@ -29,6 +29,7 @@ class GeneralFunctions():
         if GeneralFunctions.check_exists_by_xpath(self, car_detail):
             print ('Masina exista, va fi stearsa' + str(car_detail))
             GeneralFunctions.deleteCarFunction(self, car_detail)
+            time.sleep(2)
             if not GeneralFunctions.check_exists_by_xpath(self, car_detail):
                 GeneralFunctions.addCarFunction(self, car_detail)
             else:

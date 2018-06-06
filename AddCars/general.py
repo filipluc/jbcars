@@ -112,9 +112,9 @@ class GeneralFunctions():
             for filename in filenames:
                 elem15 = driver.find_element_by_css_selector("input[type=file]")
                 print(os.path.join(dirname, filename))
-                time.sleep(0.1)
+                time.sleep(1)
                 elem15.send_keys(os.path.join(dirname, filename))
-        time.sleep(7)          
+        time.sleep(2)          
         elem16 = driver.find_element_by_id('auto_carrosserie')
         elem16.click()
         elem16.send_keys(car_detail.var_carroserie)

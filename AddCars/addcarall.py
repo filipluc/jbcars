@@ -14,16 +14,16 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException
 from xmlrunner import *
 from AddCars.general import GeneralFunctions
-from AddCars import car_detail1
-from AddCars import car_detail2
-from AddCars import car_detail3
-from AddCars import car_detail4
-from AddCars import car_detail5
-from AddCars import car_detail6
-from AddCars import car_detail7
-from AddCars import car_detail8
-from AddCars import car_detail9
-from AddCars import car_detail10
+from AddCars import car101
+from AddCars import car102
+from AddCars import car103
+from AddCars import car104
+from AddCars import car105
+from AddCars import car106
+from AddCars import car107
+from AddCars import car108
+from AddCars import car109
+from AddCars import car110
 
 
 
@@ -62,50 +62,44 @@ class AdaugaMasini(unittest.TestCase):
         self.driver.quit()
 
     #@unittest.skip("skip car")
-    def test_addcar101(self):
-        GeneralFunctions.deleteAddCarFunction(self, car_detail1)
+    def test_car101(self):
+        GeneralFunctions.deleteAddCarFunction(self, car101)
     
     #@unittest.skip("skip car") 
-    def test_addcar102(self):
-        GeneralFunctions.deleteAddCarFunction(self, car_detail2)
+    def test_car102(self):
+        GeneralFunctions.deleteAddCarFunction(self, car102)
     
     #@unittest.skip("skip car")   
-    def test_addcar103(self):
-        GeneralFunctions.deleteAddCarFunction(self, car_detail3)
+    def test_car103(self):
+        GeneralFunctions.deleteAddCarFunction(self, car103)
      
     #@unittest.skip("skip car")   
-    def test_addcar104(self):
-        GeneralFunctions.deleteAddCarFunction(self, car_detail4)
-
+    def test_car104(self):
+        GeneralFunctions.deleteAddCarFunction(self, car104)
+        
     #@unittest.skip("skip car")
-    def test_addcar105(self):
-        GeneralFunctions.deleteAddCarFunction(self, car_detail5)
-
+    def test_car105(self):
+        GeneralFunctions.deleteAddCarFunction(self, car105)
     
     #@unittest.skip("skip car")
-    def test_addcar106(self):
-        GeneralFunctions.deleteAddCarFunction(self, car_detail6)
-
+    def test_car106(self):
+        GeneralFunctions.deleteAddCarFunction(self, car106)
     
     #@unittest.skip("skip car")    
-    def test_addcar107(self):
-        GeneralFunctions.deleteAddCarFunction(self, car_detail7)
-
+    def test_car107(self):
+        GeneralFunctions.deleteAddCarFunction(self, car107)
     
     #@unittest.skip("skip car")    
-    def test_addcar108(self):
-        GeneralFunctions.deleteAddCarFunction(self, car_detail8)
-
+    def test_car108(self):
+        GeneralFunctions.deleteAddCarFunction(self, car108)
     
     #@unittest.skip("skip car")
-    def test_addcar109(self):
-        GeneralFunctions.deleteAddCarFunction(self, car_detail9)
-
+    def test_car109(self):
+        GeneralFunctions.deleteAddCarFunction(self, car109)
  
     #@unittest.skip("skip car") 
-    def test_addcar110(self):
-        GeneralFunctions.deleteAddCarFunction(self, car_detail10)
-
+    def test_car110(self):
+        GeneralFunctions.deleteAddCarFunction(self, car110)
  
     
         

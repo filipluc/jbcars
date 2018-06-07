@@ -38,18 +38,18 @@ class GeneralFunctions():
     
     def deleteAddCarFunction(self, car_detail):
         if GeneralFunctions.check_exists_by_xpath(self, car_detail):
-            print ('Masina exista, va fi adaugata din nou' + str(car_detail))
+            print (str(car_detail) + '---Masina exista, va fi adaugata din nou')
             GeneralFunctions.addCarFunction(self, car_detail)
             time.sleep(1)
             self.driver.get("https://www.2dehands.be/beheer/advertenties/overzicht/")
             time.sleep(2)
             if GeneralFunctions.check_exists_by_xpath_multiple(self, car_detail):
-                print ('Masina veche va fi stearsa' + str(car_detail))
+                print (str(car_detail) + '---Masina veche va fi stearsa')
                 GeneralFunctions.deleteCarFunction(self, car_detail)
             else:
                 print ('Eroare: Masina noua nu a putut fi adaugata, a ramas cea veche' + str(car_detail))
         else:
-            print('Masina nu exista' + str(car_detail))     
+            print(str(car_detail) + '--Masina nu exista pe site. De vazut daca trebuie stearsa din script')     
 
     
     def deleteAddCarFunction_old(self, car_detail):
@@ -142,7 +142,7 @@ class GeneralFunctions():
             # print path to all filenames.
             for filename in filenames:
                 elem15 = driver.find_element_by_css_selector("input[type=file]")
-                print(os.path.join(dirname, filename))
+                #print(os.path.join(dirname, filename))
                 time.sleep(1.5)
                 elem15.send_keys(os.path.join(dirname, filename))
         time.sleep(2)          

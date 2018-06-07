@@ -17,6 +17,17 @@ class GeneralFunctions():
     
     global car_detail
     
+    def check_exists_by_xpath_multiple(self, car_detail):
+        driver = self.driver
+        try:
+            driver.find_elements_by_xpath("//div[@class='listed-item-description'][contains(., '" + str(car_detail.var_title) + "')]")[1]
+        except NoSuchElementException:        
+            return False
+        except IndexError:
+            print ('Eroare: Index out of range - exista maxim o masina')
+            return False
+        return True
+    
     def check_exists_by_xpath(self, car_detail):
         driver = self.driver
         try:
@@ -26,6 +37,23 @@ class GeneralFunctions():
         return True
     
     def deleteAddCarFunction(self, car_detail):
+        if GeneralFunctions.check_exists_by_xpath(self, car_detail):
+            print ('Masina exista, va fi adaugata din nou' + str(car_detail))
+            GeneralFunctions.addCarFunction(self, car_detail)
+            time.sleep(1)
+            self.driver.get("https://www.2dehands.be/beheer/advertenties/overzicht/")
+            time.sleep(2)
+            if GeneralFunctions.check_exists_by_xpath_multiple(self, car_detail):
+                print ('Masina veche va fi stearsa' + str(car_detail))
+                GeneralFunctions.deleteCarFunction(self, car_detail)
+            else:
+                print ('Eroare: Masina noua nu a putut fi adaugata, a ramas cea veche' + str(car_detail))
+        else:
+            print('Masina nu exista' + str(car_detail))     
+
+    
+    def deleteAddCarFunction_old(self, car_detail):
+        #not  used
         if GeneralFunctions.check_exists_by_xpath(self, car_detail):
             print ('Masina exista, va fi stearsa' + str(car_detail))
             GeneralFunctions.deleteCarFunction(self, car_detail)
@@ -41,7 +69,7 @@ class GeneralFunctions():
     def deleteCarFunction(self, car_detail):
         driver = self.driver
         time.sleep(2)
-        elem101 = driver.find_element_by_xpath("//div[@class='listed-item-description'][contains(., '" + str(car_detail.var_title) + "')]")          
+        elem101 = driver.find_elements_by_xpath("//div[@class='listed-item-description'][contains(., '" + str(car_detail.var_title) + "')]")[1]     
         elem101.click()
         time.sleep(2)
         elem102 = driver.find_element_by_xpath("//span[text()='Verwijder']")

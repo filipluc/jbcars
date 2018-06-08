@@ -3,7 +3,7 @@
 103. bmw x3,2.0 d,Garantie, Financiering, bwj. 2013/euro 5/btw in
 104. alfa romeo spider 2.4 jtd
 105. peugeot 308/1.6 e-hdi,garantie,financiering,bwj 2011/euro5
-106. peugeot 2008,1.2 benzine,Garantie,Financiering,bwj2015/euro6
+106. ---
 107. peugeot 807, 2.0 hdi, Garantie,Bwj 2011. , 7 zetels,euro 5
 108. suzuki jimny 1.3 i , 4x4, CABRIO, garantie,Financiering
 109. volvo c30,1.6 driveE,Garantie,Financiering, bwj.2010/ euro 5

@@ -8,7 +8,7 @@ Created on Jun 3, 2018
 var_title = "bmw 320 d , leder+airco, bwj. 2008, prijs 3181 eur + btw/tva"
 var_brand = "BMW"
 var_model = "3 reeks"
-var_desc = "export of handelaar\n\nCAR PASS\ngekeurd met roos formulier=+150 euro\n"
+var_desc = "prijs EUR 16446+btw/tva\nexport of handelaar\n\nCAR PASS\ngekeurd met roos formulier=+150 euro\n"
 var_price = "3850"
 var_picspath = "car122"
 var_carroserie = "Break"

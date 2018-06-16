@@ -24,7 +24,7 @@ from AddCars.cars import car107
 from AddCars.cars import car108
 from AddCars.cars import car109
 from AddCars.cars import car110
-#from AddCars.cars import car111
+from AddCars.cars import car111
 from AddCars.cars import car112
 from AddCars.cars import car113
 from AddCars.cars import car114
@@ -34,7 +34,7 @@ from AddCars.cars import car117
 from AddCars.cars import car118
 from AddCars.cars import car119
 from AddCars.cars import car120
-#from AddCars.cars import car121
+from AddCars.cars import car121
 from AddCars.cars import car122
 #from AddCars.cars import car123
 
@@ -114,11 +114,9 @@ class AdaugaMasini(unittest.TestCase):
     def test_car110(self):
         GeneralFunctions.deleteAddCarFunction(self, car110)
         
-    #===========================================================================
-    # #@unittest.skip("skip car") 
-    # def test_car111(self):
-    #     GeneralFunctions.deleteAddCarFunction(self, car111)
-    #===========================================================================
+    #@unittest.skip("skip car") 
+    def test_car111(self):
+        GeneralFunctions.deleteAddCarFunction(self, car111)
         
     #@unittest.skip("skip car") 
     def test_car112(self):
@@ -156,11 +154,9 @@ class AdaugaMasini(unittest.TestCase):
     def test_car120(self):
         GeneralFunctions.deleteAddCarFunction(self, car120)
         
-    #===========================================================================
-    # #@unittest.skip("skip car") 
-    # def test_car121(self):
-    #     GeneralFunctions.deleteAddCarFunction(self, car121)
-    #===========================================================================
+    #@unittest.skip("skip car") 
+    def test_car121(self):
+        GeneralFunctions.deleteAddCarFunction(self, car121)
         
     #@unittest.skip("skip car") 
     def test_car122(self):

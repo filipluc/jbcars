@@ -11,7 +11,7 @@
 111. vw golf 1.9 tdi ,Garantie,Financiering, 98000 km !!!!
 112. chevrolet aveo,1.4i,Garantie,Financiering,Bwj2010/38000 km
 113. smart forFour 1.3i 16v ,Garantie,Financiering,euro 4
-114. opel astra GTC,coupe,1.6 benzine,Garantie,Financiering,euro4
+114. ---
 115. opel vectra 2.0 dth dti 16v
 116. Renault Scenic 1.9 dCi
 117. mazda 2 , 1.2 i , Garantie, Financiering, euro 4

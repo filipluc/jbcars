@@ -16,7 +16,7 @@ from xmlrunner import *
 from AddCars.general import GeneralFunctions
 from AddCars.cars import car101
 from AddCars.cars import car102
-from AddCars.cars import car103
+#from AddCars.cars import car103
 from AddCars.cars import car104
 from AddCars.cars import car105
 from AddCars.cars import car106
@@ -83,9 +83,11 @@ class AdaugaMasini(unittest.TestCase):
     def test_car102(self):
         GeneralFunctions.deleteAddCarFunction(self, car102)
     
-    #@unittest.skip("skip car")   
-    def test_car103(self):
-        GeneralFunctions.deleteAddCarFunction(self, car103)
+    #===========================================================================
+    # #@unittest.skip("skip car")   
+    # def test_car103(self):
+    #     GeneralFunctions.deleteAddCarFunction(self, car103)
+    #===========================================================================
      
     #@unittest.skip("skip car")   
     def test_car104(self):

@@ -18,11 +18,11 @@ for root, dirs, files in os.walk(rootDir):
     sys.path.append(root)
 
 
-from AddCars import addcarall
+#from AddCars import addcarall
 from AddCars import addcar_single
 from AddCars import addcarTOATE
 
-suite1 = addcarall.suite()
+#suite1 = addcarall.suite()
 suite2 = addcar_single.suite()
 suite3 = addcarTOATE.suite()
 

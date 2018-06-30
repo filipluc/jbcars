@@ -3,7 +3,7 @@
 103. peugeot 206/1.4 benzine,garantie,financiering,/72000km/euro4
 104. alfa romeo spider 2.4 jtd
 105. peugeot 308/1.6 e-hdi,garantie,financiering,bwj 2011/euro5
-106. mitsubishi pajero 2.5 tdi, 7 zetels
+106. mitsubishi pajero 2.5 tdi,      7 zetels
 107. toyota rav4, 2.2 /4x4/Garantie,Financiering, bwj. 2008/leder
 108. ---
 109. volvo c30,1.6 driveE,Garantie,Financiering, bwj.2010/ euro 5

@@ -5,11 +5,11 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "mitsubishi pajero 2.5 tdi, 7 zetels"
+var_title = "mitsubishi pajero 2.5 tdi,      7 zetels"
 var_brand = "Mitsubishi"
 var_model = "Pajero"
 var_desc = "export of handelaar\nCAR PASS\ngekeurd met roos formulier=+250 euro\ntrekhaak=3300 kg"
-var_price = "500"
+var_price = "4500"
 var_picspath = "car106"
 var_carroserie = "SUV"
 var_month = "okt"

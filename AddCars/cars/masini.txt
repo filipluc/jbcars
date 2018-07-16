@@ -16,8 +16,8 @@
 116. Renault Scenic 1.9 dCi
 117. mazda 2 , 1.2 i , Garantie, Financiering, euro 4
 118. vw polo 1.9 tdi, Garantie, Financiering, 5 deurs/euro 4
-119. opel corsa 1.2 benzine,Garantie,Financiering,airco, euro 4
-120. --
+119. ---
+120. ---
 121. peugeot partner 1.6 hdi,Garantie,Financiering,bwj.2012/euro5
 122. bmw 320 d , leder+airco, bwj. 2008, prijs 3181 eur + btw/tva
 123. audi a4 allroad quattro,2.0 tdi,Garantie,euro5,excl.btw9504€

@@ -5,7 +5,7 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "vw polo 1.4 tdi ,   bwj.2007/133000 km"
+var_title = "vw polo 1.4 tdi ,   bwj.2007/133000 km,EXPORT"
 var_brand = "Volkswagen"
 var_model = "Polo"
 var_desc = "enkel voor export of handelaar\n"

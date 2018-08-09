@@ -114,8 +114,8 @@ class GeneralFunctions():
         elem8 = driver.find_element_by_id("description")
         elem8.send_keys(car_detail.var_desc)
         elem8.send_keys("\nopeningsuren\nmaandag tot vrijdag 10-18 uur\nzaterdag 10-15 uur\nadres\nLIERSESTEENWEG 153\n2547 LINT")
-        elem8.send_keys("\n\nvoor de periode 16/07/2018 tot 26/07/2018\n\nGelieve mij te bellen als u gaat vertrekken om de wagen te bezichtigen\n\n")
-        elem8.send_keys("aarzel niet voor verdere inlichtigen en of afspraak tel 0485/673404\n\nwij zijn op vakantie\nvan 27/07/2018\ntot 11/08/2018")
+        #elem8.send_keys("\n\nvoor de periode 16/07/2018 tot 26/07/2018\n\nGelieve mij te bellen als u gaat vertrekken om de wagen te bezichtigen\n\n")
+        #elem8.send_keys("aarzel niet voor verdere inlichtigen en of afspraak tel 0485/673404\n\nwij zijn op vakantie\nvan 27/07/2018\ntot 11/08/2018")
   
         elem9 = driver.find_element_by_id('price')
         elem9.click()

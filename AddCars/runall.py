@@ -16,6 +16,7 @@ rootDir = "d:\Github\jbcars"
 # add all paths inside rootDir in sys.path, in order for the import to find all tests
 for root, dirs, files in os.walk(os.path.dirname(os.path.abspath(__file__))):
     sys.path.append(root)
+    print(root)
 
 
 #from AddCars import addcarall

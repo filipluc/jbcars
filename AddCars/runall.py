@@ -31,7 +31,7 @@ suite3 = addcarTOATE.suite()
 
 def suite():
     suite = unittest.TestSuite()
-    tests = [suite2]
+    tests = [suite3]
     #tests = [suite1, suite2]
     for test in tests:
         suite.addTest(test)

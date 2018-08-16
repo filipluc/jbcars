@@ -10,14 +10,12 @@ import unittest
 from xmlrunner import *
 import os
 import sys
-from pathlib import Path
 
 
 rootDir = "d:\Github\jbcars"
 # add all paths inside rootDir in sys.path, in order for the import to find all tests
-for root, dirs, files in os.walk(os.path.abspath(Path((Path(__file__).parent)).parent)):
+for root, dirs, files in os.walk(rootDir):
     sys.path.append(root)
-    print(root)
 
 
 #from AddCars import addcarall

@@ -15,7 +15,7 @@
 115. opel vectra 2.0 dth dti 16v
 116. Renault Scenic 1.9 dCi
 117. mazda 2 , 1.2 i , Garantie, Financiering, euro 4
-118. vw polo 1.9 tdi, Garantie, Financiering, 5 deurs/euro 4
+118. ---
 119. vw golf 7/1.4 benzine,Garantie,Financiering,AUTOMAAT,29000km
 120. chrysler voyager 2.5 crdi,Garantie,Financiering,7 zetels
 121. peugeot partner 1.6 hdi,Garantie,Financiering,bwj.2012/euro5

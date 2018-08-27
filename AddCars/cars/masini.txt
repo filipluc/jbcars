@@ -23,5 +23,5 @@
 123. audi a4 allroad quattro,2.0 tdi,Garantie,euro5,excl.btw9504€
 124. honda civic 2.2 diesel ,  bwj 2010/190000km ,  export
 125. ---
-126. dodge avenger 2.0 d,Garantie,Financiering,bwj.2010/100000 km
+126. ---
 127. ---

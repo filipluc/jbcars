@@ -2,10 +2,10 @@
 102. peugeot 3008, 1.6 hdi,Garantie,Financiering/83000 km/euro 5
 103. ford c max 1.6 hdi, airco, export
 104. alfa romeo spider 2.4 jtd
-105. ---
+105. audi a6,2.0 tdi,Garantie,Financiering,NAVI,leder,XENON,euro5
 106. mitsubishi pajero 2.5 tdi,      7 zetels
 107. toyota rav4, 2.2 /4x4/Garantie,Financiering, bwj. 2008/leder
-108. vw polo 1.4 tdi ,   bwj.2007/133000 km,EXPORT
+108. ---
 109. mercedes A180CDI, garantie,Financiering,51000km
 110. Audi A8 3.0 TDi V6 Quattro DPF Tiptronic,10330+btw/tva
 111. ---
@@ -19,9 +19,9 @@
 119. ---
 120. chrysler voyager 2.5 crdi,Garantie,Financiering,7 zetels
 121. peugeot partner 1.6 hdi,Garantie,Financiering,bwj.2012/euro5
-122. bmw 320 d , leder+airco, bwj. 2008, prijs 3181 eur + btw/tva
+122. --
 123. audi a4 allroad quattro,2.0 tdi,Garantie,euro5,excl.btw9504€
-124. honda civic 2.2 diesel ,  bwj 2010/190000km ,  export
+124. ---
 125. ---
 126. ---
 127. ---

@@ -2,7 +2,7 @@
 102. peugeot 3008, 1.6 hdi,Garantie,Financiering/83000 km/euro 5
 103. ford c max 1.6 hdi, airco, export
 104. alfa romeo spider 2.4 jtd
-105. audi a6,2.0 tdi,Garantie,Financiering,NAVI,leder,XENON,euro5
+105. vw golf 5, 1.9 tdi, 5 deurs, 6 vit.
 106. mitsubishi pajero 2.5 tdi,      7 zetels
 107. toyota rav4, 2.2 /4x4/Garantie,Financiering, bwj. 2008/leder
 108. ---
@@ -13,7 +13,7 @@
 113. smart forFour 1.3i 16v ,Garantie,Financiering,euro 4
 114. mercedes E200cdi,     AUTOMAAT,    leder
 115. opel vectra 2.0 dth dti 16v
-116. Renault Scenic 1.9 dCi
+116. mercedes sprinter 216 CDI, met keuring en CAR PASS
 117. mazda 2 , 1.2 i , Garantie, Financiering, euro 4
 118. opel insignia 2.0 cdti,Garantie,Financiering,100000 km/euro5
 119. ---

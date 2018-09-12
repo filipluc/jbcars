@@ -1,4 +1,4 @@
-101. bmw 518d/M sportPACK/garantie,financiering,AUT,euro6,mod2015
+101. ---
 102. peugeot 3008, 1.6 hdi,Garantie,Financiering/83000 km/euro 5
 103. ford c max 1.6 hdi, airco, export
 104. alfa romeo spider 2.4 jtd

@@ -8,7 +8,7 @@ Created on Jun 3, 2018
 var_title = "audi a4 allroad quattro,2.0 tdi,Garantie,euro5,excl.btw8256€"
 var_brand = "Audi"
 var_model = "A4 allroad"
-var_desc = "9504 € + btw/tva\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"
+var_desc = "8256 € + btw/tva\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"
 var_price = "9990"
 var_picspath = "car123"
 var_carroserie = "Break"

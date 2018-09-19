@@ -5,11 +5,11 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "vw golf 5, 1.9 tdi, 5 deurs, 6 vit."
+var_title = "vw golf 5, 1.9 tdi,Garantie,Financiering"
 var_brand = "Volkswagen"
 var_model = "Golf"
-var_desc = "zo meenemen !!!\nexport of handelaar !\ndistributie riem+waterpomp vervangen op 130000 km\n"
-var_price = "3500"
+var_desc = "1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n\ndistributie riem+waterpomp vervangen op 130000 km\n\n"
+var_price = "3990"
 var_picspath = "car105"
 var_carroserie = "Berline 3"
 var_month = "jul"

@@ -1,4 +1,4 @@
-101. ---
+101. peugeot partner 1.6 hdi,Garantie,Financiering,airco,5 pl.
 102. ---
 103. ford c max 1.6 hdi, airco, export
 104. alfa romeo spider 2.4 jtd
@@ -6,7 +6,7 @@
 106. mitsubishi pajero 2.5 tdi,      7 zetels
 107. toyota rav4, 2.2 /4x4/Garantie,Financiering, bwj. 2008/leder
 108. opel corsa,1.4 benzine,Garantie,Financiering/glazen dak/5 d
-109. mercedes A180CDI, garantie,Financiering,51000km
+109. ---
 110. Audi A8 3.0 TDi V6 Quattro DPF Tiptronic,10330+btw/tva
 111. mitsubishi ASX,1.7 d,Garantie,Financiering,/50.000 km/euro 5
 112. peugeot 308 sw/1.6 hdi/Garantie/Financiering/Bwj2013/75000km

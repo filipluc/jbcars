@@ -8,7 +8,7 @@ Created on Jun 3, 2018
 var_title = "opel astra 1.4 benzine,Garantie,Financiering,bwj.2015/euro 5"
 var_brand = "Opel"
 var_model = "Astra"
-var_desc = "1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"
+var_desc = "gereserveerd\n\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"
 var_price = "9900"
 var_picspath = "car102"
 var_carroserie = "Berline 3"

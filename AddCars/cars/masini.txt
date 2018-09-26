@@ -19,8 +19,8 @@
 119. ---
 120. chrysler voyager 2.5 crdi,Garantie,Financiering,7 zetels
 121. peugeot partner 1.6 hdi,Garantie,Financiering,bwj.2012/euro5
-122. --
-123. audi a4 allroad quattro,2.0 tdi,Garantie,euro5,excl.btw9504€
+122. ---
+123. ---
 124. ---
 125. ---
 126. ---

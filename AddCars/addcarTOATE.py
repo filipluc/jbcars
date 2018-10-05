@@ -122,7 +122,7 @@ class AdaugaMasini(unittest.TestCase):
     def test_car111(self):
         GeneralFunctions.deleteAddCarFunction(self, car111)
         
-    @unittest.skip("skip car")
+    #@unittest.skip("skip car")
     def test_car112(self):
         GeneralFunctions.deleteAddCarFunction(self, car112)
         

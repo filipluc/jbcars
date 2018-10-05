@@ -78,124 +78,97 @@ class AdaugaMasini(unittest.TestCase):
     def tearDown(self):
         self.driver.quit()
 
-    #@unittest.skip("skip car")
     def test_car101(self):
         GeneralFunctions.deleteAddCarFunction(self, car101)
     
-    #@unittest.skip("skip car") 
     def test_car102(self):
         GeneralFunctions.deleteAddCarFunction(self, car102)
     
-    #@unittest.skip("skip car")   
     def test_car103(self):
         GeneralFunctions.deleteAddCarFunction(self, car103)
      
-    #@unittest.skip("skip car")   
     def test_car104(self):
         GeneralFunctions.deleteAddCarFunction(self, car104)
          
-    #@unittest.skip("skip car")
     def test_car105(self):
         GeneralFunctions.deleteAddCarFunction(self, car105)
     
-    #@unittest.skip("skip car")
     def test_car106(self):
         GeneralFunctions.deleteAddCarFunction(self, car106)
     
-    #@unittest.skip("skip car")    
     def test_car107(self):
         GeneralFunctions.deleteAddCarFunction(self, car107)
     
-    #@unittest.skip("skip car")    
     def test_car108(self):
         GeneralFunctions.deleteAddCarFunction(self, car108)
     
-    #@unittest.skip("skip car")
     def test_car109(self):
         GeneralFunctions.deleteAddCarFunction(self, car109)
  
-    #@unittest.skip("skip car") 
     def test_car110(self):
         GeneralFunctions.deleteAddCarFunction(self, car110)
         
-    #@unittest.skip("skip car") 
     def test_car111(self):
         GeneralFunctions.deleteAddCarFunction(self, car111)
         
-    #@unittest.skip("skip car")
     def test_car112(self):
         GeneralFunctions.deleteAddCarFunction(self, car112)
         
-    #@unittest.skip("skip car") 
     def test_car113(self):
         GeneralFunctions.deleteAddCarFunction(self, car113)
     
-    #@unittest.skip("skip car") 
     def test_car114(self):
         GeneralFunctions.deleteAddCarFunction(self, car114)
         
-    #@unittest.skip("skip car") 
     def test_car115(self):
         GeneralFunctions.deleteAddCarFunction(self, car115)
 
-    #@unittest.skip("skip car") 
     def test_car116(self):
         GeneralFunctions.deleteAddCarFunction(self, car116)
         
-    #@unittest.skip("skip car") 
     def test_car117(self):
         GeneralFunctions.deleteAddCarFunction(self, car117)
         
-    #@unittest.skip("skip car") 
     def test_car118(self):
         GeneralFunctions.deleteAddCarFunction(self, car118)
         
     #===========================================================================
-    # #@unittest.skip("skip car") 
     # def test_car119(self):
     #     GeneralFunctions.deleteAddCarFunction(self, car119)
     #===========================================================================
         
-    #@unittest.skip("skip car") 
     def test_car120(self):
         GeneralFunctions.deleteAddCarFunction(self, car120)
         
-    #@unittest.skip("skip car") 
     def test_car121(self):
         GeneralFunctions.deleteAddCarFunction(self, car121)
         
     #===========================================================================
-    # #@unittest.skip("skip car") 
     # def test_car122(self):
     #     GeneralFunctions.deleteAddCarFunction(self, car122)
     #===========================================================================
         
     #===========================================================================
-    # #@unittest.skip("skip car") 
     # def test_car123(self):
     #     GeneralFunctions.deleteAddCarFunction(self, car123)
     #===========================================================================
         
     #===========================================================================
-    # #@unittest.skip("skip car") 
     # def test_car124(self):
     #     GeneralFunctions.deleteAddCarFunction(self, car124)
     #===========================================================================
         
     #===========================================================================
-    # #@unittest.skip("skip car") 
     # def test_car125(self):
     #     GeneralFunctions.deleteAddCarFunction(self, car125)
     #===========================================================================
         
     #===========================================================================
-    # #@unittest.skip("skip car") 
     # def test_car126(self):
     #     GeneralFunctions.deleteAddCarFunction(self, car126)
     #===========================================================================
         
     #===========================================================================
-    # #@unittest.skip("skip car") 
     # def test_car127(self):
     #     GeneralFunctions.deleteAddCarFunction(self, car127)
     #===========================================================================

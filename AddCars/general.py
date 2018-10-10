@@ -141,7 +141,10 @@ class GeneralFunctions():
         elem13.clear()
         elem13.send_keys("www.jbcars.be")
         elem13.send_keys(Keys.TAB)
-        picspathgeneral = "d:\Github\jbcars\AddCars\pics"
+        if os.path.exists("d:\Github\jbcars\AddCars\pics"):
+            picspathgeneral = "d:\Github\jbcars\AddCars\pics"
+        else:
+            picspathgeneral = "c:\Github\jbcars\AddCars\pics"
         picspath = os.path.join(picspathgeneral, car_detail.var_picspath)
         for dirname, dirnames, filenames in os.walk(picspath):
             # print path to all filenames.

@@ -12,7 +12,10 @@ import os
 import sys
 
 
-rootDir = "d:\Github\jbcars"
+if os.path.exists("d:\Github\jbcars"):
+    rootDir = "d:\Github\jbcars"
+else:
+    rootDir = "c:\Github\jbcars"
 # add all paths inside rootDir in sys.path, in order for the import to find all tests
 for root, dirs, files in os.walk(rootDir):
     sys.path.append(root)

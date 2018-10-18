@@ -2,4 +2,4 @@
 git reset --hard HEAD
 git pull origin master
 
-python.exe runall.py
+c:\Program Files\Python36\python.exe runall.py

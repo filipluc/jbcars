@@ -4,8 +4,8 @@
 104. alfa romeo spider 2.4 jtd
 105. peugeot 307,1.6 hdi,Garantie,financiering
 106. opel vivaro 2.0 cdti,DOUBLE CABINE.5 zit,lichte vracht,euro4
-107. ---
-108. ---
+107. peugeot partner 1.6 hdi,Garantie,Financiering,5 zit/bwj.2009
+108. mini cooper 1.6 benzine,Garantie,leder/PANORAMISCHEdak/xenon
 109. citroen c5 ,1.8 benzine,Garantie,Financiering,104000km/euro4
 110. vw golf plus ,1.9 tdi,Garantie,Financiering
 111. mitsubishi ASX,1.7 d,Garantie,Financiering,/50.000 km/euro 5

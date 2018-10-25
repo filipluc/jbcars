@@ -21,7 +21,7 @@
 121. peugeot partner 1.6 hdi,Garantie,Financiering,bwj.2012/euro5
 122. renault scenic 1.5 dci,Garantie,Financiering,euro 4
 123. peugeot partner 1.4 benzine,Garantie,financiering,5 zit
-124. ---
+124. mercedes E 200 cdi ,AMG pack, Garantie, bwj. 2014 / 41000 km
 125. ---
 126. ---
 127. ---

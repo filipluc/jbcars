@@ -5,7 +5,7 @@
 105. peugeot 307,1.6 hdi,Garantie,financiering
 106. opel vivaro 2.0 cdti,DOUBLE CABINE.5 zit,lichte vracht,euro4
 107. peugeot partner 1.6 hdi,Garantie,Financiering,5 zit/bwj.2009
-108. mini cooper 1.6 benzine,Garantie,leder/PANORAMISCHEdak/xenon
+108. ---
 109. citroen c5 ,1.8 benzine,Garantie,Financiering,104000km/euro4
 110. vw golf plus ,1.9 tdi,Garantie,Financiering
 111. mitsubishi ASX,1.7 d,Garantie,Financiering,/50.000 km/euro 5
@@ -22,6 +22,6 @@
 122. renault scenic 1.5 dci,Garantie,Financiering,euro 4
 123. peugeot partner 1.4 benzine,Garantie,financiering,5 zit
 124. mercedes E 200 cdi ,AMG pack, Garantie, bwj. 2014 / 41000 km
-125. ---
+125. fiat strada 1.3 jtd, bwj. 2013/ 36000 km
 126. ---
 127. ---

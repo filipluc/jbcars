@@ -1,11 +1,11 @@
-101. peugeot partner 1.6 hdi,Garantie,Financiering,airco,5 pl.
+101. ---
 102. opel zafira 2.0 cdti, OPC line ,Garantie,bwj. 2014/40.000 km
 103. ford c max 1.6 hdi, airco, export
 104. alfa romeo spider 2.4 jtd
 105. peugeot 307,1.6 hdi,Garantie,financiering
 106. opel vivaro 2.0 cdti,DOUBLE CABINE.5 zit,lichte vracht,euro4
 107. peugeot partner 1.6 hdi,Garantie,Financiering,5 zit/bwj.2009
-108. bmw 520 benzine,Garantie,Financiering,AUTOMAAT
+108. ---
 109. citroen c5 ,1.8 benzine,Garantie,Financiering,104000km/euro4
 110. vw golf plus ,1.9 tdi,Garantie,Financiering
 111. mitsubishi ASX,1.7 d,Garantie,Financiering,/50.000 km/euro 5
@@ -18,7 +18,7 @@
 118. fiat ulysse 2.0 jtd,Garantie,Financiering,109000 km/7 zetels
 119. mercedes ML 250 BLUETEC 4MATIC,garantie,financiering,73000km
 120. chrysler voyager 2.5 crdi,Garantie,Financiering,7 zetels
-121. peugeot partner 1.6 hdi,Garantie,Financiering,bwj.2012/euro5
+121. ---
 122. renault scenic 1.5 dci,Garantie,Financiering,euro 4
 123. peugeot partner 1.4 benzine,Garantie,financiering,5 zit
 124. mercedes E 200 cdi ,AMG pack, Garantie, bwj. 2014 / 41000 km

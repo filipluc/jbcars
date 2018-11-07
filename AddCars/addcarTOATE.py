@@ -14,14 +14,14 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException
 from xmlrunner import *
 from AddCars.general import GeneralFunctions
-from AddCars.cars import car101
+#from AddCars.cars import car101
 from AddCars.cars import car102
 from AddCars.cars import car103
 from AddCars.cars import car104
 from AddCars.cars import car105
 from AddCars.cars import car106
 from AddCars.cars import car107
-from AddCars.cars import car108
+#from AddCars.cars import car108
 from AddCars.cars import car109
 from AddCars.cars import car110
 from AddCars.cars import car111
@@ -34,7 +34,7 @@ from AddCars.cars import car117
 from AddCars.cars import car118
 from AddCars.cars import car119
 from AddCars.cars import car120
-from AddCars.cars import car121
+#from AddCars.cars import car121
 from AddCars.cars import car122
 from AddCars.cars import car123
 from AddCars.cars import car124
@@ -78,8 +78,8 @@ class AdaugaMasini(unittest.TestCase):
     def tearDown(self):
         self.driver.quit()
 
-    def test_car101(self):
-        GeneralFunctions.deleteAddCarFunction(self, car101)
+    # def test_car101(self):
+    #     GeneralFunctions.deleteAddCarFunction(self, car101)
     
     def test_car102(self):
         GeneralFunctions.deleteAddCarFunction(self, car102)
@@ -99,8 +99,8 @@ class AdaugaMasini(unittest.TestCase):
     def test_car107(self):
         GeneralFunctions.deleteAddCarFunction(self, car107)
     
-    def test_car108(self):
-        GeneralFunctions.deleteAddCarFunction(self, car108)
+    # def test_car108(self):
+    #     GeneralFunctions.deleteAddCarFunction(self, car108)
     
     def test_car109(self):
         GeneralFunctions.deleteAddCarFunction(self, car109)
@@ -138,8 +138,8 @@ class AdaugaMasini(unittest.TestCase):
     def test_car120(self):
         GeneralFunctions.deleteAddCarFunction(self, car120)
         
-    def test_car121(self):
-        GeneralFunctions.deleteAddCarFunction(self, car121)
+    # def test_car121(self):
+    #     GeneralFunctions.deleteAddCarFunction(self, car121)
         
     def test_car122(self):
         GeneralFunctions.deleteAddCarFunction(self, car122)

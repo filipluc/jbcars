@@ -10,7 +10,7 @@
 110. vw golf plus ,1.9 tdi,Garantie,Financiering
 111. mitsubishi ASX,1.7 d,Garantie,Financiering,/50.000 km/euro 5
 112. opel astra ,1.3 cdti,Garantie,Financiering,bwj. 2007/140000k
-113. smart forFour 1.3i 16v ,Garantie,Financiering,euro 4
+113. ---
 114. mercedes E200cdi,     AUTOMAAT,    leder
 115. opel vectra 2.0 dth dti 16v
 116. ford s max 1.8 tdci, monovolume 7 zetels, leder

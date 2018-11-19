@@ -15,12 +15,12 @@ from selenium.common.exceptions import TimeoutException
 from xmlrunner import *
 from AddCars.general import GeneralFunctions
 from AddCars.cars import car101
-from AddCars.cars import car102
+# from AddCars.cars import car102
 from AddCars.cars import car103
 from AddCars.cars import car104
 from AddCars.cars import car105
 from AddCars.cars import car106
-#from AddCars.cars import car107
+from AddCars.cars import car107
 #from AddCars.cars import car108
 from AddCars.cars import car109
 from AddCars.cars import car110
@@ -81,8 +81,8 @@ class AdaugaMasini(unittest.TestCase):
     def test_car101(self):
         GeneralFunctions.deleteAddCarFunction(self, car101)
     
-    def test_car102(self):
-        GeneralFunctions.deleteAddCarFunction(self, car102)
+    # def test_car102(self):
+    #     GeneralFunctions.deleteAddCarFunction(self, car102)
     
     def test_car103(self):
         GeneralFunctions.deleteAddCarFunction(self, car103)
@@ -96,8 +96,8 @@ class AdaugaMasini(unittest.TestCase):
     def test_car106(self):
         GeneralFunctions.deleteAddCarFunction(self, car106)
     
-    # def test_car107(self):
-    #     GeneralFunctions.deleteAddCarFunction(self, car107)
+    def test_car107(self):
+        GeneralFunctions.deleteAddCarFunction(self, car107)
     
     # def test_car108(self):
     #     GeneralFunctions.deleteAddCarFunction(self, car108)

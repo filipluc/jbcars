@@ -6,6 +6,7 @@ Created on Jun 3, 2018
 
 
 var_title = "smart forFour 1.3i 16v ,Garantie,Financiering,euro 4"
+var_categorie = "Auto's"
 var_brand = "Smart"
 var_model = "ForFour"
 var_desc = "1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"

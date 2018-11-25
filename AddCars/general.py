@@ -96,7 +96,9 @@ class GeneralFunctions():
         elem4 = driver.find_element_by_class_name("icon-radiobutton")
         elem4.click()
         select1 = Select(driver.find_element_by_id('level1-option'))
-        select1.select_by_visible_text("Auto's")
+
+        select1.select_by_visible_text(car_detail.var_categorie)
+
         elem5 = driver.find_element_by_id('level1-option')
         elem5.send_keys(Keys.TAB)
         time.sleep(1)
@@ -153,19 +155,29 @@ class GeneralFunctions():
                 #print(os.path.join(dirname, filename))
                 time.sleep(1.5)
                 elem15.send_keys(os.path.join(dirname, filename))
-        time.sleep(2)          
-        elem16 = driver.find_element_by_id('auto_carrosserie')
-        elem16.click()
+        time.sleep(2)
+        try:
+            elem16 = driver.find_element_by_id('auto_carrosserie')
+            elem16.click()
+        except NoSuchElementException:
+            elem16 = driver.find_element_by_id('auto_bedrijf_type')
+            elem16.click()
         elem16.send_keys(car_detail.var_carroserie)
         elem16.send_keys(Keys.TAB)     
-          
-        elem17 = driver.find_element_by_name('adv.auto_bj.maand')
-        elem17.click()
+        try:
+            elem17 = driver.find_element_by_name('adv.auto_bj.maand')
+            elem17.click()
+        except NoSuchElementException:
+            elem17 = driver.find_element_by_name('adv.auto_bedr_bj.maand')
+            elem17.click()
         elem17.send_keys(car_detail.var_month)
         elem17.send_keys(Keys.TAB)    
-          
-        elem18 = driver.find_element_by_name('adv.auto_bj.jaar')
-        elem18.click()
+        try:
+            elem18 = driver.find_element_by_name('adv.auto_bj.jaar')
+            elem18.click()
+        except NoSuchElementException:
+            elem18 = driver.find_element_by_name('adv.auto_bedr_bj.jaar')
+            elem18.click()
         elem18.send_keys(car_detail.var_year)
         elem18.send_keys(Keys.TAB)      
           
@@ -196,11 +208,14 @@ class GeneralFunctions():
         elem24.click()
         elem24.send_keys(car_detail.var_cilinder)
         elem24.send_keys(Keys.TAB)  
-          
-        elem24 = driver.find_element_by_id('co2_emissie')
-        elem24.click()
-        elem24.send_keys(car_detail.var_co2)
-        elem24.send_keys(Keys.TAB)  
+
+        try:
+            elem24 = driver.find_element_by_id('co2_emissie')
+            elem24.click()
+            elem24.send_keys(car_detail.var_co2)
+            elem24.send_keys(Keys.TAB)
+        except NoSuchElementException:
+            pass
                
         elem25 = driver.find_element_by_id('euro_norm')
         elem25.click()
@@ -217,8 +232,13 @@ class GeneralFunctions():
         elem28.click()      
         
         #culoare interior
-        elem29 = driver.find_elements_by_xpath("//span[text()='" + str(car_detail.var_interiorcolor) + "']")[1]
-        elem29.click()         
+        try:
+            elem29 = driver.find_elements_by_xpath("//span[text()='" + str(car_detail.var_interiorcolor) + "']")[1]
+            elem29.click()
+        except NoSuchElementException:
+            pass
+        except IndexError:
+            pass
         
              
         

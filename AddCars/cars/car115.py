@@ -6,6 +6,7 @@ Created on Jun 3, 2018
 
 
 var_title = "opel vectra 2.0 dth dti 16v"
+var_categorie = "Auto's"
 var_brand = "Opel"
 var_model = "Vectra"
 var_desc = "export\n"

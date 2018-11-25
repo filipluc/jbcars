@@ -6,6 +6,7 @@ Created on Jun 3, 2018
 
 
 var_title = "mercedes E 200 cdi ,AMG pack, Garantie, bwj. 2014 / 41000 km"
+var_categorie = "Auto's"
 var_brand = "Mercedes"
 var_model = "E Klasse"
 var_desc = "1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"

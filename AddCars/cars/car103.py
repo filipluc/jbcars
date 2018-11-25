@@ -6,6 +6,7 @@ Created on Jun 3, 2018
 
 
 var_title = "ford c max 1.6 hdi, airco, export"
+var_categorie = "Auto's"
 var_brand = "Ford"
 var_model = "C-Max"
 var_desc = "export of handelaar\n"	

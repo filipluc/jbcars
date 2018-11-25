@@ -6,6 +6,7 @@ Created on Jun 3, 2018
 
 
 var_title = "mercedes E200cdi,     AUTOMAAT,    leder"
+var_categorie = "Auto's"
 var_brand = "Mercedes"
 var_model = "E Klasse"
 var_desc = "export of handelaar\nCAR PASS\gekeurd met roos formulier=+200 euro\ntrekhaak=1900 kg\n\n"

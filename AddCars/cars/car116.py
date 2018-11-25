@@ -6,6 +6,7 @@ Created on Jun 3, 2018
 
 
 var_title = "ford s max 1.8 tdci, monovolume 7 zetels, leder"
+var_categorie = "Auto's"
 var_brand = "Ford"
 var_model = "S-Max"
 var_desc = "export of handelaar\n"

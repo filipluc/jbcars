@@ -6,6 +6,7 @@ Created on Jun 3, 2018
 
 
 var_title = "vw golf plus ,1.9 tdi,Garantie,Financiering"
+var_categorie = "Auto's"
 var_brand = "Volkswagen"
 var_model = "Golf Plus"
 var_desc = "1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"

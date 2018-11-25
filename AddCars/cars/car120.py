@@ -6,6 +6,7 @@ Created on Jun 3, 2018
 
 
 var_title = "chrysler voyager 2.5 crdi,Garantie,Financiering,7 zetels"
+var_categorie = "Auto's"
 var_brand = "Chrysler"
 var_model = "Voyager"
 var_desc = "1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"

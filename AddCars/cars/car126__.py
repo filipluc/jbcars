@@ -6,6 +6,7 @@ Created on Jun 3, 2018
 
 
 var_title = "dodge avenger 2.0 d,Garantie,Financiering,bwj.2010/100000 km"
+var_categorie = "Auto's"
 var_brand = "Dodge"
 var_model = "Avenger"
 var_desc = "1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"

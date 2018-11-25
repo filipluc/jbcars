@@ -6,6 +6,7 @@ Created on Jun 3, 2018
 
 
 var_title = "peugeot partner 1.4 benzine,Garantie,financiering,5 zit"
+var_categorie = "Auto's"
 var_brand = "Peugeot"
 var_model = "Partner"
 var_desc = "1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"

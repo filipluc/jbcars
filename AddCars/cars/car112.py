@@ -6,6 +6,7 @@ Created on Jun 3, 2018
 
 
 var_title = "opel astra 1.3 cdti ,Garantie,Financiering,bwj 2007/140000km"
+var_categorie = "Auto's"
 var_brand = "Opel"
 var_model = "Astra"
 var_desc = "1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"

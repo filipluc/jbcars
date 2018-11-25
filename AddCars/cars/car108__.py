@@ -6,6 +6,7 @@ Created on Jun 3, 2018
 
 
 var_title = "bmw 520 benzine,Garantie,Financiering,AUTOMAAT"
+var_categorie = "Auto's"
 var_brand = "BMW"
 var_model = "5 reeks"
 var_desc = "1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"

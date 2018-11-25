@@ -6,6 +6,7 @@ Created on Jun 3, 2018
 
 
 var_title = "fiat strada 1.3 jtd, bwj. 2013/ 36000 km"
+var_categorie = "Auto's"
 var_brand = "Fiat"
 var_model = "Strada"
 var_desc = "Deze wagen is nooit ingeschreven gewest !!!!(allen gelijkvormigheidsattest )\nzoo meenemen voor export of handelaar !!!\n\n"

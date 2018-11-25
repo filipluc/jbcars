@@ -6,6 +6,7 @@ Created on Jun 3, 2018
 
 
 var_title = "mercedes B klasse 180 CDI"
+var_categorie = "Auto's"
 var_brand = "Mercedes"
 var_model = "B Klasse"
 var_desc = "enkel voor export of handelaar\nauto rijdt goed\n"

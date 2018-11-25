@@ -6,6 +6,7 @@ Created on Jun 3, 2018
 
 
 var_title = "fiat ulysse 2.0 jtd,Garantie,Financiering,109000 km/7 zetels"
+var_categorie = "Auto's"
 var_brand = "Fiat"
 var_model = "Ulysse"
 var_desc = "1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"

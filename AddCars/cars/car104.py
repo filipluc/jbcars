@@ -6,6 +6,7 @@ Created on Jun 3, 2018
 
 
 var_title = "alfa romeo spider 2.4 jtd"
+var_categorie = "Auto's"
 var_brand = "Alfa Romeo"
 var_model = "Spider"
 var_desc = "enkel voor export of handelaar\njuist nieuwe koppeling en vliegwiel\n"

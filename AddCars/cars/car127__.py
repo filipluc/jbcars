@@ -6,6 +6,7 @@ Created on Jun 3, 2018
 
 
 var_title = "peugeot 807, 2.0 hdi/7 zetels/bwj.2012/euro5"
+var_categorie = "Auto's"
 var_brand = "Peugeot"
 var_model = "807"
 var_desc = "export of handelaar\ndistributieriem+vliegwiel juist vervangen\n"

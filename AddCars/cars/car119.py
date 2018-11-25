@@ -6,6 +6,7 @@ Created on Jun 3, 2018
 
 
 var_title = "mercedes ML 250 BLUETEC 4MATIC,garantie,financiering,73000km"
+var_categorie = "Auto's"
 var_brand = "Mercedes"
 var_model = "M Klasse"
 var_desc = "prijs =24710 € + btw/tva\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"

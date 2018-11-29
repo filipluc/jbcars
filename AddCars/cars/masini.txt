@@ -5,7 +5,7 @@
 105. peugeot partner 1.6 hdi,Lichte vracht,bwj 2009,CAR PASS
 106. opel vivaro 2.0 cdti,DOUBLE CABINE.5 zit,lichte vracht,euro4
 107. peugeot partner 1.6 hdi,Garantie,bwj 2013/82000 km, 5 zit
-108. ---
+108. peugeot 308, 1.6 benzine,Garantie,bwj.2011/ 24.000 km,euro 5
 109. citroen c5 ,1.8 benzine,Garantie,Financiering,104000km/euro4
 110. vw golf plus ,1.9 tdi,Garantie,Financiering
 111. mitsubishi ASX,1.7 d,Garantie,Financiering,/50.000 km/euro 5

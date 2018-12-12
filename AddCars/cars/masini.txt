@@ -11,7 +11,7 @@
 111. ---
 112. ---
 113. peugeot 206 ,1.4 i benzine,Garantie,airco
-114. mercedes E200cdi,     AUTOMAAT,    leder
+114. ---
 115. opel vectra 2.0 dth dti 16v
 116. ford s max 1.8 tdci, monovolume 7 zetels, leder
 117. mazda 2 , 1.2 i , Garantie, Financiering, euro 4

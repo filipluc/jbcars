@@ -24,7 +24,7 @@ from AddCars.cars import car107
 from AddCars.cars import car108
 from AddCars.cars import car109
 from AddCars.cars import car110
-# from AddCars.cars import car111
+from AddCars.cars import car111
 # from AddCars.cars import car112
 from AddCars.cars import car113
 # from AddCars.cars import car114
@@ -108,8 +108,8 @@ class AdaugaMasini(unittest.TestCase):
     def test_car110(self):
         GeneralFunctions.deleteAddCarFunction(self, car110)
         
-    # def test_car111(self):
-    #     GeneralFunctions.deleteAddCarFunction(self, car111)
+    def test_car111(self):
+        GeneralFunctions.deleteAddCarFunction(self, car111)
         
     # def test_car112(self):
     #     GeneralFunctions.deleteAddCarFunction(self, car112)

@@ -6,7 +6,7 @@
 106. opel vivaro 2.0 cdti,DOUBLE CABINE.5 zit,lichte vracht,euro4
 107. peugeot partner 1.6 hdi,Garantie,bwj 2013/82000 km, 5 zit
 108. ---
-109. toyota yaris,1.3 benzine,AUTOMAAT,garantie,airco,/43.000 km
+109. ---
 110. vw golf plus ,1.9 tdi,Garantie,Financiering
 111. nissan qashqai+2, 1.5 d,Garantie,bwj.2012/91000 km, 7 zetels
 112. peugeot 208, 1.2 i benzine,Garantie,54000km/bwj.2014
@@ -20,7 +20,7 @@
 120. chrysler voyager 2.5 crdi,Garantie,Financiering,7 zetels
 121. suzuki grand vitara 2.0 d, LICHTE VRACHT,car pass,118000 km
 122. ---
-123. peugeot partner 1.4 benzine,Garantie,financiering,5 zit
+123. ---
 124. mercedes E 200 cdi ,AMG pack, Garantie, bwj. 2014 / 41000 km
 125. ---
 126. ---

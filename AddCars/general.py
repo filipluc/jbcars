@@ -118,7 +118,7 @@ class GeneralFunctions():
         time.sleep(1)
         elem8 = driver.find_element_by_id("description")
         elem8.send_keys(car_detail.var_desc)
-        elem8.send_keys("\nopeningsuren\nmaandag tot vrijdag 10-18 uur\nzaterdag 10-15 uur\nadres\nLIERSESTEENWEG 153\n2547 LINT")
+        elem8.send_keys("\nopeningsuren\nmaandag tot vrijdag 10-17 uur\nzaterdag 10-14 uur\nadres\nLIERSESTEENWEG 153\n2547 LINT")
         # elem8.send_keys("\nVan 19/12/2018 tot 03/01/2019 is OPEN enkel op afspraak\n\nadres\nLIERSESTEENWEG 153\n2547 LINT")
 
         elem9 = driver.find_element_by_id('price')

@@ -5,7 +5,7 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "opel corsa 1.3 cdti, bwj.12/2013,90000km,euro 5"
+var_title = "opel corsa 1.3 cdti, bwj.12/2013,90000km,gereserveerd"
 var_categorie = "Auto's"
 var_brand = "Opel"
 var_model = "Corsa"

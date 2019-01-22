@@ -10,7 +10,7 @@
 110. vw golf plus ,1.9 tdi,Garantie,Financiering
 111. ---
 112. ---
-113. peugeot 207, 1.6 hdi,Garantie,bwj.12/2009
+113. ---
 114. landrover range rover sport 2.7 d, CAR PASS,bwj. 2009
 115. opel vectra 2.0 dth dti 16v
 116. ford s max 1.8 tdci, monovolume 7 zetels, leder
@@ -18,7 +18,7 @@
 118. fiat ulysse 2.0 jtd,Garantie,Financiering,109000 km/7 zetels
 119. mercedes ML 250 BLUETEC 4MATIC,garantie,financiering,73000km
 120. chrysler voyager 2.5 crdi,Garantie,Financiering,7 zetels
-121. seat ibiza 1.4 benzine, Garantie, bwj. 2009/67000 km
+121. ---
 122. peugeot 308, 1.6 hdi, Garantie,leder,navi,39.000 km/bwj.2011
 123. peugeot 308,  1.6 benzine,garantie,AUTOMAAT,/59000 km
 124. mercedes E 200 cdi ,AMG pack, Garantie, bwj. 2014 / 41000 km

@@ -1,5 +1,5 @@
 101. mercedes B klasse 180 CDI
-102. toyota verso 2.0 d,Garantie, 7 zetels, euro 5
+102. ---
 103. ford c max 1.6 hdi, airco, export
 104. alfa romeo spider 2.4 jtd
 105. peugeot partner 1.6 hdi,Lichte vracht,bwj 2009,CAR PASS
@@ -19,7 +19,7 @@
 119. mercedes ML 250 BLUETEC 4MATIC,garantie,financiering,73000km
 120. chrysler voyager 2.5 crdi,Garantie,Financiering,7 zetels
 121. dodge journey 2.0 d,Garantie,AUTOMAAT,car pass
-122. peugeot 308, 1.6 hdi, Garantie,leder,navi,39.000 km/bwj.2011
+122. ---
 123. peugeot 308,  1.6 benzine,garantie,AUTOMAAT,/59000 km
 124. mercedes E 200 cdi ,AMG pack, Garantie, bwj. 2014 / 41000 km
 125. ---

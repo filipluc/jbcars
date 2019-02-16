@@ -1,4 +1,4 @@
-101. opel astra 1.4 benzine,AUTOMAAT,garantie,euro 4
+101. opel antara 2.0 cdti,Garantie,bwj.2010/96000km
 102. opel zafira,1.6 benzine,Garantie,7 zetels,bwj.2010,
 103. ford c max 1.6 hdi, airco, export
 104. alfa romeo spider 2.4 jtd
@@ -8,9 +8,9 @@
 108. vw fox 1.2 benzine ,Garantie
 109. skoda fabia 1.2 benzine, Garantie, bwj. 2010, euro 5
 110. vw golf plus ,1.9 tdi,Garantie,Financiering
-111. dacia duster,1.6 benzine,bwj.2012,euro 5
+111. ---
 112. renault megane cabrio 1.9 dci,GARANTIE,77000 km/CAR PASS
-113. mercedes vito 2.2 cdi ,lichte vracht,bwj.2010,airco,69000 km
+113. ---
 114. landrover range rover sport 2.7 d, CAR PASS,bwj. 2009
 115. opel vectra 2.0 dth dti 16v
 116. ford s max 1.8 tdci, monovolume 7 zetels, leder

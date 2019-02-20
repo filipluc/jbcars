@@ -22,6 +22,6 @@
 122. peugeot partner 1.4 benzine,Garantie,bwj.2008/110000km/airco
 123. peugeot 308,  1.6 benzine,garantie,AUTOMAAT,/59000 km
 124. mercedes E 200 cdi ,AMG pack, Garantie, bwj. 2014 / 41000 km
-125. ---
+125. citroen berlingo,1.6 benzine,3zit,airco,bwj.2014/50000 km/LV
 126. ---
 127. ---

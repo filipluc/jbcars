@@ -23,5 +23,5 @@
 123. peugeot 308,  1.6 benzine,garantie,AUTOMAAT,/59000 km
 124. mercedes E 200 cdi ,AMG pack, Garantie, bwj. 2014 / 41000 km
 125. citroen berlingo,1.6 benzine,3zit,airco,bwj.2014/50000 km/LV
-126. ---
+126. renault trafic 2.5 dci,DOUBLE CABINE 6 zit,bwj. 2010,CARpass
 127. ---

@@ -19,7 +19,7 @@ from AddCars.cars import car102
 from AddCars.cars import car103
 from AddCars.cars import car104
 from AddCars.cars import car105
-from AddCars.cars import car106
+# from AddCars.cars import car106
 from AddCars.cars import car107
 from AddCars.cars import car108
 from AddCars.cars import car109
@@ -40,7 +40,7 @@ from AddCars.cars import car123
 from AddCars.cars import car124
 # from AddCars.cars import car125
 from AddCars.cars import car126
-#from AddCars.cars import car127
+from AddCars.cars import car127
 
 
 
@@ -93,8 +93,8 @@ class AdaugaMasini(unittest.TestCase):
     def test_car105(self):
         GeneralFunctions.deleteAddCarFunction(self, car105)
     
-    def test_car106(self):
-        GeneralFunctions.deleteAddCarFunction(self, car106)
+    # def test_car106(self):
+    #     GeneralFunctions.deleteAddCarFunction(self, car106)
     
     def test_car107(self):
         GeneralFunctions.deleteAddCarFunction(self, car107)
@@ -156,12 +156,10 @@ class AdaugaMasini(unittest.TestCase):
     def test_car126(self):
         GeneralFunctions.deleteAddCarFunction(self, car126)
 
-    #===========================================================================
-    # def test_car127(self):
-    #     GeneralFunctions.deleteAddCarFunction(self, car127)
-    #===========================================================================
- 
-    
+    def test_car127(self):
+        GeneralFunctions.deleteAddCarFunction(self, car127)
+
+
         
 def suite():
     suite = unittest.TestLoader().loadTestsFromTestCase(AdaugaMasini)

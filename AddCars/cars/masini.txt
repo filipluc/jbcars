@@ -3,7 +3,7 @@
 103. ford c max 1.6 hdi, airco, export
 104. alfa romeo spider 2.4 jtd
 105. peugeot partner 1.6 hdi,Lichte vracht,bwj 2009,CAR PASS
-106. mercedes v klasse,double cabine 5 zit,l.v.,bwj.2014/43000 km
+106. -----
 107. opel meriva 1.3 cdti,Garantie,bwj.2012,euro 5
 108. vw fox 1.2 benzine ,Garantie
 109. skoda fabia 1.2 benzine, Garantie, bwj. 2010, euro 5
@@ -22,6 +22,6 @@
 122. peugeot partner 1.4 benzine,Garantie,bwj.2008/110000km/airco
 123. peugeot 308,  1.6 benzine,garantie,AUTOMAAT,/59000 km
 124. mercedes E 200 cdi ,AMG pack, Garantie, bwj. 2014 / 41000 km
-125. mercedes V klasse,L.V.,double cabine,5 pl.,bwj.2014/km 43000
+125. -----
 126. renault trafic 2.5 dci,DOUBLE CABINE 6 zit,bwj. 2010,CARpass
-127. ---
+127. opel combo D van,1.6 d,Lichte vracht 5 zit,bwj.2013/98000 km

@@ -5,7 +5,7 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "chrysler voyager 2.5 crdi,Garantie,Financiering,7 zetels"
+var_title = "chrysler voyager 2.5 crdi,Garantie,7 zetels"
 var_categorie = "Auto's"
 var_brand = "Chrysler"
 var_model = "Voyager"

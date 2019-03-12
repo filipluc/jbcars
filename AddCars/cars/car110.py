@@ -5,7 +5,7 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "vw golf plus ,1.9 tdi,Garantie,Financiering"
+var_title = "vw golf plus ,1.9 tdi,Garantie"
 var_categorie = "Auto's"
 var_brand = "Volkswagen"
 var_model = "Golf Plus"

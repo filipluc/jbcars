@@ -5,7 +5,7 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "mercedes ML 250 BLUETEC 4MATIC,garantie,79000km"
+var_title = "mercedes ml 250 bluetec 4matic,garantie,79000km"
 var_categorie = "Auto's"
 var_brand = "Mercedes"
 var_model = "M Klasse"

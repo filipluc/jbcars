@@ -46,10 +46,6 @@ class GeneralFunctions():
             if GeneralFunctions.check_exists_by_xpath_multiple(self, car_detail):
                 print (str(car_detail) + '---Masina veche va fi stearsa')
                 GeneralFunctions.deleteCarFunction(self, car_detail)
-                time.sleep(1)
-                # check again, in case the old car was not deleted the first time
-                if GeneralFunctions.check_exists_by_xpath_multiple(self, car_detail):
-                    GeneralFunctions.deleteCarFunction(self, car_detail)
             else:
                 print ('Eroare: Masina noua nu a putut fi adaugata, a ramas cea veche' + str(car_detail))
         else:

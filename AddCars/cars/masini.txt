@@ -20,7 +20,7 @@
 120. chrysler voyager 2.5 crdi,Garantie,7 zetels
 121. hyunndai santa fe 2.2 crdi,Garantie,Automaat,bwj.2008,/7 zit
 122. ---
-123. peugeot 308,  1.6 benzine,garantie,AUTOMAAT,/59000 km
+123. ---
 124. mercedes E 200 cdi ,AMG pack, Garantie, bwj. 2014 / 41000 km
 125. -----
 126. renault trafic 2.5 dci,DOUBLE CABINE 6 zit,bwj. 2010,CARpass

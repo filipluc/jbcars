@@ -69,13 +69,16 @@ class GeneralFunctions():
     def deleteCarFunction(self, car_detail):
         driver = self.driver
         time.sleep(2)
-        elem101 = driver.find_elements_by_xpath("//div[@class='listed-item-description'][contains(., '" + str(car_detail.var_title) + "')]")[1]     
+        elem101 = driver.find_elements_by_xpath("//div[@class='listed-item-description'][contains(., '" + str(car_detail.var_title) + "')]")[1]
+        time.sleep(2)
         elem101.click()
         time.sleep(2)
         elem102 = driver.find_element_by_xpath("//span[text()='Verwijder']")
+        time.sleep(2)
         elem102.click()
         time.sleep(2)
         elem103 = driver.find_element_by_id("delete_confirm")
+        time.sleep(2)
         elem103.click()
         time.sleep(5)       
     

@@ -17,7 +17,7 @@
 117. ---
 118. fiat ulysse 2.0 jtd,Garantie,109000 km/7 zetels
 119. mercedes ml 250 bluetec 4matic,garantie,79000km
-120. opel astra 1.3 cdti,Garantie,bwj.2010/99000 km,NAVIGATIE
+120. toyota rav 4, D4D,4x4,garantie,leder,€6241+btw,100000 km
 121. mercedes vito 111 cdi,minibus 8+1 pl/bwj. 2009
 122. ---
 123. ---

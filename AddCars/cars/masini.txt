@@ -22,6 +22,6 @@
 122. skoda fabia 1.2 benzine,Garantie,bwj.2014,airco,71000 km
 123. mini cooper D coupe PACEMAN,1.6 d,Garantie,CAR PASS,bwj.2014
 124. peugeot partner 1.6 benzine,Garantie,CAR PASS
-125. -----
+125. mercedes GLC 250d 4MATIC coupe,204PK,bwj2017/garantie,euro6b
 126. renault trafic 2.5 dci,DOUBLE CABINE 6 zit,bwj. 2010,CARpass
 127. ---

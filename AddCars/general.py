@@ -157,7 +157,7 @@ class GeneralFunctions():
                 #print(os.path.join(dirname, filename))
                 time.sleep(2.5)
                 elem15.send_keys(os.path.join(dirname, filename))
-        time.sleep(5)
+        time.sleep(7)
         try:
             elem16 = driver.find_element_by_id('auto_carrosserie')
             elem16.click()

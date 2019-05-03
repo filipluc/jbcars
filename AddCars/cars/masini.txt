@@ -2,7 +2,7 @@
 102. opel zafira,1.6 benzine,Garantie,7 zetels,bwj.2010,
 103. ford c max 1.6 hdi, airco, export
 104. alfa romeo spider 2.4 jtd
-105. peugeot partner 1.6 hdi,Lichte vracht,bwj 2009,CAR PASS
+105. ---
 106. peugeot partner 1.6 hdi,Garantie,bwj.2009/km 112000
 107. opel meriva 1.3 cdti,Garantie,bwj.2012,euro 5
 108. vw fox 1.2 benzine ,Garantie

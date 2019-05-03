@@ -155,7 +155,7 @@ class GeneralFunctions():
             for filename in filenames:
                 elem15 = driver.find_element_by_css_selector("input[type=file]")
                 #print(os.path.join(dirname, filename))
-                time.sleep(1.5)
+                time.sleep(2.5)
                 elem15.send_keys(os.path.join(dirname, filename))
         time.sleep(5)
         try:

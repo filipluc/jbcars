@@ -5,12 +5,12 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "toyota rav 4, D4D,4x4,garantie,leder,€6241+btw,100000 km"
+var_title = "toyota rav 4, D4D,4x4,garantie,leder,€5784+btw,100000 km"
 var_categorie = "Auto's"
 var_brand = "Toyota"
 var_model = "RAV 4"
-var_desc = "prijs: 6241 € + btw/tva\n\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"
-var_price = "7900"
+var_desc = "prijs: 5784 € + btw/tva\n\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"
+var_price = "6999"
 var_picspath = "car120"
 var_carroserie = "SUV"
 var_month = "aug"

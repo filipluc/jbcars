@@ -12,7 +12,7 @@
 112. opel astra 1.7 cdti, break,Garantie,NAVIGATIE,bwj. 2013
 113. vw polo 1.2 benzine,Garantie,airco
 114. landrover range rover sport 2.7 d, CAR PASS,bwj. 2009
-115. opel vectra 2.0 dth dti 16v
+115. opel vectra 2.0 dth dti 16v, Garantie, CAR PASS
 116. ford s max 1.8 tdci, monovolume 7 zetels, leder
 117. vw golf 1.9 tdi, Garantie,5 deurs,airco,CAR PASS
 118. fiat ulysse 2.0 jtd,Garantie,109000 km/7 zetels

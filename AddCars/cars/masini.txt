@@ -9,12 +9,12 @@
 109. ---
 110. opel astra 1.7 cdti break,Garantie
 111. ford transit 2,2 tdci,minibus 8 pl,car pass
-112. opel astra 1.7 cdti, break,Garantie,NAVIGATIE,bwj. 2013
+112. ---
 113. vw polo 1.2 benzine,Garantie,airco
 114. landrover range rover sport 2.7 d, CAR PASS,bwj. 2009
 115. opel vectra 2.0 dth dti 16v, Garantie, CAR PASS
 116. ford s max 1.8 tdci, monovolume 7 zetels, leder
-117. vw golf 1.9 tdi, Garantie,5 deurs,airco,CAR PASS
+117. ---
 118. ---
 119. mercedes ml 250 bluetec 4matic,garantie,prijs € 23139+btw
 120. toyota rav 4, D4D,4x4,garantie,leder,€5784+btw,100000 km

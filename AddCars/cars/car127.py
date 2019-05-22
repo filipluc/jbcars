@@ -8,7 +8,7 @@ Created on Jun 3, 2018
 var_title = "mini cooper s roadster 1.6 benzine,bwj. 2012/71000km,euro 5"
 var_categorie = "Auto's"
 var_brand = "Mini"
-var_model = "Roadster"
+var_model = "Cabrio"
 var_desc = "meer info 0479/237751\n"
 var_price = "16900"
 var_picspath = "car127"

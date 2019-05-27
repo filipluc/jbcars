@@ -17,9 +17,9 @@
 117. opel zafira 2.0 dti,bwj.2003,209000km,7 pl./EXPORT
 118. ---
 119. mercedes ml 250 bluetec 4matic,garantie,prijs € 23139+btw
-120. toyota rav 4, D4D,4x4,garantie,leder,€5784+btw,100000 km
+120. ---
 121. citroen jumpy 2.0 hdi,Garantie,CAR PASS,monovolume 8 zetels
-122. skoda fabia 1.2 benzine,Garantie,bwj.2014,airco,71000 km
+122. ---
 123. mini cooper D coupe PACEMAN,1.6 d,Garantie,CAR PASS,bwj.2014
 124. ---
 125. mercedes GLC 250d 4MATIC coupe,204PK,bwj2017/garantie,euro6b

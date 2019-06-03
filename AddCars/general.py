@@ -12,6 +12,7 @@ from selenium.common.exceptions import NoSuchElementException
 import time
 import os
 from selenium.webdriver.support.ui import Select
+from selenium.webdriver.common.by import By
 
 class GeneralFunctions():
     
@@ -85,44 +86,71 @@ class GeneralFunctions():
     def addCarFunction(self, car_detail):
         driver = self.driver
         #Adauga anunt nou
-        driver.find_element_by_link_text('Plaats een zoekertje').click()
+        driver.find_element_by_link_text('Zoekertje plaatsen').click()
         try:
-            WebDriverWait(driver, 5).until(EC.title_contains("Plaats zoekertje"), "Pagina de Adauga anunt nu a fost gasita")
+            WebDriverWait(driver, 5).until(EC.title_contains("tweedehands"), "Pagina de Adauga anunt nu a fost gasita")
         except TimeoutException:
-            self.assertIn("Plaats zoekertje", driver.title, "Pagina de Adauga anunt nu a fost gasita")  
+            self.assertIn("tweedehands", driver.title, "Pagina de Adauga anunt nu a fost gasita")
         finally:
-            pass       
-        elem3 = driver.find_element_by_id("title")
+            pass
+        time.sleep(1)
+        elem3 = driver.find_element_by_id("category-keywords")
         elem3.clear()
         elem3.send_keys(car_detail.var_title)
         elem3.send_keys(Keys.TAB)
-        elem4 = driver.find_element_by_class_name("icon-radiobutton")
-        elem4.click()
-        select1 = Select(driver.find_element_by_id('level1-option'))
-
+        # elem4 = driver.find_element_by_class_name("icon-radiobutton")
+        # elem4.click()
+        select1 = Select(driver.find_element_by_id('cat_sel_1'))
         select1.select_by_visible_text(car_detail.var_categorie)
 
-        elem5 = driver.find_element_by_id('level1-option')
-        elem5.send_keys(Keys.TAB)
+        # elem5 = driver.find_element_by_id('level1-option')
+        # elem5.send_keys(Keys.TAB)
+        # time.sleep(1)
+        # elem6 = driver.find_element_by_id('level2-option')
+        # elem6.click()
+        # time.sleep(2)
+        # elem6.send_keys(car_detail.var_brand)
+        # time.sleep(1)
+        # elem6.send_keys(Keys.TAB)
+        # time.sleep(1)
+        # elem7 = driver.find_element_by_id('level3-option')
+        # elem7.click()
+        # time.sleep(2)
+        # elem7.send_keys(car_detail.var_model)
+        # time.sleep(1)
+        # elem7.send_keys(Keys.TAB)
         time.sleep(1)
-        elem6 = driver.find_element_by_id('level2-option')
-        elem6.click()
-        time.sleep(2)
-        elem6.send_keys(car_detail.var_brand)
+        select11 = Select(driver.find_element_by_id('cat_sel_3'))
+        select11.select_by_visible_text(car_detail.var_brand)
         time.sleep(1)
-        elem6.send_keys(Keys.TAB)
-        time.sleep(1)
-        elem7 = driver.find_element_by_id('level3-option')
-        elem7.click()
-        time.sleep(2)
-        elem7.send_keys(car_detail.var_model)
-        time.sleep(1)
-        elem7.send_keys(Keys.TAB)     
-        time.sleep(1)
-        elem8 = driver.find_element_by_id("description")
+        elem77 = driver.find_element_by_id('category-selection-submit')
+        elem77.click()
+        time.sleep(3)
+
+
+        if os.path.exists("d:\Github\jbcars\AddCars\pics"):
+            picspathgeneral = "d:\Github\jbcars\AddCars\pics"
+        else:
+            picspathgeneral = "c:\Github\jbcars\AddCars\pics"
+        picspath = os.path.join(picspathgeneral, car_detail.var_picspath)
+        for dirname, dirnames, filenames in os.walk(picspath):
+            print(filenames)
+            for filename in filenames:
+                elem15 = driver.find_elements_by_xpath("//input[contains(@id, 'html5_')]")[-1]
+                #print(os.path.join(dirname, filename))
+                time.sleep(2)
+                elem15.send_keys(os.path.join(dirname, filename))
+                time.sleep(5)
+        time.sleep(5)
+
+
+        elem8 = driver.find_element_by_id("description_ifr")
         elem8.send_keys(car_detail.var_desc)
         elem8.send_keys("\nopeningsuren\nmaandag tot vrijdag 10-17 uur\nzaterdag 10-14 uur\nadres\nLIERSESTEENWEG 153\n2547 LINT")
         # elem8.send_keys("\nVan 19/12/2018 tot 03/01/2019 is OPEN enkel op afspraak\n\nadres\nLIERSESTEENWEG 153\n2547 LINT")
+
+        #pana aici
+
 
         elem9 = driver.find_element_by_id('price')
         elem9.click()
@@ -145,19 +173,8 @@ class GeneralFunctions():
         elem13.clear()
         elem13.send_keys("www.jbcars.be")
         elem13.send_keys(Keys.TAB)
-        if os.path.exists("d:\Github\jbcars\AddCars\pics"):
-            picspathgeneral = "d:\Github\jbcars\AddCars\pics"
-        else:
-            picspathgeneral = "c:\Github\jbcars\AddCars\pics"
-        picspath = os.path.join(picspathgeneral, car_detail.var_picspath)
-        for dirname, dirnames, filenames in os.walk(picspath):
-            # print path to all filenames.
-            for filename in filenames:
-                elem15 = driver.find_element_by_css_selector("input[type=file]")
-                #print(os.path.join(dirname, filename))
-                time.sleep(2.5)
-                elem15.send_keys(os.path.join(dirname, filename))
-        time.sleep(7)
+
+
         try:
             elem16 = driver.find_element_by_id('auto_carrosserie')
             elem16.click()

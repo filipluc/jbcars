@@ -16,15 +16,16 @@ var_carroserie = "Berline 3"
 var_month = "feb"
 var_year = "2007"
 var_gas = "Diesel"
-var_transmissie = "Manu"
+var_transmissie = "Hand"
 var_km = "159000"
 var_doors = "5"
 var_pk = "90"
 var_cilinder = "1364"
 var_co2 = "128"
 var_euro = "euro 4"
-var_options = "ABS, Airbag, Airco, Alarm, Automatische airco, Boordcomputer, Centrale vergrendeling, Elektrische buitenspiegels, Elektrische ramen voor, Getint glas, Lichtmetalen velgen, Metallic lak, Parkeersensor, Radio & CD, Stuurbekrachtiging, Traction control"
+var_options = "4x4, ABS"
 var_carcolor = "Zwart"
 var_interiorcolor = "Grijs"
+
 
 

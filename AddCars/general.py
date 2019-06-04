@@ -98,27 +98,11 @@ class GeneralFunctions():
         elem3.clear()
         elem3.send_keys(car_detail.var_title)
         elem3.send_keys(Keys.TAB)
-        # elem4 = driver.find_element_by_class_name("icon-radiobutton")
-        # elem4.click()
+
         select1 = Select(driver.find_element_by_id('cat_sel_1'))
         select1.select_by_visible_text(car_detail.var_categorie)
 
-        # elem5 = driver.find_element_by_id('level1-option')
-        # elem5.send_keys(Keys.TAB)
-        # time.sleep(1)
-        # elem6 = driver.find_element_by_id('level2-option')
-        # elem6.click()
-        # time.sleep(2)
-        # elem6.send_keys(car_detail.var_brand)
-        # time.sleep(1)
-        # elem6.send_keys(Keys.TAB)
-        # time.sleep(1)
-        # elem7 = driver.find_element_by_id('level3-option')
-        # elem7.click()
-        # time.sleep(2)
-        # elem7.send_keys(car_detail.var_model)
-        # time.sleep(1)
-        # elem7.send_keys(Keys.TAB)
+
         time.sleep(1)
         select11 = Select(driver.find_element_by_id('cat_sel_3'))
         select11.select_by_visible_text(car_detail.var_brand)
@@ -128,20 +112,20 @@ class GeneralFunctions():
         time.sleep(3)
 
 
-        if os.path.exists("d:\Github\jbcars\AddCars\pics"):
-            picspathgeneral = "d:\Github\jbcars\AddCars\pics"
-        else:
-            picspathgeneral = "c:\Github\jbcars\AddCars\pics"
-        picspath = os.path.join(picspathgeneral, car_detail.var_picspath)
-        for dirname, dirnames, filenames in os.walk(picspath):
-            print(filenames)
-            for filename in filenames:
-                elem15 = driver.find_elements_by_xpath("//input[contains(@id, 'html5_')]")[-1]
-                #print(os.path.join(dirname, filename))
-                time.sleep(2)
-                elem15.send_keys(os.path.join(dirname, filename))
-                time.sleep(5)
-        time.sleep(5)
+        # if os.path.exists("d:\Github\jbcars\AddCars\pics"):
+        #     picspathgeneral = "d:\Github\jbcars\AddCars\pics"
+        # else:
+        #     picspathgeneral = "c:\Github\jbcars\AddCars\pics"
+        # picspath = os.path.join(picspathgeneral, car_detail.var_picspath)
+        # for dirname, dirnames, filenames in os.walk(picspath):
+        #     print(filenames)
+        #     for filename in filenames:
+        #         elem15 = driver.find_elements_by_xpath("//input[contains(@id, 'html5_')]")[-1]
+        #         #print(os.path.join(dirname, filename))
+        #         time.sleep(2)
+        #         elem15.send_keys(os.path.join(dirname, filename))
+        #         time.sleep(7)
+        # time.sleep(5)
 
 
         elem8 = driver.find_element_by_id("description_ifr")
@@ -149,21 +133,114 @@ class GeneralFunctions():
         elem8.send_keys("\nopeningsuren\nmaandag tot vrijdag 10-17 uur\nzaterdag 10-14 uur\nadres\nLIERSESTEENWEG 153\n2547 LINT")
         # elem8.send_keys("\nVan 19/12/2018 tot 03/01/2019 is OPEN enkel op afspraak\n\nadres\nLIERSESTEENWEG 153\n2547 LINT")
 
-        #pana aici
+        elem81 = driver.find_element_by_xpath("//select[@name='singleSelectAttribute[model]']")
+        elem81.click()
+        elem81.send_keys(car_detail.var_model)
+        elem81.send_keys(Keys.TAB)
+        time.sleep(1)
+
+        elem82 = driver.find_element_by_xpath("//select[@name='singleSelectAttribute[fuel]']")
+        elem82.click()
+        elem82.send_keys(car_detail.var_gas)
+        elem82.send_keys(Keys.TAB)
+        time.sleep(1)
+
+        elem83 = driver.find_element_by_xpath("//select[@name='singleSelectAttribute[euronormBE]']")
+        elem83.click()
+        elem83.send_keys(car_detail.var_euro)
+        elem83.send_keys(Keys.TAB)
+        time.sleep(1)
+
+        elem84 = driver.find_element_by_xpath("//select[@name='singleSelectAttribute[body]']")
+        elem84.click()
+        elem84.send_keys(car_detail.var_carroserie)
+        elem84.send_keys(Keys.TAB)
+        time.sleep(1)
+
+        elem85 = driver.find_element_by_xpath("//select[@name='singleSelectAttribute[aantaldeurenBE]']")
+        elem85.click()
+        elem85.send_keys(car_detail.var_doors)
+        elem85.send_keys(Keys.TAB)
+        time.sleep(1)
+
+        elem86 = driver.find_element_by_xpath("//select[@name='singleSelectAttribute[transmission]']")
+        elem86.click()
+        elem86.send_keys(car_detail.var_transmissie)
+        elem86.send_keys(Keys.TAB)
+        time.sleep(1)
+
+        elem87 = driver.find_element_by_xpath("//select[@name='singleSelectAttribute[color]']")
+        elem87.click()
+        elem87.send_keys(car_detail.var_carcolor)
+        elem87.send_keys(Keys.TAB)
+        time.sleep(1)
+
+        elem87 = driver.find_element_by_xpath("//select[@name='singleSelectAttribute[interiorcolor]']")
+        elem87.click()
+        elem87.send_keys(car_detail.var_interiorcolor)
+        elem87.send_keys(Keys.TAB)
+        time.sleep(1)
+
+        elem88 = driver.find_element_by_xpath("//input[contains(@id, 'numericAttribute[constructionYear]')]")
+        elem88.click()
+        elem88.send_keys(car_detail.var_year)
+        elem88.send_keys(Keys.TAB)
+        time.sleep(1)
+
+        elem89 = driver.find_element_by_xpath("//input[contains(@id, 'numericAttribute[co2emission]')]")
+        elem89.click()
+        elem89.send_keys(car_detail.var_co2)
+        elem89.send_keys(Keys.TAB)
+        time.sleep(1)
+
+        elem90 = driver.find_element_by_xpath("//input[contains(@id, 'numericAttribute[mileage]')]")
+        elem90.click()
+        elem90.send_keys(car_detail.var_km)
+        elem90.send_keys(Keys.TAB)
+        time.sleep(1)
+
+        elem92 = driver.find_element_by_xpath("//input[contains(@id, 'numericAttribute[engineHorsepowerBE]')]")
+        elem92.click()
+        elem92.send_keys(car_detail.var_pk)
+        elem92.send_keys(Keys.TAB)
+        time.sleep(1)
+
+        elem91 = driver.find_element_by_xpath("//input[contains(@id, 'numericAttribute[engineDisplacement]')]")
+        elem91.click()
+        elem91.send_keys(car_detail.var_cilinder)
+        elem91.send_keys(Keys.TAB)
+        time.sleep(1)
 
 
-        elem9 = driver.find_element_by_id('price')
-        elem9.click()
-        elem9.send_keys("Bedrag")
-        elem9.send_keys(Keys.TAB)
+        #optiuni
+        for x in car_detail.var_options.split(', '):
+            driver.find_element_by_xpath("//input[contains(@id, '" + str(x) + "')]").click()
+
+
+
+        elem92 = driver.find_element_by_xpath("//input[contains(@name, 'price.value')]")
+        elem92.click()
+        elem92.send_keys(car_detail.var_price)
+        elem92.send_keys(Keys.TAB)
+        time.sleep(1)
+
+        elem93 = driver.find_element_by_xpath("//input[contains(@id, 'syi-bidding-switch')]")
+        elem93.click()
+        elem93.send_keys(Keys.TAB)
+        time.sleep(1)
+
           
-        elem10 = driver.find_element_by_id('bedragplaats_prijs_waarde')
-        elem10.click()
-        elem10.send_keys(car_detail.var_price)
-          
-        elem11 = driver.find_element_by_xpath("//span[text()='Biedingen toestaan']")
-        elem11.click()
-          
+        elem94 = driver.find_element_by_xpath("//span[text()='Gratis']")
+        elem94.click()
+        time.sleep(1)
+
+        elem95 = driver.find_element_by_xpath("//a[contains(@id, 'syi-place-ad-button')]")
+        elem95.click()
+        time.sleep(1)
+
+
+   #### pana aici
+
         elem12 = driver.find_element_by_id('condition')
         elem12.click()
         elem12.send_keys("Gebruikt")
@@ -241,9 +318,7 @@ class GeneralFunctions():
         elem25.send_keys(car_detail.var_euro)
         elem25.send_keys(Keys.TAB)      
 
-        #optiuni
-        for x in car_detail.var_options.split(', '):
-            driver.find_element_by_xpath("//span[text()='" + str(x) + "']").click()
+
             
        
         #culoare masina

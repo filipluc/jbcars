@@ -23,7 +23,27 @@ var_pk = "90"
 var_cilinder = "1364"
 var_co2 = "128"
 var_euro = "euro 4"
-var_options = "4x4, ABS"
+var_options = """4x4
+ABS
+Adaptieve lichten
+Airbags
+Airconditioning
+Alarm
+Lederen bekleding
+Bluetooth
+Boordcomputer
+Centrale vergrendeling
+Climate control
+Cruise Control
+Elektrische achterklep
+Elektrische buitenspiegels
+Elektrische stoelverstelling
+Electronic Stability Program (ESP)
+Elektrische ramen
+Emergency brake assist
+Isofix
+Lichtmetalen velgen
+Metaalkleur"""
 var_carcolor = "Zwart"
 var_interiorcolor = "Grijs"
 

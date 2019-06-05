@@ -128,93 +128,138 @@ class GeneralFunctions():
         # time.sleep(5)
 
 
-        elem8 = driver.find_element_by_id("description_ifr")
-        elem8.send_keys(car_detail.var_desc)
-        elem8.send_keys("\nopeningsuren\nmaandag tot vrijdag 10-17 uur\nzaterdag 10-14 uur\nadres\nLIERSESTEENWEG 153\n2547 LINT")
-        # elem8.send_keys("\nVan 19/12/2018 tot 03/01/2019 is OPEN enkel op afspraak\n\nadres\nLIERSESTEENWEG 153\n2547 LINT")
-
-        elem81 = driver.find_element_by_xpath("//select[@name='singleSelectAttribute[model]']")
-        elem81.click()
-        elem81.send_keys(car_detail.var_model)
-        elem81.send_keys(Keys.TAB)
-        time.sleep(1)
-
-        elem82 = driver.find_element_by_xpath("//select[@name='singleSelectAttribute[fuel]']")
-        elem82.click()
-        elem82.send_keys(car_detail.var_gas)
-        elem82.send_keys(Keys.TAB)
-        time.sleep(1)
-
-        elem83 = driver.find_element_by_xpath("//select[@name='singleSelectAttribute[euronormBE]']")
-        elem83.click()
-        elem83.send_keys(car_detail.var_euro)
-        elem83.send_keys(Keys.TAB)
-        time.sleep(1)
-
-        elem84 = driver.find_element_by_xpath("//select[@name='singleSelectAttribute[body]']")
-        elem84.click()
-        elem84.send_keys(car_detail.var_carroserie)
-        elem84.send_keys(Keys.TAB)
-        time.sleep(1)
-
-        elem85 = driver.find_element_by_xpath("//select[@name='singleSelectAttribute[aantaldeurenBE]']")
-        elem85.click()
-        elem85.send_keys(car_detail.var_doors)
-        elem85.send_keys(Keys.TAB)
-        time.sleep(1)
-
-        elem86 = driver.find_element_by_xpath("//select[@name='singleSelectAttribute[transmission]']")
-        elem86.click()
-        elem86.send_keys(car_detail.var_transmissie)
-        elem86.send_keys(Keys.TAB)
-        time.sleep(1)
-
-        elem87 = driver.find_element_by_xpath("//select[@name='singleSelectAttribute[color]']")
-        elem87.click()
-        elem87.send_keys(car_detail.var_carcolor)
-        elem87.send_keys(Keys.TAB)
-        time.sleep(1)
-
-        elem87 = driver.find_element_by_xpath("//select[@name='singleSelectAttribute[interiorcolor]']")
-        elem87.click()
-        elem87.send_keys(car_detail.var_interiorcolor)
-        elem87.send_keys(Keys.TAB)
-        time.sleep(1)
-
-        elem88 = driver.find_element_by_xpath("//input[contains(@id, 'numericAttribute[constructionYear]')]")
-        elem88.click()
-        elem88.send_keys(car_detail.var_year)
-        elem88.send_keys(Keys.TAB)
-        time.sleep(1)
-
-        elem89 = driver.find_element_by_xpath("//input[contains(@id, 'numericAttribute[co2emission]')]")
-        elem89.click()
-        elem89.send_keys(car_detail.var_co2)
-        elem89.send_keys(Keys.TAB)
-        time.sleep(1)
-
-        elem90 = driver.find_element_by_xpath("//input[contains(@id, 'numericAttribute[mileage]')]")
-        elem90.click()
-        elem90.send_keys(car_detail.var_km)
-        elem90.send_keys(Keys.TAB)
-        time.sleep(1)
-
-        elem92 = driver.find_element_by_xpath("//input[contains(@id, 'numericAttribute[engineHorsepowerBE]')]")
-        elem92.click()
-        elem92.send_keys(car_detail.var_pk)
-        elem92.send_keys(Keys.TAB)
-        time.sleep(1)
-
-        elem91 = driver.find_element_by_xpath("//input[contains(@id, 'numericAttribute[engineDisplacement]')]")
-        elem91.click()
-        elem91.send_keys(car_detail.var_cilinder)
-        elem91.send_keys(Keys.TAB)
-        time.sleep(1)
+        # elem8 = driver.find_element_by_id("description_ifr")
+        # elem8.send_keys(car_detail.var_desc)
+        # elem8.send_keys("\nopeningsuren\nmaandag tot vrijdag 10-17 uur\nzaterdag 10-14 uur\nadres\nLIERSESTEENWEG 153\n2547 LINT")
+        # # elem8.send_keys("\nVan 19/12/2018 tot 03/01/2019 is OPEN enkel op afspraak\n\nadres\nLIERSESTEENWEG 153\n2547 LINT")
+        #
+        # elem81 = driver.find_element_by_xpath("//select[@name='singleSelectAttribute[model]']")
+        # elem81.click()
+        # elem81.send_keys(car_detail.var_model)
+        # elem81.send_keys(Keys.TAB)
+        # time.sleep(1)
+        #
+        # elem82 = driver.find_element_by_xpath("//select[@name='singleSelectAttribute[fuel]']")
+        # elem82.click()
+        # elem82.send_keys(car_detail.var_gas)
+        # elem82.send_keys(Keys.TAB)
+        # time.sleep(1)
+        #
+        # elem83 = driver.find_element_by_xpath("//select[@name='singleSelectAttribute[euronormBE]']")
+        # elem83.click()
+        # elem83.send_keys(car_detail.var_euro)
+        # elem83.send_keys(Keys.TAB)
+        # time.sleep(1)
+        #
+        # elem84 = driver.find_element_by_xpath("//select[@name='singleSelectAttribute[body]']")
+        # elem84.click()
+        # elem84.send_keys(car_detail.var_carroserie)
+        # elem84.send_keys(Keys.TAB)
+        # time.sleep(1)
+        #
+        # elem85 = driver.find_element_by_xpath("//select[@name='singleSelectAttribute[aantaldeurenBE]']")
+        # elem85.click()
+        # elem85.send_keys(car_detail.var_doors)
+        # elem85.send_keys(Keys.TAB)
+        # time.sleep(1)
+        #
+        # elem86 = driver.find_element_by_xpath("//select[@name='singleSelectAttribute[transmission]']")
+        # elem86.click()
+        # elem86.send_keys(car_detail.var_transmissie)
+        # elem86.send_keys(Keys.TAB)
+        # time.sleep(1)
+        #
+        # elem87 = driver.find_element_by_xpath("//select[@name='singleSelectAttribute[color]']")
+        # elem87.click()
+        # elem87.send_keys(car_detail.var_carcolor)
+        # elem87.send_keys(Keys.TAB)
+        # time.sleep(1)
+        #
+        # elem87 = driver.find_element_by_xpath("//select[@name='singleSelectAttribute[interiorcolor]']")
+        # elem87.click()
+        # elem87.send_keys(car_detail.var_interiorcolor)
+        # elem87.send_keys(Keys.TAB)
+        # time.sleep(1)
+        #
+        # elem88 = driver.find_element_by_xpath("//input[contains(@id, 'numericAttribute[constructionYear]')]")
+        # elem88.click()
+        # elem88.send_keys(car_detail.var_year)
+        # elem88.send_keys(Keys.TAB)
+        # time.sleep(1)
+        #
+        # elem89 = driver.find_element_by_xpath("//input[contains(@id, 'numericAttribute[co2emission]')]")
+        # elem89.click()
+        # elem89.send_keys(car_detail.var_co2)
+        # elem89.send_keys(Keys.TAB)
+        # time.sleep(1)
+        #
+        # elem90 = driver.find_element_by_xpath("//input[contains(@id, 'numericAttribute[mileage]')]")
+        # elem90.click()
+        # elem90.send_keys(car_detail.var_km)
+        # elem90.send_keys(Keys.TAB)
+        # time.sleep(1)
+        #
+        # elem92 = driver.find_element_by_xpath("//input[contains(@id, 'numericAttribute[engineHorsepowerBE]')]")
+        # elem92.click()
+        # elem92.send_keys(car_detail.var_pk)
+        # elem92.send_keys(Keys.TAB)
+        # time.sleep(1)
+        #
+        # elem91 = driver.find_element_by_xpath("//input[contains(@id, 'numericAttribute[engineDisplacement]')]")
+        # elem91.click()
+        # elem91.send_keys(car_detail.var_cilinder)
+        # elem91.send_keys(Keys.TAB)
+        # time.sleep(1)
 
 
         #optiuni
-        for x in car_detail.var_options.split(', '):
-            driver.find_element_by_xpath("//input[contains(@id, '" + str(x) + "')]").click()
+        # for x in car_detail.var_options.split(', '):
+        for x in car_detail.var_options.split('\n'):
+            y = ''
+            if x == "4x4":
+                y = "4x4"
+            if x == "ABS":
+                y = "ABS"
+            if x == "Adaptieve lichten":
+                y = "Adaptieve-lichten"
+            if x == "Airbags":
+                y = "Airbags"
+            if x == "Airconditioning":
+                y = "Climate control Airconditioning"
+            if x == "Alarm":
+                y = "Alarm"
+            if x == "Lederen bekleding":
+                y = "Bekleding leder"
+            if x == "Bluetooth":
+                y = "Bluetooth"
+            if x == "Boordcomputer":
+                y = "Boordcomputer"
+            if x == "Centrale vergrendeling":
+                y = "Centrale vergrendeling"
+            if x == "Climate control":
+                y = "Climate control"
+            if x == "Cruise Control":
+                y = "Cruise Control"
+            if x == "Elektrische achterklep":
+                y = "Elektrische achterklep"
+            if x == "Elektrische buitenspiegels":
+                y = "Elektrische buitenspiegels"
+            if x == "Elektrische stoelverstelling":
+                y = "Elektrische stoelverstelling"
+            if x == "Electronic Stability Program (ESP)":
+                y = "Electronict Stability Program"
+            if x == "Elektrische ramen":
+                y = "Elektrische ramen"
+            if x == "Emergency brake assist":
+                y = "Emergency brake assist"
+            if x == "Isofix":
+                y = "Isofix"
+            if x == "Lichtmetalen velgen":
+                y = "Lichtmetalen velgen"
+            if x == "Metaalkleur":
+                y = "Metallic lak"
+            driver.find_element_by_xpath("//input[@value='" + str(y) + "']").click()
+            time.sleep(0.1)
 
 
 

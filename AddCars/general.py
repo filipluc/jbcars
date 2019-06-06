@@ -121,9 +121,9 @@ class GeneralFunctions():
             # print(filenames)
             for filename in filenames:
                 elem15 = driver.find_elements_by_xpath("//input[contains(@id, 'html5_')]")[-1]
-                time.sleep(2)
+                time.sleep(0.5)
                 elem15.send_keys(os.path.join(dirname, filename))
-                time.sleep(7)
+                time.sleep(6)
         time.sleep(2)
 
         elem8 = driver.find_element_by_id("description_ifr")

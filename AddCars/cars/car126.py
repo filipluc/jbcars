@@ -6,7 +6,7 @@ Created on Jun 3, 2018
 
 
 var_title = "renault trafic 2.5 dci,DOUBLE CABINE 6 zit,bwj. 2010,CARpass"
-var_categorie = ""
+var_categorie = "Auto's"
 var_brand = "Bestelwagens"
 var_model = "Renault"
 var_desc = "LANG CHASSIS\nCAR PASS\ngekeurd met roos formulier\n"

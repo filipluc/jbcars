@@ -6,7 +6,7 @@ Created on Jun 3, 2018
 
 
 var_title = "vw transporter 2.5 tdi OPEN LAADBAK,double cabine 5+1 pl."
-var_categorie = ""
+var_categorie = "Auto's"
 var_brand = "Bestelwagens"
 var_model = "Volkswagen"
 var_desc = "export of handelaar\nprijs 4000€+btw/tva\nkeuring tegen betaling\n"

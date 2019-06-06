@@ -44,6 +44,6 @@ Xenon verlichting
 ABS
 Mistlampen
 Airbags
-Radio
+Radio"""
 var_carcolor = "Wit"
 var_interiorcolor = "Zwart"

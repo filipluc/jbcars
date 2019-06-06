@@ -23,8 +23,7 @@ var_pk = "125"
 var_cilinder = "1753"
 var_co2 = "164"
 var_euro = "euro 4"
-var_options = """
-Lederen bekleding
+var_options = """Lederen bekleding
 Cruise Control
 Boordcomputer
 Centrale vergrendeling

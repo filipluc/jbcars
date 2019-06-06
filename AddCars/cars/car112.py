@@ -23,8 +23,7 @@ var_pk = "80"
 var_cilinder = "1422"
 var_co2 = "99"
 var_euro = "euro 4"
-var_options = """
-Boordcomputer
+var_options = """Boordcomputer
 Centrale vergrendeling
 Elektrische buitenspiegels
 Airconditioning

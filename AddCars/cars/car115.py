@@ -23,8 +23,7 @@ var_pk = "101"
 var_cilinder = "1994"
 var_co2 = ""
 var_euro = "euro 3"
-var_options = """
-Centrale vergrendeling
+var_options = """Centrale vergrendeling
 Airconditioning
 Traction-control
 Elektrische ramen

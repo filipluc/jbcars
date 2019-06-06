@@ -23,8 +23,7 @@ var_pk = "75"
 var_cilinder = "1900"
 var_co2 = ""
 var_euro = ""
-var_options = """
-ABS
+var_options = """ABS
 Airbags
 Radio"""
 var_carcolor = "Wit"

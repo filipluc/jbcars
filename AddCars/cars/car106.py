@@ -23,8 +23,7 @@ var_pk = "75"
 var_cilinder = "1560"
 var_co2 = "150"
 var_euro = "euro 4"
-var_options = """
-Boordcomputer
+var_options = """Boordcomputer
 Centrale vergrendeling
 Airconditioning
 Elektrische ramen

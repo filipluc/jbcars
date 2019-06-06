@@ -23,8 +23,7 @@ var_pk = "190"
 var_cilinder = "2720"
 var_co2 = "265"
 var_euro = "euro 4"
-var_options = """
-Cruise Control
+var_options = """Cruise Control
 Bluetooth
 Navigatiesysteem
 Elektrische buitenspiegels

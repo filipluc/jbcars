@@ -23,8 +23,7 @@ var_pk = "55"
 var_cilinder = "1198"
 var_co2 = "146"
 var_euro = "euro 4"
-var_options = """
-Boordcomputer
+var_options = """Boordcomputer
 ABS
 Airbags
 Radio"""

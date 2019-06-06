@@ -23,8 +23,7 @@ var_pk = "110"
 var_cilinder = "1560"
 var_co2 = "129"
 var_euro = "euro 3"
-var_options = """
-Boordcomputer
+var_options = """Boordcomputer
 Centrale vergrendeling
 Airconditioning
 Traction-control

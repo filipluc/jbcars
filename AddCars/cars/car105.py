@@ -23,8 +23,7 @@ var_pk = "85"
 var_cilinder = "1390"
 var_co2 = "160"
 var_euro = "euro 4"
-var_options = """
-Cruise Control
+var_options = """Cruise Control
 Boordcomputer
 Centrale vergrendeling
 Elektrische buitenspiegels

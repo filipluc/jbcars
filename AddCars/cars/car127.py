@@ -23,8 +23,7 @@ var_pk = "163"
 var_cilinder = "1598"
 var_co2 = "139"
 var_euro = "Euro 5"
-var_options = """
-Bluetooth
+var_options = """Bluetooth
 Navigatiesysteem
 Elektrische buitenspiegels
 Parkeersensor

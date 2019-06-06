@@ -23,8 +23,7 @@ var_pk = "95"
 var_cilinder = "1248"
 var_co2 = "119"
 var_euro = "euro 5"
-var_options = """
-Cruise Control
+var_options = """Cruise Control
 Bluetooth
 Boordcomputer
 Centrale vergrendeling

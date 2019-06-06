@@ -23,8 +23,7 @@ var_pk = "204"
 var_cilinder = "2143"
 var_co2 = "158"
 var_euro = "euro 6"
-var_options = """
-Cruise Control
+var_options = """Cruise Control
 Bluetooth
 Parkeercamera
 Navigatiesysteem

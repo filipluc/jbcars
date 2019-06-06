@@ -23,8 +23,7 @@ var_pk = ""
 var_cilinder = "1560"
 var_co2 = ""
 var_euro = ""
-var_options = """
-Boordcomputer
+var_options = """Boordcomputer
 Centrale vergrendeling
 Elektrische buitenspiegels
 Schuifdeur

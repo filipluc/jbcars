@@ -23,8 +23,7 @@ var_pk = "200"
 var_cilinder = "2387"
 var_co2 = "179"
 var_euro = "euro 4"
-var_options = """
-Cruise Control
+var_options = """Cruise Control
 Startonderbreker
 Navigatiesysteem
 Elektrische buitenspiegels

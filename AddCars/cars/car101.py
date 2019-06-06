@@ -12,7 +12,7 @@ var_model = "Corolla"
 var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"
 var_price = "2999"
 var_picspath = "car101"
-var_carroserie = "Berline 3"
+var_carroserie = "Stadsauto"
 var_month = "feb"
 var_year = "2007"
 var_gas = "Diesel"
@@ -23,25 +23,17 @@ var_pk = "90"
 var_cilinder = "1364"
 var_co2 = "128"
 var_euro = "euro 4"
-var_options = """4x4
-ABS
-Adaptieve lichten
-Airbags
-Airconditioning
-Alarm
-Lederen bekleding
-Bluetooth
-Boordcomputer
+var_options = """Boordcomputer
 Centrale vergrendeling
-Climate control
-Cruise Control
-Elektrische achterklep
 Elektrische buitenspiegels
-Elektrische stoelverstelling
-Electronic Stability Program (ESP)
+Airconditioning
+Traction-control
+Parkeersensor
 Elektrische ramen
-Emergency brake assist
-Isofix
+ABS
+Airbags
+Alarm
+Radio
 Lichtmetalen velgen
 Metaalkleur"""
 var_carcolor = "Zwart"

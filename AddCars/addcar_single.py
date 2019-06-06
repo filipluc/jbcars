@@ -35,12 +35,12 @@ class AdaugaMasiniSingle(unittest.TestCase):
         self.assertIn("2dehands", driver.title, "Page was not opened correctly")
         elem1 = driver.find_element_by_name("j_username")
         elem1.clear()
-        elem1.send_keys("ljale@hotmail.com")
-        # elem1.send_keys("jb.cars@hotmail.com")
+        # elem1.send_keys("ljale@hotmail.com")
+        elem1.send_keys("jb.cars@hotmail.com")
         elem2 = driver.find_element_by_name("j_password")
         elem2.clear()
-        elem2.send_keys("Boni/1994")
-        # elem2.send_keys("103robel")
+        # elem2.send_keys("Boni/1994")
+        elem2.send_keys("103robel")
         elem2.send_keys(Keys.RETURN)
         
         #using explicit wait with assert
@@ -53,12 +53,11 @@ class AdaugaMasiniSingle(unittest.TestCase):
             pass
         
     def tearDown(self):
-        pass
-        #self.driver.quit()
+        self.driver.quit()
 
     #@unittest.skip("skip car") 
     def test_car101(self):
-        GeneralFunctions.addCarFunction(self, car101)
+        GeneralFunctions.deleteAddCarFunction(self, car101)
         
         
 def suite():

@@ -7,7 +7,7 @@ Created on Jun 3, 2018
 
 var_title = "mercedes ml 250 bluetec 4matic,garantie,prijs € 23139+btw"
 var_categorie = "Auto's"
-var_brand = "Mercedes"
+var_brand = "Mercedes-Benz"
 var_model = "M-Klasse"
 var_desc = "prijs =23139 € + btw/tva\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"
 var_price = "27999"

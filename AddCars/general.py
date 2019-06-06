@@ -333,4 +333,4 @@ class GeneralFunctions():
 
         elem95 = driver.find_element_by_xpath("//a[contains(@id, 'syi-place-ad-button')]")
         elem95.click()
-        time.sleep(2)
+        time.sleep(10)

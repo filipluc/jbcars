@@ -7,7 +7,7 @@ Created on Jun 3, 2018
 
 var_title = "mercedes GLC 250d 4MATIC coupe,204PK,bwj2017/garantie,euro6b"
 var_categorie = "Auto's"
-var_brand = "Mercedes"
+var_brand = "Mercedes-Benz"
 var_model = "GLC-klasse"
 var_desc = "1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n\n---originele lak(kleur),,,geen wrapfolie----\n---pentuire originale pas de vinyle de type wrapping --\n\n"
 var_price = "44444"

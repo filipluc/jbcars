@@ -16,13 +16,22 @@ var_carroserie = "Monovolume"
 var_month = "feb"
 var_year = "2009"
 var_gas = "Diesel"
-var_transmissie = "Manu"
+var_transmissie = "Hand"
 var_km = "112000"
 var_doors = "5"
 var_pk = "75"
 var_cilinder = "1560"
 var_co2 = "150"
 var_euro = "euro 4"
-var_options = "ABS, Airbag, Airco, Alarm, Boordcomputer, Centrale vergrendeling, Elektrische ramen voor, Metallic lak, Radio & CD, Stuurbekrachtiging"
+var_options = """
+Boordcomputer
+Centrale vergrendeling
+Airconditioning
+Elektrische ramen
+ABS
+Airbags
+Alarm
+Radio
+Metaalkleur"""
 var_carcolor = "Blauw"
 var_interiorcolor = "Grijs"

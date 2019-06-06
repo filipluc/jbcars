@@ -16,13 +16,29 @@ var_carroserie = "Monovolume"
 var_month = "apr"
 var_year = "2012"
 var_gas = "Diesel"
-var_transmissie = "Manu"
+var_transmissie = "Hand"
 var_km = "133000"
 var_doors = "5"
 var_pk = "95"
 var_cilinder = "1248"
 var_co2 = "119"
 var_euro = "euro 5"
-var_options = "ABS, Airbag, Airco, Alarm, Bluetooth, Boordcomputer, Centrale vergrendeling, Cruise control, Elektrische buitenspiegels, Elektrische ramen v + a, Getint glas, Lichtmetalen velgen, Metallic lak, Mistlampen, Parkeersensor, Radio & CD, Stuurbekrachtiging, Traction control"
+var_options = """
+Cruise Control
+Bluetooth
+Boordcomputer
+Centrale vergrendeling
+Elektrische buitenspiegels
+Airconditioning
+Traction-control
+Parkeersensor
+Elektrische ramen
+ABS
+Mistlampen
+Airbags
+Alarm
+Radio
+Lichtmetalen velgen
+Metaalkleur"""
 var_carcolor = "Grijs"
 var_interiorcolor = "Grijs"

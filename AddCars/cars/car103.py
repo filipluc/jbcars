@@ -16,13 +16,24 @@ var_carroserie = "Monovolume"
 var_month = "jul"
 var_year = "2004"
 var_gas = "Diesel"
-var_transmissie = "Manu"
+var_transmissie = "Hand"
 var_km = "238000"
 var_doors = "5"
 var_pk = "110"
 var_cilinder = "1560"
 var_co2 = "129"
 var_euro = "euro 3"
-var_options = "ABS, Airbag, Airco, Alarm, Boordcomputer, Centrale vergrendeling, Elektrische ramen voor, Metallic lak, Radio & CD, Stuurbekrachtiging, Traction control, Trekhaak"
+var_options = """
+Boordcomputer
+Centrale vergrendeling
+Airconditioning
+Traction-control
+Elektrische ramen
+ABS
+Airbags
+Alarm
+Radio
+Trekhaak
+Metaalkleur"""
 var_carcolor = "Zilver"
 var_interiorcolor = "Grijs"

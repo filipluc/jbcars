@@ -5,24 +5,41 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "isuzu D max 2.5 tdi,bwj.2012,garantie/CAR PASS,52000 km,4x4!"
+var_title = "peugeot partner OUTDOOR,1.6hdi,Garantie,CAR PASS,bwj.2010"
 var_categorie = "Auto's"
-var_brand = "Isuzu"
-var_model = "D-Max"
+var_brand = "Peugeot"
+var_model = "Partner"
 var_desc = "1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"
-var_price = "15500"
+var_price = "4500"
 var_picspath = "car109"
-var_carroserie = "Pickup"
-var_month = "jul"
-var_year = "2012"
+var_carroserie = "Monovolume"
+var_month = ""
+var_year = "2010"
 var_gas = "Diesel"
-var_transmissie = "Manu"
-var_km = "52000"
+var_transmissie = "Hand"
+var_km = "176000"
 var_doors = "4"
-var_pk = "136"
-var_cilinder = "2499"
-var_co2 = "213"
-var_euro = "euro 4"
-var_options = "4x4, ABS, Airbag, Airco, Alarm, Boordcomputer, Centrale vergrendeling, Elektrische ramen v + a, Elektrische ramen voor, Metallic lak, Parkeersensor, Radio & CD, Stuurbekrachtiging, Traction control, Trekhaak"
-var_carcolor = "Grijs"
+var_pk = ""
+var_cilinder = "1560"
+var_co2 = ""
+var_euro = ""
+var_options = """
+Boordcomputer
+Centrale vergrendeling
+Elektrische buitenspiegels
+Schuifdeur
+Airconditioning
+Traction-control
+Parkeersensor
+Verwarmde buitenspiegels
+Elektrische ramen
+ABS
+Mistlampen
+Electronic Stability Program (ESP)
+Airbags
+Alarm
+Radio
+Trekhaak
+Metaalkleur"""
+var_carcolor = "Groen"
 var_interiorcolor = "Grijs"

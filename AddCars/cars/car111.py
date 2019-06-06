@@ -16,13 +16,21 @@ var_carroserie = "Monovolume"
 var_month = "sep"
 var_year = "2007"
 var_gas = "Diesel"
-var_transmissie = "Manu"
+var_transmissie = "Hand"
 var_km = "192000"
 var_doors = "4"
 var_pk = "109"
 var_cilinder = "2198"
 var_co2 = "208"
 var_euro = "euro 4"
-var_options = "ABS, Airbag, Airco, Alarm, Boordcomputer, Centrale vergrendeling, Cruise control, Elektrische buitenspiegels, Elektrische ramen voor, Getint glas, Metallic lak, Radio & CD, Stuurbekrachtiging, Traction control, Verwarmde buitenspiegels"
+var_options = """
+Boordcomputer
+Centrale vergrendeling
+Elektrische buitenspiegels
+Elektrische ramen
+ABS
+Airbags
+Alarm
+Radio"""
 var_carcolor = "Groen"
 var_interiorcolor = "Grijs"

@@ -16,13 +16,27 @@ var_carroserie = "Monovolume"
 var_month = "jan"
 var_year = "2003"
 var_gas = "Diesel"
-var_transmissie = "Manu"
+var_transmissie = "Hand"
 var_km = "200000"
 var_doors = "5"
 var_pk = "100"
 var_cilinder = "1995"
 var_co2 = "175"
 var_euro = "euro 3"
-var_options = "ABS, Airbag, Airco, Alarm, Boordcomputer, Centrale vergrendeling, Elektrische buitenspiegels, Elektrische ramen v + a, Getint glas, Lichtmetalen velgen, Metallic lak, Mistlampen, Radio & CD, Stuurbekrachtiging, Traction control, Verwarmde buitenspiegels"
+var_options = """
+Boordcomputer
+Centrale vergrendeling
+Elektrische buitenspiegels
+Airconditioning
+Traction-control
+Verwarmde buitenspiegels
+Elektrische ramen
+ABS
+Mistlampen
+Airbags
+Alarm
+Radio
+Lichtmetalen velgen
+Metaalkleur"""
 var_carcolor = "Groen"
 var_interiorcolor = "Grijs"

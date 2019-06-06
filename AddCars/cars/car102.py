@@ -16,13 +16,27 @@ var_carroserie = "Monovolume"
 var_month = "feb"
 var_year = "2010"
 var_gas = "Benzine"
-var_transmissie = "Manu"
+var_transmissie = "Hand"
 var_km = "100000"
 var_doors = "5"
 var_pk = "115"
 var_cilinder = "1598"
 var_co2 = "169"
 var_euro = "euro 4"
-var_options = "ABS, Airbag, Airco, Alarm, Automatische airco, Boordcomputer, Centrale vergrendeling, Cruise control, Elektrische buitenspiegels, Elektrische ramen voor, Getint glas, Metallic lak, Parkeersensor, Radio & CD, Stuurbekrachtiging, Traction control, Trekhaak"
+var_options = """
+Cruise Control
+Boordcomputer
+Centrale vergrendeling
+Elektrische buitenspiegels
+Airconditioning
+Traction-control
+Parkeersensor
+Elektrische ramen
+ABS
+Airbags
+Alarm
+Radio
+Trekhaak
+Metaalkleur"""
 var_carcolor = "Zwart"
 var_interiorcolor = "Grijs"

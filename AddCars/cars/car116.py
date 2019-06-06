@@ -16,13 +16,32 @@ var_carroserie = "Monovolume"
 var_month = "sep"
 var_year = "2006"
 var_gas = "Diesel"
-var_transmissie = "Manu"
+var_transmissie = "Hand"
 var_km = "222000"
 var_doors = "5"
 var_pk = "125"
 var_cilinder = "1753"
 var_co2 = "164"
 var_euro = "euro 4"
-var_options = "ABS, Airbag, Airco, Alarm, Automatische airco, Boordcomputer, Centrale vergrendeling, Cruise control, Elektrische buitenspiegels, Elektrische ramen v + a, Elektrische zetelverstelling, Getint glas, Lederen bekleding, Lichtmetalen velgen, Metallic lak, Mistlampen, Parkeersensor, Radio & CD, Stuurbekrachtiging, Traction control, Trekhaak, Verwarmde buitenspiegels"
+var_options = """
+Lederen bekleding
+Cruise Control
+Boordcomputer
+Centrale vergrendeling
+Elektrische buitenspiegels
+Airconditioning
+Elektrische stoelverstelling
+Traction-control
+Parkeersensor
+Verwarmde buitenspiegels
+Elektrische ramen
+ABS
+Mistlampen
+Airbags
+Alarm
+Radio
+Lichtmetalen velgen
+Trekhaak
+Metaalkleur"""
 var_carcolor = "Grijs"
 var_interiorcolor = "Zwart"

@@ -16,13 +16,25 @@ var_carroserie = "Monovolume"
 var_month = "maa"
 var_year = "2009"
 var_gas = "Benzine"
-var_transmissie = "Manu"
+var_transmissie = "Hand"
 var_km = "110000"
 var_doors = "5"
 var_pk = "85"
 var_cilinder = "1390"
 var_co2 = "160"
 var_euro = "euro 4"
-var_options = "ABS, Airbag, Airco, Alarm, Boordcomputer, Centrale vergrendeling, Cruise control, Elektrische buitenspiegels, Elektrische ramen voor, Metallic lak, Radio & CD, Stuurbekrachtiging, Traction control"
+var_options = """
+Cruise Control
+Boordcomputer
+Centrale vergrendeling
+Elektrische buitenspiegels
+Airconditioning
+Traction-control
+Elektrische ramen
+ABS
+Airbags
+Alarm
+Radio
+Metaalkleur"""
 var_carcolor = "Zwart"
 var_interiorcolor = "Grijs"

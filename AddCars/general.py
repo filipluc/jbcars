@@ -130,6 +130,11 @@ class GeneralFunctions():
         elem8.send_keys(car_detail.var_desc)
         elem8.send_keys("\nopeningsuren\nmaandag tot vrijdag 10-17 uur\nzaterdag 10-14 uur\nadres\nLIERSESTEENWEG 153\n2547 LINT")
         # elem8.send_keys("\nVan 19/12/2018 tot 03/01/2019 is OPEN enkel op afspraak\n\nadres\nLIERSESTEENWEG 153\n2547 LINT")
+        time.sleep(1)
+
+        elem9 = driver.find_element_by_xpath("//input[contains(@id, 'js-feature-url')]")
+        elem9.send_keys("www.jbcars.be")
+        time.sleep(0.2)
 
         try:
             elem81 = driver.find_element_by_xpath("//select[@name='singleSelectAttribute[model]']")
@@ -153,11 +158,14 @@ class GeneralFunctions():
         elem83.send_keys(Keys.TAB)
         time.sleep(0.5)
 
-        elem84 = driver.find_element_by_xpath("//select[@name='singleSelectAttribute[body]']")
-        elem84.click()
-        elem84.send_keys(car_detail.var_carroserie)
-        elem84.send_keys(Keys.TAB)
-        time.sleep(0.5)
+        try:
+            elem84 = driver.find_element_by_xpath("//select[@name='singleSelectAttribute[body]']")
+            elem84.click()
+            elem84.send_keys(car_detail.var_carroserie)
+            elem84.send_keys(Keys.TAB)
+            time.sleep(0.5)
+        except NoSuchElementException:
+            pass
 
         elem85 = driver.find_element_by_xpath("//select[@name='singleSelectAttribute[aantaldeurenBE]']")
         elem85.click()

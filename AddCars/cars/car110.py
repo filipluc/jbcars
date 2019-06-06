@@ -16,13 +16,25 @@ var_carroserie = "Break"
 var_month = "okt"
 var_year = "2005"
 var_gas = "Diesel"
-var_transmissie = "Manu"
+var_transmissie = "Hand"
 var_km = "163000"
 var_doors = "5"
 var_pk = "100"
 var_cilinder = "1686"
 var_co2 = "135"
 var_euro = "euro 4"
-var_options = "ABS, Airbag, Airco, Alarm, Boordcomputer, Centrale vergrendeling, Elektrische buitenspiegels, Elektrische ramen voor, Getint glas, Metallic lak, Radio & CD, Stuurbekrachtiging, Traction control, Trekhaak"
+var_options = """
+Boordcomputer
+Centrale vergrendeling
+Elektrische buitenspiegels
+Airconditioning
+Traction-control
+Elektrische ramen
+ABS
+Airbags
+Alarm
+Radio
+Trekhaak
+Metaalkleur"""
 var_carcolor = "Grijs"
 var_interiorcolor = "Grijs"

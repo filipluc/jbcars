@@ -8,7 +8,7 @@ Created on Jun 3, 2018
 var_title = "mercedes ml 250 bluetec 4matic,garantie,prijs € 23139+btw"
 var_categorie = "Auto's"
 var_brand = "Mercedes"
-var_model = "M Klasse"
+var_model = "M-Klasse"
 var_desc = "prijs =23139 € + btw/tva\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"
 var_price = "27999"
 var_picspath = "car119"
@@ -23,6 +23,29 @@ var_pk = "204"
 var_cilinder = "2143"
 var_co2 = "158"
 var_euro = "euro 6"
-var_options = "4x4, ABS, Adaptieve lichten, Airbag, Airco, Alarm, Automatische airco, Bluetooth, Boordcomputer, Camera, Centrale vergrendeling, Cruise control, Elektrische buitenspiegels, Elektrische ramen v + a, Elektrische zetelverstelling, Getint glas, Lederen bekleding, Lichtmetalen velgen, Metallic lak, Mistlampen, Navigatiesysteem, Parkeersensor, Radio & CD, Stuurbekrachtiging, Traction control, Verwarmde buitenspiegels"
+var_options = """
+Cruise Control
+Bluetooth
+Parkeercamera
+Navigatiesysteem
+Elektrische buitenspiegels
+Elektrische stoelverstelling
+Parkeersensor
+Elektrische ramen
+4x4
+Adaptieve lichten
+Alarm
+Lichtmetalen velgen
+Metaalkleur
+Lederen bekleding
+Boordcomputer
+Centrale vergrendeling
+Airconditioning
+Traction-control
+Verwarmde buitenspiegels
+ABS
+Mistlampen
+Airbags
+Radio"""
 var_carcolor = "Zwart"
 var_interiorcolor = "Zwart"

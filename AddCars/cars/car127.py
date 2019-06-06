@@ -16,13 +16,34 @@ var_carroserie = "Cabriolet"
 var_month = "jun"
 var_year = "2012"
 var_gas = "Benzine"
-var_transmissie = "Manu"
+var_transmissie = "Hand"
 var_km = "71000"
 var_doors = "2"
 var_pk = "163"
 var_cilinder = "1598"
 var_co2 = "139"
 var_euro = "Euro 5"
-var_options = "ABS, Adaptieve lichten, Airbag, Airco, Alarm, Automatische airco, Bluetooth, Boordcomputer, Centrale vergrendeling, Elektrische buitenspiegels, Elektrische ramen voor, Getint glas, Lederen bekleding, Lichtmetalen velgen, Metallic lak, Mistlampen, Navigatiesysteem, Parkeersensor, Radio & CD, Stuurbekrachtiging, Traction control, Verwarmde buitenspiegels, Xenon verlichting, Zetelverwarming"
+var_options = """
+Bluetooth
+Navigatiesysteem
+Elektrische buitenspiegels
+Parkeersensor
+Elektrische ramen
+Adaptieve lichten
+Alarm
+Lichtmetalen velgen
+Metaalkleur
+Lederen bekleding
+Boordcomputer
+Centrale vergrendeling
+Airconditioning
+Traction-control
+Verwarmde buitenspiegels
+Xenon verlichting
+ABS
+Mistlampen
+Airbags
+Zetelverwarming
+Radio"""
 var_carcolor = "Zwart"
 var_interiorcolor = "Beige"

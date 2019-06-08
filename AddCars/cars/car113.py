@@ -5,11 +5,11 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "vw polo 1.2 benzine,Garantie,airco"
+var_title = "vw polo 1.2 benzine,Garantie,CAR PASS"
 var_categorie = "Auto's"
 var_brand = "Volkswagen"
 var_model = "Polo"
-var_desc = "1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"
+var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"
 var_price = "3999"
 var_picspath = "car113"
 var_carroserie = "Stadsauto"

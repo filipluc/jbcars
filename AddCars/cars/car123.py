@@ -5,11 +5,11 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "mini cooper D coupe PACEMAN,1.6 d,Garantie,CAR PASS,bwj.2014"
+var_title = "mini cooper PACEMAN coupe,1.6 d,Garantie,CAR PASS"
 var_categorie = "Auto's"
 var_brand = "Mini"
 var_model = "Cooper"
-var_desc = "1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"
+var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"
 var_price = "11999"
 var_picspath = "car123"
 var_carroserie = "Coupe"

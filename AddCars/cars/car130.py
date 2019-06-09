@@ -5,7 +5,7 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "vw transporter 1.9 tdi,double cabine 5 1 pl.,EXPORT"
+var_title = "vw transporter 1.9 tdi,double cabine 5plus1 pl.,EXPORT"
 var_categorie = "Auto's"
 var_brand = "Bestelwagens"
 var_model = "Volkswagen"

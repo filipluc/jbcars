@@ -5,7 +5,7 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "vw transporter 2.5 tdi OPEN LAADBAK,double cabine 5+1 pl."
+var_title = "vw transporter 2.5 tdi OPEN LAADBAK,double cabine 5plus1 pl."
 var_categorie = "Auto's"
 var_brand = "Bestelwagens"
 var_model = "Volkswagen"

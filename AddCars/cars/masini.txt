@@ -16,7 +16,7 @@
 116. ford s max 1.8 tdci, monovolume 7 zetels, leder
 117. opel zafira 2.0 dti,bwj.2003,209000km,7 pl./EXPORT
 118. skoda superb 1.6 d,GARANTIE,CAR PASS,euro 5
-119. mercedes ml 250 bluetec 4matic,garantie,prijs € 23139+btw
+119. mercedes ml 250 bluetec 4matic,garantie,prijs € 23139 btw
 120. ---
 121. ---
 122. ---
@@ -25,6 +25,6 @@
 125. mercedes GLC 250d 4MATIC coupe,204PK,bwj2017/garantie,euro6b
 126. renault trafic 2.5 dci,DOUBLE CABINE 6 zit,bwj. 2010,CARpass
 127. mini cooper s roadster 1.6 benzine,bwj. 2012/71000km,euro 5
-128. vw t4 transporter 2.5 tdi,double cabine 5+1 pl.,Open laadbak
-129. vw transporter 2.5 tdi OPEN LAADBAK,double cabine 5+1 pl.
-130. vw transporter 1.9 tdi,double cabine 5 1 pl.,EXPORT
+128. vw t4 transporter 2.5 tdi,dbl cabine 5plus1 pl.,Open laadbak
+129. vw transporter 2.5 tdi OPEN LAADBAK,double cabine 5plus1 pl.
+130. vw transporter 1.9 tdi,double cabine 5plus1 pl.,EXPORT

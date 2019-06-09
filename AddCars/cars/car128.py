@@ -5,7 +5,7 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "vw t4 transporter 2.5 tdi,double cabine 5+1 pl.,Open laadbak"
+var_title = "vw t4 transporter 2.5 tdi,dbl cabine 5plus1 pl.,Open laadbak"
 var_categorie = "Auto's"
 var_brand = "Bestelwagens"
 var_model = "Volkswagen"

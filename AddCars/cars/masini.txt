@@ -1,4 +1,4 @@
-101. ---
+101. kia sportage 2.0 d,Garantie,CAR PASS
 102. opel zafira,1.6 benzine,Garantie,7 zetels,bwj.2010,
 103. ford c max 1.6 hdi, airco, export
 104. alfa romeo spider 2.4 jtd
@@ -17,7 +17,7 @@
 117. opel zafira 2.0 dti,bwj.2003,209000km,7 pl./EXPORT
 118. skoda superb 1.6 d,GARANTIE,CAR PASS,euro 5
 119. mercedes ml 250 bluetec 4matic,garantie,prijs € 23139 btw
-120. ---
+120. opel insignia 2.0 d,AUTOMAAT,euro 5
 121. ---
 122. ---
 123. mini cooper PACEMAN coupe,1.6 d,Garantie,CAR PASS

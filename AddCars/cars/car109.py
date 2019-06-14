@@ -5,40 +5,43 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "peugeot partner OUTDOOR,1.6hdi,Garantie,CAR PASS,bwj.2010"
+var_title = "bmw 318d,AUTOMAAT,garantie,CAR PASS,euro 5"
 var_categorie = "Auto's"
-var_brand = "Peugeot"
-var_model = "Partner"
+var_brand = "BMW"
+var_model = "3 Reeks"
 var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"
-var_price = "4500"
+var_price = "6900"
 var_picspath = "car109"
-var_carroserie = "Monovolume"
+var_carroserie = "Break"
 var_month = ""
-var_year = "2010"
+var_year = "2008"
 var_gas = "Diesel"
-var_transmissie = "Hand"
-var_km = "176000"
+var_transmissie = "Auto"
+var_km = "172000"
 var_doors = "4"
 var_pk = ""
-var_cilinder = "1560"
-var_co2 = ""
+var_cilinder = "1995"
+var_co2 = "146"
 var_euro = ""
-var_options = """Boordcomputer
-Centrale vergrendeling
+var_options = """Cruise Control
+Bluetooth
 Elektrische buitenspiegels
-Schuifdeur
+Elektrische ramen
+Electronic Stability Program (ESP)
+Adaptieve lichten
+Isofix
+Alarm
+Lichtmetalen velgen
+Metaalkleur
+Lederen bekleding
+Boordcomputer
+Climate control
+Centrale vergrendeling
 Airconditioning
 Traction-control
-Parkeersensor
-Verwarmde buitenspiegels
-Elektrische ramen
 ABS
 Mistlampen
-Electronic Stability Program (ESP)
 Airbags
-Alarm
-Radio
-Trekhaak
-Metaalkleur"""
-var_carcolor = "Groen"
-var_interiorcolor = "Grijs"
+Radio"""
+var_carcolor = "Zwart"
+var_interiorcolor = "Zwart"

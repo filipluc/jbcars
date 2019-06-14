@@ -6,7 +6,7 @@
 106. peugeot partner 1.6 hdi,Garantie,bwj.2009/km 112000
 107. opel meriva 1.3 cdti,Garantie,bwj.2012,euro 5
 108. vw fox 1.2 benzine ,Garantie
-109. peugeot partner OUTDOOR,1.6hdi,Garantie,CAR PASS,bwj.2010
+109. ---
 110. opel astra 1.7 cdti break,Garantie
 111. ford transit 2,2 tdci,minibus 8 pl,car pass
 112. vw polo 1.4 tdi,Garantie,CAR PASS, 86000 km !!!

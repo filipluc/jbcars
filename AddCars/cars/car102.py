@@ -5,37 +5,40 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "opel zafira,1.6 benzine,Garantie,7 zetels,bwj.2010,"
+var_title = "citroen c3,benzine 1.3i,Garantie,CAR PASS,54000 km,airco"
 var_categorie = "Auto's"
-var_brand = "Opel"
-var_model = "Zafira"
+var_brand = "Citroën"
+var_model = "C3"
 var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"
-var_price = "6999"
+var_price = "4900"
 var_picspath = "car102"
-var_carroserie = "Monovolume"
-var_month = "feb"
-var_year = "2010"
+var_carroserie = "Stadsauto"
+var_month = ""
+var_year = "2009"
 var_gas = "Benzine"
 var_transmissie = "Hand"
-var_km = "100000"
+var_km = "54000"
 var_doors = "5"
-var_pk = "115"
-var_cilinder = "1598"
-var_co2 = "169"
+var_pk = ""
+var_cilinder = "1360"
+var_co2 = "145"
 var_euro = "euro 4"
 var_options = """Cruise Control
 Boordcomputer
+Climate control
 Centrale vergrendeling
 Elektrische buitenspiegels
 Airconditioning
 Traction-control
-Parkeersensor
+Verwarmde buitenspiegels
 Elektrische ramen
 ABS
+Mistlampen
+Electronic Stability Program (ESP)
 Airbags
+Isofix
 Alarm
 Radio
-Trekhaak
 Metaalkleur"""
-var_carcolor = "Zwart"
+var_carcolor = "Grijs"
 var_interiorcolor = "Grijs"

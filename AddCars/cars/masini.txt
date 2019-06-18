@@ -1,5 +1,5 @@
 101. kia sportage 2.0 d,Garantie,CAR PASS
-102. ---
+102. citroen c3,benzine 1.3i,Garantie,CAR PASS,54000 km,airco
 103. ford c max 1.6 hdi, airco, export
 104. alfa romeo spider 2.4 jtd
 105. volvo v50,2.0 d,1 jaar Garantie,CAR PASS,nieuwe staat

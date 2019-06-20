@@ -5,37 +5,46 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "kia sportage 2.0 d,Garantie,CAR PASS"
+var_title = "peugeot 508rxh HYBRID,2.0diesel,elektrisch,Garantie,CAR PASS"
 var_categorie = "Auto's"
-var_brand = "Kia"
-var_model = "Sportage"
-var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"
-var_price = "3999"
+var_brand = "Peugeot"
+var_model = "508"
+var_desc = "\nprijs € 10661+btw/tva\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"
+var_price = "12900"
 var_picspath = "car101"
-var_carroserie = "SUV"
+var_carroserie = ""
 var_month = ""
-var_year = "2008"
-var_gas = "Diesel"
-var_transmissie = "Hand"
-var_km = "125000"
+var_year = "2013"
+var_gas = "Hybride"
+var_transmissie = "Auto"
+var_km = "97000"
 var_doors = ""
 var_pk = ""
-var_cilinder = "1991"
-var_co2 = ""
-var_euro = ""
-var_options = """Boordcomputer
-Centrale vergrendeling
+var_cilinder = "1997"
+var_co2 = "107"
+var_euro = "euro 5"
+var_options = """Cruise Control
+Bluetooth
+Navigatiesysteem
 Elektrische buitenspiegels
-Traction-control
+Elektrische stoelverstelling
+Parkeersensor
 Elektrische ramen
-ABS
-Airbags
+Panoramadak
+Isofix
 Alarm
-Radio
 Lichtmetalen velgen
-Trekhaak"""
-var_carcolor = "Zwart"
-var_interiorcolor = "Grijs"
+Boordcomputer
+Centrale vergrendeling
+Start-stop-systeem
+Traction-control
+Verwarmde buitenspiegels
+ABS
+Mistlampen
+Airbags
+Radio"""
+var_carcolor = ""
+var_interiorcolor = ""
 
 
 

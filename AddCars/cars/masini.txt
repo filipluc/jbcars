@@ -8,7 +8,7 @@
 108. vw fox 1.2 benzine ,Garantie
 109. bmw 318d,AUTOMAAT,garantie,CAR PASS,euro 5
 110. opel astra 1.7 cdti break,Garantie
-111. ford transit 2,2 tdci,minibus 8 pl,car pass
+111. ---
 112. vw polo 1.4 tdi,Garantie,CAR PASS, 86000 km !!!
 113. vw polo 1.2 benzine,Garantie,airco
 114. landrover range rover sport 2.7 d, CAR PASS,bwj. 2009

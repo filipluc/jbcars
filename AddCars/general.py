@@ -38,7 +38,7 @@ class GeneralFunctions():
     
     def deleteAddCarFunction(self, car_detail):
         self.driver.get("https://www.2dehands.be/beheer/advertenties/overzicht/")
-        time.sleep(2)
+        time.sleep(4)
         if GeneralFunctions.check_exists_by_xpath(self, car_detail):
             print(str(car_detail) + '---Masina exista, va fi adaugata din nou')
             GeneralFunctions.addCarFunction(self, car_detail)
@@ -333,4 +333,4 @@ class GeneralFunctions():
 
         elem95 = driver.find_element_by_xpath("//a[contains(@id, 'syi-place-ad-button')]")
         elem95.click()
-        time.sleep(10)
+        time.sleep(12)

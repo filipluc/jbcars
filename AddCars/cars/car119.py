@@ -5,39 +5,38 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "mercedes ml 250 bluetec 4matic,garantie,prijs € 23139 btw"
+var_title = "peugeot 3008,1.6hdi,bwj.2015,Garantie,CAR PASS,euro 5b"
 var_categorie = "Auto's"
-var_brand = "Mercedes-Benz"
-var_model = "M-Klasse"
-var_desc = "\nprijs =23139 € + btw/tva\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"
-var_price = "27999"
+var_brand = "Peugeot"
+var_model = "3008"
+var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"
+var_price = "11900"
 var_picspath = "car119"
-var_carroserie = "SUV"
-var_month = "mei"
-var_year = "2012"
+var_carroserie = "Monovolume"
+var_month = ""
+var_year = "2015"
 var_gas = "Diesel"
-var_transmissie = "Auto"
-var_km = "79000"
+var_transmissie = "Hand"
+var_km = "52000"
 var_doors = "5"
-var_pk = "204"
-var_cilinder = "2143"
-var_co2 = "158"
-var_euro = "euro 6"
+var_pk = ""
+var_cilinder = "1560"
+var_co2 = "125"
+var_euro = "euro 5"
 var_options = """Cruise Control
 Bluetooth
-Parkeercamera
 Navigatiesysteem
 Elektrische buitenspiegels
-Elektrische stoelverstelling
 Parkeersensor
 Elektrische ramen
-4x4
+Electronic Stability Program (ESP)
 Adaptieve lichten
+Isofix
 Alarm
 Lichtmetalen velgen
 Metaalkleur
-Lederen bekleding
 Boordcomputer
+Climate control
 Centrale vergrendeling
 Airconditioning
 Traction-control

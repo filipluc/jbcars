@@ -2,8 +2,8 @@
 102. citroen c3,benzine 1.3i,Garantie,CAR PASS,54000 km,airco
 103. ford c max 1.6 hdi, airco, export
 104. alfa romeo spider 2.4 jtd
-105. ---
-106. peugeot partner 1.6 hdi,Garantie,bwj.2009/km 112000
+105. renault laguna coupe 2.0 dci,Garantie,CAR PASS
+106. ---
 107. ---
 108. vw fox 1.2 benzine ,Garantie
 109. bmw 318d,AUTOMAAT,garantie,CAR PASS,euro 5
@@ -16,7 +16,7 @@
 116. ---
 117. opel zafira 2.0 dti,bwj.2003,209000km,7 pl./EXPORT
 118. skoda superb 1.6 d,GARANTIE,CAR PASS,euro 5
-119. mercedes ml 250 bluetec 4matic,garantie,prijs € 23139 btw
+119. peugeot 3008,1.6hdi,bwj.2015,Garantie,CAR PASS,euro 5b
 120. opel insignia 2.0 d,AUTOMAAT,euro 5
 121. ---
 122. ---

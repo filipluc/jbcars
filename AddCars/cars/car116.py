@@ -5,42 +5,43 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "ford s max 1.8 tdci, monovolume 7 zetels, leder"
+var_title = "chrysler grand voyager 2.8 crd,7 zit,aut,CAR PASS,160000 km"
 var_categorie = "Auto's"
-var_brand = "Ford"
-var_model = "S-Max"
-var_desc = "\nexport of handelaar\n"
-var_price = "3000"
+var_brand = "Chrysler"
+var_model = "Grand Voyager"
+var_desc = "\nenkel voor handelaar of export\nCAR PASS\ngekeurd met roos formulier\n"
+var_price = "8000"
 var_picspath = "car116"
 var_carroserie = "Monovolume"
-var_month = "sep"
-var_year = "2006"
+var_month = ""
+var_year = "2008"
 var_gas = "Diesel"
-var_transmissie = "Hand"
-var_km = "222000"
+var_transmissie = "Auto"
+var_km = "160000"
 var_doors = "5"
-var_pk = "125"
-var_cilinder = "1753"
-var_co2 = "164"
+var_pk = ""
+var_cilinder = "2777"
+var_co2 = "247"
 var_euro = "euro 4"
-var_options = """Lederen bekleding
-Cruise Control
-Boordcomputer
-Centrale vergrendeling
+var_options = """Cruise Control
+Bluetooth
+Parkeercamera
+Navigatiesysteem
 Elektrische buitenspiegels
-Airconditioning
 Elektrische stoelverstelling
-Traction-control
 Parkeersensor
-Verwarmde buitenspiegels
 Elektrische ramen
+Alarm
+Lichtmetalen velgen
+Boordcomputer
+Climate control
+Centrale vergrendeling
+Traction-control
+Verwarmde buitenspiegels
 ABS
 Mistlampen
 Airbags
-Alarm
 Radio
-Lichtmetalen velgen
-Trekhaak
-Metaalkleur"""
-var_carcolor = "Grijs"
+Trekhaak"""
+var_carcolor = "Zwart"
 var_interiorcolor = "Zwart"

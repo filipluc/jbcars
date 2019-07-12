@@ -5,39 +5,36 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "opel meriva 1.3 cdti,Garantie,bwj.2012,euro 5"
+var_title = "opel insignia 1.6 benzine,Garantie,CAR PASS,38000 km,euro 5"
 var_categorie = "Auto's"
 var_brand = "Opel"
-var_model = "Meriva"
+var_model = "Insignia"
 var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"
-var_price = "5499"
+var_price = "9900"
 var_picspath = "car107"
-var_carroserie = "Monovolume"
-var_month = "apr"
-var_year = "2012"
-var_gas = "Diesel"
+var_carroserie = "Stadsauto"
+var_month = ""
+var_year = "2010"
+var_gas = "Benzine"
 var_transmissie = "Hand"
-var_km = "133000"
+var_km = "38000"
 var_doors = "5"
-var_pk = "95"
-var_cilinder = "1248"
-var_co2 = "119"
+var_pk = ""
+var_cilinder = "1598"
+var_co2 = "174"
 var_euro = "euro 5"
 var_options = """Cruise Control
 Bluetooth
 Boordcomputer
+Climate control
 Centrale vergrendeling
 Elektrische buitenspiegels
-Airconditioning
-Traction-control
 Parkeersensor
+Verwarmde buitenspiegels
 Elektrische ramen
 ABS
-Mistlampen
 Airbags
 Alarm
-Radio
-Lichtmetalen velgen
-Metaalkleur"""
-var_carcolor = "Grijs"
+Radio"""
+var_carcolor = "Groen"
 var_interiorcolor = "Grijs"

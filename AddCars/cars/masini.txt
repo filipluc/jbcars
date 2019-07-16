@@ -3,7 +3,7 @@
 103. ford c max 1.6 hdi, airco, export
 104. alfa romeo spider 2.4 jtd
 105. renault laguna coupe 2.0 dci,Garantie,CAR PASS
-106. ---
+106. renault megane CABRIO,1.6 benzine,AUTOMAAT,Garantie,CAR PASS
 107. opel insignia 1.6 benzine,Garantie,CAR PASS,38000 km,euro 5
 108. vw fox 1.2 benzine ,Garantie
 109. bmw 318d,AUTOMAAT,garantie,CAR PASS,euro 5

@@ -5,34 +5,44 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "peugeot 206+,1.1 benzine,Garantie,CAR PASS,97000 kmbwj.2010"
+var_title = "renault megane CABRIO,1.6 benzine,AUTOMAAT,Garantie,CAR PASS"
 var_categorie = "Auto's"
-var_brand = "Peugeot"
-var_model = "206"
+var_brand = "Renault"
+var_model = "Mégane"
 var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"
-var_price = "4500"
+var_price = "4900"
 var_picspath = "car106"
-var_carroserie = "Stasauto"
+var_carroserie = "Cabriolet"
 var_month = ""
-var_year = "2010"
+var_year = "2005"
 var_gas = "Benzine"
-var_transmissie = "Hand"
-var_km = "97000"
-var_doors = "5"
+var_transmissie = "Auto"
+var_km = "117000"
+var_doors = "2"
 var_pk = ""
-var_cilinder = "1124"
-var_co2 = "135"
+var_cilinder = "1598"
+var_co2 = "187"
 var_euro = "euro 4"
-var_options = """Boordcomputer
-Centrale vergrendeling
+var_options = """Navigatiesysteem
 Elektrische buitenspiegels
-Airconditioning
+Open / panorama dak
 Elektrische ramen
-ABS
+Panoramadak
 Electronic Stability Program (ESP)
-Airbags
+Isofix
 Alarm
-Radio
-Metaalkleur"""
-var_carcolor = "Grijs"
-var_interiorcolor = "Grijs"
+Lichtmetalen velgen
+Metaalkleur
+Lederen bekleding
+Boordcomputer
+Climate control
+Centrale vergrendeling
+Airconditioning
+Traction-control
+Verwarmde buitenspiegels
+ABS
+Mistlampen
+Airbags
+Radio"""
+var_carcolor = "Zwart"
+var_interiorcolor = "Zwart"

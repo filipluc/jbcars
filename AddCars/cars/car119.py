@@ -5,45 +5,34 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "peugeot 3008,1.6hdi,bwj.2015,Garantie,CAR PASS,euro 5b"
+var_title = "kia ceed 1.4 benzine,bwj.2009,airco"
 var_categorie = "Auto's"
-var_brand = "Peugeot"
-var_model = "3008"
-var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"
-var_price = "11900"
+var_brand = "Kia"
+var_model = "(Pro) Cee d"
+var_desc = "\nexport of handelaar\n"
+var_price = "3500"
 var_picspath = "car119"
-var_carroserie = "Monovolume"
+var_carroserie = "Stadsauto"
 var_month = ""
-var_year = "2015"
-var_gas = "Diesel"
+var_year = "2009"
+var_gas = "Benzine"
 var_transmissie = "Hand"
-var_km = "52000"
+var_km = "130000"
 var_doors = "5"
 var_pk = ""
-var_cilinder = "1560"
-var_co2 = "125"
-var_euro = "euro 5"
-var_options = """Cruise Control
-Bluetooth
-Navigatiesysteem
-Elektrische buitenspiegels
-Parkeersensor
-Elektrische ramen
-Electronic Stability Program (ESP)
-Adaptieve lichten
-Isofix
-Alarm
-Lichtmetalen velgen
-Metaalkleur
-Boordcomputer
-Climate control
+var_cilinder = "1396"
+var_co2 = "137"
+var_euro = "euro 4"
+var_options = """Boordcomputer
 Centrale vergrendeling
-Airconditioning
+Elektrische buitenspiegels
 Traction-control
 Verwarmde buitenspiegels
+Elektrische ramen
 ABS
-Mistlampen
 Airbags
+Isofix
+Alarm
 Radio"""
-var_carcolor = "Zwart"
-var_interiorcolor = "Zwart"
+var_carcolor = ""
+var_interiorcolor = ""

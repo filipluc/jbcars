@@ -327,7 +327,7 @@ class GeneralFunctions():
         time.sleep(0.5)
 
           
-        elem94 = driver.find_element_by_xpath("//span[text()='Gratis']")
+        elem94 = driver.find_element_by_xpath("//*[@id='js-products']/div[1]/div[2]/div/div[2]/label/div[1]/div[2]/p")
         elem94.click()
         time.sleep(1)
 

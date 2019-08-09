@@ -326,10 +326,15 @@ class GeneralFunctions():
         elem93.send_keys(Keys.TAB)
         time.sleep(0.5)
 
-          
-        elem94 = driver.find_element_by_xpath("//*[@id='js-products']/div[1]/div[2]/div/div[2]/label/div[1]/div[2]/p")
-        elem94.click()
-        time.sleep(1)
+
+        try:
+            elem94 = driver.find_element_by_xpath("//span[text()='Gratis']")
+            elem94.click()
+            time.sleep(1)
+        except NoSuchElementException:
+            elem94 = driver.find_element_by_xpath("//*[@id='js-products']/div[1]/div[2]/div/div[2]/label/div[1]/div[2]/p")
+            elem94.click()
+            time.sleep(1)
 
         elem95 = driver.find_element_by_xpath("//a[contains(@id, 'syi-place-ad-button')]")
         elem95.click()

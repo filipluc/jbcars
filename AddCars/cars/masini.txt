@@ -1,9 +1,9 @@
-101. peugeot 508rxh HYBRID,2.0diesel,elektrisch,Garantie,CAR PASS
+101. citroen berlingo 1.6 hdi,airco,L.V. 3zit,bwj.2012/euro 5
 102. citroen c3,benzine 1.3i,Garantie,CAR PASS,54000 km,airco
 103. ford c max 1.6 hdi, airco, export
 104. alfa romeo spider 2.4 jtd
-105. renault laguna coupe 2.0 dci,Garantie,CAR PASS
-106. ---
+105. peugeot partner 1.6hdi,Garantie,CAR PASS,bwj2012/euro 5
+106. ford tourneo connect 1.6d,Garantie,CAR PASS,euro 5b,bwj.2015
 107. opel insignia 1.6 benzine,Garantie,CAR PASS,38000 km,euro 5
 108. vw fox 1.2 benzine ,Garantie
 109. bmw 318d,AUTOMAAT,garantie,CAR PASS,euro 5

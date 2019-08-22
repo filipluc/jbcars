@@ -5,44 +5,35 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "peugeot 508rxh HYBRID,2.0diesel,elektrisch,Garantie,CAR PASS"
+var_title = "citroen berlingo 1.6 hdi,airco,L.V. 3zit,bwj.2012/euro 5"
 var_categorie = "Auto's"
-var_brand = "Peugeot"
-var_model = "508"
-var_desc = "\nprijs € 10661+btw/tva\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"
-var_price = "12900"
+var_brand = "Bestelwagens"
+var_model = "Citroën"
+var_desc = "\njuist nieuwe distributie riem+ waterpomp\nCAR PASS\ngekeurd met roos formulier\n"
+var_price = "6000"
 var_picspath = "car101"
 var_carroserie = ""
 var_month = ""
-var_year = "2013"
-var_gas = "Hybride"
-var_transmissie = "Auto"
-var_km = "97000"
+var_year = "2012"
+var_gas = "Diesel"
+var_transmissie = "Hand"
+var_km = "125000"
 var_doors = ""
 var_pk = ""
-var_cilinder = "1997"
-var_co2 = "107"
+var_cilinder = "1560"
+var_co2 = ""
 var_euro = "euro 5"
-var_options = """Cruise Control
-Bluetooth
-Navigatiesysteem
+var_options = """Boordcomputer
+Centrale vergrendeling
 Elektrische buitenspiegels
-Elektrische stoelverstelling
-Parkeersensor
+Traction-control
 Elektrische ramen
-Panoramadak
+ABS
+Airbags
 Isofix
 Alarm
-Lichtmetalen velgen
-Boordcomputer
-Centrale vergrendeling
-Start-stop-systeem
-Traction-control
-Verwarmde buitenspiegels
-ABS
-Mistlampen
-Airbags
-Radio"""
+Radio
+Trekhaak"""
 var_carcolor = ""
 var_interiorcolor = ""
 

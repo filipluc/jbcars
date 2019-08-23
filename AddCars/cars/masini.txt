@@ -10,16 +10,16 @@
 110. opel astra 1.7 cdti break,Garantie
 111. vw passat 1.9 tdi,AUTOMAAT,leder,118000 km,CAR PASS
 112. vw polo 1.4 tdi,Garantie,CAR PASS, 86000 km !!!
-113. ---
+113. citroen c1,benzine 1.0,Garantie,CAR PASS,bwj2011/55000km,Eu5
 114. landrover range rover sport 2.7 d, CAR PASS,bwj. 2009
 115. opel vectra 2.0 dth dti 16v, Garantie, CAR PASS
 116. chrysler grand voyager 2.8 crd,7 zit,aut,CAR PASS,160000 km
 117. opel zafira 2.0 dti,bwj.2003,209000km,7 pl./EXPORT
 118. skoda superb 1.6 d,GARANTIE,CAR PASS,euro 5
-119. kia ceed 1.4 benzine,bwj.2009,airco
+119. kia cee d 1.4 benzine,Garantie,CAR PASS,airco
 120. opel insignia 2.0 d,AUTOMAAT,euro 5
 121. vw beetle 1.9 tdi,Garantie ,CAR PASS,bwj.2008
-122. ---
+122. peugeot 207, 1.4 benzine,Garantie,CAR PASS,bwj 2009/84000km
 123. mini cooper PACEMAN coupe,1.6 d,Garantie,CAR PASS
 124. ---
 125. mercedes GLC 250d 4MATIC coupe,204PK,bwj2017/garantie,euro6b

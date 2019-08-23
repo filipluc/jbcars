@@ -5,38 +5,34 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "peugeot 3008,1.6 hdi,GARANTIE,CAR PASS,euro 5"
+var_title = "citroen c1,benzine 1.0,Garantie,CAR PASS,bwj2011/55000km,Eu5"
 var_categorie = "Auto's"
-var_brand = "Peugeot"
-var_model = "3008"
+var_brand = "Citroën"
+var_model = "C1"
 var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"
-var_price = "5900"
+var_price = "3900"
 var_picspath = "car113"
-var_carroserie = "SUV"
+var_carroserie = "Stadsauto"
 var_month = ""
 var_year = "2011"
-var_gas = "Diesel"
+var_gas = "Benzine"
 var_transmissie = "Hand"
-var_km = "129000"
-var_doors = "5"
+var_km = "55000"
+var_doors = "3"
 var_pk = ""
-var_cilinder = "1560"
-var_co2 = "135"
+var_cilinder = "998"
+var_co2 = "103"
 var_euro = "euro 5"
-var_options = """Cruise Control
-Boordcomputer
+var_options = """Boordcomputer
 Centrale vergrendeling
 Elektrische buitenspiegels
-Airconditioning
 Traction-control
 Verwarmde buitenspiegels
 Elektrische ramen
 ABS
-Mistlampen
-Electronic Stability Program (ESP)
 Airbags
+Isofix
 Alarm
-Radio
-Metaalkleur"""
-var_carcolor = "Zwart"
-var_interiorcolor = "Grijs"
+Radio"""
+var_carcolor = ""
+var_interiorcolor = ""

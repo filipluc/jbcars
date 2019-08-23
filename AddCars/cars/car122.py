@@ -5,24 +5,34 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "skoda fabia 1.2 benzine,Garantie,bwj.2014,airco,71000 km"
+var_title = "peugeot 207, 1.4 benzine,Garantie,CAR PASS,bwj 2009/84000km"
 var_categorie = "Auto's"
-var_brand = "Skoda"
-var_model = "Fabia"
+var_brand = "Peugeot"
+var_model = "207"
 var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"
-var_price = "5999"
+var_price = "3999"
 var_picspath = "car122"
-var_carroserie = "Break"
-var_month = "maa"
-var_year = "2014"
+var_carroserie = "Stadsauto"
+var_month = ""
+var_year = "2009"
 var_gas = "Benzine"
-var_transmissie = "Manu"
-var_km = "70000"
-var_doors = "5"
-var_pk = "60"
-var_cilinder = "1198"
-var_co2 = "128"
-var_euro = "euro 5"
-var_options = "ABS, Airbag, Airco, Alarm, Boordcomputer, Centrale vergrendeling, Elektrische ramen voor, Getint glas, Metallic lak, Parkeersensor, Radio & CD, Stuurbekrachtiging, Traction control"
-var_carcolor = "Grijs"
-var_interiorcolor = "Grijs"
+var_transmissie = "Hand"
+var_km = "84000"
+var_doors = ""
+var_pk = ""
+var_cilinder = "1360"
+var_co2 = "150"
+var_euro = "euro 4"
+var_options = """Boordcomputer
+Centrale vergrendeling
+Elektrische buitenspiegels
+Traction-control
+Verwarmde buitenspiegels
+Elektrische ramen
+ABS
+Airbags
+Isofix
+Alarm
+Radio"""
+var_carcolor = ""
+var_interiorcolor = ""

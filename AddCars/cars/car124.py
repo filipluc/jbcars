@@ -5,24 +5,44 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "opel corsa 1.3 cdti ,Garantie,CAR PASS,airco"
+var_title = "opel zafira 1.7 d,Garantie,CAR PASS,7 zit,euro 5"
 var_categorie = "Auto's"
 var_brand = "Opel"
-var_model = "Corsa"
+var_model = "Zafira"
 var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n\n"
-var_price = "2999"
+var_price = "4999"
 var_picspath = "car124"
-var_carroserie = "Berline 3"
-var_month = "aug"
-var_year = "2008"
+var_carroserie = "Monovolume"
+var_month = ""
+var_year = "2011"
 var_gas = "Diesel"
 var_transmissie = "Hand"
-var_km = "150000"
-var_doors = "3"
-var_pk = "75"
-var_cilinder = "1248"
-var_co2 = "119"
-var_euro = "euro 4"
-var_options = "ABS, Airbag, Airco, Alarm, Boordcomputer, Centrale vergrendeling, Elektrische buitenspiegels, Elektrische ramen voor, Getint glas, Lichtmetalen velgen, Metallic lak, Radio & CD, Stuurbekrachtiging, Traction control"
-var_carcolor = "Zwart"
-var_interiorcolor = "Grijs"
+var_km = "137000"
+var_doors = ""
+var_pk = ""
+var_cilinder = "1686"
+var_co2 = "134"
+var_euro = "euro 5"
+var_options = """Cruise Control
+Navigatiesysteem
+Elektrische buitenspiegels
+Parkeersensor
+Elektrische ramen
+Electronic Stability Program (ESP)
+Isofix
+Alarm
+Lichtmetalen velgen
+Metaalkleur
+Lederen bekleding
+Boordcomputer
+Climate control
+Centrale vergrendeling
+Airconditioning
+Traction-control
+Verwarmde buitenspiegels
+ABS
+Mistlampen
+Airbags
+Radio"""
+var_carcolor = ""
+var_interiorcolor = ""

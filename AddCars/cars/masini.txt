@@ -21,7 +21,7 @@
 121. vw beetle 1.9 tdi,Garantie ,CAR PASS,bwj.2008
 122. peugeot 207, 1.4 benzine,Garantie,CAR PASS,bwj 2009/84000km
 123. mini cooper PACEMAN coupe,1.6 d,Garantie,CAR PASS
-124. ---
+124. opel zafira 1.7 d,Garantie,CAR PASS,7 zit,euro 5
 125. mercedes GLC 250d 4MATIC coupe,204PK,bwj2017/garantie,euro6b
 126. ---
 127. mini cooper s roadster 1.6 benzine,bwj. 2012/71000km,euro 5

@@ -15,13 +15,13 @@
 115. opel vectra 2.0 dth dti 16v, Garantie, CAR PASS
 116. chrysler grand voyager 2.8 crd,7 zit,aut,CAR PASS,160000 km
 117. opel zafira 2.0 dti,bwj.2003,209000km,7 pl./EXPORT
-118. skoda superb 1.6 d,GARANTIE,CAR PASS,euro 5
+118. ---
 119. ---
 120. opel insignia 2.0 d,AUTOMAAT,euro 5
 121. vw beetle 1.9 tdi,Garantie ,CAR PASS,bwj.2008
 122. peugeot 207, 1.4 benzine,Garantie,CAR PASS,bwj 2009/84000km
 123. mini cooper PACEMAN coupe,1.6 d,Garantie,CAR PASS
-124. opel zafira 1.7 d,Garantie,CAR PASS,7 zit,euro 5
+124. ---
 125. mercedes GLC 250d 4MATIC coupe,204PK,bwj2017/garantie,euro6b
 126. ---
 127. mini cooper s roadster 1.6 benzine,bwj. 2012/71000km,euro 5

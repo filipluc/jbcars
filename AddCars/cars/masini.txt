@@ -10,7 +10,7 @@
 110. opel astra 1.7 cdti break,Garantie
 111. vw passat 1.9 tdi,AUTOMAAT,leder,118000 km,CAR PASS
 112. vw polo 1.4 tdi,Garantie,CAR PASS, 86000 km !!!
-113. citroen c1,benzine 1.0,Garantie,CAR PASS,bwj2011/55000km,Eu5
+113. ---
 114. landrover range rover sport 2.7 d, CAR PASS,bwj. 2009
 115. opel vectra 2.0 dth dti 16v, Garantie, CAR PASS
 116. chrysler grand voyager 2.8 crd,7 zit,aut,CAR PASS,160000 km

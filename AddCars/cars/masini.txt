@@ -3,7 +3,7 @@
 103. ford c max 1.6 hdi, airco, export
 104. alfa romeo spider 2.4 jtd
 105. peugeot partner 1.6hdi,Garantie,CAR PASS,bwj2012/euro 5
-106. ford tourneo connect 1.6d,Garantie,CAR PASS,euro 5b,bwj.2015
+106. kia soul 1.6 d,AUTOMAAT,leder
 107. opel insignia 1.6 benzine,Garantie,CAR PASS,38000 km,euro 5
 108. vw fox 1.2 benzine ,Garantie
 109. bmw 318d,AUTOMAAT,garantie,CAR PASS,euro 5
@@ -19,7 +19,7 @@
 119. ---
 120. opel insignia 2.0 d,AUTOMAAT,euro 5
 121. vw beetle 1.9 tdi,Garantie ,CAR PASS,bwj.2008
-122. peugeot 207, 1.4 benzine,Garantie,CAR PASS,bwj 2009/84000km
+122. ---
 123. mini cooper PACEMAN coupe,1.6 d,Garantie,CAR PASS
 124. ---
 125. mercedes GLC 250d 4MATIC coupe,204PK,bwj2017/garantie,euro6b

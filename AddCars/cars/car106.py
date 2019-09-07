@@ -5,43 +5,43 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "ford tourneo connect 1.6d,Garantie,CAR PASS,euro 5b,bwj.2015"
+var_title = "kia soul 1.6 d,AUTOMAAT,leder"
 var_categorie = "Auto's"
-var_brand = "Ford"
-var_model = "Tourneo Connect"
-var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"
-var_price = "11900"
+var_brand = "Kia"
+var_model = "Soul"
+var_desc = "\nenkel voor export of handelaar\ngekeurd met roos formulier\n"
+var_price = "3500"
 var_picspath = "car106"
-var_carroserie = "Monovolume"
+var_carroserie = "Stadsauto"
 var_month = ""
-var_year = "2015"
+var_year = "2009"
 var_gas = "Diesel"
-var_transmissie = "Hand"
-var_km = "50000"
+var_transmissie = "Auto"
+var_km = "199000"
 var_doors = ""
 var_pk = ""
-var_cilinder = "1560"
-var_co2 = "130"
-var_euro = "euro 5"
-var_options = """Cruise Control
-Bluetooth
-Parkeercamera
+var_cilinder = "1582"
+var_co2 = "155"
+var_euro = "euro 4"
+var_options = """Bluetooth
 Elektrische buitenspiegels
 Parkeersensor
 USB
 Elektrische ramen
-Panoramadak
+Electronic Stability Program (ESP)
 Isofix
 Alarm
 Lichtmetalen velgen
+Metaalkleur
+Lederen bekleding
 Boordcomputer
-Climate control
 Centrale vergrendeling
+Airconditioning
 Traction-control
+Verwarmde buitenspiegels
 ABS
-Mistlampen
 Airbags
-Radio
-Trekhaak"""
+Zetelverwarming
+Radio"""
 var_carcolor = ""
 var_interiorcolor = ""

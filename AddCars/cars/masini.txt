@@ -1,5 +1,5 @@
 101. citroen berlingo 1.6 hdi,airco,L.V. 3zit,bwj.2012/euro 5
-102. citroen c3,benzine 1.3i,Garantie,CAR PASS,54000 km,airco
+102. ---
 103. ford c max 1.6 hdi, airco, export
 104. alfa romeo spider 2.4 jtd
 105. peugeot partner 1.6hdi,Garantie,CAR PASS,bwj2012/euro 5

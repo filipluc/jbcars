@@ -5,40 +5,42 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "citroen c3,benzine 1.3i,Garantie,CAR PASS,54000 km,airco"
+var_title = "peugeot 5008,1.6d,Garantie,CAR PASS,leder,Glazen dak,euro 5"
 var_categorie = "Auto's"
-var_brand = "Citroën"
-var_model = "C3"
+var_brand = "Peugeot"
+var_model = "5008"
 var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"
-var_price = "3999"
+var_price = "6900"
 var_picspath = "car102"
-var_carroserie = "Stadsauto"
+var_carroserie = "Monovolume"
 var_month = ""
-var_year = "2009"
-var_gas = "Benzine"
+var_year = "2011"
+var_gas = "Diesel"
 var_transmissie = "Hand"
-var_km = "54000"
+var_km = "144000"
 var_doors = "5"
 var_pk = ""
-var_cilinder = "1360"
-var_co2 = "145"
-var_euro = "euro 4"
+var_cilinder = "1560"
+var_co2 = "144"
+var_euro = "euro 5"
 var_options = """Cruise Control
+Navigatiesysteem
+Elektrische buitenspiegels
+Parkeersensor
+Elektrische ramen
+Panoramadak
+Isofix
+Alarm
+Lichtmetalen velgen
 Boordcomputer
 Climate control
 Centrale vergrendeling
-Elektrische buitenspiegels
-Airconditioning
 Traction-control
 Verwarmde buitenspiegels
-Elektrische ramen
 ABS
 Mistlampen
-Electronic Stability Program (ESP)
 Airbags
-Isofix
-Alarm
 Radio
-Metaalkleur"""
-var_carcolor = "Grijs"
-var_interiorcolor = "Grijs"
+Trekhaak"""
+var_carcolor = ""
+var_interiorcolor = ""

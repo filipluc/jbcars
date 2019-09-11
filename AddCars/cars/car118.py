@@ -5,42 +5,34 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "skoda superb 1.6 d,GARANTIE,CAR PASS,euro 5"
+var_title = "ford fiesta 1.4 benzine,Garantie,CAR PASS,15.600 km !!!"
 var_categorie = "Auto's"
-var_brand = "Skoda"
-var_model = "Superb"
+var_brand = "Ford"
+var_model = "Fiësta"
 var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"
-var_price = "7950"
+var_price = "6500"
 var_picspath = "car118"
-var_carroserie = "Berline"
+var_carroserie = "Stadsauto"
 var_month = ""
-var_year = "2011"
-var_gas = "Diesel"
+var_year = "2009"
+var_gas = "Benzine"
 var_transmissie = "Hand"
-var_km = "135000"
-var_doors = "4"
+var_km = "15600"
+var_doors = ""
 var_pk = ""
-var_cilinder = "1598"
-var_co2 = ""
-var_euro = ""
-var_options = """Cruise Control
-Bluetooth
-Navigatiesysteem
-Elektrische buitenspiegels
-Elektrische stoelverstelling
-Parkeersensor
-Elektrische ramen
-Isofix
-Alarm
-Lichtmetalen velgen
-Boordcomputer
-Climate control
+var_cilinder = "1388"
+var_co2 = "133"
+var_euro = "Euro 4"
+var_options = """Boordcomputer
 Centrale vergrendeling
+Elektrische buitenspiegels
 Traction-control
 Verwarmde buitenspiegels
+Elektrische ramen
 ABS
-Mistlampen
 Airbags
+Isofix
+Alarm
 Radio"""
-var_carcolor = "Wit"
-var_interiorcolor = "Grijs"
+var_carcolor = ""
+var_interiorcolor = ""

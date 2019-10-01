@@ -6,7 +6,7 @@
 106. kia soul 1.6 d,AUTOMAAT,leder
 107. ford c max,1.6 hdi,airco
 108. vw fox 1.2 benzine ,Garantie
-109. ---
+109. opel corsa 1.0 benzine,Garantie,CAR PASS,euro 6b
 110. opel astra 1.7 cdti break,Garantie
 111. vw passat 1.9 tdi,AUTOMAAT,leder,118000 km,CAR PASS
 112. ---

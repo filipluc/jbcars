@@ -81,8 +81,8 @@ class AdaugaMasini(unittest.TestCase):
     def tearDown(self):
         self.driver.quit()
 
-    # def test_car101(self):
-    #     GeneralFunctions.deleteAddCarFunction(self, car101)
+    def test_car101(self):
+        GeneralFunctions.deleteAddCarFunction(self, car101)
     
     def test_car102(self):
         GeneralFunctions.deleteAddCarFunction(self, car102)

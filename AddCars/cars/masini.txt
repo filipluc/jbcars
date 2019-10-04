@@ -2,7 +2,7 @@
 102. peugeot 5008,1.6d,Garantie,CAR PASS,leder,Glazen dak,euro 5
 103. dacia lodgy 1.2 benzine,airco,navi,euro 5
 104. alfa romeo spider 2.4 jtd
-105. ---
+105. lexus is 220 d,Garantie,CAR PASS
 106. kia soul 1.6 d,AUTOMAAT,leder
 107. ford c max,1.6 hdi,airco
 108. vw fox 1.2 benzine ,Garantie

@@ -9,7 +9,7 @@
 109. opel corsa 1.0 benzine,Garantie,CAR PASS,euro 6b
 110. opel astra 1.7 cdti break,Garantie
 111. vw passat 1.9 tdi,AUTOMAAT,leder,118000 km,CAR PASS
-112. ---
+112. mercedes c220cdi,AUTOMAAT,leder,navigatie
 113. opel zafira tourer 2.0d,Garantie,CAR PASS, 7 zit,euro 5
 114. landrover range rover sport 2.7 d, CAR PASS,bwj. 2009
 115. opel vectra 2.0 dth dti 16v, Garantie, CAR PASS

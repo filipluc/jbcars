@@ -6,7 +6,7 @@
 106. ---
 107. ford c max,1.6 hdi,airco
 108. vw fox 1.2 benzine ,Garantie
-109. opel corsa 1.0 benzine,Garantie,CAR PASS,euro 6b
+109. opel zafira 1.9 d,Garantie,CAR PASS,7 zit
 110. opel astra 1.7 cdti break,Garantie
 111. vw passat 1.9 tdi,AUTOMAAT,leder,118000 km,CAR PASS
 112. ---

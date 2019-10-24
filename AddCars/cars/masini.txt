@@ -1,5 +1,5 @@
 101. citroen berlingo 1.6 hdi,airco,L.V. 3zit,bwj.2012/euro 5
-102. peugeot 5008,1.6d,Garantie,CAR PASS,leder,Glazen dak,euro 5
+102. ---
 103. dacia lodgy 1.2 benzine,airco,navi,euro 5
 104. alfa romeo spider 2.4 jtd
 105. lexus is 220 d,Garantie,CAR PASS

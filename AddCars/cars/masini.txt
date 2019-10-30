@@ -1,9 +1,9 @@
 101. citroen berlingo 1.6 hdi,airco,L.V. 3zit,bwj.2012/euro 5
-102. ---
-103. dacia lodgy 1.2 benzine,airco,navi,euro 5
+102. skoda octavia 1.9 tdi,Garantie,CAR PASS,leder,navigatie
+103. --dacia lodgy 1.2 benzine,airco,navi,euro 5
 104. alfa romeo spider 2.4 jtd
 105. lexus is 220 d,Garantie,CAR PASS
-106. ---
+106. chevrolet cruze 1.7 d,Garantie,CAR PASS,euro 5
 107. ford c max,1.6 hdi,airco
 108. vw fox 1.2 benzine ,Garantie
 109. opel zafira 1.9 d,Garantie,CAR PASS,7 zit
@@ -18,7 +18,7 @@
 118. ford fiesta 1.4 benzine,Garantie,CAR PASS,15.600 km !!!
 119. opel vectra 1.9 cdti,Garantie,CAR PASS,70.000 km !!!!
 120. opel insignia 2.0 d,AUTOMAAT,euro 5
-121. vw beetle 1.9 tdi,Garantie ,CAR PASS,bwj.2008
+121. ---
 122. ---
 123. mini cooper PACEMAN coupe,1.6 d,Garantie,CAR PASS
 124. ---

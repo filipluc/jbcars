@@ -5,12 +5,12 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "dacia lodgy 1.2 benzine,airco,navi,euro 5"
+var_title = "dacia lodgy 1.2 benzine,Garantie,CAR PASS,euro 5"
 var_categorie = "Auto's"
 var_brand = "Dacia"
 var_model = "Lodgy"
-var_desc = "\nenkel voor export of handelaar\n"	
-var_price = "5000"
+var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"
+var_price = "5999"
 var_picspath = "car103"
 var_carroserie = "Monovolume"
 var_month = ""

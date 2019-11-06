@@ -5,44 +5,39 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "mercedes c220cdi,AUTOMAAT,leder,navigatie"
+var_title = "Lancia Ypsilon 0,9 benzine+CNG,geen TAKS,geen BIV,bwj 2014"
 var_categorie = "Auto's"
-var_brand = "Mercedes-Benz"
-var_model = "C-Klasse"
-var_desc = "\nenkel voor export of handelaar\n"
-var_price = "2000"
+var_brand = "Lancia"
+var_model = "Ypsilon"
+var_desc = "\n0 EUR BIV\n0 EUR taks\n70 L tank (1x21 L+1x49 L),origineel van fabriek\n\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"
+var_price = "7999"
 var_picspath = "car112"
 var_carroserie = "Stadsauto"
 var_month = ""
-var_year = "2003"
-var_gas = "Diesel"
-var_transmissie = "Auto"
-var_km = "194000"
-var_doors = "4"
+var_year = "2014"
+var_gas = "Benzine"
+var_transmissie = "Hand"
+var_km = "69000"
+var_doors = "3"
 var_pk = ""
 var_cilinder = ""
-var_co2 = "177"
-var_euro = "euro 3"
-var_options = """Cruise Control
-Navigatiesysteem
-Elektrische buitenspiegels
-Elektrische ramen
-Electronic Stability Program (ESP)
-Isofix
-Alarm
-Lichtmetalen velgen
-Metaalkleur
-Lederen bekleding
+var_co2 = "86"
+var_euro = "euro 5"
+var_options = """Bluetooth
 Boordcomputer
 Climate control
 Centrale vergrendeling
-Airconditioning
+Elektrische buitenspiegels
 Traction-control
+Parkeersensor
 Verwarmde buitenspiegels
+USB
+Elektrische ramen
 ABS
-Mistlampen
 Airbags
+Isofix
+Alarm
 Radio
-Trekhaak"""
+Lichtmetalen velgen"""
 var_carcolor = ""
 var_interiorcolor = ""

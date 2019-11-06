@@ -1,6 +1,6 @@
 101. citroen berlingo 1.6 hdi,airco,L.V. 3zit,bwj.2012/euro 5
 102. skoda octavia 1.9 tdi,Garantie,CAR PASS,leder,navigatie
-103. ---
+103. honda fr-v 1.7 benzine,airco,6 zetels
 104. alfa romeo spider 2.4 jtd
 105. lexus is 220 d,Garantie,CAR PASS
 106. chevrolet cruze 1.7 d,Garantie,CAR PASS,euro 5
@@ -9,7 +9,7 @@
 109. opel zafira 1.9 d,Garantie,CAR PASS,7 zit
 110. opel astra 1.7 cdti break,Garantie
 111. vw passat 1.9 tdi,AUTOMAAT,leder,118000 km,CAR PASS
-112. ---
+112. Lancia Ypsilon 0,9 benzine+CNG,geen TAKS,geen BIV,bwj 2014
 113. opel zafira tourer 2.0d,Garantie,CAR PASS, 7 zit,euro 5
 114. landrover range rover sport 2.7 d, CAR PASS,bwj. 2009
 115. opel vectra 2.0 dth dti 16v, Garantie, CAR PASS

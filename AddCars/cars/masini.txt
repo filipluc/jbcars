@@ -10,13 +10,13 @@
 110. opel astra 1.7 cdti break,Garantie
 111. vw passat 1.9 tdi,AUTOMAAT,leder,118000 km,CAR PASS
 112. Lancia Ypsilon 0,9 benzine+CNG,geen TAKS,geen BIV,bwj 2014
-113. opel zafira tourer 2.0d,Garantie,CAR PASS, 7 zit,euro 5
+113. ---
 114. landrover range rover sport 2.7 d, CAR PASS,bwj. 2009
 115. opel vectra 2.0 dth dti 16v, Garantie, CAR PASS
 116. chrysler grand voyager 2.8 crd,7 zit,aut,CAR PASS,160000 km
 117. opel zafira 2.0 dti,bwj.2003,209000km,7 pl./EXPORT
 118. ---
-119. opel vectra 1.9 cdti,Garantie,CAR PASS,70.000 km !!!!
+119. ---
 120. opel insignia 2.0 d,AUTOMAAT,euro 5
 121. ---
 122. ---

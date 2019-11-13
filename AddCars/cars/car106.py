@@ -5,46 +5,55 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "chevrolet cruze 1.7 d,Garantie,CAR PASS,euro 5"
+var_title = "peugeot 508 RXH HYBRID,garantie,CAR PASS,€ 11487+btw/tva"
 var_categorie = "Auto's"
-var_brand = "Chevrolet"
-var_model = "Cruze"
-var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"
-var_price = "5999"
+var_brand = "Peugeot"
+var_model = "508"
+var_desc = "\nprijs 11487 euro+btw/tva\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"
+var_price = "13900"
 var_picspath = "car106"
-var_carroserie = "Break"
+var_carroserie = ""
 var_month = ""
-var_year = "2012"
-var_gas = "Diesel"
-var_transmissie = "Hand"
-var_km = "100000"
+var_year = "2014"
+var_gas = "Hybride"
+var_transmissie = "Auto"
+var_km = "94000"
 var_doors = ""
 var_pk = ""
-var_cilinder = "1686"
-var_co2 = "119"
+var_cilinder = "1997"
+var_co2 = "104"
 var_euro = "euro 5"
 var_options = """Cruise Control
 Bluetooth
-Parkeercamera
 Navigatiesysteem
 Elektrische buitenspiegels
+Elektrische stoelverstelling
 Parkeersensor
+USB
 Elektrische ramen
+Panoramadak
 Electronic Stability Program (ESP)
 Adaptieve lichten
 Isofix
 Alarm
 Lichtmetalen velgen
+Keyless entry
+Elektrische achterklep
 Metaalkleur
+Lederen bekleding
 Boordcomputer
 Climate control
 Centrale vergrendeling
 Airconditioning
+Start-stop-systeem
 Traction-control
 Verwarmde buitenspiegels
+Xenon verlichting
 ABS
 Mistlampen
 Airbags
-Radio"""
+Zetelverwarming
+Radio
+Trekhaak"""
 var_carcolor = ""
 var_interiorcolor = ""

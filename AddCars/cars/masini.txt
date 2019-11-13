@@ -3,7 +3,7 @@
 103. honda fr-v 1.7 benzine,airco,6 zetels
 104. alfa romeo spider 2.4 jtd
 105. lexus is 220 d,Garantie,CAR PASS
-106. chevrolet cruze 1.7 d,Garantie,CAR PASS,euro 5
+106. ---
 107. ford c max,1.6 hdi,airco
 108. vw fox 1.2 benzine ,Garantie
 109. opel zafira 1.9 d,Garantie,CAR PASS,7 zit

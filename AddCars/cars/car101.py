@@ -5,37 +5,45 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "citroen berlingo 1.6 hdi,airco,L.V. 3zit,bwj.2012/euro 5"
+var_title = "mercedes ML320cdi,garantie,CAR PASS,eerste eigenaar"
 var_categorie = "Auto's"
-var_brand = "Bestelwagens"
-var_model = "Citroën"
-var_desc = "\nprijs € 6000 + btw/tva\njuist nieuwe distributie riem+ waterpomp\nCAR PASS\ngekeurd met roos formulier\n"
-var_price = "6000"
+var_brand = "Mercedes-Benz"
+var_model = "M-klasse"
+var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"
+var_price = "9999"
 var_picspath = "car101"
-var_carroserie = ""
+var_carroserie = "SUV"
 var_month = ""
-var_year = "2012"
+var_year = "2008"
 var_gas = "Diesel"
-var_transmissie = "Hand"
-var_km = "125000"
-var_doors = ""
+var_transmissie = "Auto"
+var_km = "231000"
+var_doors = "5"
 var_pk = ""
-var_cilinder = "1560"
+var_cilinder = "2987"
 var_co2 = ""
-var_euro = "euro 5"
-var_options = """Boordcomputer
-Centrale vergrendeling
+var_euro = "euro 4"
+var_options = """Cruise Control
+Bluetooth
+Navigatiesysteem
 Elektrische buitenspiegels
-Traction-control
+Elektrische stoelverstelling
+Parkeersensor
 Elektrische ramen
-ABS
-Airbags
+4x4
 Isofix
 Alarm
+Lichtmetalen velgen
+Boordcomputer
+Climate control
+Centrale vergrendeling
+Traction-control
+Verwarmde buitenspiegels
+Xenon verlichting
+ABS
+Mistlampen
+Airbags
 Radio
 Trekhaak"""
 var_carcolor = ""
 var_interiorcolor = ""
-
-
-

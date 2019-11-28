@@ -262,6 +262,8 @@ class GeneralFunctions():
                 y = "Elektrische ramen"
             if x == "Emergency brake assist":
                 y = "Emergency brake assist"
+            if x == "Keyless entry":
+                y = "Keyless entry"
             if x == "Isofix":
                 y = "Isofix"
             if x == "Lichtmetalen velgen":

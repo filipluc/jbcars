@@ -5,7 +5,7 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "peugeot 508 RXH HYBRID,garantie,CAR PASS,€ 11487+btw/tva"
+var_title = "peugeot 508 RXH HYBRID,garantie,CAR PASS,EUR 11487+btw/tva"
 var_categorie = "Auto's"
 var_brand = "Peugeot"
 var_model = "508"
@@ -32,19 +32,14 @@ Parkeersensor
 USB
 Elektrische ramen
 Panoramadak
-Electronic Stability Program (ESP)
-Adaptieve lichten
 Isofix
 Alarm
 Lichtmetalen velgen
 Keyless entry
 Elektrische achterklep
-Metaalkleur
-Lederen bekleding
 Boordcomputer
 Climate control
 Centrale vergrendeling
-Airconditioning
 Start-stop-systeem
 Traction-control
 Verwarmde buitenspiegels
@@ -52,7 +47,6 @@ Xenon verlichting
 ABS
 Mistlampen
 Airbags
-Zetelverwarming
 Radio
 Trekhaak"""
 var_carcolor = ""

@@ -5,38 +5,42 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "vw beetle 1.9 tdi,Garantie ,CAR PASS,bwj.2008"
+var_title = "audi a4,2.0 benzine,AUTOMAAT,euro 5"
 var_categorie = "Auto's"
-var_brand = "Volkswagen"
-var_model = "Beetle"
-var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"
-var_price = "3999"
+var_brand = "Audi"
+var_model = "A4"
+var_desc = "\nenkel voor handelaar of export\n"
+var_price = "8000"
 var_picspath = "car121"
-var_carroserie = "Stadsauto"
+var_carroserie = ""
 var_month = ""
-var_year = "2008"
-var_gas = "Diesel"
-var_transmissie = "Hand"
-var_km = "137000"
-var_doors = "3"
+var_year = "2011"
+var_gas = "Benzine"
+var_transmissie = "Auto"
+var_km = "150000"
+var_doors = "4"
 var_pk = ""
-var_cilinder = "1896"
-var_co2 = "143"
-var_euro = "euro 4"
-var_options = """Boordcomputer
-Centrale vergrendeling
+var_cilinder = "1984"
+var_co2 = "167"
+var_euro = "euro 5"
+var_options = """Cruise Control
 Elektrische buitenspiegels
+Elektrische ramen
+Electronic Stability Program (ESP)
+Isofix
+Alarm
+Lichtmetalen velgen
+Metaalkleur
+Boordcomputer
+Climate control
+Centrale vergrendeling
 Airconditioning
 Traction-control
 Verwarmde buitenspiegels
-Elektrische ramen
 ABS
-Electronic Stability Program (ESP)
+Mistlampen
 Airbags
-Isofix
-Alarm
-Radio
-Lichtmetalen velgen
-Metaalkleur"""
-var_carcolor = "Groen"
-var_interiorcolor = "Grijs"
+Zetelverwarming
+Radio"""
+var_carcolor = ""
+var_interiorcolor = ""

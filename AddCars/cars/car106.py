@@ -5,48 +5,27 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "peugeot 508 RXH HYBRID,garantie,CAR PASS,EUR 11487+btw/tva"
+var_title = "fiat ducato 2.3 jtd,euro 5,MOTOR CAPOT,93000 km,bj2012,7 zit"
 var_categorie = "Auto's"
-var_brand = "Peugeot"
-var_model = "508"
-var_desc = "\nprijs 11487 euro+btw/tva\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"
-var_price = "13900"
+var_brand = "Fiat"
+var_model = "Ducato"
+var_desc = "\nmotor kapot !!!!\n7 zit\neuro 5\ntrekhaak =3000 kg\nprijs 4500 EUR + btw/tva\n"
+var_price = "5445"
 var_picspath = "car106"
 var_carroserie = ""
 var_month = ""
-var_year = "2014"
-var_gas = "Hybride"
-var_transmissie = "Auto"
-var_km = "94000"
+var_year = "2012"
+var_gas = "Diesel"
+var_transmissie = "Hand"
+var_km = "92000"
 var_doors = ""
 var_pk = ""
-var_cilinder = "1997"
-var_co2 = "104"
+var_cilinder = "2287"
+var_co2 = "195"
 var_euro = "euro 5"
-var_options = """Cruise Control
-Bluetooth
-Navigatiesysteem
-Elektrische buitenspiegels
-Elektrische stoelverstelling
-Parkeersensor
-USB
-Elektrische ramen
-Panoramadak
-Isofix
-Alarm
-Lichtmetalen velgen
-Keyless entry
-Elektrische achterklep
-Boordcomputer
-Climate control
+var_options = """ABS
 Centrale vergrendeling
-Start-stop-systeem
-Traction-control
-Verwarmde buitenspiegels
-Xenon verlichting
-ABS
-Mistlampen
-Airbags
+Alarm
 Radio
 Trekhaak"""
 var_carcolor = ""

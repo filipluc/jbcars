@@ -5,34 +5,42 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "peugeot 207, 1.4 benzine,Garantie,CAR PASS,bwj 2009/84000km"
+var_title = "peugeot partner 1.6 hdi,Garantie,CAR PASS,7 zit,euro 5"
 var_categorie = "Auto's"
 var_brand = "Peugeot"
-var_model = "207"
+var_model = "Partner"
 var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"
-var_price = "3999"
+var_price = "6999"
 var_picspath = "car122"
-var_carroserie = "Stadsauto"
+var_carroserie = "Monovolume"
 var_month = ""
-var_year = "2009"
-var_gas = "Benzine"
+var_year = "2011"
+var_gas = "Diesel"
 var_transmissie = "Hand"
-var_km = "84000"
+var_km = "165000"
 var_doors = ""
 var_pk = ""
-var_cilinder = "1360"
-var_co2 = "150"
-var_euro = "euro 4"
-var_options = """Boordcomputer
-Centrale vergrendeling
-Elektrische buitenspiegels
-Traction-control
-Verwarmde buitenspiegels
+var_cilinder = "1560"
+var_co2 = "144"
+var_euro = "euro 5"
+var_options = """Elektrische buitenspiegels
+Parkeersensor
 Elektrische ramen
-ABS
-Airbags
+Electronic Stability Program (ESP)
+Adaptieve lichten
 Isofix
 Alarm
-Radio"""
+Metaalkleur
+Boordcomputer
+Centrale vergrendeling
+Schuifdeur
+Airconditioning
+Traction-control
+Verwarmde buitenspiegels
+ABS
+Mistlampen
+Airbags
+Radio
+Trekhaak"""
 var_carcolor = ""
 var_interiorcolor = ""

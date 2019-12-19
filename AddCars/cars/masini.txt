@@ -19,7 +19,7 @@
 119. opel corsa 1.3 cdti,Garantie,CAR PASS,5 deurs
 120. opel insignia 2.0 d,AUTOMAAT,euro 5
 121. audi a4,2.0 benzine,AUTOMAAT,euro 5
-122. ---
+122. peugeot partner 1.6 hdi,Garantie,CAR PASS,7 zit,euro 5
 123. mini cooper PACEMAN coupe,1.6 d,Garantie,CAR PASS
 124. ---
 125. mercedes GLC 250d 4MATIC coupe,204PK,bwj2017/garantie,euro6b

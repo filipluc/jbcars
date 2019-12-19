@@ -5,7 +5,7 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "skoda octavia break 1.9 tdi,Garantie,CAR PASS,leder,navigatie"
+var_title = "skoda octavia break 1.9 tdi,Garantie,CAR PASS,leder,navigati"
 var_categorie = "Auto's"
 var_brand = "Skoda"
 var_model = "Octavia"

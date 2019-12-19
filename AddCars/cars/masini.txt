@@ -1,5 +1,5 @@
 101. mercedes ML320cdi,garantie,CAR PASS,eerste eigenaar
-102. skoda octavia break 1.9 tdi,Garantie,CAR PASS,leder,navigatie
+102. skoda octavia break 1.9 tdi,Garantie,CAR PASS,leder,navigati
 103. honda fr-v 1.7 benzine,airco,6 zetels
 104. alfa romeo spider 2.4 jtd
 105. lexus is 220 d,Garantie,CAR PASS

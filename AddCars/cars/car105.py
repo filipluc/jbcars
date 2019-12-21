@@ -5,52 +5,38 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "lexus is 220 d,Garantie,CAR PASS"
+var_title = "suzuki sx4,1.5 benzine,Garantie,CAR PASS"
 var_categorie = "Auto's"
-var_brand = "Lexus"
-var_model = "IS"
+var_brand = "Suzuki"
+var_model = "SX4"
 var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"
-var_price = "6900"
+var_price = "3900"
 var_picspath = "car105"
-var_carroserie = "Berline"
+var_carroserie = ""
 var_month = ""
-var_year = "2010"
-var_gas = "Diesel"
+var_year = "2009"
+var_gas = "Benzine"
 var_transmissie = "Hand"
-var_km = "169000"
+var_km = "167000"
 var_doors = ""
 var_pk = ""
-var_cilinder = "2231"
-var_co2 = "148"
+var_cilinder = "1490"
+var_co2 = "159"
 var_euro = "euro 4"
-var_options = """Cruise Control
-Startonderbreker
-Bluetooth
-Parkeercamera
-Navigatiesysteem
-Elektrische buitenspiegels
-Elektrische stoelverstelling
-Parkeersensor
-Elektrische ramen
-Electronic Stability Program (ESP)
-Adaptieve lichten
-Isofix
-Alarm
-Metaalkleur
-Lederen bekleding
-Boordcomputer
-Climate control
+var_options = """Boordcomputer
 Centrale vergrendeling
+Elektrische buitenspiegels
 Airconditioning
-Start-stop-systeem
 Traction-control
 Verwarmde buitenspiegels
-Xenon verlichting
+Elektrische ramen
 ABS
-Mistlampen
+Electronic Stability Program (ESP)
 Airbags
-Zetelverwarming
+Isofix
+Alarm
 Radio
-Trekhaak"""
+Trekhaak
+Metaalkleur"""
 var_carcolor = ""
 var_interiorcolor = ""

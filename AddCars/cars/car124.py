@@ -5,44 +5,37 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "opel zafira 1.7 d,Garantie,CAR PASS,7 zit,euro 5"
+var_title = "peugeot expert 2.0d,DOUBLE CABINE 6 pl,bj 2014,lichte vracht"
 var_categorie = "Auto's"
-var_brand = "Opel"
-var_model = "Zafira"
-var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n\n"
-var_price = "4999"
+var_brand = "Peugeot"
+var_model = "Expert Combi"
+var_desc = "\nlichte vracht 5+1 zetels, bwj. 11/2014\nexport of handelaar\nCAR PASS\ngekeurd met roos formulier\n\n"
+var_price = "6800"
 var_picspath = "car124"
-var_carroserie = "Monovolume"
+var_carroserie = ""
 var_month = ""
-var_year = "2011"
+var_year = "2014"
 var_gas = "Diesel"
 var_transmissie = "Hand"
-var_km = "137000"
+var_km = "243000"
 var_doors = ""
 var_pk = ""
-var_cilinder = "1686"
-var_co2 = "134"
+var_cilinder = "1997"
+var_co2 = "183"
 var_euro = "euro 5"
-var_options = """Cruise Control
+var_options = """Boordcomputer
+Centrale vergrendeling
 Navigatiesysteem
 Elektrische buitenspiegels
+Traction-control
 Parkeersensor
+Verwarmde buitenspiegels
 Elektrische ramen
-Electronic Stability Program (ESP)
+ABS
+Airbags
 Isofix
 Alarm
-Lichtmetalen velgen
-Metaalkleur
-Lederen bekleding
-Boordcomputer
-Climate control
-Centrale vergrendeling
-Airconditioning
-Traction-control
-Verwarmde buitenspiegels
-ABS
-Mistlampen
-Airbags
-Radio"""
+Radio
+Trekhaak"""
 var_carcolor = ""
 var_interiorcolor = ""

@@ -5,35 +5,36 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "opel corsa 1.3 cdti,Garantie,CAR PASS,airco"
+var_title = "dacia duster 1.6 benzine,Garantie,CAR PASS,euro 5"
 var_categorie = "Auto's"
-var_brand = "Opel"
-var_model = "Corsa"
+var_brand = "Dacia"
+var_model = "Duster"
 var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"
-var_price = "2999"
+var_price = "4999"
 var_picspath = "car113"
-var_carroserie = ""
+var_carroserie = "SUV"
 var_month = ""
-var_year = "2008"
-var_gas = "Diesel"
+var_year = "2012"
+var_gas = "Benzine"
 var_transmissie = "Hand"
-var_km = "169000"
+var_km = "136000"
 var_doors = ""
 var_pk = ""
-var_cilinder = "1248"
-var_co2 = "119"
-var_euro = "euro 4"
+var_cilinder = "1598"
+var_co2 = "165"
+var_euro = "euro 5"
 var_options = """Boordcomputer
 Centrale vergrendeling
 Elektrische buitenspiegels
+Airconditioning
 Traction-control
-Verwarmde buitenspiegels
+Parkeersensor
 Elektrische ramen
 ABS
+Electronic Stability Program (ESP)
 Airbags
 Isofix
 Alarm
-Radio
-Lichtmetalen velgen"""
+Radio"""
 var_carcolor = ""
 var_interiorcolor = ""

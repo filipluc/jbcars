@@ -10,7 +10,7 @@
 110. opel astra 1.7 cdti break,Garantie
 111. skoda octavia 1.9 tdi,Garantie,CAR PASS
 112. Lancia Ypsilon 0,9 benzine+CNG,geen TAKS,geen BIV,bwj 2014
-113. ---
+113. dacia duster 1.6 benzine,Garantie,CAR PASS,euro 5
 114. landrover range rover sport 2.7 d, CAR PASS,bwj. 2009
 115. opel vectra 2.0 dth dti 16v, Garantie, CAR PASS
 116. chrysler grand voyager 2.8 crd,7 zit,aut,CAR PASS,160000 km

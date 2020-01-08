@@ -23,7 +23,7 @@
 123. mini cooper PACEMAN coupe,1.6 d,Garantie,CAR PASS
 124. peugeot expert 2.0d,DOUBLE CABINE 6 pl,bj 2014,lichte vracht
 125. mercedes GLC 250d 4MATIC coupe,204PK,bwj2017/garantie,euro6b
-126. ---
+126. peugeot partner 1.4 benzine,Garantie,CAR PASS,euro 4
 127. ---
 128. vw t4 transporter 2.5 tdi,dbl cabine 5plus1 pl.,Open laadbak
 129. vw transporter 2.5 tdi OPEN LAADBAK,double cabine 5plus1 pl.

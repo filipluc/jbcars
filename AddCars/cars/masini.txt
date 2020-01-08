@@ -16,7 +16,7 @@
 116. chrysler grand voyager 2.8 crd,7 zit,aut,CAR PASS,160000 km
 117. opel zafira 2.0 dti,bwj.2003,209000km,7 pl./EXPORT
 118. peugeot 2008,1.2 benzine,Garantie,CAR PASS,euro 6b
-119. ---
+119. nissan pathfinder 2.5dci,AUTOMAAT,//7 zit
 120. opel insignia 2.0 d,AUTOMAAT,euro 5
 121. audi a4,2.0 benzine,AUTOMAAT,euro 5
 122. peugeot partner 1.6 hdi,Garantie,CAR PASS,7 zit,euro 5

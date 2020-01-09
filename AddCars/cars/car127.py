@@ -5,44 +5,34 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "mini cooper s roadster 1.6 benzine,bwj. 2012/71000km,euro 5"
+var_title = "renault kangoo 1.5 dci, monovolume 5 zit"
 var_categorie = "Auto's"
-var_brand = "Mini"
-var_model = "Cabrio"
-var_desc = "\nmeer info 0479/237751\n"
-var_price = "14000"
+var_brand = "Renault"
+var_model = "Kangoo"
+var_desc = "\nexport of handelaar\n"
+var_price = "2000"
 var_picspath = "car127"
-var_carroserie = "Cabriolet"
-var_month = "jun"
-var_year = "2012"
-var_gas = "Benzine"
+var_carroserie = "Monovolume"
+var_month = ""
+var_year = "2006"
+var_gas = "Diesel"
 var_transmissie = "Hand"
-var_km = "71000"
-var_doors = "2"
-var_pk = "163"
-var_cilinder = "1598"
-var_co2 = "139"
-var_euro = "Euro 5"
-var_options = """Bluetooth
-Navigatiesysteem
-Elektrische buitenspiegels
-Parkeersensor
-Elektrische ramen
-Adaptieve lichten
-Alarm
-Lichtmetalen velgen
-Metaalkleur
-Lederen bekleding
-Boordcomputer
+var_km = "183000"
+var_doors = ""
+var_pk = ""
+var_cilinder = "1461"
+var_co2 = "147"
+var_euro = "Euro 4"
+var_options = """Boordcomputer
 Centrale vergrendeling
-Airconditioning
+Elektrische buitenspiegels
 Traction-control
 Verwarmde buitenspiegels
-Xenon verlichting
+Elektrische ramen
 ABS
-Mistlampen
 Airbags
-Zetelverwarming
-Radio"""
-var_carcolor = "Zwart"
-var_interiorcolor = "Beige"
+Alarm
+Radio
+Trekhaak"""
+var_carcolor = ""
+var_interiorcolor = ""

@@ -44,7 +44,7 @@ from AddCars.cars import car127
 from AddCars.cars import car128
 from AddCars.cars import car129
 from AddCars.cars import car130
-
+from AddCars.cars import car131
 
 
 class AdaugaMasini(unittest.TestCase):
@@ -171,7 +171,8 @@ class AdaugaMasini(unittest.TestCase):
     def test_car130(self):
         GeneralFunctions.deleteAddCarFunction(self, car130)
 
-
+    def test_car131(self):
+        GeneralFunctions.deleteAddCarFunction(self, car131)
         
 def suite():
     suite = unittest.TestLoader().loadTestsFromTestCase(AdaugaMasini)

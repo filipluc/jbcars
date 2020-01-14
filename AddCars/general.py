@@ -232,6 +232,8 @@ class GeneralFunctions():
                 y = "ABS"
             if x == "Adaptieve lichten":
                 y = "Adaptieve-lichten"
+            if x == "Adaptive Cruise Control":
+                y = "AdaptiveCruiseControl"
             if x == "Airbags":
                 y = "Airbags"
             if x == "Airconditioning":

@@ -30,3 +30,4 @@
 130. vw transporter 1.9 tdi,double cabine 5plus1 pl.,EXPORT
 131. peugeot 2008,1200 cc,benzine,Garantie,CAR PASS,euro 6b
 132. peugeot 5008,1.6 hdi,Garantie,CAR PASS,euro 5
+133. ford mondeo 1.8 tdci,Garantie,CAR PASS,bj.2011

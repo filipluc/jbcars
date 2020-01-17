@@ -31,3 +31,4 @@
 131. peugeot 2008,1200 cc,benzine,Garantie,CAR PASS,euro 6b
 132. citroen xsara 1.6 benzine,Garantie,CAR PASS,euro 4
 133. ford mondeo 1.8 tdci,Garantie,CAR PASS,bj.2011
+134. kia sportage 2.0 benzine,Garantie,CAR PASS,85000 km,airco

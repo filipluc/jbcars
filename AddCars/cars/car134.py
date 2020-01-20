@@ -5,37 +5,37 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "kia sportage 2.0 benzine,Garantie,CAR PASS,85000 km,airco"
+var_title = "toyota rav 4,/2.0 d4d,eerste eigenaar,125000 km"
 var_categorie = "Auto's"
-var_brand = "Kia"
-var_model = "Sportage"
-var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"
-var_price = "4999"
+var_brand = "Toyota"
+var_model = "Rav4"
+var_desc = "\nexport of handelaar\ngoede staat\neerste eigenaar\nmet oh-boekje\n\n"
+var_price = "3500"
 var_picspath = "car134"
 var_carroserie = ""
 var_month = ""
-var_year = "2008"
-var_gas = "Benzine"
+var_year = "2002"
+var_gas = "Diesel"
 var_transmissie = "Hand"
-var_km = "85000"
+var_km = "125000"
 var_doors = ""
 var_pk = ""
-var_cilinder = "1975"
-var_co2 = "190"
-var_euro = "Euro 4"
+var_cilinder = "1995"
+var_co2 = ""
+var_euro = "Euro 3"
 var_options = """Boordcomputer
 Centrale vergrendeling
 Elektrische buitenspiegels
-Airconditioning
 Traction-control
 Verwarmde buitenspiegels
 Elektrische ramen
+4x4
 ABS
-Electronic Stability Program (ESP)
 Airbags
+Isofix
 Alarm
 Radio
 Lichtmetalen velgen
-Metaalkleur"""
+Trekhaak"""
 var_carcolor = ""
 var_interiorcolor = ""

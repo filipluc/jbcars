@@ -18,7 +18,7 @@
 118. peugeot 2008,1.2 benzine,Garantie,CAR PASS,euro 6b
 119. nissan pathfinder 2.5dci,AUTOMAAT,//7 zit
 120. opel insignia 2.0 d,AUTOMAAT,euro 5
-121. --audi a4,2.0 benzine,AUTOMAAT,euro 5
+121. audi a4,2.0 benzine,AUTOMAAT,euro 5,Garantie,CAR PASS
 122. peugeot partner 1.6 hdi,Garantie,CAR PASS,7 zit,euro 5
 123. mini cooper PACEMAN coupe,1.6 d,Garantie,CAR PASS
 124. peugeot expert 2.0d,DOUBLE CABINE 6 pl,bj 2014,lichte vracht

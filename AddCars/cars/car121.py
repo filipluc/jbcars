@@ -5,12 +5,12 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "audi a4,2.0 benzine,AUTOMAAT,euro 5"
+var_title = "audi a4,2.0 benzine,AUTOMAAT,euro 5,Garantie,CAR PASS"
 var_categorie = "Auto's"
 var_brand = "Audi"
 var_model = "A4"
-var_desc = "\nenkel voor handelaar of export\n"
-var_price = "8000"
+var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"
+var_price = "9950"
 var_picspath = "car121"
 var_carroserie = ""
 var_month = ""

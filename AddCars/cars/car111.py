@@ -5,36 +5,32 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "skoda octavia 1.9 tdi,Garantie,CAR PASS"
+var_title = "peugeot partner 2.0 hdi,LICHTE VRACHT,2 zit"
 var_categorie = "Auto's"
-var_brand = "Skoda"
-var_model = "Octavia"
-var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"
-var_price = "3500"
+var_brand = "Peugeot"
+var_model = "Partner"
+var_desc = "\nexport of handelaar\n\n"
+var_price = "1500"
 var_picspath = "car111"
 var_carroserie = ""
 var_month = ""
-var_year = "2006"
+var_year = "2004"
 var_gas = "Diesel"
 var_transmissie = "Hand"
-var_km = "165000"
-var_doors = "5"
+var_km = "219000"
+var_doors = ""
 var_pk = ""
-var_cilinder = "1896"
-var_co2 = "138"
-var_euro = "euro 4"
+var_cilinder = "1997"
+var_co2 = ""
+var_euro = "euro 3"
 var_options = """Boordcomputer
-Climate control
 Centrale vergrendeling
-Elektrische buitenspiegels
 Traction-control
-Parkeersensor
-Verwarmde buitenspiegels
 Elektrische ramen
 ABS
 Airbags
-Isofix
 Alarm
-Radio"""
+Radio
+Trekhaak"""
 var_carcolor = ""
 var_interiorcolor = ""

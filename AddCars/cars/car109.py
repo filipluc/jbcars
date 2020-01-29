@@ -5,36 +5,32 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "opel zafira 1.9 d,Garantie,CAR PASS,7 zit"
+var_title = "toyota corolla 1.6 benzine ,AUTOMAAT,garantie,CAR PASS"
 var_categorie = "Auto's"
-var_brand = "Opel"
-var_model = "Zafira"
+var_brand = "Toyota"
+var_model = "Corolla"
 var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"
-var_price = "4500"
+var_price = "3850"
 var_picspath = "car109"
-var_carroserie = "Monovolume"
+var_carroserie = ""
 var_month = ""
-var_year = "2007"
-var_gas = "Diesel"
-var_transmissie = "Hand"
-var_km = "110000"
-var_doors = "5"
+var_year = "2002"
+var_gas = "Benzine"
+var_transmissie = "Auto"
+var_km = "79000"
+var_doors = ""
 var_pk = ""
-var_cilinder = "1910"
-var_co2 = "162"
+var_cilinder = "1598"
+var_co2 = ""
 var_euro = "Euro 4"
 var_options = """Boordcomputer
 Centrale vergrendeling
-Elektrische buitenspiegels
 Traction-control
-Parkeersensor
-Verwarmde buitenspiegels
 Elektrische ramen
 ABS
 Airbags
+Isofix
 Alarm
-Radio
-Lichtmetalen velgen
-Trekhaak"""
+Radio"""
 var_carcolor = ""
 var_interiorcolor = ""

@@ -5,37 +5,39 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "toyota rav 4,/2.0 d4d,eerste eigenaar,125000 km"
+var_title = "peugeot expert 2.0 hdi,DUBBELE CABINE 6 zit,Bwj 2014,euro 5b"
 var_categorie = "Auto's"
-var_brand = "Toyota"
-var_model = "Rav4"
-var_desc = "\nexport of handelaar\ngoede staat\neerste eigenaar\nmet oh-boekje\n\n"
-var_price = "3500"
-var_picspath = "car134"
+var_brand = "Bestelwagens"
+var_model = "Peugeot"
+var_desc = "\nLICHTE VRACHT 6 zetels\nCAR PASS\ngekeurd met roos formulier\n\n"
+var_price = "9950"
+var_picspath = "car128"
 var_carroserie = ""
 var_month = ""
-var_year = "2002"
+var_year = "2014"
 var_gas = "Diesel"
 var_transmissie = "Hand"
-var_km = "125000"
+var_km = "156000"
 var_doors = ""
 var_pk = ""
-var_cilinder = "1995"
-var_co2 = ""
-var_euro = "Euro 3"
+var_cilinder = "1997"
+var_co2 = "183"
+var_euro = "Euro 5"
 var_options = """Boordcomputer
 Centrale vergrendeling
 Elektrische buitenspiegels
+Schuifdeur
+Airconditioning
 Traction-control
+Parkeersensor
 Verwarmde buitenspiegels
 Elektrische ramen
-4x4
 ABS
+Electronic Stability Program (ESP)
 Airbags
 Isofix
 Alarm
 Radio
-Lichtmetalen velgen
-Trekhaak"""
+Metaalkleur"""
 var_carcolor = ""
 var_interiorcolor = ""

@@ -10,7 +10,7 @@
 110. opel astra 1.7 cdti break,Garantie
 111. peugeot partner 2.0 hdi,LICHTE VRACHT,2 zit
 112. Lancia Ypsilon 0,9 benzine+CNG,geen TAKS,geen BIV,bwj 2014
-113. --dacia duster 1.6 benzine,Garantie,CAR PASS,euro 5
+113. citroen c3 pluriel ,1.4 benzine,73000 km
 114. landrover range rover sport 2.7 d, CAR PASS,bwj. 2009
 115. opel vectra 2.0 dth dti 16v, Garantie, CAR PASS
 116. chrysler grand voyager 2.8 crd,7 zit,aut,CAR PASS,160000 km
@@ -29,6 +29,6 @@
 129. vw transporter 2.5 tdi OPEN LAADBAK,double cabine 5plus1 pl.
 130. vw transporter 1.9 tdi,double cabine 5plus1 pl.,EXPORT
 131. ford transit 2.2 tdci,CAR PASS,bwj 2011,airco,€ 3800+btw/tva
-132. peugeot 208,benzine 1.0 cc,Garantie,CAR PASS,euro 6b
+132. --peugeot 208,benzine 1.0 cc,Garantie,CAR PASS,euro 6b
 133. dacia sandero 1.4 benzine,Garantie,CAR PASS,80000 km
 134. peugeot expert 2.0 hdi,DUBBELE CABINE 6 zit,Bwj 2014,euro 5b

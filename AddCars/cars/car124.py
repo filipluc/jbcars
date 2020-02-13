@@ -5,37 +5,39 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "peugeot expert 2.0d,DOUBLE CABINE 6 pl,bj 2014,lichte vracht"
+var_title = "ford c max 1.6 tdci,Garantie,CAR PASS,bwj 2010/92000 km"
 var_categorie = "Auto's"
-var_brand = "Peugeot"
-var_model = "Expert Combi"
-var_desc = "\nlichte vracht 5+1 zetels, bwj. 11/2014\nexport of handelaar\nCAR PASS\ngekeurd met roos formulier\n\n"
-var_price = "6800"
+var_brand = "Ford"
+var_model = "C-Max"
+var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"
+var_price = "4850"
 var_picspath = "car124"
 var_carroserie = ""
 var_month = ""
-var_year = "2014"
+var_year = "2010"
 var_gas = "Diesel"
 var_transmissie = "Hand"
-var_km = "243000"
+var_km = "92000"
 var_doors = ""
 var_pk = ""
-var_cilinder = "1997"
-var_co2 = "183"
-var_euro = "euro 5"
-var_options = """Boordcomputer
+var_cilinder = "1560"
+var_co2 = "119"
+var_euro = "euro 4"
+var_options = """Cruise Control
+Boordcomputer
+Climate control
 Centrale vergrendeling
-Navigatiesysteem
 Elektrische buitenspiegels
+Airconditioning
 Traction-control
-Parkeersensor
-Verwarmde buitenspiegels
 Elektrische ramen
 ABS
+Electronic Stability Program (ESP)
 Airbags
 Isofix
 Alarm
 Radio
-Trekhaak"""
+Trekhaak
+Metaalkleur"""
 var_carcolor = ""
 var_interiorcolor = ""

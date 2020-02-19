@@ -6,7 +6,7 @@
 106. citroen berlingo 1.6 d,Garantie,CAR PASS,euro 5
 107. ford c max,1.6 hdi,airco
 108. vw fox 1.2 benzine ,Garantie
-109. ---
+109. vw sharan 1.9 tdi,Garantie,CAR PASS,7 zetels
 110. opel astra 1.7 cdti break,Garantie
 111. peugeot partner 2.0 hdi,LICHTE VRACHT,2 zit
 112. Lancia Ypsilon 0,9 benzine+CNG,geen TAKS,geen BIV,bwj 2014
@@ -18,13 +18,13 @@
 118. ---
 119. nissan pathfinder 2.5dci,AUTOMAAT,//7 zit
 120. opel insignia 2.0 d,AUTOMAAT,euro 5
-121. audi a4,2.0 benzine,AUTOMAAT,euro 5,Garantie,CAR PASS
+121. ---
 122. peugeot partner 1.6 hdi,Garantie,CAR PASS,7 zit,euro 5
 123. mini cooper PACEMAN coupe,1.6 d,Garantie,CAR PASS
 124. ford c max 1.6 tdci,Garantie,CAR PASS,bwj 2010/92000 km
 125. mercedes GLC 250d 4MATIC coupe,204PK,bwj2017/garantie,euro6b
 126. ---
-127. renault kangoo 1.5 dci, monovolume 5 zit
+127. renault kangoo 1.5 dci,Garantie,CAR PASS
 128. vw t4 transporter 2.5 tdi,dbl cabine 5plus1 pl.,Open laadbak
 129. vw transporter 2.5 tdi OPEN LAADBAK,double cabine 5plus1 pl.
 130. vw transporter 1.9 tdi,double cabine 5plus1 pl.,EXPORT

@@ -5,12 +5,12 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "renault kangoo 1.5 dci, monovolume 5 zit"
+var_title = "renault kangoo 1.5 dci,Garantie,CAR PASS"
 var_categorie = "Auto's"
 var_brand = "Renault"
 var_model = "Kangoo"
-var_desc = "\nexport of handelaar\n"
-var_price = "2000"
+var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"
+var_price = "3500"
 var_picspath = "car127"
 var_carroserie = "Monovolume"
 var_month = ""

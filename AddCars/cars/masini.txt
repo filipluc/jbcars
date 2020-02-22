@@ -15,10 +15,10 @@
 115. opel vectra 2.0 dth dti 16v, Garantie, CAR PASS
 116. chrysler grand voyager 2.8 crd,7 zit,aut,CAR PASS,160000 km
 117. opel zafira 2.0 dti,bwj.2003,209000km,7 pl./EXPORT
-118. ---
+118. vw tiguan 2.0 tdi,4Motion,Garantie,CAR PASS,eerste eigenaar
 119. nissan pathfinder 2.5dci,AUTOMAAT,//7 zit
 120. opel insignia 2.0 d,AUTOMAAT,euro 5
-121. ---
+121. renault clio 0,9 benzine,Garantie,CAR PASS,bwj 2015/euro 5b
 122. peugeot partner 1.6 hdi,Garantie,CAR PASS,7 zit,euro 5
 123. mini cooper PACEMAN coupe,1.6 d,Garantie,CAR PASS
 124. ford c max 1.6 tdci,Garantie,CAR PASS,bwj 2010/92000 km

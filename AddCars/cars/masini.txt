@@ -30,5 +30,5 @@
 130. vw transporter 1.9 tdi,double cabine 5plus1 pl.,EXPORT
 131. ford transit 2.2 tdci,CAR PASS,bwj 2011,airco,€ 3800+btw/tva
 132. ---
-133. dacia sandero 1.4 benzine,Garantie,CAR PASS,80000 km
+133. ---
 134. ---

@@ -14,15 +14,19 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException
 from xmlrunner import *
 from AddCars.general import GeneralFunctions
+# import webbrowser
+import time
 from AddCars.cars import car104
-
-
 
 
 
 class AdaugaMasiniSingle(unittest.TestCase):
 
     def setUp(self):
+        # myurl = 'https://www.2dehands.be/my-account/sell/index.html'
+        # chromedir = "C:/Program Files (x86)/Google/Chrome/Application/chrome.exe %s --new-window --remote-debugging-port=1111"
+        # webbrowser.get(chromedir).open(myurl, new=1)
+
         options = webdriver.ChromeOptions()
         # options.add_argument("--start-maximized")
         #options.add_argument("--incognito")
@@ -30,7 +34,7 @@ class AdaugaMasiniSingle(unittest.TestCase):
         # self.driver = webdriver.Chrome(chrome_options=options)
         self.driver = webdriver.Chrome(executable_path='C:\SeleniumDrivers\chromedriver.exe', chrome_options=options)
         driver = self.driver
-
+        time.sleep(5)
         # #driver.implicitly_wait(5)
         # driver.get("https://www.2dehands.be/login.html")
         # #driver.get("https://www.2dehands.be")
@@ -62,7 +66,7 @@ class AdaugaMasiniSingle(unittest.TestCase):
     #@unittest.skip("skip car") 
     def test_car104(self):
         GeneralFunctions.deleteAddCarFunction(self, car104)
-        
+
         
 def suite():
     suite = unittest.TestLoader().loadTestsFromTestCase(AdaugaMasiniSingle)

@@ -80,7 +80,7 @@ class AdaugaMasini(unittest.TestCase):
         #     self.assertIn("Tweedehands", driver.title, "Login was not successfull")
         # finally:
         #     #driver.quit()
-            pass
+        pass
         
     def tearDown(self):
         # self.driver.quit()

@@ -7,7 +7,7 @@ Created on Jun 3, 2018
 
 var_title = "peugeot expert 2.0 hdi,DUBBELE CABINE 6 zit,Bwj 2014,euro 5b"
 var_categorie = "Auto's"
-var_brand = "Bestelwagens"
+var_brand = "Bestelwagens en Lichte vracht"
 var_model = "Peugeot"
 var_desc = "\nLICHTE VRACHT 6 zetels\nCAR PASS\ngekeurd met roos formulier\n\n"
 var_price = "9950"

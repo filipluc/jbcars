@@ -7,7 +7,7 @@ Created on Jun 3, 2018
 
 var_title = "vw t4 transporter 2.5 tdi,dbl cabine 5plus1 pl.,Open laadbak"
 var_categorie = "Auto's"
-var_brand = "Bestelwagens"
+var_brand = "Bestelwagens en Lichte vracht"
 var_model = "Volkswagen"
 var_desc = "\nexport of handelaar\nprijs 4132€+btw/tva\n"
 var_price = "5000"

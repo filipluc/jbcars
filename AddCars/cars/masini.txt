@@ -20,7 +20,7 @@
 120. opel insignia 2.0 d,AUTOMAAT,euro 5
 121. renault clio 0,9 benzine,Garantie,CAR PASS,bwj 2015/euro 5b
 122. peugeot partner 1.6 hdi,Garantie,CAR PASS,7 zit,euro 5
-123. mini cooper PACEMAN coupe,1.6 d,Garantie,CAR PASS
+123. ---
 124. ford c max 1.6 tdci,Garantie,CAR PASS,bwj 2010/92000 km
 125. mercedes GLC 250d 4MATIC coupe,204PK,bwj2017/garantie,euro6b
 126. peugeot 508 RXH,2.0 hdi,Garantie,CAR PASS,46000 km/bwj 2016

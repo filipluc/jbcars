@@ -126,7 +126,8 @@ class GeneralFunctions():
                 time.sleep(6)
         time.sleep(2)
 
-        elem8 = driver.find_element_by_id("description_ifr")
+        # elem8 = driver.find_element_by_id("description_ifr")
+        elem8 = driver.find_element_by_id("description_nl-BE_ifr")
         elem8.send_keys(car_detail.var_desc)
         elem8.send_keys("\nopeningsuren\nmaandag tot vrijdag 10-17 uur\nzaterdag 10-14 uur\nadres\nLIERSESTEENWEG 153\n2547 LINT")
         # elem8.send_keys("\nVan 19/12/2018 tot 03/01/2019 is OPEN enkel op afspraak\n\nadres\nLIERSESTEENWEG 153\n2547 LINT")

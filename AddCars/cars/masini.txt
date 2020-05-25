@@ -1,5 +1,5 @@
 101. mercedes ML320cdi,garantie,CAR PASS,eerste eigenaar
-102. hyundai i40 break,1.7 crdi,Garantie,CAR PASS,euro 5
+102. ---
 103. honda fr-v 1.7 benzine,airco,6 zetels
 104. alfa romeo spider 2.4 jtd
 105. suzuki sx4,1.5 benzine,Garantie,CAR PASS
@@ -18,7 +18,7 @@
 118. vw tiguan 2.0 tdi,4Motion,Garantie,CAR PASS,eerste eigenaar
 119. nissan pathfinder 2.5dci,AUTOMAAT,//7 zit
 120. opel insignia 2.0 d,AUTOMAAT,euro 5
-121. renault clio 0,9 benzine,Garantie,CAR PASS,bwj 2015/euro 5b
+121. ---
 122. peugeot partner 1.6 hdi,Garantie,CAR PASS,7 zit,euro 5
 123. peugeot partner 1.6 hdi,Garantie,CAR PASS,euro 5
 124. ford c max 1.6 tdci,Garantie,CAR PASS,bwj 2010/92000 km

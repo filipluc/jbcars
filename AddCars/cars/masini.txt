@@ -5,7 +5,7 @@
 105. suzuki sx4,1.5 benzine,Garantie,CAR PASS
 106. citroen berlingo 1.6 d,Garantie,CAR PASS,euro 5
 107. ford c max,1.6 hdi,airco
-108. ---
+108. citroen c3,1.4 hdi,Garantie,CAR PASS
 109. vw sharan 1.9 tdi,Garantie,CAR PASS,7 zetels
 110. opel astra 1.7 cdti break,Garantie
 111. peugeot partner 2.0 hdi,LICHTE VRACHT,2 zit

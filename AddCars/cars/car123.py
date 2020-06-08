@@ -5,39 +5,48 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "peugeot partner 1.6 hdi,Garantie,CAR PASS,euro 5"
+var_title = "land rover discovery 2.7 tdi,LICHTE VRACHT,(7 zetels )"
 var_categorie = "Auto's"
-var_brand = "Peugeot"
-var_model = "Partner"
-var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"
-var_price = "4999"
+var_brand = "Land Rover"
+var_model = "Discovery"
+var_desc = "\nexport of handelaar\nlichte vracht 2 zit\ntweede en derde rij bij\n"
+var_price = "6000"
 var_picspath = "car123"
 var_carroserie = "Monovolume"
 var_month = ""
 var_year = "2011"
 var_gas = "Diesel"
-var_transmissie = "Hand"
-var_km = "146000"
+var_transmissie = "Auto"
+var_km = "265000"
 var_doors = ""
 var_pk = ""
-var_cilinder = "1560"
-var_co2 = "139"
-var_euro = "euro 5"
-var_options = """Alarm
+var_cilinder = "2720"
+var_co2 = "270"
+var_euro = "euro 4"
+var_options = """4x4
+Alarm
 Elektrische buitenspiegels
+Elektrische stoelverstelling
+Climate control
 Mistlampen
 Radio
 Traction-control
 Verwarmde buitenspiegels
+Xenon verlichting
 ABS
 Airbags
+Lederen bekleding
 Boordcomputer
-Schuifdeur
 Centrale vergrendeling
 Airconditioning
 Elektrische ramen
 Electronic Stability Program (ESP)
 Isofix
-Metaalkleur"""
+Lichtmetalen velgen
+Metaalkleur
+Navigatiesysteem
+Parkeersensor
+Trekhaak
+Cruise Control"""
 var_carcolor = ""
 var_interiorcolor = ""

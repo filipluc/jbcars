@@ -3,7 +3,7 @@
 103. honda fr-v 1.7 benzine,airco,6 zetels
 104. ---
 105. suzuki sx4,1.5 benzine,Garantie,CAR PASS
-106. citroen berlingo 1.6 d,Garantie,CAR PASS,euro 5
+106. ---
 107. ford c max,1.6 hdi,airco
 108. citroen c3,1.4 hdi,Garantie,CAR PASS
 109. vw sharan 1.9 tdi,Garantie,CAR PASS,7 zetels

@@ -1,9 +1,9 @@
 101. mercedes ML320cdi,garantie,CAR PASS,eerste eigenaar
 102. peugeot partner 1.6 hdi,Garantie,CAR PASS
 103. honda fr-v 1.7 benzine,airco,6 zetels
-104. ---
+104. seat alhambra 1.9 tdi, export, 7 zetels
 105. suzuki sx4,1.5 benzine,Garantie,CAR PASS
-106. ---
+106. peugeot boxer 3.0d,DUBBEL CABINE 7 zit,bwj 2011,open laadbak
 107. ford c max,1.6 hdi,airco
 108. citroen c3,1.4 hdi,Garantie,CAR PASS
 109. vw sharan 1.9 tdi,Garantie,CAR PASS,7 zetels

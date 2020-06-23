@@ -5,7 +5,7 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "land rover discovery 2.7 tdi,LICHTE VRACHT,(7 zetels )"
+var_title = "land rover discovery 2.7 tdi,LICHTE VRACHT,7 zit,bwj 2008"
 var_categorie = "Auto's"
 var_brand = "Land Rover"
 var_model = "Discovery"
@@ -14,7 +14,7 @@ var_price = "6000"
 var_picspath = "car123"
 var_carroserie = "Monovolume"
 var_month = ""
-var_year = "2011"
+var_year = "2008"
 var_gas = "Diesel"
 var_transmissie = "Auto"
 var_km = "265000"

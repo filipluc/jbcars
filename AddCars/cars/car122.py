@@ -5,7 +5,7 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "peugeot partner 1.6 hdi,Garantie,CAR PASS,7 zit,euro 5"
+var_title = "peugeot partner 1.6 hdi,Garantie,7 zit,CAR PASS,euro 5"
 var_categorie = "Auto's"
 var_brand = "Peugeot"
 var_model = "Partner"

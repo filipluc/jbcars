@@ -19,8 +19,8 @@
 119. nissan pathfinder 2.5dci,AUTOMAAT,//7 zit
 120. opel insignia 2.0 d,AUTOMAAT,euro 5
 121. peugeot boxer 3.0 diesel,3 zit,bwj.2011,open laadbak,euro 4
-122. peugeot partner 1.6 hdi,Garantie,CAR PASS,7 zit,euro 5
-123. land rover discovery 2.7 tdi,LICHTE VRACHT,(7 zetels )
+122. peugeot partner 1.6 hdi,Garantie,7 zit,CAR PASS,euro 5
+123. land rover discovery 2.7 tdi,LICHTE VRACHT,7 zit,bwj 2008
 124. ford c max 1.6 tdci,Garantie,CAR PASS,bwj 2010/92000 km
 125. mercedes GLC 250d 4MATIC coupe,204PK,bwj2017/garantie,euro6b
 126. peugeot 508 RXH,2.0 hdi,Garantie,CAR PASS,46000 km/bwj 2016

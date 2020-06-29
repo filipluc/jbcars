@@ -8,7 +8,7 @@
 108. citroen c3,1.4 hdi,Garantie,CAR PASS
 109. vw sharan 1.9 tdi,Garantie,CAR PASS,7 zetels
 110. opel astra 1.7 cdti break,Garantie
-111. ---
+111. peugeot 508 sw,1.6 hdi AUTOMAAT,garantie,CAR PASS,bwj.2015
 112. Lancia Ypsilon 0,9 benzine+CNG,geen TAKS,geen BIV,bwj 2014
 113. citroen c3 pluriel ,1.4 benzine,73000 km
 114. landrover range rover sport 2.7 d, CAR PASS,bwj. 2009

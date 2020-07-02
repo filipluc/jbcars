@@ -5,47 +5,36 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "landrover range rover sport 2.7 d, CAR PASS,bwj. 2009"
+var_title = "citroen jumpy 2.0d,lichte vracht 3 zit,airco,2200€+btw/tva"
 var_categorie = "Auto's"
-var_brand = "Land Rover"
-var_model = "Range Rover (sport)"
-var_desc = "\nombouw lichte vracht 2 zit =+1000 euro\n\n\nenkel voor handelaar of export\ntrekhaak 3500 kg\n\n"
-var_price = "8000"
+var_brand = "Citroën"
+var_model = ""
+var_desc = "\nexport of handelaar\n2200€+btw/tva\ntrekhaak=2000 kg\ngoede staat\n"
+var_price = "2662"
 var_picspath = "car114"
-var_carroserie = "SUV"
-var_month = "apr"
+var_carroserie = ""
+var_month = ""
 var_year = "2009"
 var_gas = "Diesel"
-var_transmissie = "Auto"
-var_km = "200000"
-var_doors = "5"
-var_pk = "190"
-var_cilinder = "2720"
-var_co2 = "265"
+var_transmissie = "Hand"
+var_km = "328000"
+var_doors = ""
+var_pk = ""
+var_cilinder = "1997"
+var_co2 = ""
 var_euro = "euro 4"
-var_options = """Cruise Control
-Bluetooth
-Navigatiesysteem
-Elektrische buitenspiegels
-Open / panorama dak
-Elektrische stoelverstelling
-Parkeersensor
-Elektrische ramen
-4x4
-Alarm
-Lichtmetalen velgen
-Metaalkleur
-Lederen bekleding
+var_options = """ABS
+Airbags
 Boordcomputer
 Centrale vergrendeling
 Airconditioning
-Traction-control
-Verwarmde buitenspiegels
-ABS
-Mistlampen
-Airbags
-Zetelverwarming
+Elektrische ramen
+Electronic Stability Program (ESP)
+Metaalkleur
+Parkeersensor
+Trekhaak
+Alarm
 Radio
-Trekhaak"""
-var_carcolor = "Grijs"
-var_interiorcolor = "Beige"
+Schuifdeur"""
+var_carcolor = ""
+var_interiorcolor = ""

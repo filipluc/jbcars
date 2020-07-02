@@ -11,7 +11,7 @@
 111. peugeot 508 sw,1.6 hdi AUTOMAAT,garantie,CAR PASS,bwj.2015
 112. Lancia Ypsilon 0,9 benzine+CNG,geen TAKS,geen BIV,bwj 2014
 113. citroen c3 pluriel ,1.4 benzine,73000 km
-114. ---
+114. citroen jumpy 2.0d,lichte vracht 3 zit,airco,2200€+btw/tva
 115. opel vectra 2.0 dth dti 16v, Garantie, CAR PASS
 116. chrysler grand voyager 2.8 crd,7 zit,aut,CAR PASS,160000 km
 117. opel zafira 2.0 dti,bwj.2003,209000km,7 pl./EXPORT

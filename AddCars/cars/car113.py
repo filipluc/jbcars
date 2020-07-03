@@ -5,7 +5,7 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "citroen c3 pluriel ,1.4 benzine,73000 km"
+var_title = "citroen c3 pluriel ,1.4 benzine,73000 km,export"
 var_categorie = "Auto's"
 var_brand = "Citroën"
 var_model = "C3"

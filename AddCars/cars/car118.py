@@ -5,40 +5,36 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "vw tiguan 2.0 tdi,4Motion,Garantie,CAR PASS,eerste eigenaar"
+var_title = "vw touran 1.9 tdi,airco,EXPORT,7 zetels"
 var_categorie = "Auto's"
 var_brand = "Volkswagen"
-var_model = "Tiguan"
-var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"
-var_price = "7499"
+var_model = "Touran"
+var_desc = "\nenkel voor export of handelaar\n"
+var_price = "2200"
 var_picspath = "car118"
 var_carroserie = ""
 var_month = ""
-var_year = "2008"
+var_year = "2006"
 var_gas = "Diesel"
 var_transmissie = "Hand"
-var_km = "139000"
+var_km = "243000"
 var_doors = ""
 var_pk = ""
-var_cilinder = "1968"
-var_co2 = "182"
+var_cilinder = "1896"
+var_co2 = "162"
 var_euro = "Euro 4"
-var_options = """Boordcomputer
-Climate control
-Centrale vergrendeling
-Elektrische buitenspiegels
-Traction-control
-Parkeersensor
-Verwarmde buitenspiegels
-Elektrische ramen
-4x4
-ABS
-Mistlampen
+var_options = """ABS
 Airbags
+Boordcomputer
+Centrale vergrendeling
+Airconditioning
+Elektrische ramen
+Electronic Stability Program (ESP)
 Isofix
+Metaalkleur
+Trekhaak
 Alarm
-Radio
-Lichtmetalen velgen
-Trekhaak"""
+Elektrische buitenspiegels
+Radio"""
 var_carcolor = ""
 var_interiorcolor = ""

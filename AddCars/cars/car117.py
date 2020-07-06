@@ -5,37 +5,45 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "opel zafira 2.0 dti,bwj.2003,209000km,7 pl./EXPORT"
+var_title = "peugeot 508 sw 1.6 d,Garantie,CAR PASS,euro 5,AUTOMAAT"
 var_categorie = "Auto's"
-var_brand = "Opel"
-var_model = "Zafira"
-var_desc = "\nEXPORT of handelaar\nkoppeling /embrayage kapot !!!!\n"
-var_price = "500"
+var_brand = "Peugeot"
+var_model = "508"
+var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"
+var_price = "5900"
 var_picspath = "car117"
-var_carroserie = "Monovolume"
-var_month = "jan"
-var_year = "2003"
+var_carroserie = "Break"
+var_month = ""
+var_year = "2011"
 var_gas = "Diesel"
-var_transmissie = "Hand"
-var_km = "200000"
-var_doors = "5"
-var_pk = "100"
-var_cilinder = "1995"
-var_co2 = "175"
-var_euro = "euro 3"
-var_options = """Boordcomputer
+var_transmissie = "Auto"
+var_km = "180000"
+var_doors = ""
+var_pk = ""
+var_cilinder = "1560"
+var_co2 = "110"
+var_euro = "euro 5"
+var_options = """ABS
+Airbags
+Lederen bekleding
+Boordcomputer
 Centrale vergrendeling
-Elektrische buitenspiegels
 Airconditioning
+Elektrische ramen
+Electronic Stability Program (ESP)
+Isofix
+Lichtmetalen velgen
+Metaalkleur
+Parkeersensor
+Cruise Control
+Climate control
+Alarm
+Bluetooth
+Elektrische buitenspiegels
+Elektrische stoelverstelling
+Radio
 Traction-control
 Verwarmde buitenspiegels
-Elektrische ramen
-ABS
-Mistlampen
-Airbags
-Alarm
-Radio
-Lichtmetalen velgen
-Metaalkleur"""
-var_carcolor = "Groen"
-var_interiorcolor = "Grijs"
+Panoramadak"""
+var_carcolor = ""
+var_interiorcolor = ""

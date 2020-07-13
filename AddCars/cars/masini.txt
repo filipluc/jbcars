@@ -1,5 +1,5 @@
-101. ---
-102. ---
+101. citroen c2,VTR,1.2 benzine,Garantie,CAR PASS
+102. ford focus 1.6 tdci,Garantie,CAR PASS
 103. honda fr-v 1.7 benzine,airco,6 zetels
 104. seat alhambra 1.9 tdi, export, 7 zetels
 105. ---
@@ -20,7 +20,7 @@
 120. ---
 121. peugeot boxer 3.0 diesel,3 zit,bwj.2011,open laadbak,euro 4
 122. peugeot partner 1.6 hdi,Garantie,7 zit,CAR PASS,euro 5
-123. land rover discovery 2.7 tdi,LICHTE VRACHT,7 zit,bwj 2008
+123. ---land rover discovery 2.7 tdi,LICHTE VRACHT,7 zit,bwj 2008
 124. ---
 125. mercedes GLC 250d 4MATIC coupe,204PK,bwj2017/garantie,euro6b
 126. peugeot 508 RXH,2.0 hdi,Garantie,CAR PASS,46000 km/bwj 2016

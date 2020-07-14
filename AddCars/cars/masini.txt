@@ -9,7 +9,7 @@
 109. vw sharan 1.9 tdi,Garantie,CAR PASS,7 zetels
 110. opel astra 1.7 cdti break,Garantie
 111. peugeot 508 sw,1.6 hdi AUTOMAAT,garantie,CAR PASS,bwj.2015
-112. ---
+112. peugeot 207 cabrio,ROLAND GARROS,1.6 hdi,Garantie,CAR PASS
 113. citroen c3 pluriel ,1.4 benzine,73000 km,export
 114. citroen jumpy 2.0d,lichte vracht 3 zit,airco,2200€+btw/tva
 115. opel vectra 2.0 dth dti 16v, Garantie, CAR PASS

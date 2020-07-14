@@ -5,39 +5,42 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "Lancia Ypsilon 0,9 benzine+CNG,geen TAKS,geen BIV,bwj 2014"
+var_title = "peugeot 207 cabrio,ROLAND GARROS,1.6 hdi,Garantie,CAR PASS"
 var_categorie = "Auto's"
-var_brand = "Lancia"
-var_model = "Ypsilon"
-var_desc = "\n0 EUR BIV\n0 EUR taks\n70 L tank (1x21 L+1x49 L),origineel van fabriek\n\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"
-var_price = "7999"
+var_brand = "Peugeot"
+var_model = "207"
+var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"
+var_price = "4900"
 var_picspath = "car112"
-var_carroserie = "Stadsauto"
+var_carroserie = "Cabriolet"
 var_month = ""
-var_year = "2014"
-var_gas = "Benzine"
+var_year = "2008"
+var_gas = "Diesel"
 var_transmissie = "Hand"
-var_km = "69000"
-var_doors = "3"
+var_km = "159000"
+var_doors = ""
 var_pk = ""
 var_cilinder = ""
-var_co2 = "86"
-var_euro = "euro 5"
-var_options = """Bluetooth
-Boordcomputer
-Climate control
-Centrale vergrendeling
-Elektrische buitenspiegels
-Traction-control
-Parkeersensor
-Verwarmde buitenspiegels
-USB
-Elektrische ramen
-ABS
+var_co2 = "130"
+var_euro = "euro 4"
+var_options = """ABS
 Airbags
+Lederen bekleding
+Boordcomputer
+Centrale vergrendeling
+Airconditioning
+Elektrische ramen
+Electronic Stability Program (ESP)
 Isofix
+Lichtmetalen velgen
+Metaalkleur
+Parkeersensor
+Climate control
 Alarm
+Elektrische buitenspiegels
+Mistlampen
 Radio
-Lichtmetalen velgen"""
+Traction-control
+Verwarmde buitenspiegels"""
 var_carcolor = ""
 var_interiorcolor = ""

@@ -128,9 +128,9 @@ class GeneralFunctions():
 
         # elem8 = driver.find_element_by_id("description_ifr")
         elem8 = driver.find_element_by_id("description_nl-BE_ifr")
+        elem8.send_keys("\nBeste klanten,\nin de periode 20/07/2020 tot 21/08/2020(vakantie)\nwij zijn open enkel op afspraak 0485/673404\ndank u\n\n")
         elem8.send_keys(car_detail.var_desc)
         elem8.send_keys("\nopeningsuren\nmaandag tot vrijdag 10-17 uur\nzaterdag 10-14 uur\nadres\nLIERSESTEENWEG 153\n2547 LINT")
-        # elem8.send_keys("\nVan 19/12/2018 tot 03/01/2019 is OPEN enkel op afspraak\n\nadres\nLIERSESTEENWEG 153\n2547 LINT")
         time.sleep(1)
 
         elem9 = driver.find_element_by_xpath("//input[contains(@id, 'js-feature-url')]")

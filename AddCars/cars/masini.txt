@@ -8,7 +8,7 @@
 108. citroen c3,1.4 hdi,Garantie,CAR PASS
 109. vw sharan 1.9 tdi,Garantie,CAR PASS,7 zetels
 110. opel astra 1.7 cdti break,Garantie
-111. ---
+111. peugeot 107,1.0 benzine,Garantie,CAR PASS,euro 5
 112. peugeot 207 cabrio,ROLAND GARROS,1.6 hdi,Garantie,CAR PASS
 113. citroen c3 pluriel ,1.4 benzine,73000 km,export
 114. citroen jumpy 2.0d,lichte vracht 3 zit,airco,2200€+btw/tva
@@ -17,7 +17,7 @@
 117. peugeot 508 sw 1.6 d,Garantie,CAR PASS,euro 5,AUTOMAAT
 118. vw touran 1.9 tdi,airco,EXPORT,7 zetels
 119. nissan pathfinder 2.5dci,AUTOMAAT,//7 zit
-120. ---
+120. peugeot 308, 1.6 hdi,Garantie,CAR PASS,80000km,euro 5
 121. peugeot boxer 3.0 diesel,3 zit,bwj.2011,open laadbak,euro 4
 122. peugeot partner 1.6 hdi,Garantie,7 zit,CAR PASS,euro 5
 123. ---land rover discovery 2.7 tdi,LICHTE VRACHT,7 zit,bwj 2008

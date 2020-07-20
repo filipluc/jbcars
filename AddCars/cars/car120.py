@@ -5,47 +5,45 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "opel insignia 2.0 d,AUTOMAAT,euro 5"
+var_title = "peugeot 308, 1.6 hdi,Garantie,CAR PASS,80000km,euro 5"
 var_categorie = "Auto's"
-var_brand = "Opel"
-var_model = "Insignia"
-var_desc = "\nexport of handelaar\n"
-var_price = "4000"
+var_brand = "Peugeot"
+var_model = "308"
+var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"
+var_price = "6500"
 var_picspath = "car120"
-var_carroserie = "Berline"
+var_carroserie = ""
 var_month = ""
-var_year = "2010"
+var_year = "2011"
 var_gas = "Diesel"
-var_transmissie = "Auto"
-var_km = "273000"
+var_transmissie = "Hand"
+var_km = "80000"
 var_doors = ""
 var_pk = ""
-var_cilinder = "1956"
-var_co2 = ""
-var_euro = ""
-var_options = """Cruise Control
-Navigatiesysteem
-Elektrische buitenspiegels
-Elektrische stoelverstelling
-Parkeersensor
-Elektrische ramen
-Electronic Stability Program (ESP)
-Adaptieve lichten
-Alarm
-Lichtmetalen velgen
-Metaalkleur
+var_cilinder = "1560"
+var_co2 = "115"
+var_euro = "euro 5"
+var_options = """ABS
+Airbags
 Lederen bekleding
 Boordcomputer
-Climate control
 Centrale vergrendeling
 Airconditioning
-Traction-control
-Verwarmde buitenspiegels
-Xenon verlichting
-ABS
-Mistlampen
-Airbags
+Elektrische ramen
+Electronic Stability Program (ESP)
+Isofix
+Lichtmetalen velgen
+Metaalkleur
+Navigatiesysteem
+Parkeersensor
 Zetelverwarming
-Radio"""
-var_carcolor = "Grijs"
-var_interiorcolor = "Zwart"
+Cruise Control
+Climate control
+Alarm
+Elektrische buitenspiegels
+Mistlampen
+Radio
+Traction-control
+Verwarmde buitenspiegels"""
+var_carcolor = ""
+var_interiorcolor = ""

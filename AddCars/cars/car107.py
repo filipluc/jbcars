@@ -5,37 +5,37 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "ford c max,1.6 hdi,airco"
+var_title = "peugeot boxer 2.2 hdi,AIRCO,LEDER,€ 4500+btw/tva"
 var_categorie = "Auto's"
-var_brand = "Ford"
-var_model = "C-Max"
-var_desc = "\export of handelaar\n"
-var_price = "1000"
+var_brand = "Peugeot"
+var_model = "Boxer"
+var_desc = "\export of handelaar\npeugeot\nprijs 4500€+btw/tva\n"
+var_price = "5445"
 var_picspath = "car107"
-var_carroserie = "Monovolume"
+var_carroserie = ""
 var_month = ""
-var_year = "2004"
+var_year = "2011"
 var_gas = "Diesel"
 var_transmissie = "Hand"
-var_km = "238000"
-var_doors = "5"
+var_km = "130000"
+var_doors = ""
 var_pk = ""
-var_cilinder = "1560"
-var_co2 = "129"
-var_euro = "euro 3"
-var_options = """Boordcomputer
-Centrale vergrendeling
-Elektrische buitenspiegels
-Airconditioning
-Verwarmde buitenspiegels
-Elektrische ramen
-ABS
-Electronic Stability Program (ESP)
+var_cilinder = "2198"
+var_co2 = ""
+var_euro = "euro 4"
+var_options = """ABS
 Airbags
-Isofix
+Boordcomputer
+Centrale vergrendeling
+Airconditioning
+Elektrische ramen
+Electronic Stability Program (ESP)
+Navigatiesysteem
+Parkeersensor
 Alarm
+Elektrische buitenspiegels
 Radio
-Trekhaak
-Metaalkleur"""
+Traction-control
+Schuifdeur"""
 var_carcolor = ""
 var_interiorcolor = ""

@@ -14,11 +14,11 @@
 114. citroen jumpy 2.0d,lichte vracht 3 zit,airco,2200€+btw/tva
 115. opel vectra 2.0 dth dti 16v, Garantie, CAR PASS
 116. ---
-117. peugeot 508 sw 1.6 d,Garantie,CAR PASS,euro 5,AUTOMAAT
+117. ---peugeot 508 sw 1.6 d,Garantie,CAR PASS,euro 5,AUTOMAAT
 118. vw touran 1.9 tdi,airco,EXPORT,7 zetels
-119. nissan pathfinder 2.5dci,AUTOMAAT,//7 zit
-120. peugeot 308, 1.6 hdi,Garantie,CAR PASS,80000km,euro 5
-121. peugeot boxer 3.0 diesel,3 zit,bwj.2011,open laadbak,euro 4
+119. ---
+120. ---
+121. ---
 122. peugeot partner 1.6 hdi,Garantie,7 zit,CAR PASS,euro 5
 123. peugeot 508 sw,1.6 hdi AUTOMAAT,garantie,CAR PASS,bwj.2015
 124. ---

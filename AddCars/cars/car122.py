@@ -5,42 +5,42 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "peugeot partner 1.6 hdi,Garantie,7 zit,CAR PASS,euro 5"
+var_title = "toyota rav 4,2200 cc diesel,4x4"
 var_categorie = "Auto's"
-var_brand = "Peugeot"
-var_model = "Partner"
-var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"
-var_price = "5499"
+var_brand = "Toyota"
+var_model = "Rav4"
+var_desc = "\nenkel export of handelaar !!!!!\n"
+var_price = "5000"
 var_picspath = "car122"
-var_carroserie = "Monovolume"
+var_carroserie = "SUV"
 var_month = ""
-var_year = "2011"
+var_year = "2009"
 var_gas = "Diesel"
 var_transmissie = "Hand"
-var_km = "165000"
+var_km = "217000"
 var_doors = ""
 var_pk = ""
-var_cilinder = "1560"
-var_co2 = "144"
-var_euro = "euro 5"
-var_options = """Elektrische buitenspiegels
-Parkeersensor
-Elektrische ramen
-Electronic Stability Program (ESP)
-Adaptieve lichten
-Isofix
-Alarm
-Metaalkleur
+var_cilinder = "2231"
+var_co2 = "173"
+var_euro = "euro 4"
+var_options = """ABS
+Airbags
+Lederen bekleding
 Boordcomputer
 Centrale vergrendeling
-Schuifdeur
 Airconditioning
-Traction-control
-Verwarmde buitenspiegels
-ABS
-Mistlampen
-Airbags
+Elektrische ramen
+Electronic Stability Program (ESP)
+Isofix
+Lichtmetalen velgen
+Metaalkleur
+Trekhaak
+Cruise Control
+Climate control
+4x4
+Alarm
+Elektrische buitenspiegels
 Radio
-Trekhaak"""
+Verwarmde buitenspiegels"""
 var_carcolor = ""
 var_interiorcolor = ""

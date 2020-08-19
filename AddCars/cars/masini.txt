@@ -10,7 +10,7 @@
 110. opel astra 1.7 cdti break,Garantie
 111. peugeot 107,1.0 benzine,Garantie,CAR PASS,euro 5
 112. peugeot 207 cabrio,ROLAND GARROS,1.6 hdi,Garantie,CAR PASS
-113. citroen c3 pluriel ,1.4 benzine,73000 km,export
+113. Citroen C3 ,1.4i,Dak geblokkeerd ,Toit bloqué ,73000 km
 114. citroen jumpy 2.0d,lichte vracht 3 zit,airco,2200€+btw/tva
 115. opel vectra 2.0 dth dti 16v, Garantie, CAR PASS
 116. ---

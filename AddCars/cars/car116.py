@@ -5,43 +5,37 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "chrysler grand voyager 2.8 crd,7 zit,aut,CAR PASS,160000 km"
+var_title = "alfa romeo giulieta 1.6 d, export of handelaar"
 var_categorie = "Auto's"
-var_brand = "Chrysler"
-var_model = "Grand Voyager"
-var_desc = "\nenkel voor handelaar of export\n"
-var_price = "6500"
+var_brand = "Alfa Romeo"
+var_model = "Giulietta"
+var_desc = "\nenkel voor export of handelaar\n"
+var_price = "4500"
 var_picspath = "car116"
-var_carroserie = "Monovolume"
+var_carroserie = ""
 var_month = ""
-var_year = "2008"
+var_year = "2011"
 var_gas = "Diesel"
-var_transmissie = "Auto"
-var_km = "160000"
-var_doors = "5"
+var_transmissie = "Hand"
+var_km = "187000"
+var_doors = ""
 var_pk = ""
-var_cilinder = "2777"
-var_co2 = "247"
-var_euro = "euro 4"
-var_options = """Cruise Control
-Bluetooth
-Parkeercamera
-Navigatiesysteem
-Elektrische buitenspiegels
-Elektrische stoelverstelling
-Parkeersensor
-Elektrische ramen
-Alarm
-Lichtmetalen velgen
-Boordcomputer
-Climate control
-Centrale vergrendeling
-Traction-control
-Verwarmde buitenspiegels
-ABS
-Mistlampen
+var_cilinder = "1598"
+var_co2 = "114"
+var_euro = "euro 5"
+var_options = """ABS
 Airbags
+Boordcomputer
+Centrale vergrendeling
+Airconditioning
+Elektrische ramen
+Electronic Stability Program (ESP)
+Isofix
+Metaalkleur
+Alarm
+Elektrische buitenspiegels
 Radio
-Trekhaak"""
-var_carcolor = "Zwart"
-var_interiorcolor = "Zwart"
+Traction-control
+Verwarmde buitenspiegels"""
+var_carcolor = ""
+var_interiorcolor = ""

@@ -5,23 +5,23 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "peugeot boxer 2.2 hdi,AIRCO,LEDER,€ 4500+btw/tva"
+var_title = "renault scenic 2.0 benzine,Garantie,CAR PASS,92000 km,euro 4"
 var_categorie = "Auto's"
-var_brand = "Peugeot"
-var_model = "Boxer"
-var_desc = "\export of handelaar\npeugeot\nprijs 4500€+btw/tva\n"
-var_price = "5445"
+var_brand = "Renault"
+var_model = "Scénic"
+var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"
+var_price = "3850"
 var_picspath = "car107"
 var_carroserie = ""
 var_month = ""
-var_year = "2011"
-var_gas = "Diesel"
+var_year = "2003"
+var_gas = "Benzine"
 var_transmissie = "Hand"
-var_km = "130000"
+var_km = "92000"
 var_doors = ""
 var_pk = ""
-var_cilinder = "2198"
-var_co2 = ""
+var_cilinder = "1998"
+var_co2 = "192"
 var_euro = "euro 4"
 var_options = """ABS
 Airbags
@@ -30,12 +30,22 @@ Centrale vergrendeling
 Airconditioning
 Elektrische ramen
 Electronic Stability Program (ESP)
+Isofix
+Lichtmetalen velgen
+Metaalkleur
 Navigatiesysteem
+Open / panorama dak
 Parkeersensor
+Cruise Control
+Climate control
 Alarm
 Elektrische buitenspiegels
+Mistlampen
+Parkeerassistent
 Radio
 Traction-control
-Schuifdeur"""
+Verwarmde buitenspiegels
+Panoramadak
+Keyless entry"""
 var_carcolor = ""
 var_interiorcolor = ""

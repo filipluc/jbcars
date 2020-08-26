@@ -95,22 +95,6 @@ class GeneralFunctions():
         finally:
             pass
         time.sleep(1)
-        elem3 = driver.find_element_by_id("category-keywords")
-        elem3.clear()
-        elem3.send_keys(car_detail.var_title)
-        elem3.send_keys(Keys.TAB)
-        time.sleep(1)
-
-        select1 = Select(driver.find_element_by_id('cat_sel_1'))
-        select1.select_by_visible_text(car_detail.var_categorie)
-        time.sleep(1)
-
-        select11 = Select(driver.find_element_by_id('cat_sel_3'))
-        select11.select_by_visible_text(car_detail.var_brand)
-        time.sleep(1)
-        elem77 = driver.find_element_by_id('category-selection-submit')
-        elem77.click()
-        time.sleep(3)
 
         if os.path.exists("d:\Github\jbcars\AddCars\pics"):
             picspathgeneral = "d:\Github\jbcars\AddCars\pics"
@@ -126,9 +110,34 @@ class GeneralFunctions():
                 time.sleep(6)
         time.sleep(2)
 
+        #elem3 = driver.find_element_by_id("category-keywords")
+        elem3 = driver.find_element_by_id("title_nl-BE")
+        elem3.clear()
+        elem3.send_keys(car_detail.var_title)
+        elem3.send_keys(Keys.TAB)
+        time.sleep(1)
+
+
+        select1 = driver.find_element_by_xpath("/html//article[@id='photo-upload']/div[2]//button[@class='hz-HubControl']//label[.='Kies...']")
+        select1.click()
+        time.sleep(1)
+
+
+        #Click Auto's
+        select11 = driver.find_element_by_xpath("//div[@id='categorySelectionDialog']//article/ul[3]/li[4]/button[@class='hz-HubControl']")
+        select11.click()
+        time.sleep(1)
+
+        #click Brand
+        select12 = driver.find_element_by_xpath("//div[@id='categorySelectionDialog']//article[@class='hz-Card hz-Card--categories']/ul[@class='hz-List hz-List--categories']//strong[.='" + car_detail.var_brand + "']")
+        select12.click()
+        time.sleep(1)
+
+
+
         # elem8 = driver.find_element_by_id("description_ifr")
         elem8 = driver.find_element_by_id("description_nl-BE_ifr")
-        elem8.send_keys("\nBeste klanten,\nin de periode 20/07/2020 tot 21/08/2020(vakantie)\nwij zijn open enkel op afspraak 0485/673404\ndank u\n\n")
+        #elem8.send_keys("\nBeste klanten,\nin de periode 20/07/2020 tot 21/08/2020(vakantie)\nwij zijn open enkel op afspraak 0485/673404\ndank u\n\n")
         elem8.send_keys(car_detail.var_desc)
         elem8.send_keys("\nopeningsuren\nmaandag tot vrijdag 10-17 uur\nzaterdag 10-14 uur\nadres\nLIERSESTEENWEG 153\n2547 LINT")
         time.sleep(1)

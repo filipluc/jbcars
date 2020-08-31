@@ -5,12 +5,12 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "alfa romeo giulieta 1.6 d, export of handelaar"
+var_title = "alfa romeo giulietta 1.6 d,Garantie,CAR PASS,euro 5"
 var_categorie = "Auto's"
 var_brand = "Alfa Romeo"
 var_model = "Giulietta"
-var_desc = "\nenkel voor export of handelaar\n"
-var_price = "4500"
+var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n\nDistributie riem vervangen op136000 km !!!!\n"
+var_price = "5850"
 var_picspath = "car116"
 var_carroserie = ""
 var_month = ""

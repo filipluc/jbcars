@@ -11,13 +11,13 @@
 111. peugeot 107,1.0 benzine,Garantie,CAR PASS,euro 5
 112. peugeot 207 cabrio,ROLAND GARROS,1.6 hdi,Garantie,CAR PASS
 113. Citroen C3 ,1.4i,Dak geblokkeerd ,Toit bloqué ,73000 km
-114. citroen jumpy 2.0d,lichte vracht 3 zit,airco,2200€+btw/tva
+114. citroen jumpy 2.0d,lichte vracht 3 zit,airco,2200€ btw/tva
 115. opel vectra 2.0 dth dti 16v, Garantie, CAR PASS
 116. alfa romeo giulietta 1.6 d,Garantie,CAR PASS,euro 5
 117. peugeot 508 sw 1.6 d,Garantie,CAR PASS,euro 5,AUTOMAAT
 118. vw touran 1.9 tdi,airco,EXPORT,7 zetels
 119. renault laguna 2.0 dci,Garantie,CAR PASS
-120. peugeot partner 1.6d,Garantie,CAR PASS,5700€+btw/tva,euro 5
+120. peugeot partner 1.6d,Garantie,CAR PASS,5700€ btw/tva,euro 5
 121. volvo v40 D2,1.6 d,Garantie,CAR PASS,euro 5
 122. toyota rav 4,2200 cc diesel,4x4
 123. peugeot 508 sw,1.6 hdi AUTOMAAT,garantie,CAR PASS,bwj.2015

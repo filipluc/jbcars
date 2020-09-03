@@ -5,7 +5,7 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "peugeot partner 1.6d,Garantie,CAR PASS,5700€+btw/tva,euro 5"
+var_title = "peugeot partner 1.6d,Garantie,CAR PASS,5700€ btw/tva,euro 5"
 var_categorie = "Auto's"
 var_brand = "Peugeot"
 var_model = "Partner"

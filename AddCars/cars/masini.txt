@@ -20,7 +20,7 @@
 120. peugeot partner 1.6d,Garantie,CAR PASS,5700€ btw/tva,euro 5
 121. volvo v40 D2,1.6 d,Garantie,CAR PASS,euro 5
 122. toyota rav 4,2200 cc diesel,4x4
-123. peugeot 508 sw,1.6 hdi AUTOMAAT,garantie,CAR PASS,bwj.2015
+123. ---
 124. ---
 125. mercedes GLC 250d 4MATIC coupe,204PK,bwj2017/garantie,euro6b
 126. peugeot 508 RXH,2.0 hdi,Garantie,CAR PASS,46000 km/bwj 2016

@@ -5,12 +5,12 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "Citroen C3 ,1.4i,Dak geblokkeerd ,Toit bloqué ,73000 km"
+var_title = "Citroen C3 ,1.4i,Garantie,CAR PASS,73000 km"
 var_categorie = "Auto's"
 var_brand = "Citroën"
 var_model = "C3"
-var_desc = "\ndak gaat niet open\nexport of handelaar\n"
-var_price = "2500"
+var_desc = "\ndak geblokeerd/toit bloque\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"
+var_price = "2999"
 var_picspath = "car113"
 var_carroserie = ""
 var_month = ""

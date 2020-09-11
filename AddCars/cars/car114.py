@@ -5,12 +5,12 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "citroen jumpy 2.0d,lichte vracht 3 zit,airco,2200€ btw/tva"
+var_title = "citroen jumpy 2.0d,LV3zit,CAR PASS,airco,2450€ btw,gekeurd"
 var_categorie = "Auto's"
 var_brand = "Citroën"
 var_model = ""
-var_desc = "\nexport of handelaar\n2200€+btw/tva\ntrekhaak=2000 kg\ngoede staat\n"
-var_price = "2662"
+var_desc = "\nCAR PASS\ngekeurd voor verkoop\nexport of handelaar\n2450€+btw/tva\ntrekhaak=2000 kg\ngoede staat\n"
+var_price = "2965"
 var_picspath = "car114"
 var_carroserie = ""
 var_month = ""

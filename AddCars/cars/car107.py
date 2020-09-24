@@ -5,26 +5,27 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "renault scenic 2.0 benzine,Garantie,CAR PASS,92000 km,euro 4"
+var_title = "audi a3 CABRIO,2.0 d,AUTOMAAT,bwj 2015,68000km,euro 6b"
 var_categorie = "Auto's"
-var_brand = "Renault"
-var_model = "Scénic"
+var_brand = "Audi"
+var_model = "A3"
 var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"
-var_price = "3850"
+var_price = "22500"
 var_picspath = "car107"
-var_carroserie = ""
+var_carroserie = "Cabriolet"
 var_month = ""
-var_year = "2003"
-var_gas = "Benzine"
-var_transmissie = "Hand"
-var_km = "92000"
+var_year = "2015"
+var_gas = "Diesel"
+var_transmissie = "Auto"
+var_km = "68000"
 var_doors = ""
 var_pk = ""
-var_cilinder = "1998"
-var_co2 = "192"
-var_euro = "euro 4"
+var_cilinder = "1968"
+var_co2 = "120"
+var_euro = "euro 6"
 var_options = """ABS
 Airbags
+Lederen bekleding
 Boordcomputer
 Centrale vergrendeling
 Airconditioning
@@ -34,18 +35,17 @@ Isofix
 Lichtmetalen velgen
 Metaalkleur
 Navigatiesysteem
-Open / panorama dak
 Parkeersensor
-Cruise Control
+Zetelverwarming
 Climate control
 Alarm
+Bluetooth
 Elektrische buitenspiegels
+Elektrische stoelverstelling
 Mistlampen
-Parkeerassistent
 Radio
+Sportpakket
 Traction-control
-Verwarmde buitenspiegels
-Panoramadak
-Keyless entry"""
+Verwarmde buitenspiegels"""
 var_carcolor = ""
 var_interiorcolor = ""

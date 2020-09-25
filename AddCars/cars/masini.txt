@@ -13,7 +13,7 @@
 113. Citroen C3 ,1.4i,Garantie,CAR PASS,73000 km
 114. citroen jumpy 2.0d,LV3zit,CAR PASS,airco,2450€ btw,gekeurd
 115. opel vectra 2.0 dth dti 16v, Garantie, CAR PASS
-116. ---
+116. peugeot partner 1.6 benzine,Garantie,CAR PASS
 117. ---
 118. vw touran 1.9 tdi,airco,EXPORT,7 zetels
 119. renault laguna 2.0 dci,Garantie,CAR PASS

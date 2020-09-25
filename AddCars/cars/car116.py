@@ -5,24 +5,24 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "alfa romeo giulietta 1.6 d,Garantie,CAR PASS,euro 5"
+var_title = "peugeot partner 1.6 benzine,Garantie,CAR PASS"
 var_categorie = "Auto's"
-var_brand = "Alfa Romeo"
-var_model = "Giulietta"
-var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n\nDistributie riem vervangen op136000 km !!!!\n"
-var_price = "5850"
+var_brand = "Peugeot"
+var_model = "Partner"
+var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n\ndistributie riem vervangen op 212000 km\n"
+var_price = "3999"
 var_picspath = "car116"
-var_carroserie = ""
+var_carroserie = "Monovolume"
 var_month = ""
-var_year = "2011"
-var_gas = "Diesel"
+var_year = "2009"
+var_gas = "Benzine"
 var_transmissie = "Hand"
-var_km = "187000"
+var_km = "236000"
 var_doors = ""
 var_pk = ""
-var_cilinder = "1598"
-var_co2 = "114"
-var_euro = "euro 5"
+var_cilinder = "1587"
+var_co2 = ""
+var_euro = "euro 4"
 var_options = """ABS
 Airbags
 Boordcomputer
@@ -32,10 +32,11 @@ Elektrische ramen
 Electronic Stability Program (ESP)
 Isofix
 Metaalkleur
+Trekhaak
 Alarm
 Elektrische buitenspiegels
 Radio
 Traction-control
-Verwarmde buitenspiegels"""
+Schuifdeur"""
 var_carcolor = ""
 var_interiorcolor = ""

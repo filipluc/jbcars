@@ -10,7 +10,7 @@
 110. opel astra 1.7 cdti break,Garantie
 111. peugeot 107,1.0 benzine,Garantie,CAR PASS,euro 5
 112. peugeot 207 cabrio,ROLAND GARROS,1.6 hdi,Garantie,CAR PASS
-113. Citroen C3 ,1.4i,Garantie,CAR PASS,73000 km
+113. ---
 114. citroen jumpy 2.0d,LV3zit,CAR PASS,airco,2450€ btw,gekeurd
 115. opel vectra 2.0 dth dti 16v, Garantie, CAR PASS
 116. peugeot partner 1.6 benzine,Garantie,CAR PASS

@@ -10,7 +10,7 @@
 110. opel astra 1.7 cdti break,Garantie
 111. peugeot 107,1.0 benzine,Garantie,CAR PASS,euro 5
 112. peugeot 207 cabrio,ROLAND GARROS,1.6 hdi,Garantie,CAR PASS
-113. ---
+113. dacia logan break 1.4 benzine,Garantie,CAR PASS,70000 km
 114. citroen jumpy 2.0d,LV3zit,CAR PASS,airco,2450€ btw,gekeurd
 115. opel vectra 2.0 dth dti 16v, Garantie, CAR PASS
 116. peugeot partner 1.6 benzine,Garantie,CAR PASS
@@ -20,14 +20,14 @@
 120. peugeot partner 1.6d,Garantie,CAR PASS,5700€ btw/tva,euro 5
 121. ---
 122. toyota rav 4,2200 cc diesel,4x4
-123. peugeot partner 1.6 hdi,GARANTIE,CAR PASS,euro 5
+123. ---
 124. ---
 125. mercedes GLC 250d 4MATIC coupe,204PK,bwj2017/garantie,euro6b
 126. ---
 127. renault kangoo 1.5 dci,Garantie,CAR PASS
 128. vw t4 transporter 2.5 tdi,dbl cabine 5plus1 pl.,Open laadbak
 129. vw transporter 2.5 tdi OPEN LAADBAK,double cabine 5plus1 pl.
-130. vw transporter 1.9 tdi,double cabine 5plus1 pl.,EXPORT
+130. vw transporter 1.9 d,DUBBELE CABINE,5+1 zit L.V.,gekeurd
 131. ---
 132. ---
 133. ---

@@ -5,23 +5,23 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "peugeot partner 1.6 hdi,Garantie,CAR PASS,euro 5b"
+var_title = "peugeot partner 1.6 hdi AUTOMAAT,garantie,CAR PASS,euro 5b"
 var_categorie = "Auto's"
 var_brand = "Peugeot"
 var_model = "Partner"
-var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"
-var_price = "9990"
+var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n\nprijs 8760€+btw/tva\n"
+var_price = "10600"
 var_picspath = "car106"
 var_carroserie = ""
 var_month = ""
 var_year = "2015"
 var_gas = "Diesel"
-var_transmissie = "Hand"
-var_km = "60000"
+var_transmissie = "Auto"
+var_km = "57000"
 var_doors = ""
 var_pk = ""
 var_cilinder = "1560"
-var_co2 = "135"
+var_co2 = "115"
 var_euro = "euro 5"
 var_options = """ABS
 Airbags
@@ -32,7 +32,7 @@ Elektrische ramen
 Electronic Stability Program (ESP)
 Isofix
 Metaalkleur
-Trekhaak
+Parkeersensor
 Alarm
 Elektrische buitenspiegels
 Mistlampen

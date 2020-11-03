@@ -17,7 +17,7 @@
 117. ---
 118. vw touran 1.9 tdi,airco,EXPORT,7 zetels
 119. renault laguna 2.0 dci,Garantie,CAR PASS
-120. peugeot partner 1.6d,Garantie,CAR PASS,5700€ btw/tva,euro 5
+120. citroen jumper 2.2hdi, CAR PASS,gekeurd,€ 4124 excl btw/tva
 121. ---
 122. toyota rav 4,2200 cc diesel,4x4
 123. ---

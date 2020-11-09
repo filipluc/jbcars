@@ -3,7 +3,7 @@
 103. honda fr-v 1.7 benzine,airco,6 zetels
 104. seat alhambra 1.9 tdi, export, 7 zetels
 105. citroen c3, 1.1 benzine,Garantie,CAR PASS,55000 km
-106. ---
+106. citroen c3 EXCLUSIVE 1.2 benzine,Garantie,CAR PASS,euro 5b
 107. audi a3 CABRIO,2.0 d,AUTOMAAT,bwj 2015,68000km,euro 6b
 108. citroen c3,1.4 hdi,Garantie,CAR PASS
 109. vw sharan 1.9 tdi,Garantie,CAR PASS,7 zetels
@@ -13,7 +13,7 @@
 113. toyota rav 4 AUTOMAAT,2.0 benzine,Garantie,CAR PASS,4x4
 114. citroen jumpy 2.0d,LV3zit,CAR PASS,airco,2450€ btw,gekeurd
 115. opel vectra 2.0 dth dti 16v, Garantie, CAR PASS
-116. ---
+116. toyota aygo 1.0 benzine,Garantie,CAR PASS,79000 km
 117. ---
 118. vw touran 1.9 tdi,airco,EXPORT,7 zetels
 119. renault laguna 2.0 dci,Garantie,CAR PASS

@@ -5,38 +5,33 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "seat alhambra 1.9 tdi, export, 7 zetels"
+var_title = "peugeot 206 benzine,1.4 i, Garantie,CAR PASS,euro 4"
 var_categorie = "Auto's"
-var_brand = "Seat"
-var_model = "Alhambra"
-var_desc = "\nexport\n"
-var_price = "1500"
+var_brand = "Peugeot"
+var_model = "206"
+var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"
+var_price = "1999"
 var_picspath = "car104"
-var_carroserie = "Monovolume"
+var_carroserie = ""
 var_month = ""
-var_year = "2001"
-var_gas = "Diesel"
+var_year = "2004"
+var_gas = "Benzine"
 var_transmissie = "Hand"
-var_km = "283000"
+var_km = "156000"
 var_doors = ""
 var_pk = ""
-var_cilinder = "1896"
-var_co2 = ""
-var_euro = "euro 3"
-var_options = """ABS
-Airbags
-Boordcomputer
-Centrale vergrendeling
-Airconditioning
+var_cilinder = "1360"
+var_co2 = "149"
+var_euro = "euro 4"
+var_options = """Centrale vergrendeling
 Elektrische ramen
 Electronic Stability Program (ESP)
-Isofix
 Metaalkleur
-Trekhaak
-Cruise Control
 Alarm
-Elektrische buitenspiegels
 Radio
-Traction-control"""
+Traction-control
+ABS
+Airbags
+Boordcomputer"""
 var_carcolor = ""
 var_interiorcolor = ""

@@ -5,45 +5,34 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "peugeot 508 sw 1.6 d,Garantie,CAR PASS,euro 5,AUTOMAAT"
+var_title = "peugeot 207 sw,1.4 benzine,Garantie,CAR PASS,84000 km"
 var_categorie = "Auto's"
 var_brand = "Peugeot"
-var_model = "508"
+var_model = "207"
 var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"
-var_price = "5900"
+var_price = "3499"
 var_picspath = "car117"
-var_carroserie = "Break"
+var_carroserie = ""
 var_month = ""
-var_year = "2011"
-var_gas = "Diesel"
-var_transmissie = "Auto"
-var_km = "180000"
+var_year = "2008"
+var_gas = "Benzine"
+var_transmissie = "Hand"
+var_km = "84000"
 var_doors = ""
 var_pk = ""
-var_cilinder = "1560"
-var_co2 = "110"
-var_euro = "euro 5"
-var_options = """ABS
-Airbags
-Lederen bekleding
-Boordcomputer
-Centrale vergrendeling
-Airconditioning
+var_cilinder = "1360"
+var_co2 = "155"
+var_euro = "euro 4"
+var_options = """Centrale vergrendeling
 Elektrische ramen
 Electronic Stability Program (ESP)
 Isofix
-Lichtmetalen velgen
 Metaalkleur
-Parkeersensor
-Cruise Control
-Climate control
 Alarm
-Bluetooth
-Elektrische buitenspiegels
-Elektrische stoelverstelling
 Radio
 Traction-control
-Verwarmde buitenspiegels
-Panoramadak"""
+ABS
+Airbags
+Boordcomputer"""
 var_carcolor = ""
 var_interiorcolor = ""

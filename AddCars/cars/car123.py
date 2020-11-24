@@ -5,37 +5,41 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "peugeot partner 1.6 hdi,GARANTIE,CAR PASS,euro 5"
+var_title = "peugeot 308 sw 1.6 hdi-80 kw,Garantie,CAR PASS,glazen dak"
 var_categorie = "Auto's"
 var_brand = "Peugeot"
-var_model = "Partner"
-var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"
-var_price = "4500"
+var_model = "308"
+var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n\nextra 2 stoelen =+450 euro\n"
+var_price = "3990"
 var_picspath = "car123"
-var_carroserie = "Monovolume"
+var_carroserie = "Break"
 var_month = ""
-var_year = "2011"
+var_year = "2008"
 var_gas = "Diesel"
 var_transmissie = "Hand"
-var_km = "224000"
+var_km = "120000"
 var_doors = ""
 var_pk = ""
 var_cilinder = "1560"
-var_co2 = "139"
-var_euro = "euro 5"
-var_options = """ABS
+var_co2 = "134"
+var_euro = "euro 4"
+var_options = """Alarm
+Elektrische buitenspiegels
+Climate control
+Mistlampen
+Radio
+Traction-control
+Verwarmde buitenspiegels
+ABS
 Airbags
 Boordcomputer
 Centrale vergrendeling
 Airconditioning
+Panoramadak
 Elektrische ramen
 Electronic Stability Program (ESP)
 Isofix
 Metaalkleur
-Trekhaak
-Cruise Control
-Alarm
-Radio
-Traction-control"""
+Cruise Control"""
 var_carcolor = ""
 var_interiorcolor = ""

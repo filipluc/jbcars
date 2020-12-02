@@ -1,5 +1,5 @@
 101. peugeot 308 GT line 1.6 hdi,Garantie,CAR PASS,euro 5b
-102. bmw 316d,CAR PASS,garantie,euro 5
+102. ---
 103. honda fr-v 1.7 benzine,airco,6 zetels
 104. peugeot 206 benzine,1.4 i, Garantie,CAR PASS,euro 4
 105. citroen c3, 1.1 benzine,Garantie,CAR PASS,55000 km
@@ -21,7 +21,7 @@
 121. peugeot 208 ,1.4hdi,Garantie,CAR PASS,€4950 excl btw/tva
 122. toyota rav 4,2200 cc diesel,4x4
 123. ---
-124. hyundai ix35,1.6 benzine,Garantie,CAR PASS,45000km,bwj 2015
+124. ---
 125. mercedes GLC 250d 4MATIC coupe,204PK,bwj2017/garantie,euro6b
 126. ---
 127. ---

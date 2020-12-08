@@ -1,7 +1,7 @@
 101. peugeot 308 GT line 1.6 hdi,Garantie,CAR PASS,euro 5b
 102. opel zafira 1.9cdti,7 zit,Garantie,CAR PASS,85000 km
 103. honda fr-v 1.7 benzine,airco,6 zetels
-104. peugeot 206 benzine,1.4 i, Garantie,CAR PASS,euro 4
+104. citroen c2, 1.1 benzine,Garantie,CAR PASS,77000 km
 105. citroen c3, 1.1 benzine,Garantie,CAR PASS,55000 km
 106. citroen c3 EXCLUSIVE 1.2 benzine,Garantie,CAR PASS,euro 5b
 107. audi a3 CABRIO,2.0 d,AUTOMAAT,bwj 2015,68000km,euro 6b
@@ -16,7 +16,7 @@
 116. toyota aygo 1.0 benzine,Garantie,CAR PASS,79000 km
 117. vw caddy MAXI 1.9 tdi,LICHTE VRACHT 4+1 zit
 118. vw touran 1.9 tdi,airco,EXPORT,7 zetels
-119. renault laguna 2.0 dci,Garantie,CAR PASS
+119. ---
 120. citroen jumper 2.2hdi, CAR PASS,gekeurd,€ 4124 excl btw/tva
 121. peugeot 208 ,1.4hdi,Garantie,CAR PASS,€4950 excl btw/tva
 122. toyota rav 4,2200 cc diesel,4x4

@@ -5,33 +5,29 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "peugeot 206 benzine,1.4 i, Garantie,CAR PASS,euro 4"
+var_title = "citroen c2, 1.1 benzine,Garantie,CAR PASS,77000 km"
 var_categorie = "Auto's"
-var_brand = "Peugeot"
-var_model = "206"
+var_brand = "Citroën"
+var_model = "C2"
 var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"
-var_price = "1999"
+var_price = "3490"
 var_picspath = "car104"
 var_carroserie = ""
 var_month = ""
-var_year = "2004"
+var_year = "2007"
 var_gas = "Benzine"
 var_transmissie = "Hand"
-var_km = "156000"
+var_km = "77000"
 var_doors = ""
 var_pk = ""
-var_cilinder = "1360"
-var_co2 = "149"
+var_cilinder = "1124"
+var_co2 = ""
 var_euro = "euro 4"
-var_options = """Centrale vergrendeling
-Elektrische ramen
-Electronic Stability Program (ESP)
+var_options = """Electronic Stability Program (ESP)
 Metaalkleur
-Alarm
 Radio
 Traction-control
 ABS
-Airbags
-Boordcomputer"""
+Airbags"""
 var_carcolor = ""
 var_interiorcolor = ""

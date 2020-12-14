@@ -5,41 +5,26 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "peugeot 308 sw 1.6 hdi-80 kw,Garantie,CAR PASS,glazen dak"
+var_title = "vw lupo 1.0 i benzine,Garantie,CAR PASS"
 var_categorie = "Auto's"
-var_brand = "Peugeot"
-var_model = "308"
+var_brand = "Volkswagen"
+var_model = "Lupo"
 var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n\nextra 2 stoelen =+450 euro\n"
-var_price = "3990"
+var_price = "1999"
 var_picspath = "car123"
-var_carroserie = "Break"
+var_carroserie = ""
 var_month = ""
-var_year = "2008"
-var_gas = "Diesel"
+var_year = "1999"
+var_gas = "Benzine"
 var_transmissie = "Hand"
-var_km = "120000"
+var_km = "123000"
 var_doors = ""
 var_pk = ""
-var_cilinder = "1560"
-var_co2 = "134"
-var_euro = "euro 4"
-var_options = """Alarm
-Elektrische buitenspiegels
-Climate control
-Mistlampen
-Radio
-Traction-control
-Verwarmde buitenspiegels
+var_cilinder = "997"
+var_co2 = ""
+var_euro = ""
+var_options = """Radio
 ABS
-Airbags
-Boordcomputer
-Centrale vergrendeling
-Airconditioning
-Panoramadak
-Elektrische ramen
-Electronic Stability Program (ESP)
-Isofix
-Metaalkleur
-Cruise Control"""
+Airbags"""
 var_carcolor = ""
 var_interiorcolor = ""

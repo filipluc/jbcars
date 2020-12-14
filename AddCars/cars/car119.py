@@ -5,25 +5,34 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "renault laguna 2.0 dci,Garantie,CAR PASS"
+var_title = "citroen c5 AUTOMAAT,2.0 hdi,Garantie,CAR PASS,95000 km"
 var_categorie = "Auto's"
-var_brand = "Renault"
-var_model = "Laguna"
+var_brand = "Citroën"
+var_model = "C5"
 var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"
-var_price = "3900"
+var_price = "3990"
 var_picspath = "car119"
-var_carroserie = "Break"
+var_carroserie = ""
 var_month = ""
-var_year = "2008"
+var_year = "2006"
 var_gas = "Diesel"
-var_transmissie = "Hand"
-var_km = "126000"
+var_transmissie = "Auto"
+var_km = "95000"
 var_doors = ""
 var_pk = ""
-var_cilinder = "1995"
-var_co2 = ""
+var_cilinder = "1997"
+var_co2 = "189"
 var_euro = "euro 4"
-var_options = """ABS
+var_options = """Alarm
+Elektrische buitenspiegels
+Elektrische stoelverstelling
+Climate control
+Mistlampen
+Radio
+Traction-control
+Verwarmde buitenspiegels
+Xenon verlichting
+ABS
 Airbags
 Boordcomputer
 Centrale vergrendeling
@@ -33,15 +42,7 @@ Electronic Stability Program (ESP)
 Isofix
 Lichtmetalen velgen
 Metaalkleur
-Trekhaak
-Cruise Control
-Climate control
-Alarm
-Bluetooth
-Elektrische buitenspiegels
-Radio
-Traction-control
-Verwarmde buitenspiegels
-Keyless entry"""
+Parkeersensor
+Cruise Control"""
 var_carcolor = ""
 var_interiorcolor = ""

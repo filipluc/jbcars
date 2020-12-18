@@ -19,7 +19,7 @@
 119. citroen c5 AUTOMAAT,2.0 hdi,Garantie,CAR PASS,95000 km
 120. citroen jumper 2.2hdi, CAR PASS,gekeurd,€ 4124 excl btw/tva
 121. peugeot 208 ,1.4hdi,Garantie,CAR PASS,€4950 excl btw/tva
-122. toyota rav 4,2200 cc diesel,4x4
+122. ---
 123. vw lupo 1.0 i benzine,Garantie,CAR PASS
 124. ---
 125. mercedes GLC 250d 4MATIC coupe,204PK,bwj2017/garantie,euro6b

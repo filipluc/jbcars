@@ -5,42 +5,35 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "toyota rav 4,2200 cc diesel,4x4"
+var_title = "ford transit 2.2 tdci Lichte Vracht,Bwj 2010,€ 2479 excl btw"
 var_categorie = "Auto's"
-var_brand = "Toyota"
-var_model = "Rav4"
-var_desc = "\nenkel export of handelaar !!!!!\n"
-var_price = "5000"
+var_brand = "Ford"
+var_model = "Transit"
+var_desc = "\nprijs =2479€+btw/tva\nenkel voor export of handelaar\nkeuring = +200 euro\n\n"
+var_price = "3000"
 var_picspath = "car122"
-var_carroserie = "SUV"
+var_carroserie = ""
 var_month = ""
-var_year = "2009"
+var_year = "2010"
 var_gas = "Diesel"
 var_transmissie = "Hand"
-var_km = "217000"
+var_km = "250000"
 var_doors = ""
 var_pk = ""
-var_cilinder = "2231"
-var_co2 = "173"
+var_cilinder = "2198"
+var_co2 = ""
 var_euro = "euro 4"
-var_options = """ABS
-Airbags
-Lederen bekleding
-Boordcomputer
-Centrale vergrendeling
+var_options = """Centrale vergrendeling
 Airconditioning
 Elektrische ramen
 Electronic Stability Program (ESP)
-Isofix
-Lichtmetalen velgen
 Metaalkleur
 Trekhaak
-Cruise Control
-Climate control
-4x4
 Alarm
-Elektrische buitenspiegels
 Radio
-Verwarmde buitenspiegels"""
+Traction-control
+ABS
+Airbags
+Boordcomputer"""
 var_carcolor = ""
 var_interiorcolor = ""

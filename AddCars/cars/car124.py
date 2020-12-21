@@ -5,48 +5,35 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "hyundai ix35,1.6 benzine,Garantie,CAR PASS,45000km,bwj 2015"
+var_title = "ford transit 2.2 tdci ,L.V. 3zit,bj2010,prijs 2479€ excl.BTW"
 var_categorie = "Auto's"
-var_brand = "Hyundai"
-var_model = "IX35"
-var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"
-var_price = "9950"
-var_picspath = "car124"
-var_carroserie = "SUV"
+var_brand = "Bestelwagens en Lichte vracht"
+var_model = "Ford"
+var_desc = "\nprijs =2479€+btw/tva\nkeuring = +200 euro\n\n"
+var_price = "3000"
+var_picspath = "car122"
+var_carroserie = ""
 var_month = ""
-var_year = "2015"
-var_gas = "Benzine"
+var_year = "2010"
+var_gas = "Diesel"
 var_transmissie = "Hand"
-var_km = "45000"
+var_km = "250000"
 var_doors = ""
 var_pk = ""
-var_cilinder = "1591"
-var_co2 = "158"
-var_euro = "euro 5"
-var_options = """Alarm
-Bluetooth
-Elektrische buitenspiegels
-Climate control
-Mistlampen
-Radio
-Traction-control
-Verwarmde buitenspiegels
-ABS
-Airbags
-Lederen bekleding
-Boordcomputer
-Centrale vergrendeling
-USB
+var_cilinder = "2198"
+var_co2 = ""
+var_euro = "euro 4"
+var_options = """Centrale vergrendeling
 Airconditioning
 Elektrische ramen
 Electronic Stability Program (ESP)
-Isofix
-Lichtmetalen velgen
 Metaalkleur
-Navigatiesysteem
-Parkeersensor
-Zetelverwarming
 Trekhaak
-Cruise Control"""
+Alarm
+Radio
+Traction-control
+ABS
+Airbags
+Boordcomputer"""
 var_carcolor = ""
 var_interiorcolor = ""

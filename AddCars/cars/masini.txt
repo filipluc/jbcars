@@ -20,7 +20,7 @@
 120. citroen jumper 2.2hdi, CAR PASS,gekeurd,€ 4124 excl btw/tva
 121. peugeot 208 ,1.4hdi,Garantie,CAR PASS,€4950 excl btw/tva
 122. ford transit 2.2 tdci Lichte Vracht,Bwj 2010,€ 2479 excl btw
-123. vw lupo 1.0 i benzine,Garantie,CAR PASS
+123. ---
 124. ford transit 2.2 tdci ,L.V. 3zit,bj2010,prijs 2479€ excl.BTW
 125. mercedes GLC 250d 4MATIC coupe,204PK,bwj2017/garantie,euro6b
 126. ---

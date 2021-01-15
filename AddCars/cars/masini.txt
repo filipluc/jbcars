@@ -11,17 +11,17 @@
 111. peugeot 107,1.0 benzine,Garantie,CAR PASS,euro 5
 112. peugeot 207 cabrio,ROLAND GARROS,1.6 hdi,Garantie,CAR PASS
 113. ---toyota rav 4 AUTOMAAT,2.0 benzine,Garantie,CAR PASS,4x4
-114. vw caddy MAXI 1.9 tdi,Lichte Vracht,5 zit,prijs 4000€exclBTW
+114. ---
 115. opel vectra 2.0 dth dti 16v, Garantie, CAR PASS
 116. toyota aygo 1.0 benzine,Garantie,CAR PASS,79000 km
-117. vw caddy MAXI 1.9 tdi,LICHTE VRACHT 4+1 zit
+117. ---
 118. vw touran 1.9 tdi,airco,EXPORT,7 zetels
 119. citroen c5 AUTOMAAT,2.0 hdi,Garantie,CAR PASS,95000 km
 120. citroen jumper 2.2hdi, CAR PASS,gekeurd,€ 4124 excl btw/tva
-121. peugeot 208 ,1.4hdi,Garantie,CAR PASS,€4950 excl btw/tva
-122. ford transit 2.2 tdci Lichte Vracht,Bwj 2010,€ 2479 excl btw
+121. ---
+122. ---
 123. peugeot 206+ plus,1.1 benzine,Garantie,CAR PASS,airco,euro 5
-124. ford transit 2.2 tdci ,L.V. 3zit,bj2010,prijs 2479€ excl.BTW
+124. ---
 125. mercedes GLC 250d 4MATIC coupe,204PK,bwj2017/garantie,euro6b
 126. ---
 127. ---

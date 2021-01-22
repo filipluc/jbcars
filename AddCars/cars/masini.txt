@@ -10,7 +10,7 @@
 110. opel astra 1.7 cdti break,Garantie
 111. peugeot 107,1.0 benzine,Garantie,CAR PASS,euro 5
 112. peugeot 207 cabrio,ROLAND GARROS,1.6 hdi,Garantie,CAR PASS
-113. ---toyota rav 4 AUTOMAAT,2.0 benzine,Garantie,CAR PASS,4x4
+113. ---
 114. peugeot 307,1.6 benzine,Garantie,CAR PASS,nieuwe staat
 115. opel vectra 2.0 dth dti 16v, Garantie, CAR PASS
 116. toyota aygo 1.0 benzine,Garantie,CAR PASS,79000 km
@@ -19,7 +19,7 @@
 119. citroen c5 AUTOMAAT,2.0 hdi,Garantie,CAR PASS,95000 km
 120. citroen jumper 2.2hdi, CAR PASS,gekeurd,€ 4124 excl btw/tva
 121. skoda octavia 1.8TSI_180pk,AUTOMAAT,garantie,CAR PASS,9500€+
-122. ---
+122. ford kuga 2.0 d,Garantie,CAR PASS,bwj.2014,euro 5b
 123. peugeot 206+ plus,1.1 benzine,Garantie,CAR PASS,airco,euro 5
 124. ---
 125. mercedes GLC 250d 4MATIC coupe,204PK,bwj2017/garantie,euro6b

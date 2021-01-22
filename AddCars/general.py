@@ -253,7 +253,7 @@ class GeneralFunctions():
                 y = "Climate control"
             if x == "Cruise Control":
                 y = "Cruise Control"
-            if x == "Elektrische achterklep":
+            if x == "Elektrische koffer":
                 y = "Elektrische achterklep"
             if x == "Elektrische buitenspiegels":
                 y = "Elektrische buitenspiegels"

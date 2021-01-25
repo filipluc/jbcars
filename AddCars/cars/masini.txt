@@ -13,7 +13,7 @@
 113. ---
 114. peugeot 307,1.6 benzine,Garantie,CAR PASS,nieuwe staat
 115. opel vectra 2.0 dth dti 16v, Garantie, CAR PASS
-116. toyota aygo 1.0 benzine,Garantie,CAR PASS,79000 km
+116. ---
 117. peugeot 2008,1.6 eHDI,garantie,CAR PASS,navi,PanoDak,8200€+
 118. vw touran 1.9 tdi,airco,EXPORT,7 zetels
 119. citroen c5 AUTOMAAT,2.0 hdi,Garantie,CAR PASS,95000 km

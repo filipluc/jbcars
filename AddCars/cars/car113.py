@@ -5,50 +5,40 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "toyota rav 4 AUTOMAAT,2.0 benzine,Garantie,CAR PASS,4x4"
+var_title = "peugeot 5008,1.6 hdi,Garantie,CAR PASS,euro 5"
 var_categorie = "Auto's"
-var_brand = "Toyota"
-var_model = "Rav4"
-var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"
-var_price = "9900"
+var_brand = "Peugeot"
+var_model = "5008"
+var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n\neerste eigenaar\n206000 km\n\n"
+var_price = "4990"
 var_picspath = "car113"
-var_carroserie = ""
+var_carroserie = "Monovolume"
 var_month = ""
-var_year = "2006"
-var_gas = "Benzine"
-var_transmissie = "Auto"
-var_km = "108000"
+var_year = "2011"
+var_gas = "Diesel"
+var_transmissie = "Hand"
+var_km = "200000"
 var_doors = ""
 var_pk = ""
-var_cilinder = "1998"
-var_co2 = ""
-var_euro = "euro 4"
-var_options = """ABS
+var_cilinder = "1560"
+var_co2 = "139"
+var_euro = "euro 5"
+var_options = """Alarm
+Elektrische buitenspiegels
+Mistlampen
+Radio
+Traction-control
+Verwarmde buitenspiegels
+ABS
 Airbags
-Lederen bekleding
 Boordcomputer
 Centrale vergrendeling
 Airconditioning
 Elektrische ramen
 Electronic Stability Program (ESP)
 Isofix
-Lichtmetalen velgen
 Metaalkleur
-Navigatiesysteem
 Parkeersensor
-Zetelverwarming
-Trekhaak
-Cruise Control
-Climate control
-4x4
-Alarm
-Bluetooth
-Elektrische buitenspiegels
-Mistlampen
-Radio
-Start-stop-systeem
-Traction-control
-Verwarmde buitenspiegels
-Keyless entry"""
+Cruise Control"""
 var_carcolor = ""
 var_interiorcolor = ""

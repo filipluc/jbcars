@@ -5,41 +5,37 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "peugeot 307,1.6 benzine,Garantie,CAR PASS,nieuwe staat"
+var_title = "peugeot 107,1.0 benzine AUTOMAAT,garantie,CAR PASS,airco"
 var_categorie = "Auto's"
 var_brand = "Peugeot"
-var_model = "307"
-var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n\neerste eigenaar met oh-boekje bij peugeot dealer\ntrekhaak=1200 kg\n\n"
-var_price = "3350"
+var_model = "107"
+var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"
+var_price = "3999"
 var_picspath = "car114"
 var_carroserie = ""
 var_month = ""
-var_year = "2005"
+var_year = "2007"
 var_gas = "Benzine"
-var_transmissie = "Hand"
-var_km = "100000"
+var_transmissie = "Auto"
+var_km = "75000"
 var_doors = ""
 var_pk = ""
-var_cilinder = "1587"
-var_co2 = ""
+var_cilinder = "998"
+var_co2 = "109"
 var_euro = "euro 4"
-var_options = """Alarm
-Elektrische buitenspiegels
-Climate control
-Mistlampen
-Radio
-Traction-control
-ABS
-Airbags
-Boordcomputer
-Centrale vergrendeling
+var_options = """Centrale vergrendeling
 Airconditioning
 Elektrische ramen
 Electronic Stability Program (ESP)
 Isofix
+Lichtmetalen velgen
 Metaalkleur
-Parkeersensor
-Trekhaak
-Cruise Control"""
+Alarm
+Radio
+Traction-control
+Verwarmde buitenspiegels
+ABS
+Airbags
+Boordcomputer"""
 var_carcolor = ""
 var_interiorcolor = ""

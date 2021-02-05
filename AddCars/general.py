@@ -277,7 +277,7 @@ class GeneralFunctions():
                 y = "Mistlampen"
             if x == "Navigatiesysteem":
                 y = "Navigatiesysteem"
-            if x == "Open / panorama dak":
+            if x == "Open dak":
                 y = "Open of panorama dak"
             if x == "Panoramadak":
                 y = "Panoramadak"

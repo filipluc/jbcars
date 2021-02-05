@@ -343,8 +343,8 @@ class GeneralFunctions():
         except NoSuchElementException:
             elem94 = driver.find_element_by_xpath("//*[@id='feature-bundles']/div/div[2]/div/div[2]/label/div[1]/div[1]")
             elem94.click()
-            time.sleep(1)
+            time.sleep(3)
 
         elem95 = driver.find_element_by_xpath("//a[contains(@id, 'syi-place-ad-button')]")
         elem95.click()
-        time.sleep(12)
+        time.sleep(20)

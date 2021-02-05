@@ -5,38 +5,48 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "peugeot 206+ plus,1.1 benzine,Garantie,CAR PASS,airco,euro 5"
+var_title = "chrysler 300C,3.0crd,Garantie,CAR PASS,146000 km,bwj.2009"
 var_categorie = "Auto's"
-var_brand = "Peugeot"
-var_model = "206"
+var_brand = "Chrysler"
+var_model = "300C"
 var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"
-var_price = "4500"
+var_price = "8850"
 var_picspath = "car123"
-var_carroserie = ""
+var_carroserie = "Berline"
 var_month = ""
-var_year = "2012"
-var_gas = "Benzine"
-var_transmissie = "Hand"
-var_km = "70000"
+var_year = "2009"
+var_gas = "Diesel"
+var_transmissie = "Auto"
+var_km = "146000"
 var_doors = ""
 var_pk = ""
-var_cilinder = "1124"
-var_co2 = "133"
-var_euro = "Euro 5"
-var_options = """Centrale vergrendeling
-Airconditioning
-Elektrische ramen
-Electronic Stability Program (ESP)
-Isofix
-Metaalkleur
-Alarm
+var_cilinder = "2987"
+var_co2 = ""
+var_euro = "Euro 4"
+var_options = """Alarm
 Elektrische buitenspiegels
+Elektrische stoelverstelling
+Climate control
 Mistlampen
 Radio
 Traction-control
 Verwarmde buitenspiegels
+Xenon verlichting
 ABS
 Airbags
-Boordcomputer"""
+Lederen bekleding
+Boordcomputer
+Centrale vergrendeling
+Airconditioning
+Elektrische ramen
+Electronic Stability Program (ESP)
+Isofix
+Lichtmetalen velgen
+Metaalkleur
+Navigatiesysteem
+Open dak
+Parkeersensor
+Zetelverwarming
+Cruise Control"""
 var_carcolor = ""
 var_interiorcolor = ""

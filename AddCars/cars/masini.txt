@@ -17,10 +17,10 @@
 117. peugeot 2008,1.6 eHDI,garantie,CAR PASS,navi,PanoDak,8200€+
 118. vw touran 1.9 tdi,airco,EXPORT,7 zetels
 119. citroen c5 AUTOMAAT,2.0 hdi,Garantie,CAR PASS,95000 km
-120. citroen jumper 2.2hdi, CAR PASS,gekeurd,€ 4124 excl btw/tva
+120. citroen berlingo 1.6 benzine,Garantie,CAR PASS,euro 5
 121. skoda octavia 1.8TSI_180pk,AUTOMAAT,garantie,CAR PASS,9500€+
 122. ford kuga 2.0 d,Garantie,CAR PASS,bwj.2014,euro 5b
-123. peugeot 206+ plus,1.1 benzine,Garantie,CAR PASS,airco,euro 5
+123. chrysler 300C,3.0crd,Garantie,CAR PASS,146000 km,bwj.2009
 124. ---
 125. mercedes GLC 250d 4MATIC coupe,204PK,bwj2017/garantie,euro6b
 126. ---

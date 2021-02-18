@@ -3,15 +3,15 @@
 103. honda fr-v 1.7 benzine,airco,6 zetels
 104. citroen c2, 1.1 benzine,Garantie,CAR PASS,77000 km
 105. citroen c3, 1.1 benzine,Garantie,CAR PASS,55000 km
-106. citroen c3 EXCLUSIVE 1.2 benzine,Garantie,CAR PASS,euro 5b
+106. ---
 107. opel corsa 1.4 benzine,Garantie,CAR PASS,euro 5
 108. citroen c3,1.4 hdi,Garantie,CAR PASS
 109. vw sharan 1.9 tdi,Garantie,CAR PASS,7 zetels
-110. opel astra 1.7 cdti break,Garantie
+110. ---
 111. peugeot 107,1.0 benzine,Garantie,CAR PASS,euro 5
 112. peugeot 207 cabrio,ROLAND GARROS,1.6 hdi,Garantie,CAR PASS
 113. peugeot 5008,1.6 hdi,Garantie,CAR PASS,euro 5
-114. peugeot 107,1.0 benzine AUTOMAAT,garantie,CAR PASS,airco
+114. ---
 115. opel vectra 2.0 dth dti 16v, Garantie, CAR PASS
 116. peugeot partner 1.6 hdi,Lichte Vracht,91000km,3200€excl btw
 117. peugeot 2008,1.6 eHDI,garantie,CAR PASS,navi,PanoDak,8200€+
@@ -20,7 +20,7 @@
 120. citroen berlingo 1.6 benzine,Garantie,CAR PASS,euro 5
 121. skoda octavia 1.8TSI_180pk,AUTOMAAT,garantie,CAR PASS,9500€+
 122. ---
-123. chrysler 300C,3.0crd,Garantie,CAR PASS,146000 km,bwj.2009
+123. chrysler 300C,3.0 crdi,Garantie,CAR PASS,bwj.2009
 124. ---
 125. mercedes GLC 250d 4MATIC coupe,204PK,bwj2017/garantie,euro6b
 126. ---

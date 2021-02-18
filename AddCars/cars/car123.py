@@ -5,12 +5,12 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "chrysler 300C,3.0crd,Garantie,CAR PASS,146000 km,bwj.2009"
+var_title = "chrysler 300C,3.0 crdi,Garantie,CAR PASS,bwj.2009"
 var_categorie = "Auto's"
 var_brand = "Chrysler"
 var_model = "300C"
 var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"
-var_price = "8850"
+var_price = "9950"
 var_picspath = "car123"
 var_carroserie = "Berline"
 var_month = ""
@@ -45,7 +45,6 @@ Lichtmetalen velgen
 Metaalkleur
 Navigatiesysteem
 Open dak
-Parkeersensor
 Zetelverwarming
 Cruise Control"""
 var_carcolor = ""

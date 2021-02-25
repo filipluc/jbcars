@@ -4,13 +4,13 @@
 104. citroen c2, 1.1 benzine,Garantie,CAR PASS,77000 km
 105. citroen c3, 1.1 benzine,Garantie,CAR PASS,55000 km
 106. ---
-107. opel corsa 1.4 benzine,Garantie,CAR PASS,euro 5
+107. ---
 108. citroen c3,1.4 hdi,Garantie,CAR PASS
 109. vw sharan 1.9 tdi,Garantie,CAR PASS,7 zetels
 110. ---
 111. peugeot 107,1.0 benzine,Garantie,CAR PASS,euro 5
 112. peugeot 207 cabrio,ROLAND GARROS,1.6 hdi,Garantie,CAR PASS
-113. peugeot 5008,1.6 hdi,Garantie,CAR PASS,euro 5
+113. ---
 114. ---
 115. opel vectra 2.0 dth dti 16v, Garantie, CAR PASS
 116. peugeot partner 1.6 hdi,Lichte Vracht,91000km,3200€excl btw

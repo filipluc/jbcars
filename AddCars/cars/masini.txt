@@ -3,8 +3,8 @@
 103. honda fr-v 1.7 benzine,airco,6 zetels
 104. citroen c2, 1.1 benzine,Garantie,CAR PASS,77000 km
 105. citroen c3, 1.1 benzine,Garantie,CAR PASS,55000 km
-106. ---
-107. ---
+106. opel vivaro 2.0 cdti,DUBBELE CABINE 5 pl,NAVI,airco,L.V.
+107. opel vivaro 2.0 cdti,Lichte vracht,DUBBELE CABINE 5 pl,airco
 108. citroen c3,1.4 hdi,Garantie,CAR PASS
 109. vw sharan 1.9 tdi,Garantie,CAR PASS,7 zetels
 110. ---

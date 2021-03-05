@@ -5,35 +5,38 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "opel astra 1.7 cdti break,Garantie"
+var_title = "seat ibiza 1.2 d,CAR PASS,80000km,bwj.2012,euro 5"
 var_categorie = "Auto's"
-var_brand = "Opel"
-var_model = "Astra"
-var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"
-var_price = "2999"
+var_brand = "Seat"
+var_model = "Ibiza"
+var_desc = "\novername wagen,geen garantie\ngoede staat,eerste eigenaar met oh-boekje\nCAR PASS\nwordt gekeurd met roos formulier\n"
+var_price = "4999"
 var_picspath = "car110"
-var_carroserie = "Break"
-var_month = "okt"
-var_year = "2005"
+var_carroserie = ""
+var_month = ""
+var_year = "2012"
 var_gas = "Diesel"
 var_transmissie = "Hand"
-var_km = "163000"
-var_doors = "5"
-var_pk = "100"
-var_cilinder = "1686"
-var_co2 = "135"
-var_euro = "euro 4"
-var_options = """Boordcomputer
-Centrale vergrendeling
-Elektrische buitenspiegels
+var_km = "80000"
+var_doors = ""
+var_pk = ""
+var_cilinder = "1199"
+var_co2 = "102"
+var_euro = "euro 5"
+var_options = """Centrale vergrendeling
 Airconditioning
-Traction-control
 Elektrische ramen
+Electronic Stability Program (ESP)
+Isofix
+Lichtmetalen velgen
+Cruise Control
+Alarm
+Elektrische buitenspiegels
+Radio
+Traction-control
+Verwarmde buitenspiegels
 ABS
 Airbags
-Alarm
-Radio
-Trekhaak
-Metaalkleur"""
-var_carcolor = "Grijs"
-var_interiorcolor = "Grijs"
+Boordcomputer"""
+var_carcolor = ""
+var_interiorcolor = ""

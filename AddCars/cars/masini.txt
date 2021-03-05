@@ -7,7 +7,7 @@
 107. opel vivaro 2.0 cdti,Lichte vracht,DUBBELE CABINE 5 pl,airco
 108. citroen c3,1.4 hdi,Garantie,CAR PASS
 109. vw sharan 1.9 tdi,Garantie,CAR PASS,7 zetels
-110. ---
+110. seat ibiza 1.2 d,CAR PASS,80000km,bwj.2012,euro 5
 111. peugeot 107,1.0 benzine,Garantie,CAR PASS,euro 5
 112. peugeot 207 cabrio,ROLAND GARROS,1.6 hdi,Garantie,CAR PASS
 113. ---

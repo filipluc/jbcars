@@ -5,33 +5,32 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "opel vivaro 2.0 cdti,DUBBELE CABINE 5 pl,NAVI,airco,L.V."
+var_title = "toyota rav4,1.8 benzine,Garantie,CAR PASS,airco,39000 km !!!"
 var_categorie = "Auto's"
-var_brand = "Opel"
-var_model = "Vivaro"
-var_desc = "\nenkel voor export of handelaar\ntrekhaak=2000 kg\nCAR PASS\ngekeurd met roos formulier\n"
-var_price = "5850"
+var_brand = "Toyota"
+var_model = "Rav4"
+var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n\ntoegang LEZ tot 2028\nerste eigenaar met oh-boekje\n\n"
+var_price = "6500"
 var_picspath = "car106"
 var_carroserie = ""
 var_month = ""
-var_year = "2007"
-var_gas = "Diesel"
+var_year = "2005"
+var_gas = "Benzine"
 var_transmissie = "Hand"
-var_km = "187000"
+var_km = "39000"
 var_doors = ""
 var_pk = ""
-var_cilinder = "1995"
-var_co2 = ""
-var_euro = "euro 4"
+var_cilinder = "1794"
+var_co2 = "175"
+var_euro = ""
 var_options = """Centrale vergrendeling
 Airconditioning
 Elektrische ramen
 Electronic Stability Program (ESP)
+Lichtmetalen velgen
 Metaalkleur
-Navigatiesysteem
 Trekhaak
 Alarm
-Parkeercamera
 Elektrische buitenspiegels
 Radio
 Traction-control

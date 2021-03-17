@@ -1,5 +1,5 @@
 101. peugeot 308 GT line 1.6 hdi,Garantie,CAR PASS,euro 5b
-102. opel zafira 1.9cdti,7 zit,Garantie,CAR PASS,85000 km
+102. ---
 103. honda fr-v 1.7 benzine,airco,6 zetels
 104. citroen c2, 1.1 benzine,Garantie,CAR PASS,77000 km
 105. citroen c3, 1.1 benzine,Garantie,CAR PASS,55000 km

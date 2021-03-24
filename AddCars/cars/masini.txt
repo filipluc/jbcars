@@ -7,7 +7,7 @@
 107. ---
 108. citroen c3,1.4 hdi,Garantie,CAR PASS
 109. vw sharan 1.9 tdi,Garantie,CAR PASS,7 zetels
-110. seat ibiza 1.2 d,CAR PASS,80000km,bwj.2012,euro 5
+110. seat ibiza 1.2 d,Garantie,CAR PASS,80000km,bwj.2012,euro 5
 111. ---
 112. peugeot 207 cabrio,ROLAND GARROS,1.6 hdi,Garantie,CAR PASS
 113. ---

@@ -129,6 +129,7 @@ class GeneralFunctions():
         # elem8 = driver.find_element_by_id("description_ifr")
         elem8 = driver.find_element_by_id("description_nl-BE_ifr")
         # elem8.send_keys("\nBeste klanten,\nin de periode 20/07/2020 tot 21/08/2020(vakantie)\nwij zijn open enkel op afspraak 0485/673404\ndank u\n\n")
+        elem8.send_keys("\nVanaf zaterdag 27 maart enkel op afspraak, met maximaal 2 personen.\nU kan telefonisch of per email een afspraak maken.\n")
         elem8.send_keys(car_detail.var_desc)
         elem8.send_keys("\nMeer Info 0485/673404\n\nopeningsuren\nmaandag tot vrijdag 10-17 uur\nzaterdag 10-14 uur\nadres\nLIERSESTEENWEG 153\n2547 LINT")
         time.sleep(1)

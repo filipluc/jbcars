@@ -5,40 +5,51 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "opel vivaro 2.0 cdti,Lichte vracht,DUBBELE CABINE 5 pl,airco"
+var_title = "renault megane CABRIO 1.5 d,Garantie,CAR PASS,euro 5"
 var_categorie = "Auto's"
-var_brand = "Bestelwagens en Lichte vracht"
-var_model = "Opel"
-var_desc = "\nenkel voor export of handelaar\ngoede staat\ntrekhaak =2000 kg\nCAR PASS\ngekeurd met roos formulier\n"
-var_price = "5850"
+var_brand = "Renault"
+var_model = "Mégane"
+var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n\ndistributie riem + wp vervangen op 120000 km\n"
+var_price = "6990"
 var_picspath = "car107"
-var_carroserie = ""
+var_carroserie = "Cabriolet"
 var_month = ""
-var_year = "2007"
+var_year = "2011"
 var_gas = "Diesel"
 var_transmissie = "Hand"
-var_km = "187000"
+var_km = "154000"
 var_doors = ""
 var_pk = ""
-var_cilinder = "1995"
-var_co2 = ""
-var_euro = "Euro 4"
-var_options = """Alarm
-Parkeercamera
+var_cilinder = "1461"
+var_co2 = "126"
+var_euro = "euro 5"
+var_options = """Keyless entry
+Stuurwielverwarming
+Alarm
+Bluetooth
 Elektrische buitenspiegels
+Climate control
+Mistlampen
 Radio
+Start-stop-systeem
 Traction-control
 Verwarmde buitenspiegels
 ABS
 Airbags
+Lederen bekleding
 Boordcomputer
-Schuifdeur
 Centrale vergrendeling
+USB
 Airconditioning
+Panoramadak
 Elektrische ramen
 Electronic Stability Program (ESP)
+Isofix
+Lichtmetalen velgen
 Metaalkleur
 Navigatiesysteem
-Trekhaak"""
+Open dak
+Parkeersensor
+Cruise Control"""
 var_carcolor = ""
 var_interiorcolor = ""

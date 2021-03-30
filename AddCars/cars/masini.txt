@@ -4,7 +4,7 @@
 104. citroen c2, 1.1 benzine,Garantie,CAR PASS,77000 km
 105. citroen c3, 1.1 benzine,Garantie,CAR PASS,55000 km
 106. mini cooper CABRIO 1.6 benzine,Garantie,CAR PASS,48000 km
-107. ---
+107. renault megane CABRIO 1.5 d,Garantie,CAR PASS,euro 5
 108. citroen c3,1.4 hdi,Garantie,CAR PASS
 109. vw sharan 1.9 tdi,Garantie,CAR PASS,7 zetels
 110. seat ibiza 1.2 d,Garantie,CAR PASS,80000km,bwj.2012,euro 5
@@ -17,8 +17,8 @@
 117. peugeot 2008,1.6 eHDI,garantie,CAR PASS,navi,PanoDak,7434€+
 118. vw touran 1.9 tdi,airco,EXPORT,7 zetels
 119. citroen c5 AUTOMAAT,2.0 hdi,Garantie,CAR PASS,95000 km
-120. citroen berlingo 1.6 benzine,Garantie,CAR PASS,euro 5
-121. skoda octavia 1.8TSI_180pk,AUTOMAAT,garantie,CAR PASS,9500€+
+120. ---
+121. ---
 122. ---
 123. chrysler 300C,3.0 crdi,Garantie,CAR PASS,bwj.2009
 124. ---

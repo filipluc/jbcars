@@ -300,6 +300,8 @@ class GeneralFunctions():
                 y = "Startonderbreker"
             if x == "Start-stop-systeem":
                 y = "Start-stop-systeem"
+            if x == "Stuurwielverwarming":
+                y = "Stuurwielverwarming"
             if x == "Zetelverwarming":
                 y = "Stoelverwarming"
             if x == "Traction-control":

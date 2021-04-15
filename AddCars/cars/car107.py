@@ -5,32 +5,32 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "renault megane CABRIO 1.5 d,Garantie,CAR PASS,euro 5"
+var_title = "opel zafira 1.7 cdti Garantie,CAR PASS,panoramische DAK,7zit"
 var_categorie = "Auto's"
-var_brand = "Renault"
-var_model = "Mégane"
-var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n\ndistributie riem + wp vervangen op 120000 km\n"
-var_price = "6990"
+var_brand = "Opel"
+var_model = "Zafira"
+var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"
+var_price = "4390"
 var_picspath = "car107"
-var_carroserie = "Cabriolet"
+var_carroserie = "Monovolume"
 var_month = ""
-var_year = "2011"
+var_year = "2010"
 var_gas = "Diesel"
 var_transmissie = "Hand"
-var_km = "154000"
+var_km = "188000"
 var_doors = ""
 var_pk = ""
-var_cilinder = "1461"
-var_co2 = "126"
-var_euro = "euro 5"
+var_cilinder = "1686"
+var_co2 = "152"
+var_euro = "euro 4"
 var_options = """Keyless entry
-Stuurwielverwarming
 Alarm
 Bluetooth
 Elektrische buitenspiegels
 Climate control
 Mistlampen
 Radio
+Startonderbreker
 Start-stop-systeem
 Traction-control
 Verwarmde buitenspiegels
@@ -39,7 +39,6 @@ Airbags
 Lederen bekleding
 Boordcomputer
 Centrale vergrendeling
-USB
 Airconditioning
 Panoramadak
 Elektrische ramen
@@ -48,8 +47,8 @@ Isofix
 Lichtmetalen velgen
 Metaalkleur
 Navigatiesysteem
-Open dak
 Parkeersensor
+Trekhaak
 Cruise Control"""
 var_carcolor = ""
 var_interiorcolor = ""

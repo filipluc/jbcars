@@ -5,36 +5,36 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "vw touran 1.9 tdi,airco,EXPORT,7 zetels"
+var_title = "volvo s60, 2.4 d,eerste eigenaar"
 var_categorie = "Auto's"
-var_brand = "Volkswagen"
-var_model = "Touran"
-var_desc = "\nenkel voor export of handelaar\n"
-var_price = "2200"
+var_brand = "Volvo"
+var_model = "S60"
+var_desc = "\nwagen in goede staat\neerste eigenaar\nverkoop enkel voor export of handelaar(overname wagen)\n"
+var_price = "1650"
 var_picspath = "car118"
 var_carroserie = ""
 var_month = ""
-var_year = "2006"
+var_year = "2003"
 var_gas = "Diesel"
 var_transmissie = "Hand"
-var_km = "243000"
+var_km = "200000"
 var_doors = ""
 var_pk = ""
-var_cilinder = "1896"
-var_co2 = "162"
-var_euro = "Euro 4"
-var_options = """ABS
-Airbags
-Boordcomputer
-Centrale vergrendeling
+var_cilinder = "2401"
+var_co2 = ""
+var_euro = "Euro 3"
+var_options = """Centrale vergrendeling
 Airconditioning
 Elektrische ramen
 Electronic Stability Program (ESP)
-Isofix
-Metaalkleur
+Lichtmetalen velgen
 Trekhaak
+Cruise Control
 Alarm
 Elektrische buitenspiegels
-Radio"""
+Radio
+ABS
+Airbags
+Boordcomputer"""
 var_carcolor = ""
 var_interiorcolor = ""

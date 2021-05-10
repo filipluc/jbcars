@@ -2,7 +2,7 @@
 102. bmw 318d,Modeljaar 2014,Garantie,CAR PASS,€7434+btw/tva
 103. honda fr-v 1.7 benzine,airco,6 zetels
 104. citroen c2, 1.1 benzine,Garantie,CAR PASS,77000 km
-105. peugeot RCZ 1.6 benzine Garantie,CAR PASS,euro 5
+105. --peugeot RCZ 1.6 benzine Garantie,CAR PASS,euro 5
 106. mini cooper CABRIO 1.6 benzine,Garantie,CAR PASS,48000 km
 107. opel zafira 1.7 cdti Garantie,CAR PASS,panoramische DAK,7zit
 108. citroen c3,1.4 hdi,Garantie,CAR PASS
@@ -20,7 +20,7 @@
 120. ---
 121. ---
 122. ---
-123. chrysler 300C,3.0 crdi,Garantie,CAR PASS,bwj.2009
+123. ---
 124. ---
 125. mercedes GLC 250d 4MATIC coupe,204PK,bwj2017/garantie,euro6b
 126. ---

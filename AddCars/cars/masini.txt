@@ -1,10 +1,10 @@
 101. peugeot 308 GT line 1.6 hdi,Garantie,CAR PASS,euro 5b
-102. bmw 318d,Modeljaar 2014,Garantie,CAR PASS,€7434+btw/tva
+102. lancia thema 3.0d,Garantie ,CAR PASS,240pk,automaat,Euro 5
 103. honda fr-v 1.7 benzine,airco,6 zetels
 104. citroen c2, 1.1 benzine,Garantie,CAR PASS,77000 km
-105. --peugeot RCZ 1.6 benzine Garantie,CAR PASS,euro 5
-106. mini cooper CABRIO 1.6 benzine,Garantie,CAR PASS,48000 km
-107. opel zafira 1.7 cdti Garantie,CAR PASS,panoramische DAK,7zit
+105. peugeot partner 1.6 d,Garantie,CAR PASS
+106. ---
+107. ---
 108. citroen c3,1.4 hdi,Garantie,CAR PASS
 109. vw sharan 1.9 tdi,Garantie,CAR PASS,7 zetels
 110. seat ibiza 1.2 d,Garantie,CAR PASS,80000km,bwj.2012,euro 5
@@ -13,7 +13,7 @@
 113. renault megane 1.5 d,Garantie,CAR PASS, euro 5
 114. peugeot 207 sw,1.6 benzine,Garantie,CAR PASS,48.000 km!!!
 115. opel vectra 2.0 dth dti 16v, Garantie, CAR PASS
-116. citroen 1.2 VTI benzine,Garantie,CAR PASS,euro 5
+116. ---citroen 1.2 VTI benzine,Garantie,CAR PASS,euro 5
 117. peugeot 2008,1.6 eHDI,garantie,CAR PASS,navi,PanoDak,7434€+
 118. volvo s60, 2.4 d,eerste eigenaar
 119. citroen c5 AUTOMAAT,2.0 hdi,Garantie,CAR PASS,95000 km

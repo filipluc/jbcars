@@ -215,6 +215,7 @@ class GeneralFunctions():
         elem92.click()
         elem92.send_keys(car_detail.var_pk)
         elem92.send_keys(Keys.TAB)
+        elem92.send_keys(Keys.TAB)
         time.sleep(0.5)
 
         elem91 = driver.find_element_by_xpath("//input[contains(@id, 'numericAttribute[engineDisplacement]')]")
@@ -304,6 +305,10 @@ class GeneralFunctions():
                 y = "Stuurwielverwarming"
             if x == "Zetelverwarming":
                 y = "Stoelverwarming"
+            if x == "Stoelventilatie":
+                y = "Stoelventilatie"
+            if x == "Stoelmassage":
+                y = "Stoelmassage"
             if x == "Traction-control":
                 y = "Traction-control"
             if x == "Trekhaak":

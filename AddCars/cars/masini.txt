@@ -3,7 +3,7 @@
 103. honda fr-v 1.7 benzine,airco,6 zetels
 104. citroen c2, 1.1 benzine,Garantie,CAR PASS,77000 km
 105. peugeot partner 1.6 d,Garantie,CAR PASS
-106. ---
+106. peugeot 308 sw,1.6 hdi,bwj 10/2015,euro 6b
 107. ---
 108. citroen c3,1.4 hdi,Garantie,CAR PASS
 109. vw sharan 1.9 tdi,Garantie,CAR PASS,7 zetels
@@ -25,7 +25,7 @@
 125. mercedes GLC 250d 4MATIC coupe,204PK,bwj2017/garantie,euro6b
 126. ---
 127. ---
-128. vw t4 transporter 2.5 tdi,dbl cabine 5plus1 pl.,Open laadbak
+128. ---
 129. vw transporter 2.5 tdi OPEN LAADBAK,double cabine 5plus1 pl.
 130. ---
 131. ---

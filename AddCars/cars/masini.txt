@@ -10,10 +10,10 @@
 110. seat ibiza 1.2 d,Garantie,CAR PASS,80000km,bwj.2012,euro 5
 111. citroen c1,benzine 1.0,Garantie,CAR PASS,airco,Euro 5
 112. peugeot 207 cabrio,ROLAND GARROS,1.6 hdi,Garantie,CAR PASS
-113. renault megane 1.5 d,Garantie,CAR PASS, euro 5
+113. ---
 114. peugeot 207 sw,1.6 benzine,Garantie,CAR PASS,48.000 km!!!
 115. opel vectra 2.0 dth dti 16v, Garantie, CAR PASS
-116. ---citroen 1.2 VTI benzine,Garantie,CAR PASS,euro 5
+116. ---
 117. peugeot 2008,1.6 eHDI,garantie,CAR PASS,navi,PanoDak,7434€+
 118. volvo s60, 2.4 d,eerste eigenaar
 119. citroen c5 AUTOMAAT,2.0 hdi,Garantie,CAR PASS,95000 km

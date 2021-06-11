@@ -5,56 +5,44 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "lancia thema 3.0d,Garantie ,CAR PASS,240pk,automaat,Euro 5"
+var_title = "mitsubishi outlander 2.2d,4x4,Garantie,CAR PASS,euro 5"
 var_categorie = "Auto's"
-var_brand = "Lancia"
-var_model = "Thema"
-var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"
-var_price = "9990"
+var_brand = "Mitsubishi"
+var_model = "Outlander"
+var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n\neerste eigenaar met oh-boekje\n"
+var_price = "8850"
 var_picspath = "car102"
 var_carroserie = ""
 var_month = ""
-var_year = "2012"
+var_year = "2011"
 var_gas = "Diesel"
-var_transmissie = "Auto"
-var_km = "185000"
+var_transmissie = "Hand"
+var_km = "112000"
 var_doors = ""
 var_pk = ""
-var_cilinder = "2987"
-var_co2 = "191"
+var_cilinder = "2268"
+var_co2 = "165"
 var_euro = "euro 5"
-var_options = """Stoelventilatie
-Keyless entry
+var_options = """4x4
 Alarm
-Bluetooth
-Parkeercamera
 Elektrische buitenspiegels
-Elektrische stoelverstelling
-Climate control
 Mistlampen
 Radio
-Startonderbreker
-Start-stop-systeem
 Traction-control
 Verwarmde buitenspiegels
-Xenon verlichting
 ABS
 Airbags
 Lederen bekleding
 Boordcomputer
 Centrale vergrendeling
-USB
 Airconditioning
-Panoramadak
 Elektrische ramen
 Electronic Stability Program (ESP)
 Isofix
 Lichtmetalen velgen
 Metaalkleur
-Navigatiesysteem
-Open dak
 Parkeersensor
-Zetelverwarming
+Trekhaak
 Cruise Control"""
 var_carcolor = ""
 var_interiorcolor = ""

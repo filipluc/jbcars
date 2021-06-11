@@ -1,5 +1,5 @@
 101. peugeot 308 GT line 1.6 hdi,Garantie,CAR PASS,euro 5b
-102. ---
+102. mitsubishi outlander 2.2d,4x4,Garantie,CAR PASS,euro 5
 103. honda fr-v 1.7 benzine,airco,6 zetels
 104. citroen c2, 1.1 benzine,Garantie,CAR PASS,77000 km
 105. peugeot partner 1.6 d,Garantie,CAR PASS
@@ -9,7 +9,7 @@
 109. vw sharan 1.9 tdi,Garantie,CAR PASS,7 zetels
 110. seat ibiza 1.2 d,Garantie,CAR PASS,80000km,bwj.2012,euro 5
 111. citroen c1,benzine 1.0,Garantie,CAR PASS,airco,Euro 5
-112. peugeot 207 cabrio,ROLAND GARROS,1.6 hdi,Garantie,CAR PASS
+112. ---
 113. ---
 114. peugeot 207 sw,1.6 benzine,Garantie,CAR PASS,48.000 km!!!
 115. opel vectra 2.0 dth dti 16v, Garantie, CAR PASS

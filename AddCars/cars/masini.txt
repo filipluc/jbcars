@@ -5,7 +5,7 @@
 105. peugeot partner 1.6 d,Garantie,CAR PASS
 106. peugeot 308 sw,1.6 hdi,bwj 10/2015,euro 6b
 107. peugeot 5008 ,1.6 hdi,AUTOMAAT,garantie,7 zit,euro5,CAR PASS
-108. ---
+108. peugeot 308 GT line,1.2 i,AUTOMAAT,euro 6b
 109. vw sharan 1.9 tdi,Garantie,CAR PASS,7 zetels
 110. seat ibiza 1.2 d,Garantie,CAR PASS,80000km,bwj.2012,euro 5
 111. citroen c1,benzine 1.0,Garantie,CAR PASS,airco,Euro 5

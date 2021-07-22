@@ -1,14 +1,14 @@
-101. peugeot 308 GT line 1.6 hdi,Garantie,CAR PASS,euro 5b
-102. mitsubishi outlander 2.2d,4x4,Garantie,CAR PASS,euro 5
-103. honda fr-v 1.7 benzine,airco,6 zetels
+101. opel zafira 1.7 d,Garantie,CAR PASS,7 zetels
+102. volvo XC70,2.0d,CAR PASS,garantie,bj.2016,BTW excl 14868 €
+103. peugeot partner 1.6 benzine,Garantie,CAR PASS,euro 5
 104. citroen c2, 1.1 benzine,Garantie,CAR PASS,77000 km
 105. peugeot partner 1.6 d,Garantie,CAR PASS
-106. peugeot 308 sw,1.6 hdi,bwj 10/2015,euro 6b
-107. peugeot 5008 ,1.6 hdi,AUTOMAAT,garantie,7 zit,euro5,CAR PASS
-108. peugeot 308 GT line,1.2 i,AUTOMAAT,euro 6b
-109. vw sharan 1.9 tdi,Garantie,CAR PASS,7 zetels
+106. ---
+107. ---
+108. ---
+109. ---
 110. seat ibiza 1.2 d,Garantie,CAR PASS,80000km,bwj.2012,euro 5
-111. citroen c1,benzine 1.0,Garantie,CAR PASS,airco,Euro 5
+111. ---
 112. ---
 113. ---
 114. peugeot 207 sw,1.6 benzine,Garantie,CAR PASS,48.000 km!!!
@@ -16,7 +16,7 @@
 116. ---
 117. peugeot 2008,1.6 eHDI,garantie,CAR PASS,navi,PanoDak,7434€+
 118. volvo s60, 2.4 d,eerste eigenaar
-119. citroen c5 AUTOMAAT,2.0 hdi,Garantie,CAR PASS,95000 km
+119. ---
 120. ---
 121. ---
 122. ---

@@ -1,5 +1,5 @@
 101. opel zafira 1.7 d,Garantie,CAR PASS,7 zetels
-102. volvo XC70,2.0d,CAR PASS,garantie,bj.2016,BTW excl 14868 €
+102. ---
 103. peugeot partner 1.6 benzine,Garantie,CAR PASS,euro 5
 104. citroen c2, 1.1 benzine,Garantie,CAR PASS,77000 km
 105. peugeot partner 1.6 d,Garantie,CAR PASS

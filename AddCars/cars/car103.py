@@ -5,39 +5,38 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "peugeot partner 1.6 benzine,Garantie,CAR PASS,euro 5"
+var_title = "renault twingo 1.0 benzine,Garantie,CAR PASS,bwj 2015,euro 6"
 var_categorie = "Auto's"
-var_brand = "Peugeot"
-var_model = "Partner"
-var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n\neerste eigenaar met oh-boekje bij Peugeot dealer\n"
-var_price = "6950"
+var_brand = "Renault"
+var_model = "Twingo"
+var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"
+var_price = "4999"
 var_picspath = "car103"
-var_carroserie = "Monovolume"
+var_carroserie = ""
 var_month = ""
-var_year = "2013"
+var_year = "2015"
 var_gas = "Benzine"
 var_transmissie = "Hand"
-var_km = "114000"
+var_km = "113000"
 var_doors = ""
 var_pk = ""
-var_cilinder = "1598"
-var_co2 = "155"
-var_euro = "euro 5"
+var_cilinder = "999"
+var_co2 = "95"
+var_euro = "euro 6"
 var_options = """Alarm
-Elektrische buitenspiegels
+Bluetooth
+Mistlampen
 Radio
 Traction-control
-Verwarmde buitenspiegels
 ABS
 Airbags
 Boordcomputer
-Schuifdeur
 Centrale vergrendeling
+USB
 Airconditioning
 Elektrische ramen
 Electronic Stability Program (ESP)
 Isofix
-Metaalkleur
-Trekhaak"""
+Cruise Control"""
 var_carcolor = ""
 var_interiorcolor = ""

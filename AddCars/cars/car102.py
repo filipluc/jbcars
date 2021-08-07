@@ -5,34 +5,33 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "volvo XC70,2.0d,CAR PASS,garantie,bj.2016,BTW excl 14868 €"
+var_title = "peugeot 308 Allure,1.6 benzine 125 pk,Garantie,CAR PASS"
 var_categorie = "Auto's"
-var_brand = "Volvo"
-var_model = "XC70"
-var_desc = "\nprijs 14868 € +btw/tva\neerste eigenaar met oh-boekje bij volvo dealer\neuro 6b\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n\n"
-var_price = "17990"
+var_brand = "Peugeot"
+var_model = "308"
+var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"
+var_price = "9950"
 var_picspath = "car102"
-var_carroserie = "Break"
+var_carroserie = ""
 var_month = ""
-var_year = "2016"
-var_gas = "Diesel"
+var_year = "2013"
+var_gas = "Benzine"
 var_transmissie = "Hand"
-var_km = "120000"
+var_km = "70000"
 var_doors = ""
 var_pk = ""
-var_cilinder = "1969"
-var_co2 = "115"
-var_euro = "euro 6"
+var_cilinder = "1598"
+var_co2 = "129"
+var_euro = "euro 5"
 var_options = """Alarm
-Bluetooth
+Parkeercamera
 Elektrische buitenspiegels
 Mistlampen
 Radio
-Traction-control
+Sportpakket
 Verwarmde buitenspiegels
 ABS
 Airbags
-Lederen bekleding
 Boordcomputer
 Centrale vergrendeling
 USB
@@ -43,9 +42,7 @@ Isofix
 Lichtmetalen velgen
 Metaalkleur
 Navigatiesysteem
-Open dak
 Parkeersensor
-Trekhaak
 Cruise Control"""
 var_carcolor = ""
 var_interiorcolor = ""

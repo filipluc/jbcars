@@ -5,45 +5,39 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "peugeot 5008 ,1.6 hdi,AUTOMAAT,garantie,7 zit,euro5,CAR PASS"
+var_title = "fiat punto 1.3 jtd,Garantie,CAR PASS"
 var_categorie = "Auto's"
-var_brand = "Peugeot"
-var_model = "5008"
-var_desc = "\nbtw wagen\nprijs 5661 € +btw/tva\n\nNieuwe koppeling +twee massa vliegwiel\nNieuwe distributie riem + water pomp\nNieuwe olie + olie filter\n\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"
-var_price = "6850"
+var_brand = "Fiat"
+var_model = "Punto"
+var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"
+var_price = "3950"
 var_picspath = "car107"
-var_carroserie = "Monovolume"
+var_carroserie = ""
 var_month = ""
-var_year = "2012"
+var_year = "2010"
 var_gas = "Diesel"
-var_transmissie = "Auto"
-var_km = "190000"
+var_transmissie = "Hand"
+var_km = "143000"
 var_doors = ""
 var_pk = ""
-var_cilinder = "1560"
-var_co2 = "125"
-var_euro = "euro 5"
+var_cilinder = "1248"
+var_co2 = "104"
+var_euro = "euro 4"
 var_options = """Alarm
 Elektrische buitenspiegels
-Climate control
 Mistlampen
 Radio
 Traction-control
-Verwarmde buitenspiegels
 ABS
 Airbags
 Boordcomputer
 Centrale vergrendeling
+USB
 Airconditioning
-Panoramadak
 Elektrische ramen
 Electronic Stability Program (ESP)
 Isofix
-Lichtmetalen velgen
 Metaalkleur
-Navigatiesysteem
-Parkeersensor
-Trekhaak
-Cruise Control"""
+Open dak"""
 var_carcolor = ""
 var_interiorcolor = ""

@@ -8,7 +8,7 @@
 108. peugeot 307 ,1.6 hdi,Garantie,CAR PASS
 109. kia venga 1.4 benzine,Garantie,CAR PASS,38000 km,euro 5
 110. seat ibiza 1.2 d,Garantie,CAR PASS,80000km,bwj.2012,euro 5
-111. peugeot 3008 ALLURE,1.2 i,130 pk,modeljaar 2017,euro 6b
+111. ===
 112. ---
 113. ---
 114. ---

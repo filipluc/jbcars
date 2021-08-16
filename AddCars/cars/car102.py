@@ -5,43 +5,42 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "peugeot 308 Allure,1.6 benzine 125 pk,Garantie,CAR PASS"
+var_title = "mercedes C200 sedan 2.2cdi,Garantie,CAR PASS,128000km,euro 5"
 var_categorie = "Auto's"
-var_brand = "Peugeot"
-var_model = "308"
+var_brand = "Mercedes-Benz"
+var_model = "C-Klasse"
 var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"
-var_price = "9950"
+var_price = "9850"
 var_picspath = "car102"
-var_carroserie = ""
+var_carroserie = "Berline"
 var_month = ""
-var_year = "2013"
-var_gas = "Benzine"
+var_year = "2010"
+var_gas = "Diesel"
 var_transmissie = "Hand"
-var_km = "70000"
+var_km = "128000"
 var_doors = ""
 var_pk = ""
-var_cilinder = "1598"
-var_co2 = "129"
+var_cilinder = "2143"
+var_co2 = "131"
 var_euro = "euro 5"
 var_options = """Alarm
-Parkeercamera
 Elektrische buitenspiegels
+Elektrische stoelverstelling
+Climate control
 Mistlampen
 Radio
-Sportpakket
+Traction-control
 Verwarmde buitenspiegels
 ABS
 Airbags
 Boordcomputer
 Centrale vergrendeling
-USB
 Airconditioning
 Elektrische ramen
 Electronic Stability Program (ESP)
 Isofix
 Lichtmetalen velgen
 Metaalkleur
-Navigatiesysteem
 Parkeersensor
 Cruise Control"""
 var_carcolor = ""

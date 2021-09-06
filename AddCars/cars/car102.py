@@ -5,11 +5,11 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "mercedes C200 sedan 2.2cdi,Garantie,CAR PASS,128000km,euro 5"
+var_title = "mercedes C200 ,2.2cdi,euro 5,Garantie,CAR PASS,128000km"
 var_categorie = "Auto's"
 var_brand = "Mercedes-Benz"
 var_model = "C-Klasse"
-var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"
+var_desc = "\n1 jaar garantie\nEuro 5\nCAR PASS\ngekeurd met roos formulier\n"
 var_price = "9850"
 var_picspath = "car102"
 var_carroserie = "Berline"

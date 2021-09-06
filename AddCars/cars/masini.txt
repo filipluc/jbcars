@@ -1,5 +1,5 @@
 101. opel zafira 1.7 d,Garantie,CAR PASS,7 zetels
-102. mercedes C200 sedan 2.2cdi,Garantie,CAR PASS,128000km,euro 5
+102. mercedes C200 ,2.2cdi,euro 5,Garantie,CAR PASS,128000km
 103. peugeot 206+, 1.4 d,Garantie,CAR PASS,69000 km,Euro 5
 104. ---
 105. renault scenic 1.6 benzine,Garantie,CAR PASS

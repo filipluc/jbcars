@@ -5,29 +5,36 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "citroen c2, 1.1 benzine,Garantie,CAR PASS,77000 km"
+var_title = "chevrolet aveo 1.2 benzine,Garantie,CAR PASS,72000 km,euro 5"
 var_categorie = "Auto's"
-var_brand = "Citroën"
-var_model = "C2"
-var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"
-var_price = "2990"
+var_brand = "Chevrolet"
+var_model = "Aveo"
+var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n\neerste eigenaar met oh-boekje\n"
+var_price = "5850"
 var_picspath = "car104"
 var_carroserie = ""
 var_month = ""
-var_year = "2007"
+var_year = "2012"
 var_gas = "Benzine"
 var_transmissie = "Hand"
-var_km = "77000"
+var_km = "72000"
 var_doors = ""
 var_pk = ""
-var_cilinder = "1124"
-var_co2 = ""
-var_euro = "euro 4"
-var_options = """Electronic Stability Program (ESP)
+var_cilinder = "1229"
+var_co2 = "129"
+var_euro = "euro 5"
+var_options = """Centrale vergrendeling
+Elektrische ramen
+Electronic Stability Program (ESP)
+Isofix
+Lichtmetalen velgen
 Metaalkleur
+Cruise Control
+Alarm
 Radio
 Traction-control
 ABS
-Airbags"""
+Airbags
+Boordcomputer"""
 var_carcolor = ""
 var_interiorcolor = ""

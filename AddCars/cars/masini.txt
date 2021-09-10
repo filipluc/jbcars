@@ -1,6 +1,6 @@
 101. opel zafira 1.7 d,Garantie,CAR PASS,7 zetels
 102. mercedes C200 ,2.2cdi,euro 5,Garantie,CAR PASS,128000km
-103. peugeot 206+, 1.4 d,Garantie,CAR PASS,69000 km,Euro 5
+103. peugeot 206+, 1.4 d,Euro 5,Garantie,CAR PASS,69000 km,
 104. chevrolet aveo 1.2 benzine,Garantie,CAR PASS,72000 km,euro 5
 105. renault scenic 1.6 benzine,Garantie,CAR PASS
 106. peugeot 508 RXH 2.0hdi, AUTOMAAT,bj.2018,km 32000,euro 6b

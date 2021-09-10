@@ -5,7 +5,7 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "peugeot 206+, 1.4 d,Garantie,CAR PASS,69000 km,Euro 5"
+var_title = "peugeot 206+, 1.4 d,Euro 5,Garantie,CAR PASS,69000 km,"
 var_categorie = "Auto's"
 var_brand = "Peugeot"
 var_model = "206"

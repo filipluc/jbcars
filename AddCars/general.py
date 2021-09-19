@@ -212,12 +212,6 @@ class GeneralFunctions():
         elem90.send_keys(Keys.TAB)
         time.sleep(0.5)
 
-        elem92 = driver.find_element_by_xpath("//input[contains(@id, 'numericAttribute[engineHorsepowerBE]')]")
-        elem92.click()
-        elem92.send_keys(car_detail.var_pk)
-        elem92.send_keys(Keys.TAB)
-        elem92.send_keys(Keys.TAB)
-        time.sleep(0.5)
 
         elem91 = driver.find_element_by_xpath("//input[contains(@id, 'numericAttribute[engineDisplacement]')]")
         elem91.click()

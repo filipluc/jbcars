@@ -7,7 +7,7 @@ Created on Jun 3, 2018
 
 var_title = "peugeot 208 AUTOMAAT 1.2 benzine,Garantie,CAR PASS,euro 6"
 var_categorie = "Auto's"
-var_brand = "peugeot"
+var_brand = "Peugeot"
 var_model = "208"
 var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"
 var_price = "11500"

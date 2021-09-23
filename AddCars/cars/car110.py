@@ -5,38 +5,46 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "seat ibiza 1.2 d,Garantie,CAR PASS,80000km,bwj.2012,euro 5"
+var_title = "audi a4 SEDAN 1.9 tdi-130 pk, S Line"
 var_categorie = "Auto's"
-var_brand = "Seat"
-var_model = "Ibiza"
-var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"
-var_price = "5700"
+var_brand = "Audi"
+var_model = "A4"
+var_desc = "\nprijs 3000 € +btw/tva\nenkel voor export of handelaar\neerste eigenaar\n"
+var_price = "3630"
 var_picspath = "car110"
 var_carroserie = ""
 var_month = ""
-var_year = "2012"
+var_year = "2004"
 var_gas = "Diesel"
 var_transmissie = "Hand"
-var_km = "80000"
+var_km = "200000"
 var_doors = ""
 var_pk = ""
-var_cilinder = "1199"
-var_co2 = "102"
-var_euro = "euro 5"
-var_options = """Centrale vergrendeling
+var_cilinder = "1896"
+var_co2 = "154"
+var_euro = "euro 3"
+var_options = """Alarm
+Elektrische buitenspiegels
+Climate control
+Mistlampen
+Radio
+Sportpakket
+Traction-control
+Verwarmde buitenspiegels
+ABS
+Airbags
+Lederen bekleding
+Boordcomputer
+Centrale vergrendeling
 Airconditioning
 Elektrische ramen
 Electronic Stability Program (ESP)
 Isofix
 Lichtmetalen velgen
-Cruise Control
-Alarm
-Elektrische buitenspiegels
-Radio
-Traction-control
-Verwarmde buitenspiegels
-ABS
-Airbags
-Boordcomputer"""
+Metaalkleur
+Parkeersensor
+Zetelverwarming
+Trekhaak
+Cruise Control"""
 var_carcolor = ""
 var_interiorcolor = ""

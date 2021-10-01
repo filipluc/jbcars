@@ -5,40 +5,49 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "renault scenic 1.6 benzine,Garantie,CAR PASS"
+var_title = "mercedes S 500"
 var_categorie = "Auto's"
-var_brand = "Renault"
-var_model = "Scenic"
-var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"
-var_price = "3500"
+var_brand = "Mercedes-Benz"
+var_model = "S-Klasse"
+var_desc = "\nenkel voor export of handelaar\n"
+var_price = "12500"
 var_picspath = "car105"
-var_carroserie = "Monovolume"
+var_carroserie = "Berline"
 var_month = ""
 var_year = "2008"
 var_gas = "Benzine"
-var_transmissie = "Hand"
-var_km = "137000"
+var_transmissie = "Auto"
+var_km = "269000"
 var_doors = ""
 var_pk = ""
-var_cilinder = "1598"
-var_co2 = "182"
+var_cilinder = "5461"
+var_co2 = "279"
 var_euro = "euro 4"
 var_options = """Alarm
 Elektrische buitenspiegels
+Elektrische stoelverstelling
+Climate control
 Mistlampen
 Radio
-Start-stop-systeem
 Traction-control
 Verwarmde buitenspiegels
+Xenon verlichting
+Elektrische koffer
 ABS
 Airbags
+Lederen bekleding
 Boordcomputer
 Centrale vergrendeling
 Airconditioning
 Elektrische ramen
 Electronic Stability Program (ESP)
 Isofix
+Lichtmetalen velgen
 Metaalkleur
-Parkeersensor"""
+Navigatiesysteem
+Open dak
+Parkeersensor
+Zetelverwarming
+Cruise Control"""
 var_carcolor = ""
 var_interiorcolor = ""

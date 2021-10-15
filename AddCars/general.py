@@ -139,14 +139,19 @@ class GeneralFunctions():
         elem9.send_keys("www.jbcars.be")
         time.sleep(0.2)
 
+        elem81 = ""
         try:
             elem81 = driver.find_element_by_xpath("//select[@name='singleSelectAttribute[model]']")
             elem81.click()
         except NoSuchElementException:
-            elem81 = driver.find_element_by_xpath("//select[@name='singleSelectAttribute[brand]']")
-            elem81.click()
-        elem81.send_keys(car_detail.var_model)
-        elem81.send_keys(Keys.TAB)
+            try:
+                elem81 = driver.find_element_by_xpath("//select[@name='singleSelectAttribute[brand]']")
+                elem81.click()
+            except NoSuchElementException:
+                pass
+        if elem81 != "":
+            elem81.send_keys(car_detail.var_model)
+            elem81.send_keys(Keys.TAB)
         time.sleep(0.5)
 
         elem82 = driver.find_element_by_xpath("//select[@name='singleSelectAttribute[fuel]']")

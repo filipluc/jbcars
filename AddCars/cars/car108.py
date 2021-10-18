@@ -5,40 +5,57 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "peugeot 307 ,1.6 hdi,Garantie,CAR PASS"
+var_title = "volvo xc60 SUMMUM,2.4d,D3 AWD,AUTOMAAT,98000km,euro 5"
 var_categorie = "Auto's"
-var_brand = "Peugeot"
-var_model = "307"
-var_desc = "\n1 jaar garantie\ngekeurd met roos formulier\n"
-var_price = "3950"
+var_brand = "Volvo"
+var_model = "XC60"
+var_desc = "\nenkel voor handelaar of export !!!\n"
+var_price = "12500"
 var_picspath = "car108"
-var_carroserie = ""
+var_carroserie = "SUV"
 var_month = ""
-var_year = "2007"
+var_year = "2011"
 var_gas = "Diesel"
-var_transmissie = "Hand"
-var_km = "112000"
+var_transmissie = "Auto"
+var_km = "98000"
 var_doors = ""
 var_pk = ""
-var_cilinder = "1560"
-var_co2 = "129"
-var_euro = "euro 4"
-var_options = """Alarm
+var_cilinder = "2400"
+var_co2 = "184"
+var_euro = "euro 5"
+var_options = """4x4
+Spraakbediening
+Alarm
+Bluetooth
+Parkeercamera
 Elektrische buitenspiegels
+Elektrische stoelverstelling
 Climate control
 Mistlampen
 Radio
+Start-stop-systeem
 Traction-control
+Verwarmde buitenspiegels
+Xenon verlichting
+Elektrische koffer
 ABS
 Airbags
+Lederen bekleding
 Boordcomputer
 Centrale vergrendeling
+USB
 Airconditioning
+Panoramadak
 Elektrische ramen
 Electronic Stability Program (ESP)
 Isofix
 Lichtmetalen velgen
 Metaalkleur
-Parkeersensor"""
+Navigatiesysteem
+Open dak
+Parkeersensor
+Zetelverwarming
+Trekhaak
+Cruise Control"""
 var_carcolor = ""
 var_interiorcolor = ""

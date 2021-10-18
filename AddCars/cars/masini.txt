@@ -5,7 +5,7 @@
 105. mercedes S 500
 106. toyota rav4,CROSS SPORT,d4d,2.2d,bwj. 2008
 107. fiat punto 1.3 jtd,Garantie,CAR PASS
-108. ---
+108. volvo xc60 SUMMUM,2.4d,D3 AWD,AUTOMAAT,98000km,euro 5
 109. nissan pathfinder 2.5 dci,Bwj.2008,NAVI,camera,7 zit
 110. audi a4 SEDAN 1.9 tdi-130 pk, S Line
 111. ---

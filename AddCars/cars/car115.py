@@ -5,11 +5,11 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "opel vectra 2.0 dth dti 16v, Garantie, CAR PASS"
+var_title = "opel vectra 2.0 dth dti 16v"
 var_categorie = "Auto's"
 var_brand = "Opel"
 var_model = "Vectra"
-var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"
+var_desc = "\nEnkel voor handelaar of export\n"
 var_price = "2500"
 var_picspath = "car115"
 var_carroserie = "Berline"

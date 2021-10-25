@@ -299,6 +299,8 @@ class GeneralFunctions():
                 y = "Sportpakket"
             if x == "Sportstoelen":
                 y = "Sportstoelen"
+            if x == "Spraakbediening":
+                y = "Spraakbediening"
             if x == "Startonderbreker":
                 y = "Startonderbreker"
             if x == "Start-stop-systeem":

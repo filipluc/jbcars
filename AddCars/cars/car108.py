@@ -5,11 +5,11 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "volvo xc60 SUMMUM,2.4d,D3 AWD,AUTOMAAT,98000km,euro 5"
+var_title = "volvo xc60 SUMMUM 2.4d,Automaat,98000 km,Euro 5"
 var_categorie = "Auto's"
 var_brand = "Volvo"
 var_model = "XC60"
-var_desc = "\nenkel voor handelaar of export !!!\n"
+var_desc = "\n!!!\nradio,navigatie,camera werkt NIET !!!(software of versterker)\nenkel voor export of handelaar\nniet voor particulieren\n"
 var_price = "12500"
 var_picspath = "car108"
 var_carroserie = "SUV"

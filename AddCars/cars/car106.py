@@ -5,45 +5,37 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "toyota rav4,CROSS SPORT,d4d,2.2d,bwj. 2008"
+var_title = "ford fusion 1.4 tdci,AIRCO"
 var_categorie = "Auto's"
-var_brand = "Toyota"
-var_model = "Rav4"
-var_desc = "\nenkel voor export of handelaar\nkeuring geldig tot 05/2022\n"
-var_price = "5350"
+var_brand = "Ford"
+var_model = "Fusion"
+var_desc = "\nenkel voor export of handelaar\nkeuring geldig tot 31/03/2022\ngoede staat\n"
+var_price = "1650"
 var_picspath = "car106"
-var_carroserie = "SUV"
+var_carroserie = ""
 var_month = ""
-var_year = "2008"
+var_year = "2003"
 var_gas = "Diesel"
 var_transmissie = "Hand"
-var_km = "200000"
+var_km = "158000"
 var_doors = ""
 var_pk = ""
-var_cilinder = "2231"
-var_co2 = "175"
-var_euro = "Euro 4"
-var_options = """4x4
-Alarm
-Elektrische buitenspiegels
-Climate control
-Mistlampen
-Radio
-Traction-control
-Verwarmde buitenspiegels
-ABS
-Airbags
-Lederen bekleding
-Boordcomputer
-Centrale vergrendeling
+var_cilinder = "1399"
+var_co2 = ""
+var_euro = "Euro 3"
+var_options = """Centrale vergrendeling
 Airconditioning
 Elektrische ramen
 Electronic Stability Program (ESP)
-Isofix
 Lichtmetalen velgen
 Metaalkleur
-Parkeersensor
 Trekhaak
-Cruise Control"""
+Alarm
+Elektrische buitenspiegels
+Radio
+Traction-control
+ABS
+Airbags
+Boordcomputer"""
 var_carcolor = ""
 var_interiorcolor = ""

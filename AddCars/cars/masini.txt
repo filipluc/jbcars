@@ -3,8 +3,7 @@
 103. peugeot 206+, 1.4 d,Euro 5,Garantie,CAR PASS,69000 km,
 104. chevrolet aveo 1.2 benzine,Garantie,CAR PASS,72000 km,euro 5
 105. mercedes S 500
-106. ---
-107. fiat punto 1.3 jtd,Garantie,CAR PASS
+106. ford fusion 1.4 tdci,AIRCO
 108. volvo xc60 SUMMUM 2.4d,Automaat,98000 km,Euro 5
 109. nissan pathfinder 2.5 dci,Bwj.2008,NAVI,camera,7 zit
 110. ---
@@ -26,7 +25,7 @@
 126. ---
 127. ---
 128. renault trafic AMBULANCE 2.0d,Automaat,!!!!!nieuwe wagen !!!
-129. vw transporter 2.5 tdi OPEN LAADBAK,double cabine 5plus1 pl.
+129. ---
 130. ---
 131. ---
 132. ---

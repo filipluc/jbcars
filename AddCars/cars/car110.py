@@ -5,46 +5,39 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "audi a4 SEDAN 1.9 tdi-130 pk, S Line"
+var_title = "fiat punto 1.3 jtd,Garantie,CAR PASS"
 var_categorie = "Auto's"
-var_brand = "Audi"
-var_model = "A4"
-var_desc = "\nprijs 3000 € +btw/tva\nenkel voor export of handelaar\neerste eigenaar\n"
-var_price = "3630"
+var_brand = "Fiat"
+var_model = "Punto EVO"
+var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"
+var_price = "3950"
 var_picspath = "car110"
 var_carroserie = ""
 var_month = ""
-var_year = "2004"
+var_year = "2010"
 var_gas = "Diesel"
 var_transmissie = "Hand"
-var_km = "200000"
+var_km = "143000"
 var_doors = ""
 var_pk = ""
-var_cilinder = "1896"
-var_co2 = "154"
-var_euro = "euro 3"
-var_options = """Alarm
-Elektrische buitenspiegels
-Climate control
-Mistlampen
-Radio
-Sportpakket
-Traction-control
-Verwarmde buitenspiegels
-ABS
-Airbags
-Lederen bekleding
-Boordcomputer
-Centrale vergrendeling
+var_cilinder = "1248"
+var_co2 = "104"
+var_euro = "euro 4"
+var_options = """Centrale vergrendeling
+USB
 Airconditioning
 Elektrische ramen
 Electronic Stability Program (ESP)
 Isofix
-Lichtmetalen velgen
 Metaalkleur
-Parkeersensor
-Zetelverwarming
-Trekhaak
-Cruise Control"""
+Open dak
+Alarm
+Elektrische buitenspiegels
+Mistlampen
+Radio
+Traction-control
+ABS
+Airbags
+Boordcomputer"""
 var_carcolor = ""
 var_interiorcolor = ""

@@ -6,7 +6,7 @@
 106. ford fusion 1.4 tdci,AIRCO
 108. volvo xc60 SUMMUM 2.4d,Automaat,98000 km,Euro 5
 109. nissan pathfinder 2.5 dci,Bwj.2008,NAVI,camera,7 zit
-110. ---
+110. fiat punto 1.3 jtd,Garantie,CAR PASS
 111. ---
 112. ---
 113. ---

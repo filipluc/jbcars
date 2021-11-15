@@ -5,42 +5,58 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "peugeot 207 cabrio,ROLAND GARROS,1.6 hdi,Garantie,CAR PASS"
+var_title = "Jeep grand Cherokee Overland 3.0 crd,Euro 5,btw excl 12395€"
 var_categorie = "Auto's"
-var_brand = "Peugeot"
-var_model = "207"
-var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"
-var_price = "4900"
+var_brand = "Jeep"
+var_model = "Grand Cherokee"
+var_desc = "\nprijs 12395 € +btw/tva\neerste eigenaar\nCAR PASS\nwordt gekeurd met roos formulier\n"
+var_price = "14998"
 var_picspath = "car112"
-var_carroserie = "Cabriolet"
+var_carroserie = "SUV"
 var_month = ""
-var_year = "2008"
+var_year = "2012"
 var_gas = "Diesel"
-var_transmissie = "Hand"
-var_km = "159000"
+var_transmissie = "Auto"
+var_km = "215000"
 var_doors = ""
 var_pk = ""
-var_cilinder = ""
-var_co2 = "130"
-var_euro = "euro 4"
-var_options = """ABS
+var_cilinder = "2987"
+var_co2 = "218"
+var_euro = "euro 5"
+var_options = """Keyless entry
+4x4
+Alarm
+Bluetooth
+Parkeercamera
+Elektrische buitenspiegels
+Elektrische stoelverstelling
+Climate control
+Mistlampen
+Radio
+Sportpakket
+Startonderbreker
+Start-stop-systeem
+Traction-control
+Verwarmde buitenspiegels
+Xenon verlichting
+Elektrische koffer
+ABS
+Emergency brake assist
 Airbags
 Lederen bekleding
 Boordcomputer
 Centrale vergrendeling
 Airconditioning
+Panoramadak
 Elektrische ramen
 Electronic Stability Program (ESP)
 Isofix
 Lichtmetalen velgen
 Metaalkleur
+Navigatiesysteem
+Open dak
 Parkeersensor
-Climate control
-Alarm
-Elektrische buitenspiegels
-Mistlampen
-Radio
-Traction-control
-Verwarmde buitenspiegels"""
+Zetelverwarming
+Cruise Control"""
 var_carcolor = ""
 var_interiorcolor = ""

@@ -5,29 +5,33 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "fiat punto 1.3 jtd,Garantie,CAR PASS"
+var_title = "renault captur 1.2 benzine AUTOMAAT,6300 km,euro 6b"
 var_categorie = "Auto's"
-var_brand = "Fiat"
-var_model = "Punto"
-var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"
-var_price = "3950"
+var_brand = "Renault"
+var_model = "Captur"
+var_desc = "\n6300 km !!!!\nCAR PASS\ngekeurd met roos formulier\n"
+var_price = "17650"
 var_picspath = "car107"
-var_carroserie = ""
+var_carroserie = "SUV"
 var_month = ""
-var_year = "2010"
-var_gas = "Diesel"
-var_transmissie = "Hand"
-var_km = "143000"
+var_year = "2016"
+var_gas = "Benzine"
+var_transmissie = "Auto"
+var_km = "6300"
 var_doors = ""
 var_pk = ""
-var_cilinder = "1248"
-var_co2 = "104"
-var_euro = "euro 4"
-var_options = """Alarm
+var_cilinder = "1197"
+var_co2 = ""
+var_euro = "euro 6"
+var_options = """Keyless entry
+Alarm
+Bluetooth
 Elektrische buitenspiegels
 Mistlampen
 Radio
+Start-stop-systeem
 Traction-control
+Verwarmde buitenspiegels
 ABS
 Airbags
 Boordcomputer
@@ -37,7 +41,9 @@ Airconditioning
 Elektrische ramen
 Electronic Stability Program (ESP)
 Isofix
+Lichtmetalen velgen
 Metaalkleur
-Open dak"""
+Navigatiesysteem
+Parkeersensor"""
 var_carcolor = ""
 var_interiorcolor = ""

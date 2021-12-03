@@ -1,7 +1,7 @@
 101. ---
 102. mercedes C200 ,2.2cdi,euro 5,Garantie,CAR PASS,128000km
-103. peugeot 206+, 1.4 d,Euro 5,Garantie,CAR PASS,69000 km,
-104. ---peugeot 2008,1.2 benzine,Garantie,CAR PASS,euro 5b
+103. ---
+104. ---
 105. mercedes S 500
 106. ford fusion 1.4 tdci,AIRCO
 107. renault captur 1.2 benzine AUTOMAAT,6300 km,euro 6b

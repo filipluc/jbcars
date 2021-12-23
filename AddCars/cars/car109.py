@@ -5,31 +5,28 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "nissan pathfinder 2.5 dci,Bwj.2008,NAVI,camera,7 zit"
+var_title = "peugeot 207+,1.4 benzine,Garantie,CAR PASS,euro 5"
 var_categorie = "Auto's"
-var_brand = "Nissan"
-var_model = "Pathfinder"
-var_desc = "\nenkel voor export of handelaar\nwagen in goede staat\nkeuring geldig tot 05/12/2021\n"
-var_price = "7750"
+var_brand = "Peugeot"
+var_model = "207"
+var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"
+var_price = "4999"
 var_picspath = "car109"
 var_carroserie = ""
 var_month = ""
-var_year = "2008"
-var_gas = "Diesel"
+var_year = "2013"
+var_gas = "Benzine"
 var_transmissie = "Hand"
-var_km = "220000"
+var_km = "112000"
 var_doors = ""
 var_pk = ""
-var_cilinder = "2488"
-var_co2 = "264"
-var_euro = "Euro 4"
-var_options = """4x4
-Alarm
-Parkeercamera
+var_cilinder = "1360"
+var_co2 = "145"
+var_euro = "Euro 5"
+var_options = """Alarm
 Elektrische buitenspiegels
 Mistlampen
 Radio
-Traction-control
 Verwarmde buitenspiegels
 ABS
 Airbags
@@ -39,9 +36,6 @@ Airconditioning
 Elektrische ramen
 Electronic Stability Program (ESP)
 Isofix
-Lichtmetalen velgen
-Metaalkleur
-Navigatiesysteem
-Trekhaak"""
+Cruise Control"""
 var_carcolor = ""
 var_interiorcolor = ""

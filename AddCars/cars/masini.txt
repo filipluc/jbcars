@@ -5,11 +5,11 @@
 105. mercedes S 500
 106. ford fusion 1.4 tdci,AIRCO
 107. renault captur 1.2 benzine AUTOMAAT,6300 km,euro 6b
-108. --volvo xc60 SUMMUM 2.4d,Automaat,98000 km,Euro 5
-109. peugeot 207+,1.4 benzine,Garantie,CAR PASS,euro 5
+108. --volvo xc60 	SUMMUM 2.4d,Automaat,98000 km,Euro 5
+109. ---
 110. fiat punto 1.3 jtd,Garantie,CAR PASS
-111. jeep Grand Cherokee OVERLAND,3.0 crd,Euro 5,BTW excl. 12395€
-112. Jeep grand Cherokee Overland 3.0 crd,Euro 5,btw excl 12395€
+111. ---
+112. ---
 113. ---
 114. ---
 115. opel vectra 2.0 dth dti 16v

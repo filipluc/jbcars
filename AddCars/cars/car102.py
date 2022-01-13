@@ -5,28 +5,27 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "mercedes C200 ,2.2cdi,euro 5,Garantie,CAR PASS,128000km"
+var_title = "peugeot 208,1.4 hdi,Garantie,CAR PASS,49000 km, euro 5"
 var_categorie = "Auto's"
-var_brand = "Mercedes-Benz"
-var_model = "C-Klasse"
-var_desc = "\n1 jaar garantie\nEuro 5\nCAR PASS\ngekeurd met roos formulier\n"
-var_price = "9850"
+var_brand = "Peugeot"
+var_model = "208"
+var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"
+var_price = "7650"
 var_picspath = "car102"
-var_carroserie = "Berline"
+var_carroserie = ""
 var_month = ""
-var_year = "2010"
+var_year = "2012"
 var_gas = "Diesel"
 var_transmissie = "Hand"
-var_km = "128000"
+var_km = "49000"
 var_doors = ""
 var_pk = ""
-var_cilinder = "2143"
-var_co2 = "131"
+var_cilinder = "1398"
+var_co2 = "98"
 var_euro = "euro 5"
 var_options = """Alarm
+Bluetooth
 Elektrische buitenspiegels
-Elektrische stoelverstelling
-Climate control
 Mistlampen
 Radio
 Traction-control
@@ -35,13 +34,13 @@ ABS
 Airbags
 Boordcomputer
 Centrale vergrendeling
+USB
 Airconditioning
 Elektrische ramen
 Electronic Stability Program (ESP)
 Isofix
 Lichtmetalen velgen
 Metaalkleur
-Parkeersensor
 Cruise Control"""
 var_carcolor = ""
 var_interiorcolor = ""

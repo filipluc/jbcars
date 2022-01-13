@@ -6,7 +6,7 @@
 106. ford fusion 1.4 tdci,AIRCO
 107. renault captur 1.2 benzine AUTOMAAT,6300 km,euro 6b
 108. --volvo xc60 	SUMMUM 2.4d,Automaat,98000 km,Euro 5
-109. ---
+109. renault kadjar 1.2 benzine,Garantie,CAR PASS,euro 6b
 110. fiat punto 1.3 jtd,Garantie,CAR PASS
 111. ---
 112. ---

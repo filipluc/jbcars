@@ -5,12 +5,12 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "citroen c5, 1.8 benzine ,Garantie,CAR PASS,67000 km !!!"
+var_title = "citroen c5,1.8 benzine,Garantie,CAR PASS,67000 km"
 var_categorie = "Auto's"
 var_brand = "Citroën"
 var_model = "C5"
-var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n\neerste eigenaar\n"
-var_price = "4990"
+var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"
+var_price = "5650"
 var_picspath = "car116"
 var_carroserie = ""
 var_month = ""

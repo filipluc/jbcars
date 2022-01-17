@@ -1,7 +1,7 @@
 101. ford fiesta 1.6d,Garantie,CAR PASS,euro 5
 102. peugeot 208,1.4 hdi,Garantie,CAR PASS,49000 km, euro 5
 103. ford focus cc CABRIO 1.6 benzine,Garantie,CAR PASS,54000 km
-104. seat altea XL 1.6 d,Garantie,CAR PASS,87000 km,Euro 5
+104. ---
 105. mercedes S 500
 106. ford fusion 1.4 tdci,AIRCO
 107. renault captur 1.2 benzine AUTOMAAT,6300 km,euro 6b
@@ -13,7 +13,7 @@
 113. ---
 114. ---
 115. opel vectra 2.0 dth dti 16v
-116. --citroen c5, 1.8 benzine ,Garantie,CAR PASS,67000 km !!!
+116. citroen c5,1.8 benzine,Garantie,CAR PASS,67000 km
 117. ---
 118. volvo s60, 2.4 d,eerste eigenaar
 119. ---

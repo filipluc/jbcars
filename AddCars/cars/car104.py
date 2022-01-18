@@ -5,28 +5,26 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "seat altea XL 1.6 d,Garantie,CAR PASS,87000 km,Euro 5"
+var_title = "chevrolet cruze 2.0d,Garantie,CAR PASS"
 var_categorie = "Auto's"
-var_brand = "Seat"
-var_model = "Altea"
-var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\neerste eigenaar met oh-boekje\n"
-var_price = "6999"
+var_brand = "Chevrolet"
+var_model = "Cruze"
+var_desc = "\n1 jaar garantie\nCAR PASS\nwordt gekeurd met roos formulier\neerste eigenaar met oh-boekje\n"
+var_price = "4350"
 var_picspath = "car104"
-var_carroserie = "Monovolume"
+var_carroserie = ""
 var_month = ""
-var_year = "2010"
+var_year = "2009"
 var_gas = "Diesel"
 var_transmissie = "Hand"
-var_km = "87000"
+var_km = "136000"
 var_doors = ""
 var_pk = ""
-var_cilinder = "1598"
-var_co2 = "119"
-var_euro = "euro 5"
+var_cilinder = "1991"
+var_co2 = "145"
+var_euro = "euro 4"
 var_options = """Alarm
 Elektrische buitenspiegels
-Climate control
-Mistlampen
 Radio
 Traction-control
 Verwarmde buitenspiegels
@@ -38,11 +36,6 @@ Airconditioning
 Elektrische ramen
 Electronic Stability Program (ESP)
 Isofix
-Lichtmetalen velgen
-Metaalkleur
-Navigatiesysteem
-Parkeersensor
-Trekhaak
-Cruise Control"""
+Lichtmetalen velgen"""
 var_carcolor = ""
 var_interiorcolor = ""

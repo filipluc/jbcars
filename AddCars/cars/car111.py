@@ -5,58 +5,39 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "jeep Grand Cherokee OVERLAND,3.0 crd,Euro 5,BTW excl. 12395€"
+var_title = "honda cr-v 2.0 benzine,AIRCO"
 var_categorie = "Auto's"
-var_brand = "Jeep"
-var_model = "Cherokee"
-var_desc = "\nprijs 12395 € +btw/tva\neerste eigenaar\nCAR PASS\nwordt gekeurd met roos formulier\n"
-var_price = "14998"
+var_brand = "Honda"
+var_model = "CR-V"
+var_desc = "\nenkel voor export of handelaar\nwagen in goede staat\nkeuring geldig tot29/10/2022\n"
+var_price = "3850"
 var_picspath = "car111"
 var_carroserie = "SUV"
 var_month = ""
-var_year = "2012"
-var_gas = "Diesel"
-var_transmissie = "Auto"
-var_km = "215000"
+var_year = "2003"
+var_gas = "Benzine"
+var_transmissie = "Hand"
+var_km = "200000"
 var_doors = ""
 var_pk = ""
-var_cilinder = "2987"
+var_cilinder = "1998"
 var_co2 = "218"
-var_euro = "euro 5"
-var_options = """Keyless entry
-4x4
-Alarm
-Bluetooth
-Parkeercamera
+var_euro = "euro 3"
+var_options = """Alarm
 Elektrische buitenspiegels
-Elektrische stoelverstelling
-Climate control
-Mistlampen
 Radio
-Sportpakket
-Startonderbreker
-Start-stop-systeem
 Traction-control
 Verwarmde buitenspiegels
-Xenon verlichting
-Elektrische koffer
 ABS
-Emergency brake assist
 Airbags
 Lederen bekleding
 Boordcomputer
 Centrale vergrendeling
 Airconditioning
-Panoramadak
 Elektrische ramen
 Electronic Stability Program (ESP)
 Isofix
 Lichtmetalen velgen
-Metaalkleur
-Navigatiesysteem
-Open dak
-Parkeersensor
-Zetelverwarming
-Cruise Control"""
+Metaalkleur"""
 var_carcolor = ""
 var_interiorcolor = ""

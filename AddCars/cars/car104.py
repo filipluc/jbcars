@@ -5,24 +5,24 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "chevrolet cruze 2.0d,Garantie,CAR PASS"
+var_title = "peugeot 2008,1.6 hdi,Garantie,CAR PASS,bwj.2017,euro 6b"
 var_categorie = "Auto's"
-var_brand = "Chevrolet"
-var_model = "Cruze"
-var_desc = "\n1 jaar garantie\nCAR PASS\nwordt gekeurd met roos formulier\neerste eigenaar met oh-boekje\n"
-var_price = "4350"
+var_brand = "Peugeot"
+var_model = "2008"
+var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\neerste eigenaar met oh-boekje bij dealer\n"
+var_price = "10995"
 var_picspath = "car104"
 var_carroserie = ""
 var_month = ""
-var_year = "2009"
+var_year = "2017"
 var_gas = "Diesel"
 var_transmissie = "Hand"
-var_km = "136000"
+var_km = "80000"
 var_doors = ""
 var_pk = ""
-var_cilinder = "1991"
-var_co2 = "145"
-var_euro = "euro 4"
+var_cilinder = "1560"
+var_co2 = "97"
+var_euro = "euro 6"
 var_options = """Alarm
 Elektrische buitenspiegels
 Radio
@@ -32,10 +32,12 @@ ABS
 Airbags
 Boordcomputer
 Centrale vergrendeling
+USB
 Airconditioning
 Elektrische ramen
 Electronic Stability Program (ESP)
 Isofix
-Lichtmetalen velgen"""
+Metaalkleur
+Cruise Control"""
 var_carcolor = ""
 var_interiorcolor = ""

@@ -5,39 +5,38 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "honda cr-v 2.0 benzine,AIRCO"
+var_title = "peugeot 807 AUTOMAAT,2.0 benzine,6 zit,euro 4"
 var_categorie = "Auto's"
-var_brand = "Honda"
-var_model = "CR-V"
-var_desc = "\nenkel voor export of handelaar\nwagen in goede staat\nkeuring geldig tot29/10/2022\n"
-var_price = "3850"
+var_brand = "Peugeot"
+var_model = "807"
+var_desc = "\nenkel voor export of handelaar\nauto rijdt goed\n"
+var_price = "2350"
 var_picspath = "car111"
-var_carroserie = "SUV"
+var_carroserie = "Monovolume"
 var_month = ""
 var_year = "2003"
 var_gas = "Benzine"
-var_transmissie = "Hand"
+var_transmissie = "Auto"
 var_km = "200000"
 var_doors = ""
 var_pk = ""
-var_cilinder = "1998"
-var_co2 = "218"
-var_euro = "euro 3"
+var_cilinder = "1997"
+var_co2 = ""
+var_euro = "euro 4"
 var_options = """Alarm
 Elektrische buitenspiegels
+Climate control
 Radio
 Traction-control
-Verwarmde buitenspiegels
 ABS
 Airbags
-Lederen bekleding
 Boordcomputer
+Schuifdeur
 Centrale vergrendeling
 Airconditioning
 Elektrische ramen
 Electronic Stability Program (ESP)
 Isofix
-Lichtmetalen velgen
 Metaalkleur"""
 var_carcolor = ""
 var_interiorcolor = ""

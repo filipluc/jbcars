@@ -5,12 +5,12 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "volvo xc60 SUMMUM 2.4d,Automaat,98000 km,Euro 5"
+var_title = "volvo xc60,2.4d AUTOMAAT,garantie,CAR PASS,98000 km,euro 5"
 var_categorie = "Auto's"
 var_brand = "Volvo"
 var_model = "XC60"
-var_desc = "\n!!!\nauto rijdt goed maar,\nradio,navigatie,camera werkt NIET !!!(software ,module of slechte elektrische verbindingen)\nenkel voor export of handelaar\nniet voor particulieren\n"
-var_price = "12500"
+var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"
+var_price = "14990"
 var_picspath = "car108"
 var_carroserie = "SUV"
 var_month = ""
@@ -24,7 +24,6 @@ var_cilinder = "2400"
 var_co2 = "184"
 var_euro = "euro 5"
 var_options = """4x4
-Spraakbediening
 Alarm
 Bluetooth
 Parkeercamera
@@ -33,6 +32,7 @@ Elektrische stoelverstelling
 Climate control
 Mistlampen
 Radio
+Startonderbreker
 Start-stop-systeem
 Traction-control
 Verwarmde buitenspiegels

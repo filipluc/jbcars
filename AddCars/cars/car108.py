@@ -5,7 +5,7 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "volvo xc60,2.4d AUTOMAAT,garantie,CAR PASS,98000 km,euro 5"
+var_title = "volvo xc60,2.4d AUTOMAAT,garantie,98000 km,euro 5"
 var_categorie = "Auto's"
 var_brand = "Volvo"
 var_model = "XC60"

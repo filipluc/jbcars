@@ -1,21 +1,21 @@
-101. ---
+101. nissan pixo 1.0 benzine,Garantie,CAR PASS,euro 5
 102. peugeot 208,1.4 hdi,Garantie,CAR PASS,49000 km, euro 5
 103. ford focus cc CABRIO 1.6 benzine,Garantie,CAR PASS,54000 km
 104. peugeot 2008,1.6 hdi,Garantie,CAR PASS,bwj.2017,euro 6b
 105. mercedes S 500
-106. ford fusion 1.4 tdci,AIRCO
+106. ---
 107. renault captur 1.2 benzine AUTOMAAT,6300 km,euro 6b
-108. volvo xc60,2.4d AUTOMAAT,garantie,CAR PASS,98000 km,euro 5
+108. volvo xc60,2.4d AUTOMAAT,garantie,98000 km,euro 5
 109. renault kadjar 1.2 benzine,Garantie,CAR PASS,euro 6b
 110. fiat punto 1.3 jtd,Garantie,CAR PASS
 111. peugeot 807 AUTOMAAT,2.0 benzine,6 zit,euro 4
 112. ---
 113. ---
 114. ---
-115. opel vectra 2.0 dth dti 16v
+115. ---
 116. citroen c5,1.8 benzine,Garantie,CAR PASS,67000 km
 117. ---
-118. volvo s60, 2.4 d,eerste eigenaar
+118. ---
 119. ---
 120. ---
 121. ---

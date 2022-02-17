@@ -5,53 +5,34 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "volvo xc70,2.4d,Garantie,CAR PASS,107000 km,euro 4"
+var_title = "nissan pixo 1.0 benzine,Garantie,CAR PASS,euro 5"
 var_categorie = "Auto's"
-var_brand = "Volvo"
-var_model = "XC70"
-var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\nco2=159\nkw 129\n"
+var_brand = "Nissan"
+var_model = "Pixo"
+var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"
 var_price = ""
 var_picspath = "car101"
 var_carroserie = ""
 var_month = ""
-var_year = "2009"
-var_gas = "Diesel"
+var_year = "2010"
+var_gas = "Benzine"
 var_transmissie = "Hand"
-var_km = "107000"
+var_km = "100000"
 var_doors = ""
 var_pk = ""
-var_cilinder = "2400"
-var_co2 = "159"
-var_euro = "euro 4"
-var_options = """Stoelventilatie
-Alarm
-Bluetooth
-Elektrische buitenspiegels
-Elektrische stoelverstelling
-Climate control
-Mistlampen
-Radio
-Start-stop-systeem
-Traction-control
-Verwarmde buitenspiegels
-Xenon verlichting
-Elektrische koffer
-ABS
-Airbags
-Lederen bekleding
-Boordcomputer
-Centrale vergrendeling
-Airconditioning
+var_cilinder = "996"
+var_co2 = "103"
+var_euro = "euro 5"
+var_options = """Centrale vergrendeling
 Elektrische ramen
 Electronic Stability Program (ESP)
 Isofix
-Lichtmetalen velgen
-Metaalkleur
-Navigatiesysteem
-Open dak
-Parkeersensor
-Zetelverwarming
-Trekhaak
-Cruise Control"""
+Alarm
+Mistlampen
+Radio
+Traction-control
+ABS
+Airbags
+Boordcomputer"""
 var_carcolor = ""
 var_interiorcolor = ""

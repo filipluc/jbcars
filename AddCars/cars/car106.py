@@ -5,37 +5,52 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "ford fusion 1.4 tdci,AIRCO"
+var_title = "skoda superb 1.6d,Garantie,CAR PASS,euro 5b"
 var_categorie = "Auto's"
-var_brand = "Ford"
-var_model = "Fusion"
-var_desc = "\nenkel voor export of handelaar\nkeuring geldig tot 31/03/2022\ngoede staat\n"
-var_price = "1650"
+var_brand = "Skoda"
+var_model = "Superb"
+var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"
+var_price = "12990"
 var_picspath = "car106"
-var_carroserie = ""
+var_carroserie = "Break"
 var_month = ""
-var_year = "2003"
+var_year = "2015"
 var_gas = "Diesel"
 var_transmissie = "Hand"
-var_km = "158000"
+var_km = "120000"
 var_doors = ""
 var_pk = ""
-var_cilinder = "1399"
-var_co2 = ""
-var_euro = "Euro 3"
-var_options = """Centrale vergrendeling
-Airconditioning
-Elektrische ramen
-Electronic Stability Program (ESP)
-Lichtmetalen velgen
-Metaalkleur
-Trekhaak
-Alarm
+var_cilinder = "1598"
+var_co2 = "113"
+var_euro = "Euro 5"
+var_options = """Alarm
+Bluetooth
 Elektrische buitenspiegels
+Elektrische stoelverstelling
+Climate control
+Mistlampen
 Radio
 Traction-control
+Verwarmde buitenspiegels
+Xenon verlichting
 ABS
 Airbags
-Boordcomputer"""
+Lederen bekleding
+Boordcomputer
+Centrale vergrendeling
+USB
+Airconditioning
+Panoramadak
+Elektrische ramen
+Electronic Stability Program (ESP)
+Isofix
+Lichtmetalen velgen
+Metaalkleur
+Navigatiesysteem
+Open dak
+Parkeersensor
+Zetelverwarming
+Trekhaak
+Cruise Control"""
 var_carcolor = ""
 var_interiorcolor = ""

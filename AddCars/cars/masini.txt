@@ -4,7 +4,7 @@
 104. peugeot 2008,1.6 hdi,Garantie,CAR PASS,bwj.2017,euro 6b
 105. mercedes S 500
 106. skoda superb 1.6d,Garantie,CAR PASS,euro 5b
-107. renault captur 1.2 benzine AUTOMAAT,6300 km,euro 6b
+107. renault captur 1.2 benzine ,AUTOMAAT,km=7900,euro 6b
 108. ---
 109. ---
 110. ---

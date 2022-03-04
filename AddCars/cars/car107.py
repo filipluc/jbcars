@@ -5,7 +5,7 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "renault captur 1.2 benzine AUTOMAAT,6300 km,euro 6b"
+var_title = "renault captur 1.2 benzine ,AUTOMAAT,km=7900,euro 6b"
 var_categorie = "Auto's"
 var_brand = "Renault"
 var_model = "Captur"

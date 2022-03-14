@@ -7,7 +7,7 @@ Created on Jun 3, 2018
 
 var_title = "citroen berlingo 1.6 hdi,Garantie,CAR PASS,euro 5"
 var_categorie = "Auto's"
-var_brand = "Citroën "
+var_brand = "Citroën"
 var_model = "Berlingo"
 var_desc = "\n1 jaar garantie\nCAR PASS\nwordt gekeurd met roos formulier\n\njuist nieuwe distributie riem+ waterpomp\n"
 var_price = "6650"

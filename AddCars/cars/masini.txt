@@ -1,6 +1,6 @@
 101. ford c-max 1.8 tdci, Airco,bwj 2008,euro 4
-102. mitsubishi L200,4x4,2.5d,Lichte Vracht 5 zit,Euro 4
-103. ford focus cc CABRIO 1.6 benzine,Garantie,CAR PASS,54000 km
+102. --mitsubishi L200,4x4,2.5d,Lichte Vracht 5 zit,Euro 4
+103. --ford focus cc CABRIO 1.6 benzine,Garantie,CAR PASS,54000 km
 104. peugeot 2008,1.6 hdi,Garantie,CAR PASS,bwj.2017,euro 6b
 105. mercedes S 500
 106. skoda superb 1.6d,Garantie,CAR PASS,euro 5b

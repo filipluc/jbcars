@@ -5,26 +5,25 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "renault kadjar 1.2 benzine,Garantie,CAR PASS,euro 6b"
+var_title = "bmw 520 d ,CAR PASS,bwj.04/2014,euro 5b"
 var_categorie = "Auto's"
-var_brand = "Renault"
-var_model = "Kadjar"
-var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"
-var_price = "14999"
+var_brand = "BMW"
+var_model = "5 Reeks"
+var_desc = "\nwordt gekeurd voor verkoop\n"
+var_price = "12990"
 var_picspath = "car109"
-var_carroserie = "SUV"
+var_carroserie = "Break"
 var_month = ""
-var_year = "2016"
-var_gas = "Benzine"
+var_year = "2014"
+var_gas = "Diesel"
 var_transmissie = "Hand"
-var_km = "57000"
+var_km = "212000"
 var_doors = ""
 var_pk = ""
-var_cilinder = "1197"
+var_cilinder = "1995"
 var_co2 = "130"
-var_euro = "Euro 6"
-var_options = """Keyless entry
-Alarm
+var_euro = "Euro 5"
+var_options = """Alarm
 Bluetooth
 Elektrische buitenspiegels
 Climate control
@@ -33,12 +32,13 @@ Radio
 Start-stop-systeem
 Traction-control
 Verwarmde buitenspiegels
+Xenon verlichting
+Elektrische koffer
 ABS
 Airbags
 Lederen bekleding
 Boordcomputer
 Centrale vergrendeling
-USB
 Airconditioning
 Elektrische ramen
 Electronic Stability Program (ESP)
@@ -47,7 +47,7 @@ Lichtmetalen velgen
 Metaalkleur
 Navigatiesysteem
 Parkeersensor
-Trekhaak
+Zetelverwarming
 Cruise Control"""
 var_carcolor = ""
 var_interiorcolor = ""

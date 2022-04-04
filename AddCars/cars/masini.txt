@@ -7,7 +7,7 @@
 107. renault captur 1.2 benzine ,AUTOMAAT,km=7900,euro 6b
 108. citroen berlingo 1.6 hdi,Garantie,CAR PASS,euro 5
 109. bmw 520 d ,CAR PASS,bwj.04/2014,euro 5b
-110. ---
+110. ford focus 1.0 ecoboost,117000km,Bwj 2013,START NIET
 111. peugeot 807 AUTOMAAT,2.0 benzine,6 zit,euro 4
 112. ---
 113. ---

@@ -5,39 +5,37 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "fiat punto 1.3 jtd,Garantie,CAR PASS"
+var_title = "ford focus 1.0 ecoboost,117000km,Bwj 2013,START NIET"
 var_categorie = "Auto's"
-var_brand = "Fiat"
-var_model = "Punto EVO"
-var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"
-var_price = "3950"
+var_brand = "Ford"
+var_model = "Focus"
+var_desc = "\ngebroken distributieriem !!!!\ncourroie de distribution cassee !!!\n74 kw\n"
+var_price = "3850"
 var_picspath = "car110"
-var_carroserie = ""
+var_carroserie = "Break"
 var_month = ""
-var_year = "2010"
-var_gas = "Diesel"
+var_year = "2013"
+var_gas = "Benzine"
 var_transmissie = "Hand"
-var_km = "143000"
+var_km = "117000"
 var_doors = ""
 var_pk = ""
-var_cilinder = "1248"
-var_co2 = "104"
-var_euro = "euro 4"
-var_options = """Centrale vergrendeling
-USB
+var_cilinder = "998"
+var_co2 = "112"
+var_euro = "euro 5"
+var_options = """Alarm
+Elektrische buitenspiegels
+Radio
+Traction-control
+ABS
+Airbags
+Boordcomputer
+Centrale vergrendeling
 Airconditioning
 Elektrische ramen
 Electronic Stability Program (ESP)
 Isofix
 Metaalkleur
-Open dak
-Alarm
-Elektrische buitenspiegels
-Mistlampen
-Radio
-Traction-control
-ABS
-Airbags
-Boordcomputer"""
+Parkeersensor"""
 var_carcolor = ""
 var_interiorcolor = ""

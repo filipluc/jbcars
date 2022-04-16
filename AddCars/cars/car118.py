@@ -5,36 +5,40 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "volvo s60, 2.4 d,eerste eigenaar"
+var_title = "peugeot boxer 2.0 hdi 130 pk,Bwj 11/2019,prijs 19500 € excl."
 var_categorie = "Auto's"
-var_brand = "Volvo"
-var_model = "S60"
-var_desc = "\nwagen in goede staat\neerste eigenaar\nverkoop enkel voor export of handelaar(overname wagen)\n"
-var_price = "1650"
+var_brand = "Peugeot"
+var_model = "Boxer"
+var_desc = "\nprijs 19500 € +btw/tva\nCAR PASS\nwordt gekeurd met roos formulier\neerste eigenaar met oh-boekje\n"
+var_price = "23595"
 var_picspath = "car118"
 var_carroserie = ""
 var_month = ""
-var_year = "2003"
+var_year = "2019"
 var_gas = "Diesel"
 var_transmissie = "Hand"
-var_km = "200000"
+var_km = "47000"
 var_doors = ""
 var_pk = ""
-var_cilinder = "2401"
-var_co2 = ""
-var_euro = "Euro 3"
-var_options = """Centrale vergrendeling
+var_cilinder = "1997"
+var_co2 = "159"
+var_euro = "Euro 6"
+var_options = """Alarm
+Parkeercamera
+Elektrische buitenspiegels
+Radio
+Traction-control
+ABS
+Airbags
+Boordcomputer
+Schuifdeur
+Centrale vergrendeling
 Airconditioning
 Elektrische ramen
 Electronic Stability Program (ESP)
-Lichtmetalen velgen
-Trekhaak
-Cruise Control
-Alarm
-Elektrische buitenspiegels
-Radio
-ABS
-Airbags
-Boordcomputer"""
+Metaalkleur
+Navigatiesysteem
+Parkeersensor
+Cruise Control"""
 var_carcolor = ""
 var_interiorcolor = ""

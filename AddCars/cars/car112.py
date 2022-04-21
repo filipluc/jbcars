@@ -5,45 +5,34 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "Jeep grand Cherokee Overland 3.0 crd,Euro 5,btw excl 12395€"
+var_title = "peugeot 308,1.6 hdi,7 zit,Garantie,CAR PASS,navi,pano,Euro 5"
 var_categorie = "Auto's"
-var_brand = "Jeep"
-var_model = "Grand Cherokee"
-var_desc = "\nprijs 12395 € +btw/tva\neerste eigenaar\nCAR PASS\nwordt gekeurd met roos formulier\n"
-var_price = "14998"
+var_brand = "Peugeot"
+var_model = "308"
+var_desc = "\n7 zetels\n1 jaar garantie\nCAR PASS\nwordt gekeurd met roos formulier\neerste eigenaar met oh-boekje bij Peugeot\nIn jaar 2021 groot onderhoud:\n-distributieriem+waterpomp\n-koppeling+vliegwiel\n"
+var_price = "7650"
 var_picspath = "car112"
-var_carroserie = "SUV"
+var_carroserie = "Break"
 var_month = ""
-var_year = "2012"
+var_year = "2014"
 var_gas = "Diesel"
-var_transmissie = "Auto"
-var_km = "215000"
+var_transmissie = "Hand"
+var_km = "121000"
 var_doors = ""
 var_pk = ""
-var_cilinder = "2987"
-var_co2 = "218"
+var_cilinder = "1560"
+var_co2 = "119"
 var_euro = "euro 5"
-var_options = """Keyless entry
-4x4
-Alarm
+var_options = """Alarm
 Bluetooth
-Parkeercamera
 Elektrische buitenspiegels
-Elektrische stoelverstelling
 Climate control
 Mistlampen
 Radio
-Sportpakket
-Startonderbreker
-Start-stop-systeem
 Traction-control
 Verwarmde buitenspiegels
-Xenon verlichting
-Elektrische koffer
 ABS
-Emergency brake assist
 Airbags
-Lederen bekleding
 Boordcomputer
 Centrale vergrendeling
 Airconditioning
@@ -54,9 +43,8 @@ Isofix
 Lichtmetalen velgen
 Metaalkleur
 Navigatiesysteem
-Open dak
 Parkeersensor
-Zetelverwarming
+Trekhaak
 Cruise Control"""
 var_carcolor = ""
 var_interiorcolor = ""

@@ -5,11 +5,11 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "ford focus 1.0 ecoboost,117000km,Bwj 2013,START NIET"
+var_title = "ford focus 1.0 i,Bwj 2013,START NIET,Demarre pas,Export"
 var_categorie = "Auto's"
 var_brand = "Ford"
 var_model = "Focus"
-var_desc = "\ngebroken distributieriem !!!!\ncourroie de distribution cassee !!!\n74 kw\n"
+var_desc = "\nStart niet/demarre pas !!!!\ngebroken distributieriem !!!!\ncourroie de distribution cassee !!!\n74 kw\n"
 var_price = "3850"
 var_picspath = "car110"
 var_carroserie = "Break"

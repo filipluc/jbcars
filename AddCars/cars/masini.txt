@@ -1,21 +1,21 @@
-101. ford c-max 1.8 tdci, Airco,bwj 2008,euro 4
-102. mercedes b klasse 200 cdi 136 pk
+101. skoda YETI 2.0 tdi,Garantie,CAR PASS,navi,panoramische dak
+102. peugeot 307 sw 7 zit 1.6 hdi,Garantie,CAR PASS,pano,airco
 103. peugeot 3008 FELINE 2.0 hdi,Garantie,39000 km,CAR PASS
 104. peugeot 2008,1.6 hdi,Garantie,CAR PASS,bwj.2017,euro 6b
 105. mercedes S 500
 106. --skoda roomster 1.2 benzine,Garantie,CAR PASS,airco
-107. renault captur 1.2 benzine ,AUTOMAAT,km=7900,euro 6b
+107. renault captur 1.2 benzine ,AUTOMAAT,km=8900,euro 6b
 108. citroen c1, 1.0 benzine,Garantie,CAR PASS,airco,bwj 2014
 109. bmw 520 d ,CAR PASS,bwj.04/2014,euro 5b
-110. ford focus 1.0 ecoboost,117000km,Bwj 2013,START NIET
+110. ford focus 1.0 i,Bwj 2013,START NIET,Demarre pas,Export
 111. peugeot 807 AUTOMAAT,2.0 benzine,6 zit,euro 4
 112. peugeot 308,1.6 hdi,7 zit,Garantie,CAR PASS,navi,pano,Euro 5
 113. ---
 114. ---
 115. ---
 116. citroen c5,1.8 benzine,Garantie,CAR PASS,67000 km
-117. peugeot boxer 2.0 hdi 130 pk L2H2,bwj.11/2019,€19500 excl.
-118. peugeot boxer 2.0 hdi 130 pk,Bwj 11/2019,prijs 19500 € excl.
+117. ---
+118. ---
 119. ---
 120. ---
 121. ---

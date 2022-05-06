@@ -10,7 +10,7 @@
 110. ford focus 1.0 i,Bwj 2013,START NIET,Demarre pas,Export
 111. peugeot 807 AUTOMAAT,2.0 benzine,6 zit,euro 4
 112. peugeot 308,1.6 hdi,7 zit,Garantie,CAR PASS,navi,pano,Euro 5
-113. ---
+113. hyundai i30,1.6 crdi,Garantie,CAR PASS,pano,navi,camera
 114. ---
 115. ---
 116. citroen c5,1.8 benzine,Garantie,CAR PASS,67000 km

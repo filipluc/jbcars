@@ -5,44 +5,46 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "mazda 6 SKYACTIV 2.2d, bwj 2013,Euro 6"
+var_title = "hyundai i30,1.6 crdi,Garantie,CAR PASS,pano,navi,camera"
 var_categorie = "Auto's"
-var_brand = "Mazda"
-var_model = "6"
-var_desc = "\nexport of handelaar\n\n"
-var_price = "6650"
+var_brand = "Hyundai"
+var_model = "i30"
+var_desc = "\n1 jaar garantie\nCAR PASS\nwordt gekeurd met roos formulier\neerste eigenaar met oh-boekje\n81 kw\n"
+var_price = "8990"
 var_picspath = "car113"
-var_carroserie = "Break"
+var_carroserie = ""
 var_month = ""
-var_year = "2013"
+var_year = "2014"
 var_gas = "Diesel"
 var_transmissie = "Hand"
-var_km = "200000"
+var_km = "99000"
 var_doors = ""
 var_pk = ""
-var_cilinder = "2191"
-var_co2 = "116"
-var_euro = "euro 6"
+var_cilinder = "1582"
+var_co2 = "108"
+var_euro = "euro 5"
 var_options = """Alarm
-Bluetooth
+Parkeercamera
 Elektrische buitenspiegels
 Climate control
 Mistlampen
 Radio
-Start-stop-systeem
 Traction-control
 Verwarmde buitenspiegels
 ABS
 Airbags
 Boordcomputer
 Centrale vergrendeling
+USB
 Airconditioning
+Panoramadak
 Elektrische ramen
 Electronic Stability Program (ESP)
 Isofix
 Lichtmetalen velgen
 Metaalkleur
 Navigatiesysteem
+Open dak
 Parkeersensor
 Cruise Control"""
 var_carcolor = ""

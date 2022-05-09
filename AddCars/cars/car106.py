@@ -7,7 +7,7 @@ Created on Jun 3, 2018
 
 var_title = "renault clio 1.4 benzine,AIRCO,export !!!"
 var_categorie = "Auto's"
-var_brand = "renault"
+var_brand = "Renault"
 var_model = "Clio"
 var_desc = "\nexport of handelaar\neerste eigenaar 02/12/2004\n72 kw\n"
 var_price = "1250"

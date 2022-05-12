@@ -5,27 +5,27 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "opel astra 1.9 cdti,Garantie,CAR PASS,eerste eigenaar"
+var_title = "mercedes E220 cdi,AUTOMAAT,bwj.2006"
 var_categorie = "Auto's"
-var_brand = "Opel"
-var_model = "Astra"
-var_desc = "\n1 jaar garantie\nCAR PASS\nwordt gekeurd met roos formulier\neerste eigenaar met oh-boekje bij OPEL\ndistributie riem+waterpomp =140000km\nkoppeling+vliegwiel =90000km\n"
-var_price = "3300"
+var_brand = "Mercedes-Benz"
+var_model = "E-Klasse"
+var_desc = "\nenkel voor export of handelaar\nCAR PASS\nwordt gekeurd met roos formulier\ntrekhaak =1900 kg\ntweede eigenaar vanaf 03/2007\nmet oh boekje\n"
+var_price = "4400"
 var_picspath = "car114"
-var_carroserie = "Break"
+var_carroserie = "Berline"
 var_month = ""
-var_year = "2008"
+var_year = "2006"
 var_gas = "Diesel"
-var_transmissie = "Hand"
-var_km = "150000"
+var_transmissie = "Auto"
+var_km = "341000"
 var_doors = ""
 var_pk = ""
-var_cilinder = "1910"
-var_co2 = "151"
+var_cilinder = "2148"
+var_co2 = ""
 var_euro = "euro 4"
 var_options = """Alarm
 Elektrische buitenspiegels
-Climate control
+Elektrische stoelverstelling
 Mistlampen
 Radio
 Traction-control
@@ -38,7 +38,10 @@ Airconditioning
 Elektrische ramen
 Electronic Stability Program (ESP)
 Isofix
+Lichtmetalen velgen
 Metaalkleur
+Navigatiesysteem
+Parkeersensor
 Trekhaak
 Cruise Control"""
 var_carcolor = ""

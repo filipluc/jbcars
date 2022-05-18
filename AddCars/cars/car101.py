@@ -5,37 +5,45 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "skoda YETI 2.0 tdi,Garantie,CAR PASS,navi,panoramische dak"
+var_title = "jeep grand cherokee 3.0 crd ,START NIET, export,Demarre pas"
 var_categorie = "Auto's"
-var_brand = "Skoda"
-var_model = "Yeti"
-var_desc = "\n1 jaar garantie\nCAR PASS\nwordt gekeurd met roos formulier\neerste eigenaar met oh boekje\n81 kw\n1968 cc\n"
-var_price = "8690"
+var_brand = "Jeep"
+var_model = "Cherokee"
+var_desc = "\nSTART NIET/demarre pas !!!\nexport\n"
+var_price = "10000"
 var_picspath = "car101"
-var_carroserie = ""
+var_carroserie = "SUV"
 var_month = ""
 var_year = "2012"
 var_gas = "Diesel"
-var_transmissie = "Hand"
-var_km = "114000"
+var_transmissie = "Auto"
+var_km = "220000"
 var_doors = ""
 var_pk = ""
-var_cilinder = "1968"
-var_co2 = "140"
+var_cilinder = "2987"
+var_co2 = ""
 var_euro = "euro 5"
-var_options = """Alarm
+var_options = """Stoelventilatie
+Keyless entry
+4x4
+Alarm
 Bluetooth
+Parkeercamera
 Elektrische buitenspiegels
+Elektrische stoelverstelling
 Climate control
 Mistlampen
 Radio
+Start-stop-systeem
 Traction-control
 Verwarmde buitenspiegels
+Xenon verlichting
+Elektrische koffer
 ABS
 Airbags
+Lederen bekleding
 Boordcomputer
 Centrale vergrendeling
-USB
 Airconditioning
 Panoramadak
 Elektrische ramen
@@ -46,6 +54,7 @@ Metaalkleur
 Navigatiesysteem
 Open dak
 Parkeersensor
+Zetelverwarming
 Cruise Control"""
 var_carcolor = ""
 var_interiorcolor = ""

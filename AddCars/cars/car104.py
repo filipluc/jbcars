@@ -5,27 +5,30 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "peugeot 2008,1.6 hdi,Garantie,CAR PASS,bwj.2017,euro 6b"
+var_title = "alfa romeo GIULIA 2.2 d,AUTOMAAT,€14000+btw/tva,bwj 2018"
 var_categorie = "Auto's"
-var_brand = "Peugeot"
-var_model = "2008"
-var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\neerste eigenaar met oh-boekje bij dealer\n"
-var_price = "10995"
+var_brand = "Alfa Romeo"
+var_model = "Giulia"
+var_desc = "\nprijs 14000 €+btw/tva\neerste eigenaar met oh-boekje bij dealer\n180 pk\neuro 6b\nbwj 08/2018\n1 jaar garantie(+500 EUR)\nCAR PASS\nwordt gekeurd met roos formulier\n"
+var_price = "16940"
 var_picspath = "car104"
 var_carroserie = ""
 var_month = ""
-var_year = "2017"
+var_year = "2018"
 var_gas = "Diesel"
-var_transmissie = "Hand"
-var_km = "80000"
+var_transmissie = "Auto"
+var_km = "170000"
 var_doors = ""
 var_pk = ""
-var_cilinder = "1560"
-var_co2 = "97"
+var_cilinder = "2143"
+var_co2 = "109"
 var_euro = "euro 6"
 var_options = """Alarm
+Bluetooth
+Parkeercamera
 Elektrische buitenspiegels
 Radio
+Start-stop-systeem
 Traction-control
 Verwarmde buitenspiegels
 ABS
@@ -37,7 +40,10 @@ Airconditioning
 Elektrische ramen
 Electronic Stability Program (ESP)
 Isofix
+Lichtmetalen velgen
 Metaalkleur
+Navigatiesysteem
+Parkeersensor
 Cruise Control"""
 var_carcolor = ""
 var_interiorcolor = ""

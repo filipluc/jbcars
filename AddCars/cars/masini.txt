@@ -7,7 +7,7 @@
 107. renault captur 1.2 benzine ,AUTOMAAT,km=8900,euro 6b
 108. citroen c1, 1.0 benzine,Garantie,CAR PASS,airco,bwj 2014
 109. bmw 520 d ,CAR PASS,bwj.04/2014,euro 5b
-110. ford focus 1.0 i,Bwj 2013,START NIET,Demarre pas,Export
+110. mazda CX-5,2.2d,bwj.2013,Euro 6
 111. peugeot 807 AUTOMAAT,2.0 benzine,6 zit,euro 4
 112. peugeot 308,1.6 hdi,7 zit,Garantie,CAR PASS,navi,pano,Euro 5
 113. hyundai i30,1.6 crdi,Garantie,CAR PASS,pano,navi,camera

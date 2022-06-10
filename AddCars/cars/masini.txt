@@ -14,7 +14,7 @@
 114. mercedes E220 cdi,AUTOMAAT,bwj.2006
 115. renault scenic 1.2 benzine,Garantie,CAR PASS,euro 6b
 116. citroen c5,1.8 benzine,Garantie,CAR PASS,67000 km
-117. ---
+117. opel combo 1.4 benzine ,Garantie,CAR PASS,airco
 118. ---
 119. ---
 120. ---

@@ -9,13 +9,13 @@
 109. bmw 520 d ,CAR PASS,bwj.04/2014,euro 5b
 110. mazda CX-5,2.2d,bwj.2013,Euro 6
 111. peugeot 807 AUTOMAAT,2.0 benzine,6 zit,euro 4
-112. citroen jumper 2.2 hdi,150 pk,7 zit,bwj.2014,euro 5
-113. citroen jumper 2.2 hdi,Euro 5,bwj.2014///7 zetels
+112. citroen jumper 2.2 hdi,GEKEURD,150 pk,7 zit,bwj.2014,euro 5
+113. citroen jumper 2.2 hdi,Euro 5,GEKEURD,bwj.2014///7 zetels
 114. mercedes E220 cdi,AUTOMAAT,bwj.2006
 115. renault scenic 1.2 benzine,Garantie,CAR PASS,euro 6b
 116. citroen c5,1.8 benzine,Garantie,CAR PASS,67000 km
 117. opel combo 1.3 cdti,Garantie,CAR PASS,airco
-118. ---
+118. citroen c4 PICASSO,1.6 benzine,GARANTIE,CAR PASS,airco
 119. peugeot partner 1.6 hdi,62000 km,CAR PASS,€6611+btw/tva
 120. peugeot partner 1.6 hdi,CAR PASS,62000 km,€6611+btw/tva
 121. ---

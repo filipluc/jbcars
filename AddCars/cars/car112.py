@@ -5,12 +5,12 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "citroen jumper 2.2 hdi,150 pk,7 zit,bwj.2014,euro 5"
+var_title = "citroen jumper 2.2 hdi,GEKEURD,150 pk,7 zit,bwj.2014,euro 5"
 var_categorie = "Auto's"
 var_brand = "Citroën"
 var_model = "Jumper"
-var_desc = "\enkel voor export of handelaar\nCAR PASS\nkeuring voor verkoop +500 euro\n"
-var_price = "8800"
+var_desc = "\nCAR PASS\nGEKEURD voor verkoop\nnieuwe banden\n"
+var_price = "9000"
 var_picspath = "car112"
 var_carroserie = ""
 var_month = ""

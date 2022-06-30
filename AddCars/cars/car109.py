@@ -5,49 +5,34 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "bmw 520 d ,CAR PASS,bwj.04/2014,euro 5b"
+var_title = "fiat punto 1.2 benzine,Garantie,CAR PASS,67000 km,Airco"
 var_categorie = "Auto's"
-var_brand = "BMW"
-var_model = "5 Reeks"
-var_desc = "\nwordt gekeurd voor verkoop\n"
-var_price = "12990"
+var_brand = "Fiat"
+var_model = "Punto"
+var_desc = "\n1 jaar garantie\nCAR PASS\nwordt gekeurd met roos formulier\n1242 cc\n48 kw\n139 co2\neuro 4\n"
+var_price = "4390"
 var_picspath = "car109"
-var_carroserie = "Break"
+var_carroserie = ""
 var_month = ""
-var_year = "2014"
-var_gas = "Diesel"
+var_year = "2007"
+var_gas = "Benzine"
 var_transmissie = "Hand"
-var_km = "212000"
+var_km = "67000"
 var_doors = ""
 var_pk = ""
-var_cilinder = "1995"
-var_co2 = "130"
-var_euro = "Euro 5"
-var_options = """Alarm
-Bluetooth
-Elektrische buitenspiegels
-Climate control
-Mistlampen
-Radio
-Start-stop-systeem
-Traction-control
-Verwarmde buitenspiegels
-Xenon verlichting
-Elektrische koffer
-ABS
-Airbags
-Lederen bekleding
-Boordcomputer
-Centrale vergrendeling
+var_cilinder = "1242"
+var_co2 = "139"
+var_euro = "Euro 4"
+var_options = """Centrale vergrendeling
 Airconditioning
 Elektrische ramen
 Electronic Stability Program (ESP)
 Isofix
-Lichtmetalen velgen
 Metaalkleur
-Navigatiesysteem
-Parkeersensor
-Zetelverwarming
-Cruise Control"""
+Radio
+Traction-control
+ABS
+Airbags
+Boordcomputer"""
 var_carcolor = ""
 var_interiorcolor = ""

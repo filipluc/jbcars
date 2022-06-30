@@ -6,7 +6,7 @@
 106. renault clio 1.4 benzine,AIRCO,export !!!
 107. renault captur 1.2 benzine ,AUTOMAAT,euro 6b
 108. citroen c1, 1.0 benzine,Garantie,CAR PASS,airco,bwj 2014
-109. bmw 520 d ,CAR PASS,bwj.04/2014,euro 5b
+109. fiat punto 1.2 benzine,Garantie,CAR PASS,67000 km,Airco
 110. mazda CX-5,2.2d,bwj.2013,Euro 6
 111. peugeot 807 AUTOMAAT,2.0 benzine,6 zit,euro 4
 112. citroen jumper 2.2 hdi,GEKEURD,150 pk,7 zit,bwj.2014,euro 5

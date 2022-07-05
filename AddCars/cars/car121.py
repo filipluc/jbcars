@@ -5,52 +5,38 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "skoda octavia 1.8TSI_180pk,AUTOMAAT,garantie,CAR PASS,9500€+"
+var_title = "peugeot 308,1.6 hdi,Garantie,CAR PASS,airco"
 var_categorie = "Auto's"
-var_brand = "Skoda"
-var_model = "Octavia"
-var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n\nprijs 9500 euro+btw/tva\neerste eigenaar\n\n"
-var_price = "11495"
+var_brand = "Peugeot"
+var_model = "308"
+var_desc = "\n1 jaar garantie\nCAR PASS\nwordt gekeurd met roos formulier\ndistributie riem+waterpomp vervangen op 167312 km(jaar 2020)\ntrekhaak=1520 kg\n"
+var_price = "4385"
 var_picspath = "car121"
-var_carroserie = "Break"
+var_carroserie = ""
 var_month = ""
-var_year = "2014"
-var_gas = "Benzine"
-var_transmissie = "Auto"
-var_km = "162000"
+var_year = "2010"
+var_gas = "Diesel"
+var_transmissie = "Hand"
+var_km = "195000"
 var_doors = ""
 var_pk = ""
-var_cilinder = "1798"
-var_co2 = "132"
-var_euro = "euro 6"
-var_options = """Keyless entry
-Alarm
-Bluetooth
+var_cilinder = "1560"
+var_co2 = "120"
+var_euro = "euro 4"
+var_options = """Alarm
 Elektrische buitenspiegels
-Elektrische stoelverstelling
-Climate control
 Mistlampen
 Radio
-Start-stop-systeem
 Traction-control
-Verwarmde buitenspiegels
-Xenon verlichting
-Elektrische koffer
 ABS
 Airbags
-Lederen bekleding
 Boordcomputer
 Centrale vergrendeling
-USB
 Airconditioning
 Elektrische ramen
 Electronic Stability Program (ESP)
 Isofix
-Lichtmetalen velgen
 Metaalkleur
-Navigatiesysteem
-Parkeersensor
-Zetelverwarming
 Trekhaak
 Cruise Control"""
 var_carcolor = ""

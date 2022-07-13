@@ -15,11 +15,11 @@
 115. renault scenic 1.2 benzine,Garantie,CAR PASS,euro 6b
 116. citroen c5,1.8 benzine,Garantie,CAR PASS,67000 km
 117. opel combo 1.3 cdti,Garantie,CAR PASS,airco
-118. citroen c4 PICASSO,1.6 benzine,GARANTIE,CAR PASS,airco
+118. ---citroen c4 PICASSO,1.6 benzine,GARANTIE,CAR PASS,airco
 119. peugeot partner 1.6 hdi,62000 km,CAR PASS,€6611+btw/tva
 120. peugeot partner 1.6 hdi,CAR PASS,62000 km,€6611+btw/tva
 121. peugeot 308,1.6 hdi,Garantie,CAR PASS,airco
-122. ---
+122. kia cee’d 1.6 crdi break EURO 5,/bwj 2013
 123. ---
 124. ---
 125. mercedes GLC coupe 250, 4-Matic

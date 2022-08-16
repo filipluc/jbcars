@@ -5,29 +5,35 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "citroen jumper 2.2 hdi,Euro 5,GEKEURD,bwj.2014///7 zetels"
+var_title = "fiat 500 ,1.2 benzine,SCHADE,accident,Euro 5"
 var_categorie = "Auto's"
-var_brand = "Bestelwagens en Lichte vracht"
-var_model = "Citroën"
-var_desc = "\nexport of handelaar\nGEKEURD voor verkoop\nnieuwe banden\n110 kw/150pk\n"
-var_price = "9000"
+var_brand = "Fiat"
+var_model = "500"
+var_desc = "\nauto rijdt\nachteras ok\nairbag ok1242 cc\n51 kw\n129000 km\nbwj 10/2012\n"
+var_price = "3800"
 var_picspath = "car113"
 var_carroserie = ""
 var_month = ""
-var_year = "2014"
-var_gas = "Diesel"
+var_year = "2012"
+var_gas = "Benzine"
 var_transmissie = "Hand"
-var_km = "237000"
+var_km = "129000"
 var_doors = ""
 var_pk = ""
-var_cilinder = "2128"
-var_co2 = ""
-var_euro = "Euro 5"
+var_cilinder = "1142"
+var_co2 = "119"
+var_euro = "euro 5"
 var_options = """Centrale vergrendeling
+USB
+Airconditioning
+Panoramadak
 Elektrische ramen
-Trekhaak
+Electronic Stability Program (ESP)
+Isofix
 Alarm
+Mistlampen
 Radio
+Traction-control
 ABS
 Airbags
 Boordcomputer"""

@@ -5,34 +5,51 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "fiat punto 1.2 benzine,Garantie,CAR PASS,67000 km,Airco"
+var_title = "peugeot 4008 ,1.6 hdi,4x4,Garantie,CAR PASS,57000 km"
 var_categorie = "Auto's"
-var_brand = "Fiat"
-var_model = "Punto"
-var_desc = "\n1 jaar garantie\nCAR PASS\nwordt gekeurd met roos formulier\n1242 cc\n48 kw\n139 co2\neuro 4\n"
-var_price = "4390"
+var_brand = "Peugeot"
+var_model = "4008"
+var_desc = "\n1 jaar garantie\nCAR PASS\nwordt gekeurd met roos formulier\n"
+var_price = "15830"
 var_picspath = "car109"
-var_carroserie = ""
+var_carroserie = "SUV"
 var_month = ""
-var_year = "2007"
-var_gas = "Benzine"
+var_year = "2014"
+var_gas = "Diesel"
 var_transmissie = "Hand"
-var_km = "67000"
+var_km = "57000"
 var_doors = ""
 var_pk = ""
-var_cilinder = "1242"
-var_co2 = "139"
-var_euro = "Euro 4"
-var_options = """Centrale vergrendeling
+var_cilinder = "1560"
+var_co2 = "129"
+var_euro = "Euro 5"
+var_options = """Keyless entry
+4x4
+Alarm
+Bluetooth
+Parkeercamera
+Elektrische buitenspiegels
+Mistlampen
+Radio
+Start-stop-systeem
+Traction-control
+Verwarmde buitenspiegels
+Xenon verlichting
+ABS
+Airbags
+Lederen bekleding
+Boordcomputer
+Centrale vergrendeling
 Airconditioning
+Panoramadak
 Elektrische ramen
 Electronic Stability Program (ESP)
 Isofix
+Lichtmetalen velgen
 Metaalkleur
-Radio
-Traction-control
-ABS
-Airbags
-Boordcomputer"""
+Navigatiesysteem
+Parkeersensor
+Zetelverwarming
+Cruise Control"""
 var_carcolor = ""
 var_interiorcolor = ""

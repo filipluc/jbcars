@@ -5,36 +5,40 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "opel combo 1.4 i EXTRA LANG,garantie,CAR PASS,euro 6b"
+var_title = "peugeot 207 sw, 1600 benzine,99000 km,bwj 2011,euro 5"
 var_categorie = "Auto's"
-var_brand = "Opel"
-var_model = "Combo Tour"
-var_desc = "\n1 jaar garantie\nCAR PASS\nwordt gekeurd met roos formulier\neerste eigenaar\n"
-var_price = "12500"
+var_brand = "peugeot"
+var_model = "207"
+var_desc = "\nzo meenemen prijs\nrondom carosserieschade\nCAR PASS\nkeuring=+200 euro\neerste eigenaar met oh-boekje\n"
+var_price = "3350"
 var_picspath = "car112"
-var_carroserie = "Monovolume"
+var_carroserie = ""
 var_month = ""
-var_year = "2016"
+var_year = "2011"
 var_gas = "Benzine"
 var_transmissie = "Hand"
-var_km = "75000"
+var_km = "99000"
 var_doors = ""
 var_pk = ""
-var_cilinder = "1368"
-var_co2 = "165"
-var_euro = "euro 6"
+var_cilinder = "1598"
+var_co2 = "140"
+var_euro = "euro 5"
 var_options = """Alarm
+Elektrische buitenspiegels
+Climate control
 Radio
 Traction-control
 ABS
 Airbags
+Lederen bekleding
 Boordcomputer
-Schuifdeur
 Centrale vergrendeling
 Airconditioning
+Panoramadak
 Elektrische ramen
 Electronic Stability Program (ESP)
 Isofix
+Lichtmetalen velgen
 Metaalkleur
 Parkeersensor"""
 var_carcolor = ""

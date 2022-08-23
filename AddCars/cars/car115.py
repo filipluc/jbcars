@@ -5,46 +5,28 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "renault scenic 1.2 benzine,Garantie,CAR PASS,euro 6b"
+var_title = "citroen c2, 1.1 benzine,CAR PASS,49000 km"
 var_categorie = "Auto's"
-var_brand = "Renault"
-var_model = "Scénic"
-var_desc = "\n1 jaar garantie\nCAR PASS\nwordt gekeurd met roos formulier\neerste eigenaar met oh-boekje\n"
-var_price = "14990"
+var_brand = "Citroën"
+var_model = "C2"
+var_desc = "\n1 jaar garantie\nCAR PASS\nwordt gekeurd met roos formulier\neerste eigenaar met oh-boekje\ndistributie riem vervangen op 39000 km(jaar 2019)\n"
+var_price = "3290"
 var_picspath = "car115"
-var_carroserie = "Monovolume"
+var_carroserie = ""
 var_month = ""
-var_year = "2017"
+var_year = "2006"
 var_gas = "Benzine"
 var_transmissie = "Hand"
-var_km = "99000"
+var_km = "49000"
 var_doors = ""
 var_pk = ""
-var_cilinder = "1197"
-var_co2 = "129"
-var_euro = "euro 6"
-var_options = """Alarm
-Bluetooth
-Mistlampen
+var_cilinder = "1124"
+var_co2 = "138"
+var_euro = "euro 4"
+var_options = """Metaalkleur
 Radio
-Start-stop-systeem
-Traction-control
-Verwarmde buitenspiegels
 ABS
 Airbags
-Lederen bekleding
-Boordcomputer
-Centrale vergrendeling
-USB
-Airconditioning
-Elektrische ramen
-Electronic Stability Program (ESP)
-Isofix
-Lichtmetalen velgen
-Metaalkleur
-Navigatiesysteem
-Parkeersensor
-Trekhaak
-Cruise Control"""
+Boordcomputer"""
 var_carcolor = ""
 var_interiorcolor = ""

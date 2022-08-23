@@ -7,7 +7,7 @@ Created on Jun 3, 2018
 
 var_title = "peugeot 207 sw, 1600 benzine,99000 km,bwj 2011,euro 5"
 var_categorie = "Auto's"
-var_brand = "peugeot"
+var_brand = "Peugeot"
 var_model = "207"
 var_desc = "\nzo meenemen prijs\nrondom carosserieschade\nCAR PASS\nkeuring=+200 euro\neerste eigenaar met oh-boekje\n"
 var_price = "3350"

@@ -12,7 +12,7 @@
 112. peugeot 207 sw, 1600 benzine,99000 km,bwj 2011,euro 5
 113. fiat 500 ,1.2 benzine,SCHADE,accident,Euro 5
 114. mercedes E220 cdi,AUTOMAAT,bwj.2006
-115. citroen c2, 1.1 benzine,CAR PASS,49000 km
+115. ---
 116. citroen c5,1.8 benzine,Garantie,CAR PASS,67000 km
 117. peugeot 206+,1.1 benzine,bwj.2010
 118. dacia logan 1.4 benzine,Garantie,CAR PASS

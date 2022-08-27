@@ -5,47 +5,32 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "chrysler 300C,3.0 crdi,Garantie,CAR PASS,bwj.2009"
+var_title = "renault kangoo 1.5 dci,Euro 6b,bwj 2018,L.V.,€8850+btw/tva"
 var_categorie = "Auto's"
-var_brand = "Chrysler"
-var_model = "300C"
-var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"
-var_price = "9950"
+var_brand = "Renault"
+var_model = "Kangoo"
+var_desc = "\n€ 8850 +btw/tva\nCAR PASS\nwordt gekeurd met roos formulier\n"
+var_price = "10708"
 var_picspath = "car123"
-var_carroserie = "Berline"
+var_carroserie = ""
 var_month = ""
-var_year = "2009"
+var_year = "2018"
 var_gas = "Diesel"
-var_transmissie = "Auto"
-var_km = "146000"
+var_transmissie = "Hand"
+var_km = "78000"
 var_doors = ""
 var_pk = ""
-var_cilinder = "2987"
-var_co2 = ""
-var_euro = "Euro 4"
-var_options = """Alarm
-Elektrische buitenspiegels
-Elektrische stoelverstelling
-Climate control
-Mistlampen
-Radio
-Traction-control
-Verwarmde buitenspiegels
-Xenon verlichting
-ABS
-Airbags
-Lederen bekleding
-Boordcomputer
-Centrale vergrendeling
+var_cilinder = "1461"
+var_co2 = "112"
+var_euro = "Euro 6"
+var_options = """Centrale vergrendeling
 Airconditioning
 Elektrische ramen
-Electronic Stability Program (ESP)
-Isofix
-Lichtmetalen velgen
-Metaalkleur
-Navigatiesysteem
-Open dak
-Zetelverwarming
-Cruise Control"""
+Cruise Control
+Alarm
+Elektrische buitenspiegels
+Radio
+ABS
+Airbags"""
 var_carcolor = ""
 var_interiorcolor = ""

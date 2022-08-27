@@ -5,36 +5,44 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "peugeot partner 1.6 hdi,62000 km,CAR PASS,€6611+btw/tva"
+var_title = "peugeot 407,2.0 hdi,Euro 5,nieuwe staat,62000 km,bwj 2011"
 var_categorie = "Auto's"
 var_brand = "Peugeot"
-var_model = "Partner"
-var_desc = "\nprijs 6611 euro + btw/tva\nCAR PASS\nwordt gekeurd met roos formulier\neerste eigenaar met oh-boekje\neuro 4\n66 kw\n"
-var_price = "7999"
+var_model = "407"
+var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n
+\n"
+var_price = "8499"
 var_picspath = "car119"
 var_carroserie = ""
 var_month = ""
-var_year = "2010"
+var_year = "2011"
 var_gas = "Diesel"
 var_transmissie = "Hand"
 var_km = "62000"
 var_doors = ""
 var_pk = ""
-var_cilinder = "1560"
-var_co2 = "149"
-var_euro = "euro 4"
+var_cilinder = "1997"
+var_co2 = "150"
+var_euro = "euro 5"
 var_options = """Alarm
+Elektrische buitenspiegels
+Climate control
+Mistlampen
 Radio
 Traction-control
+Verwarmde buitenspiegels
 ABS
 Airbags
 Boordcomputer
-Schuifdeur
 Centrale vergrendeling
 Airconditioning
 Elektrische ramen
 Electronic Stability Program (ESP)
+Isofix
+Lichtmetalen velgen
+Metaalkleur
 Navigatiesysteem
-Parkeersensor"""
+Parkeersensor
+Cruise Control"""
 var_carcolor = ""
 var_interiorcolor = ""

@@ -14,14 +14,14 @@
 114. mercedes E220 cdi,AUTOMAAT,bwj.2006
 115. citroen c2, 1.1 benzine,CAR PASS,49000 km
 116. citroen c5,1.8 benzine,Garantie,CAR PASS,67000 km
-117. ---
-118. ---
-119. ---
+117. peugeot 206+,1.1 benzine,bwj.2010
+118. dacia logan 1.4 benzine,Garantie,CAR PASS
+119. peugeot 407,2.0 hdi,Euro 5,nieuwe staat,62000 km,bwj 2011
 120. ---
 121. peugeot 308,1.6 hdi,Garantie,CAR PASS,airco
 122. kia cee’d 1.6 crdi break EURO 5,/bwj 2013
-123. ---
-124. ---
+123. renault kangoo 1.5 dci,Euro 6b,bwj 2018,L.V.,€8850+btw/tva
+124. renault kangoo 1.5 dci,bwj 2018,CAR PASS,euro 6b,€8850+btw
 125. mercedes GLC coupe 250, 4-Matic
 126. ---
 127. ---

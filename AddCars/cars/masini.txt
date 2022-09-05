@@ -1,6 +1,6 @@
 101. jeep grand cherokee 3.0 crd ,START NIET, export,Demarre pas
 102. peugeot 307 sw 7 zit 1.6 hdi,Garantie,CAR PASS,pano,airco
-103. ---
+103. alfa romeo STELVIO 2.0 T,Q4,280 pk,€20660+btw/tva
 104. ford focus break 1.0 benzine,euro5
 105. mercedes S 500
 106. renault clio 1.4 benzine,AIRCO,export !!!
@@ -20,8 +20,8 @@
 120. ---
 121. peugeot 308,1.6 hdi,Garantie,CAR PASS,airco
 122. kia cee’d 1.6 crdi break EURO 5,/bwj 2013
-123. renault kangoo 1.5 dci,Euro 6b,bwj 2018,L.V.,€8850+btw/tva
-124. renault kangoo 1.5 dci,bwj 2018,CAR PASS,euro 6b,€8850+btw
+123. ---
+124. ---
 125. mercedes GLC coupe 250, 4-Matic
 126. ---
 127. ---

@@ -5,32 +5,36 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "peugeot 3008 FELINE 2.0 hdi,Garantie,39000 km,CAR PASS"
+var_title = "alfa romeo STELVIO 2.0 T,Q4,280 pk,€20660+btw/tva"
 var_categorie = "Auto's"
-var_brand = "Peugeot"
-var_model = "3008"
-var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\neerste eigenaar met oh boekje bij Peugeot\n110 kw\n"
-var_price = "13995"
+var_brand = "Alfa Romeo"
+var_model = "Stelvio"
+var_desc = "\n€ 20660 +btw/tva\nCAR PASS\nwordt gekeurd met roos formulier\n"
+var_price = "24999"
 var_picspath = "car103"
-var_carroserie = ""
+var_carroserie = "SUV"
 var_month = ""
-var_year = "2014"
-var_gas = "Diesel"
-var_transmissie = "Hand"
-var_km = "39000"
+var_year = "2017"
+var_gas = "Benzine"
+var_transmissie = "Auto"
+var_km = "167000"
 var_doors = ""
 var_pk = ""
-var_cilinder = "1997"
-var_co2 = "139"
-var_euro = "euro 5"
-var_options = """Alarm
+var_cilinder = "1995"
+var_co2 = "161"
+var_euro = "euro 6"
+var_options = """4x4
+Spraakbediening
+Stuurwielverwarming
+Alarm
 Bluetooth
 Parkeercamera
 Elektrische buitenspiegels
 Elektrische stoelverstelling
-Climate control
 Mistlampen
 Radio
+Sportpakket
+Start-stop-systeem
 Traction-control
 Verwarmde buitenspiegels
 Xenon verlichting
@@ -49,8 +53,11 @@ Isofix
 Lichtmetalen velgen
 Metaalkleur
 Navigatiesysteem
+Open dak
 Parkeersensor
 Zetelverwarming
-Cruise Control"""
+Trekhaak
+Cruise Control
+Climate control"""
 var_carcolor = ""
 var_interiorcolor = ""

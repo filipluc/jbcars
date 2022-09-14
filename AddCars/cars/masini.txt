@@ -14,7 +14,7 @@
 114. mercedes E220 cdi,AUTOMAAT,bwj.2006
 115. ---
 116. citroen c5,1.8 benzine,Garantie,CAR PASS,67000 km
-117. peugeot 206+,1.1 benzine,bwj.2010
+117. ---
 118. dacia logan 1.4 benzine,Garantie,CAR PASS
 119. peugeot 407,2.0 hdi,Euro 5,nieuwe staat,62000 km,bwj 2011
 120. ---

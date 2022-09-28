@@ -5,37 +5,29 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "fiat 500 ,1.2 benzine,SCHADE,accident,Euro 5"
+var_title = "peugeot 107, 1.0 benzine,Garantie,CAR PASS,euro 5"
 var_categorie = "Auto's"
-var_brand = "Fiat"
-var_model = "500"
-var_desc = "\nauto rijdt\nachteras ok\nairbag ok1242 cc\n51 kw\n129000 km\nbwj 10/2012\n"
-var_price = "3800"
+var_brand = "Peugeot"
+var_model = "107"
+var_desc = "\n1 jaar garantie\nCAR PASS\nwordt gekeurd met roos formulier\n50000 km\n50 kw\n"
+var_price = "4500"
 var_picspath = "car113"
 var_carroserie = ""
 var_month = ""
-var_year = "2012"
+var_year = "2010"
 var_gas = "Benzine"
 var_transmissie = "Hand"
-var_km = "129000"
+var_km = "50000"
 var_doors = ""
 var_pk = ""
-var_cilinder = "1142"
-var_co2 = "119"
+var_cilinder = "998"
+var_co2 = "103"
 var_euro = "euro 5"
-var_options = """Centrale vergrendeling
-USB
-Airconditioning
-Panoramadak
-Elektrische ramen
-Electronic Stability Program (ESP)
+var_options = """Electronic Stability Program (ESP)
 Isofix
-Alarm
-Mistlampen
+Metaalkleur
 Radio
-Traction-control
 ABS
-Airbags
-Boordcomputer"""
+Airbags"""
 var_carcolor = ""
 var_interiorcolor = ""

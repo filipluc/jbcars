@@ -14,10 +14,10 @@
 114. mercedes E220 cdi,AUTOMAAT,bwj.2006
 115. peugeot partner 1.6 hdi AUTOMAAT,export of autohandel,euro 5
 116. citroen c5,1.8 benzine,Garantie,CAR PASS,67000 km
-117. ---
+117. renault clio 1.5 dci ,Garantie,CAR PASS
 118. dacia logan 1.4 benzine,Garantie,CAR PASS
 119. peugeot 407,2.0 hdi,Euro 5,nieuwe staat,62000 km,bwj 2011
-120. ---
+120. renault modus 1.5 dci,Garantie,CAR PASS
 121. peugeot 308,1.6 hdi,Garantie,CAR PASS,airco
 122. kia cee’d 1.6 crdi break EURO 5,/bwj 2013
 123. ---

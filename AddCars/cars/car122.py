@@ -5,12 +5,12 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "kia cee’d 1.6 crdi break EURO 5,/bwj 2013"
+var_title = "kia cee’d 1.6 crdi, GEKEURD,garantie,Euro 5"
 var_categorie = "Auto's"
 var_brand = "Kia"
 var_model = "(Pro) Cee d"
-var_desc = "\nexport of autohandel\n"
-var_price = "5950"
+var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"
+var_price = "6999"
 var_picspath = "car122"
 var_carroserie = "Break"
 var_month = ""

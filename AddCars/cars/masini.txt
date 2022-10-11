@@ -19,7 +19,7 @@
 119. ---
 120. renault modus 1.5 dci,Garantie,CAR PASS
 121. peugeot 308,1.6 hdi,Garantie,CAR PASS,airco
-122. kia cee’d 1.6 crdi break EURO 5,/bwj 2013
+122. kia cee’d 1.6 crdi, GEKEURD,garantie,Euro 5
 123. ---
 124. ---
 125. mercedes GLC coupe 250, 4-Matic

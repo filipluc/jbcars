@@ -5,7 +5,7 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "citroen c3,1.4 benzine,AUTOMAAT,garantie,CAR PASS"
+var_title = "citroen c3,1.4 benzine,AUTOMAAT,garantie,GEKEURD"
 var_categorie = "Auto's"
 var_brand = "Citroën"
 var_model = "C3"

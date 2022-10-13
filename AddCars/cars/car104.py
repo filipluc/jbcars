@@ -5,12 +5,12 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "ford focus break 1.0 benzine,euro5"
+var_title = "ford focus break 1.0 i,GEKEURD,garantie,EURO 5"
 var_categorie = "Auto's"
 var_brand = "Ford"
 var_model = "Focus"
-var_desc = "\nexport of autohandel\nkrassen en blutsen\nJuist nieuwe distributie riem\nCAR PASS\nKeuring +150€\neerste eigenaar met oh-boekje\n"
-var_price = "6500"
+var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\njuist NIEUWE distributie riem\n"
+var_price = "7650"
 var_picspath = "car104"
 var_carroserie = "Break"
 var_month = ""

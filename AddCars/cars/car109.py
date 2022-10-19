@@ -5,12 +5,12 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "skoda fabia 1.2 diesel,Euro 5,airco,EXPORT"
+var_title = "skoda fabia 1.2 d, GEKEURD,euro 5,garantie,CAR PASS"
 var_categorie = "Auto's"
 var_brand = "Skoda"
 var_model = "Fabia"
-var_desc = "\nEXPORT\n"
-var_price = "3300"
+var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\ndistributie riem vervangen vorige jaar bij skoda dealer\nEeerste eigenaar met oh-boekje bij skoda\n"
+var_price = "4990"
 var_picspath = "car109"
 var_carroserie = ""
 var_month = ""
@@ -23,17 +23,20 @@ var_pk = ""
 var_cilinder = "1199"
 var_co2 = "99"
 var_euro = "Euro 5"
-var_options = """Centrale vergrendeling
+var_options = """Alarm
+Climate control
+Mistlampen
+Radio
+Traction-control
+Verwarmde buitenspiegels
+ABS
+Airbags
+Boordcomputer
+Centrale vergrendeling
+USB
 Airconditioning
 Elektrische ramen
 Electronic Stability Program (ESP)
-Isofix
-Alarm
-Elektrische buitenspiegels
-Radio
-Traction-control
-ABS
-Airbags
-Boordcomputer"""
+Isofix"""
 var_carcolor = ""
 var_interiorcolor = ""

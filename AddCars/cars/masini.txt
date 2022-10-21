@@ -14,7 +14,7 @@
 114. mercedes E220 cdi,AUTOMAAT,bwj.2006
 115. bmw 116 d,CAR PASS,euro 5b,XENON,bwj 09/2014
 116. citroen c5,1.8 benzine,Garantie,CAR PASS,67000 km
-117. ---
+117. opel corsa 1.4 i,90 pk,Euro 6b,Garantie,CAR PASS,airco,NAVI
 118. dacia logan 1.4 benzine,Garantie,CAR PASS
 119. ---
 120. ---

@@ -5,7 +5,7 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "opel corsa 1.4 i,90 pk,Euro 6b,Garantie,CAR PASS,airco,NAVI"
+var_title = "opel corsa 1.4 i,90 pk,Euro 6b,Garantie,CAR PASS,bwj.2017"
 var_categorie = "Auto's"
 var_brand = "Opel"
 var_model = "Corsa"

@@ -10,7 +10,7 @@
 110. mazda CX-5,2.2d,bwj.2013,Euro 6
 111. peugeot 807 AUTOMAAT,2.0 benzine,6 zit,euro 4
 112. peugeot 207 sw, 1600 benzine,99000 km,bwj 2011,euro 5
-113. ---
+113. nissan almera 1.5 benzine,Garantie,CAR PASS,airco
 114. mercedes E220 cdi,AUTOMAAT,bwj.2006
 115. bmw 116 d,CAR PASS,euro 5b,XENON,bwj 09/2014
 116. citroen c5,1.8 benzine,Garantie,CAR PASS,67000 km

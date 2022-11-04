@@ -5,39 +5,38 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "citroen c5,1.8 benzine,Garantie,CAR PASS,67000 km"
+var_title = "peugeot partner 1.6 i,GEKEURD,garantie,Navigatie,Airco,euro5"
 var_categorie = "Auto's"
-var_brand = "Citroën"
-var_model = "C5"
-var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"
-var_price = "5650"
+var_brand = "Peugeot"
+var_model = "Partner"
+var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\neerste eigenaar met oh-boekje bij dealer\njuist groot onderhoud gehaad\n"
+var_price = "7490"
 var_picspath = "car116"
-var_carroserie = ""
+var_carroserie = "Monovolume"
 var_month = ""
-var_year = "2007"
+var_year = "2014"
 var_gas = "Benzine"
 var_transmissie = "Hand"
-var_km = "67000"
+var_km = "158000"
 var_doors = ""
 var_pk = ""
-var_cilinder = "1749"
-var_co2 = "177"
-var_euro = "euro 4"
+var_cilinder = "1598"
+var_co2 = "155"
+var_euro = "euro 5"
 var_options = """Alarm
-Elektrische buitenspiegels
-Climate control
+Bluetooth
 Radio
 Traction-control
-Verwarmde buitenspiegels
 ABS
 Airbags
 Boordcomputer
 Centrale vergrendeling
+USB
 Airconditioning
 Elektrische ramen
 Electronic Stability Program (ESP)
 Isofix
-Metaalkleur
-Parkeersensor"""
+Navigatiesysteem
+Cruise Control"""
 var_carcolor = ""
 var_interiorcolor = ""

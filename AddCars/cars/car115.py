@@ -5,43 +5,42 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "bmw 116 d,CAR PASS,euro 5b,XENON,bwj 09/2014"
+var_title = "Fiat 500 AUTOMAAT 1.2 i,Garantie,CAR PASS,euro 6b"
 var_categorie = "Auto's"
-var_brand = "BMW"
-var_model = "1 Reeks"
-var_desc = "\nzo meenemen prijs (overname wagen)\nCAR PASS\nwordt gekeurd met roos formulier\n"
-var_price = "7450"
+var_brand = "Fiat"
+var_model = "500"
+var_desc = "\n1 jaar garantie\nCAR PASS\nwordt gekeurd met roos formulier\n"
+var_price = "10950"
 var_picspath = "car115"
 var_carroserie = ""
 var_month = ""
-var_year = "2014"
-var_gas = "Diesel"
-var_transmissie = "Hand"
-var_km = "217000"
+var_year = "2015"
+var_gas = "Benzine"
+var_transmissie = "Auto"
+var_km = "68000"
 var_doors = ""
 var_pk = ""
-var_cilinder = "1995"
-var_co2 = "114"
-var_euro = "euro 5"
+var_cilinder = "1242"
+var_co2 = ""
+var_euro = "euro 6"
 var_options = """Alarm
-Bluetooth
 Elektrische buitenspiegels
+Climate control
 Mistlampen
 Radio
-Start-stop-systeem
 Traction-control
 Verwarmde buitenspiegels
-Xenon verlichting
 ABS
 Airbags
 Boordcomputer
 Centrale vergrendeling
+USB
 Airconditioning
+Panoramadak
 Elektrische ramen
 Electronic Stability Program (ESP)
 Isofix
 Lichtmetalen velgen
-Metaalkleur
-Cruise Control"""
+Metaalkleur"""
 var_carcolor = ""
 var_interiorcolor = ""

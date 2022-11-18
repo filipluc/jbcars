@@ -5,32 +5,39 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "renault kangoo 1.5 dci,bwj 2018,CAR PASS,euro 6b,€8850+btw"
+var_title = "nissan note 1.6 i,AUTOMAAT,airco,Garantie,CAR PASS"
 var_categorie = "Auto's"
-var_brand = "Bestelwagens en Lichte vracht"
-var_model = "Renault"
-var_desc = "\n€ 8850 +btw/tva\nCAR PASS\ngekeurd met roos formulier\n"
-var_price = "10708"
+var_brand = "Nissan"
+var_model = "Note"
+var_desc = "\n1 jaar garantie\nCAR PASS\nwordt gekeurd met roos formulier\neerste eigenaar met oh-boekje bij NISSAN\n"
+var_price = "4995"
 var_picspath = "car124"
 var_carroserie = ""
 var_month = ""
-var_year = "2018"
-var_gas = "Diesel"
-var_transmissie = "Hand"
-var_km = "78000"
+var_year = "2008"
+var_gas = "Benzine"
+var_transmissie = "Auto"
+var_km = "175000"
 var_doors = ""
 var_pk = ""
-var_cilinder = "1461"
-var_co2 = "112"
-var_euro = "Euro 6"
-var_options = """Centrale vergrendeling
-Airconditioning
-Elektrische ramen
-Cruise Control
-Alarm
+var_cilinder = "1598"
+var_co2 = "159"
+var_euro = "Euro 4"
+var_options = """Alarm
 Elektrische buitenspiegels
 Radio
+Traction-control
 ABS
-Airbags"""
+Airbags
+Boordcomputer
+Centrale vergrendeling
+Airconditioning
+Elektrische ramen
+Electronic Stability Program (ESP)
+Isofix
+Lichtmetalen velgen
+Metaalkleur
+Parkeersensor
+Cruise Control"""
 var_carcolor = ""
 var_interiorcolor = ""

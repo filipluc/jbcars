@@ -20,10 +20,10 @@
 120. vw golf sw 1.6 d,bwj 10/2019,39000 km,€16363 +btw/tva,Euro6d
 121. vw golf 1.6 d,bwj 2019,30000 km,Euro 6d,€ 16487+btw/tva
 122. kia cee’d 1.6 crdi, GEKEURD,garantie,Euro 5
-123. ---
-124. ---
+123. peugeot 206+,1.4 hdi,70000 km,bwj 12/2011,Euro 5,Airco
+124. nissan note 1.6 i,AUTOMAAT,airco,Garantie,CAR PASS
 125. mercedes GLC coupe 250, 4-Matic
-126. ---
+126. volvo v50 ,1.6 d,EURO 5,export of autohandel
 127. ---
 128. ---
 129. ---

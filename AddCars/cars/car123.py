@@ -5,32 +5,37 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "renault kangoo 1.5 dci,Euro 6b,bwj 2018,L.V.,€8850+btw/tva"
+var_title = "peugeot 206+,1.4 hdi,70000 km,bwj 12/2011,Euro 5,Airco"
 var_categorie = "Auto's"
-var_brand = "Renault"
-var_model = "Kangoo"
-var_desc = "\n€ 8850 +btw/tva\nCAR PASS\ngekeurd met roos formulier\n"
-var_price = "10708"
+var_brand = "Peugeot"
+var_model = "206"
+var_desc = "\n1 jaar garantie\nCAR PASS\nwordt gekeurd met roos formulier\neerste eigenaar met oh-boekje bij Peugeot\n"
+var_price = "4999"
 var_picspath = "car123"
 var_carroserie = ""
 var_month = ""
-var_year = "2018"
+var_year = "2011"
 var_gas = "Diesel"
 var_transmissie = "Hand"
-var_km = "78000"
+var_km = "70000"
 var_doors = ""
 var_pk = ""
-var_cilinder = "1461"
-var_co2 = "112"
-var_euro = "Euro 6"
-var_options = """Centrale vergrendeling
+var_cilinder = "1398"
+var_co2 = "104"
+var_euro = "Euro 5"
+var_options = """Alarm
+Elektrische buitenspiegels
+Mistlampen
+Radio
+Traction-control
+Verwarmde buitenspiegels
+ABS
+Airbags
+Boordcomputer
+Centrale vergrendeling
 Airconditioning
 Elektrische ramen
-Cruise Control
-Alarm
-Elektrische buitenspiegels
-Radio
-ABS
-Airbags"""
+Electronic Stability Program (ESP)
+Isofix"""
 var_carcolor = ""
 var_interiorcolor = ""

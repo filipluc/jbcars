@@ -7,7 +7,7 @@
 107. Renault modus 1.1 i,CAR PASS,garantie ,airco,95000 km
 108. audi A5 cabrio,2.0 benzine,S line,211 pk,Euro 5
 109. skoda fabia 1.2 d, GEKEURD,euro 5,garantie,CAR PASS
-110. mazda CX-5,2.2d,bwj.2013,Euro 6
+110. skoda fabia break 1.0 i,Euro 6b,Bwj 10/2018,Garantie,39000km
 111. peugeot 807 AUTOMAAT,2.0 benzine,6 zit,euro 4
 112. peugeot 207 sw, 1600 benzine,99000 km,bwj 2011,euro 5
 113. nissan almera 1.5 benzine,Garantie,CAR PASS,airco
@@ -20,7 +20,7 @@
 120. vw golf sw 1.6 d,bwj 10/2019,39000 km,€16363 +btw/tva,Euro6d
 121. vw golf 1.6 d,bwj 2019,30000 km,Euro 6d,€ 16487+btw/tva
 122. kia cee’d 1.6 crdi, GEKEURD,garantie,Euro 5
-123. peugeot 206+,1.4 hdi,70000 km,bwj 12/2011,Euro 5,Airco
+123. ---
 124. nissan note 1.6 i,AUTOMAAT,airco,Garantie,CAR PASS
 125. mercedes GLC coupe 250, 4-Matic
 126. volvo v50 ,1.6 d,EURO 5,export of autohandel

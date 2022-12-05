@@ -5,42 +5,45 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "mazda CX-5,2.2d,bwj.2013,Euro 6"
+var_title = "skoda fabia break 1.0 i,Euro 6b,Bwj 10/2018,Garantie,39000km"
 var_categorie = "Auto's"
-var_brand = "Mazda"
-var_model = "CX-5"
-var_desc = "\nenkel voor handelaar of export\nkeuring geldig tot 02/01/2023\neerste eigenaar\n"
-var_price = "7950"
+var_brand = "Skoda"
+var_model = "Fabia"
+var_desc = "\n1 jaar garantie\nCAR PASS\nwordt gekeurd met roos formulier\n"
+var_price = "12500"
 var_picspath = "car110"
-var_carroserie = "SUV"
+var_carroserie = "Break"
 var_month = ""
-var_year = "2013"
-var_gas = "Diesel"
+var_year = "2018"
+var_gas = "Benzine"
 var_transmissie = "Hand"
-var_km = "220000"
+var_km = "39000"
 var_doors = ""
 var_pk = ""
-var_cilinder = "2191"
-var_co2 = "119"
+var_cilinder = "999"
+var_co2 = "101"
 var_euro = "euro 6"
 var_options = """Alarm
+Bluetooth
 Elektrische buitenspiegels
 Mistlampen
 Radio
+Start-stop-systeem
 Traction-control
 Verwarmde buitenspiegels
 ABS
 Airbags
-Lederen bekleding
 Boordcomputer
 Centrale vergrendeling
+USB
+Airconditioning
 Elektrische ramen
 Electronic Stability Program (ESP)
 Isofix
 Lichtmetalen velgen
 Metaalkleur
 Parkeersensor
-Zetelverwarming
+Trekhaak
 Cruise Control"""
 var_carcolor = ""
 var_interiorcolor = ""

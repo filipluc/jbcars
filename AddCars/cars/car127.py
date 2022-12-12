@@ -5,34 +5,33 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "renault kangoo 1.5 dci,Garantie,CAR PASS"
+var_title = "citroen berlingo 1.6 hdi,Lichte Vracht 3 zit,Euro 5"
 var_categorie = "Auto's"
-var_brand = "Renault"
-var_model = "Kangoo"
-var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"
-var_price = "2999"
+var_brand = "Citroën"
+var_model = "Berlingo"
+var_desc = "\n1 jaar garantie\nCAR PASS\nwordt gekeurd met roos formulier\n66 kw\n3 zit\n"
+var_price = "7995"
 var_picspath = "car127"
-var_carroserie = "Monovolume"
+var_carroserie = ""
 var_month = ""
-var_year = "2006"
+var_year = "2013"
 var_gas = "Diesel"
 var_transmissie = "Hand"
-var_km = "183000"
+var_km = "127000"
 var_doors = ""
 var_pk = ""
-var_cilinder = "1461"
-var_co2 = "147"
-var_euro = "Euro 4"
-var_options = """Boordcomputer
-Centrale vergrendeling
-Elektrische buitenspiegels
-Traction-control
-Verwarmde buitenspiegels
+var_cilinder = "1560"
+var_co2 = ""
+var_euro = "Euro 5"
+var_options = """Centrale vergrendeling
 Elektrische ramen
-ABS
-Airbags
+Electronic Stability Program (ESP)
+Trekhaak
 Alarm
 Radio
-Trekhaak"""
+Traction-control
+ABS
+Airbags
+Boordcomputer"""
 var_carcolor = ""
 var_interiorcolor = ""

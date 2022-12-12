@@ -5,24 +5,33 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "renault trafic AMBULANCE 2.0d,Automaat,!!!!!nieuwe wagen !!!"
+var_title = "citroen berlingo 1.6 hdi,L.V.,3 zit,127000 km,bwj 2013,euro5"
 var_categorie = "Auto's"
-var_brand = "Overige Auto's"
-var_model = ""
-var_desc = "\nnieuwe wagen\nprijs 55371€+btw/tva\n"
-var_price = "66999"
-var_picspath = "car128"
-var_carroserie = "Overige carrosserie"
+var_brand = "Bestelwagens en Lichte vracht"
+var_model = "Citroën"
+var_desc = "\n1 jaar garantie\nCAR PASS\nwordt gekeurd met roos formulier\n"
+var_price = "7995"
+var_picspath = "car127"
+var_carroserie = ""
 var_month = ""
-var_year = "2021"
+var_year = "2013"
 var_gas = "Diesel"
-var_transmissie = "Auto"
-var_km = "20"
+var_transmissie = "Hand"
+var_km = "127000"
 var_doors = ""
 var_pk = ""
-var_cilinder = "1997"
-var_co2 = "156"
-var_euro = "euro 6"
-var_options = """ABS"""
+var_cilinder = "1560"
+var_co2 = ""
+var_euro = "Euro 5"
+var_options = """Centrale vergrendeling
+Elektrische ramen
+Electronic Stability Program (ESP)
+Trekhaak
+Alarm
+Radio
+Traction-control
+ABS
+Airbags
+Boordcomputer"""
 var_carcolor = ""
 var_interiorcolor = ""

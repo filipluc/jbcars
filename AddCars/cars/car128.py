@@ -5,11 +5,11 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "citroen berlingo 1.6 hdi,L.V.,3 zit,127000 km,bwj 2013,euro5"
+var_title = "citroen berlingo 1.6 hdi,GEKEURD,3 zit,127000 km,euro5,L.V."
 var_categorie = "Auto's"
 var_brand = "Bestelwagens en Lichte vracht"
 var_model = "Citroën"
-var_desc = "\n1 jaar garantie\nCAR PASS\nwordt gekeurd met roos formulier\n"
+var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\njuist groot onderhoud gehad:\n-distributie riem set\n-waterpomp\n-olie + OF\n"
 var_price = "7995"
 var_picspath = "car127"
 var_carroserie = ""

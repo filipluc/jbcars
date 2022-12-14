@@ -5,11 +5,11 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "citroen berlingo 1.6 hdi,Lichte Vracht 3 zit,Euro 5"
+var_title = "citroen berlingo 1.6 hdi,GEKEURD, 3 zit,Euro 5,Lichte vracht"
 var_categorie = "Auto's"
 var_brand = "Citroën"
 var_model = "Berlingo"
-var_desc = "\n1 jaar garantie\nCAR PASS\nwordt gekeurd met roos formulier\n66 kw\n3 zit\n"
+var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\njuist groot onderhoud gehad:\n-distributieriem set\n-waterpomp\n-olie\n-oliefilter\n66 kw\n3 zit\n"
 var_price = "7995"
 var_picspath = "car127"
 var_carroserie = ""

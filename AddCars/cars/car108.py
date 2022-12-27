@@ -5,32 +5,32 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "audi A5 cabrio,2.0 benzine,S line,211 pk,Euro 5"
+var_title = "nissan juke 1.6 i AUTOMAAT,garantie,CAR PASS,navi,Euro 5"
 var_categorie = "Auto's"
-var_brand = "Audi"
-var_model = "A5"
-var_desc = "\nCAR PASS\nwordt gekeurd met roos formulier\n"
-var_price = "15000"
+var_brand = "Nissan"
+var_model = "Juke"
+var_desc = "\n1 jaar garantie\nCAR PASS\nwordt gekeurd met roos formulier\n"
+var_price = "9995"
 var_picspath = "car108"
-var_carroserie = "Cabriolet"
+var_carroserie = "SUV"
 var_month = ""
-var_year = "2009"
+var_year = "2012"
 var_gas = "Benzine"
-var_transmissie = "Hand"
-var_km = "117000"
+var_transmissie = "Auto"
+var_km = "165000"
 var_doors = ""
 var_pk = ""
-var_cilinder = "1984"
-var_co2 = "159"
+var_cilinder = "1598"
+var_co2 = "145"
 var_euro = "euro 5"
-var_options = """Alarm
+var_options = """Keyless entry
+Alarm
 Bluetooth
+Parkeercamera
 Elektrische buitenspiegels
-Elektrische stoelverstelling
 Climate control
 Mistlampen
 Radio
-Sportpakket
 Traction-control
 Verwarmde buitenspiegels
 ABS
@@ -46,8 +46,6 @@ Isofix
 Lichtmetalen velgen
 Metaalkleur
 Navigatiesysteem
-Parkeersensor
-Sportstoelen
 Zetelverwarming
 Cruise Control"""
 var_carcolor = ""

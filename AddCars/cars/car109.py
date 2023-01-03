@@ -5,25 +5,26 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "skoda fabia 1.2 d, GEKEURD,euro 5,garantie,CAR PASS"
+var_title = "peugeot 3008,1.6hdi,CAR PASS,garantie,Euro 5,NAVIGATIE,PANO"
 var_categorie = "Auto's"
-var_brand = "Skoda"
-var_model = "Fabia"
-var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\ndistributie riem vervangen vorige jaar bij skoda dealer\nEeerste eigenaar met oh-boekje bij skoda\n"
-var_price = "4490"
+var_brand = "Peugeot"
+var_model = "3008"
+var_desc = "\nprijs 5781 € +btw/tva\n1 jaar garantie\nCAR PASS\nwordt gekeurd met roos formulier\n114000 km\n82 kw\n"
+var_price = "6995"
 var_picspath = "car109"
-var_carroserie = ""
+var_carroserie = "SUV"
 var_month = ""
 var_year = "2011"
 var_gas = "Diesel"
 var_transmissie = "Hand"
-var_km = "176000"
+var_km = "114000"
 var_doors = ""
 var_pk = ""
-var_cilinder = "1199"
-var_co2 = "99"
+var_cilinder = "1560"
+var_co2 = "135"
 var_euro = "Euro 5"
 var_options = """Alarm
+Elektrische buitenspiegels
 Climate control
 Mistlampen
 Radio
@@ -33,10 +34,15 @@ ABS
 Airbags
 Boordcomputer
 Centrale vergrendeling
-USB
 Airconditioning
+Panoramadak
 Elektrische ramen
 Electronic Stability Program (ESP)
-Isofix"""
+Isofix
+Lichtmetalen velgen
+Metaalkleur
+Navigatiesysteem
+Parkeersensor
+Cruise Control"""
 var_carcolor = ""
 var_interiorcolor = ""

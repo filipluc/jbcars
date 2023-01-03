@@ -5,30 +5,28 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "skoda fabia break 1.0 i,Euro 6b,Bwj 10/2018,Garantie,39000km"
+var_title = "opel meriva 1.4 i,AUTOMAAT,garantie,CAR PASS,euro 6b"
 var_categorie = "Auto's"
-var_brand = "Skoda"
-var_model = "Fabia"
-var_desc = "\n1 jaar garantie\nCAR PASS\nwordt gekeurd met roos formulier\n"
-var_price = "12500"
+var_brand = "Opel"
+var_model = "Meriva"
+var_desc = "\n1 jaar garantie\nCAR PASS\nwordt gekeurd met roos formulier\neerste eigenaar met oh-boekje bij OPEL\n"
+var_price = "9995"
 var_picspath = "car110"
-var_carroserie = "Break"
+var_carroserie = ""
 var_month = ""
-var_year = "2018"
+var_year = "2014"
 var_gas = "Benzine"
-var_transmissie = "Hand"
-var_km = "39000"
+var_transmissie = "Auto"
+var_km = "87000"
 var_doors = ""
 var_pk = ""
-var_cilinder = "999"
-var_co2 = "101"
+var_cilinder = "1364"
+var_co2 = "169"
 var_euro = "euro 6"
 var_options = """Alarm
-Bluetooth
 Elektrische buitenspiegels
 Mistlampen
 Radio
-Start-stop-systeem
 Traction-control
 Verwarmde buitenspiegels
 ABS
@@ -40,10 +38,9 @@ Airconditioning
 Elektrische ramen
 Electronic Stability Program (ESP)
 Isofix
-Lichtmetalen velgen
 Metaalkleur
+Navigatiesysteem
 Parkeersensor
-Trekhaak
 Cruise Control"""
 var_carcolor = ""
 var_interiorcolor = ""

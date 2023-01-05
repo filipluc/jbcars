@@ -6,7 +6,7 @@
 106. audi a4,break,2.0 tdi-136 pk,Leder,Airco,EXPORT of Handelaar
 107. Renault modus 1.1 i,CAR PASS,garantie ,airco,95000 km
 108. nissan juke 1.6 i AUTOMAAT,garantie,CAR PASS,navi,Euro 5
-109. peugeot 3008,1.6hdi,CAR PASS,garantie,Euro 5,NAVIGATIE,PANO
+109. peugeot partner 1.6 i,GEKEURD,garantie,CAR PASS,bwj 12/2014
 110. opel meriva 1.4 i,AUTOMAAT,garantie,CAR PASS,euro 6b
 111. peugeot 807 AUTOMAAT,2.0 benzine,6 zit,euro 4
 112. peugeot 207 sw, 1600 benzine,99000 km,bwj 2011,euro 5

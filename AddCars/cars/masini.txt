@@ -1,5 +1,5 @@
 101. jeep grand cherokee 3.0 crd ,START NIET, export,Demarre pas
-102. citroen berlingo XTR 1.6 hdi,Garantie,CAR PASS,71000 km
+102. ---
 103. alfa romeo STELVIO 2.0 T,Q4,280 pk,€20660+btw/tva
 104. ford focus break 1.0 i,GEKEURD,garantie,EURO 5
 105. mercedes S 500
@@ -14,7 +14,7 @@
 114. mercedes E220 cdi,AUTOMAAT,bwj.2006
 115. Fiat 500 AUTOMAAT 1.2 i,Garantie,CAR PASS,euro 6b
 116. nissan micra 1.2 i,Garantie,CAR PASS,euro 5,NAVIGATIE,5 d
-117. opel corsa 1.4 i,90 pk,Euro 6b,Garantie,CAR PASS,bwj.2017
+117. ---
 118. dacia logan 1.4 benzine,Garantie,CAR PASS
 119. vw golf 1.6 d, bwj. 08/2019,km 28810,Euro 6d,€16528+btw/tva
 120. vw golf sw 1.6 d,bwj 10/2019,39000 km,€16363 +btw/tva,Euro6d

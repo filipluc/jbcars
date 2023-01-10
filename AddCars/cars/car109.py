@@ -5,28 +5,28 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "peugeot partner 1.6 i,GEKEURD,garantie,CAR PASS,bwj 12/2014"
+var_title = "opel meriva 1.4 i,bwj 12/2015,euro 6b,136000 km"
 var_categorie = "Auto's"
-var_brand = "Peugeot"
-var_model = "Partner"
-var_desc = "\n1 jaar garantie\nCAR PASS\gekeurd met roos formulier\n72 kw\n"
-var_price = "8995"
+var_brand = "Opel"
+var_model = "Meriva"
+var_desc = "\nenkel carrosserie schade\nauto rijdt\n"
+var_price = "4500"
 var_picspath = "car109"
 var_carroserie = "Monovolume"
 var_month = ""
-var_year = "2014"
+var_year = "2015"
 var_gas = "Benzine"
 var_transmissie = "Hand"
-var_km = "147000"
+var_km = "136000"
 var_doors = ""
 var_pk = ""
-var_cilinder = "1598"
-var_co2 = "155"
-var_euro = "Euro 5"
+var_cilinder = "1364"
+var_co2 = "139"
+var_euro = "Euro 6"
 var_options = """Alarm
 Bluetooth
+Parkeercamera
 Elektrische buitenspiegels
-Climate control
 Mistlampen
 Radio
 Traction-control
@@ -40,9 +40,10 @@ Airconditioning
 Elektrische ramen
 Electronic Stability Program (ESP)
 Isofix
+Lichtmetalen velgen
 Metaalkleur
 Navigatiesysteem
 Parkeersensor
-Trekhaak"""
+Cruise Control"""
 var_carcolor = ""
 var_interiorcolor = ""

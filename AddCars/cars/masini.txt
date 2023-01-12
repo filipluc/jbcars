@@ -4,10 +4,10 @@
 104. ford focus break 1.0 i,GEKEURD,garantie,EURO 5
 105. mercedes S 500
 106. audi a4,break,2.0 tdi-136 pk,Leder,Airco,EXPORT of Handelaar
-107. Renault modus 1.1 i,CAR PASS,garantie ,airco,95000 km
+107. ---Renault modus 1.1 i,CAR PASS,garantie ,airco,95000 km
 108. nissan juke 1.6 i AUTOMAAT,garantie,CAR PASS,navi,Euro 5
 109. opel meriva 1.4 i,bwj 12/2015,euro 6b,136000 km
-110. opel meriva 1.4 i,AUTOMAAT,garantie,CAR PASS,euro 6b
+110. renault clio 0,9 Tce,CAR PASS,garantie,Euro 6b
 111. peugeot 807 AUTOMAAT,2.0 benzine,6 zit,euro 4
 112. peugeot 207 sw, 1600 benzine,99000 km,bwj 2011,euro 5
 113. nissan almera 1.5 benzine,Garantie,CAR PASS,airco

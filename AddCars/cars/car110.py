@@ -5,25 +5,26 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "opel meriva 1.4 i,AUTOMAAT,garantie,CAR PASS,euro 6b"
+var_title = "renault clio 0,9 Tce,CAR PASS,garantie,Euro 6b"
 var_categorie = "Auto's"
-var_brand = "Opel"
-var_model = "Meriva"
-var_desc = "\n1 jaar garantie\nCAR PASS\nwordt gekeurd met roos formulier\neerste eigenaar met oh-boekje bij OPEL\n"
-var_price = "9995"
+var_brand = "Renault"
+var_model = "Clio"
+var_desc = "\n1 jaar garantie\nCAR PASS\nwordt gekeurd met roos formulier\neerste eigenaar/onderhoud altijd bij renault\n66 kw\n898 cc benzine\n"
+var_price = "8995"
 var_picspath = "car110"
 var_carroserie = ""
 var_month = ""
-var_year = "2014"
+var_year = "2016"
 var_gas = "Benzine"
-var_transmissie = "Auto"
-var_km = "87000"
+var_transmissie = "Hand"
+var_km = "114000"
 var_doors = ""
 var_pk = ""
-var_cilinder = "1364"
-var_co2 = "169"
+var_cilinder = "898"
+var_co2 = "105"
 var_euro = "euro 6"
 var_options = """Alarm
+Bluetooth
 Elektrische buitenspiegels
 Mistlampen
 Radio
@@ -38,9 +39,8 @@ Airconditioning
 Elektrische ramen
 Electronic Stability Program (ESP)
 Isofix
-Metaalkleur
+Lichtmetalen velgen
 Navigatiesysteem
-Parkeersensor
 Cruise Control"""
 var_carcolor = ""
 var_interiorcolor = ""

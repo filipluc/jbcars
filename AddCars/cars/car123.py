@@ -5,37 +5,39 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "peugeot 206+,1.4 hdi,70000 km,bwj 12/2011,Euro 5,Airco"
+var_title = "citroen berlingo 1.6 benzine,46000 km,CAR PASS,garantie"
 var_categorie = "Auto's"
-var_brand = "Peugeot"
-var_model = "206"
-var_desc = "\n1 jaar garantie\nCAR PASS\nwordt gekeurd met roos formulier\neerste eigenaar met oh-boekje bij Peugeot\n"
-var_price = "4999"
+var_brand = "Citroën"
+var_model = "Berlingo"
+var_desc = "\n1 jaar garantie\nCAR PASS\nwordt gekeurd met roos formulier\n66 kw\n1587 cc benzine\neuro 4\n"
+var_price = "9860"
 var_picspath = "car123"
-var_carroserie = ""
+var_carroserie = "Monovolume
 var_month = ""
-var_year = "2011"
-var_gas = "Diesel"
+var_year = "2010"
+var_gas = "Benzine"
 var_transmissie = "Hand"
-var_km = "70000"
+var_km = "46000"
 var_doors = ""
 var_pk = ""
-var_cilinder = "1398"
-var_co2 = "104"
-var_euro = "Euro 5"
+var_cilinder = "1587"
+var_co2 = ""
+var_euro = "Euro 4"
 var_options = """Alarm
 Elektrische buitenspiegels
+Climate control
 Mistlampen
 Radio
 Traction-control
-Verwarmde buitenspiegels
 ABS
 Airbags
 Boordcomputer
+Schuifdeur
 Centrale vergrendeling
 Airconditioning
 Elektrische ramen
 Electronic Stability Program (ESP)
-Isofix"""
+Isofix
+Metaalkleur"""
 var_carcolor = ""
 var_interiorcolor = ""

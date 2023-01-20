@@ -5,27 +5,26 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "opel meriva 1.4 i,bwj 12/2015,euro 6b,136000 km"
+var_title = "renault clio break 1.2 Tce,AUTOMAAT,euro 6,Garantie,CAR PASS"
 var_categorie = "Auto's"
-var_brand = "Opel"
-var_model = "Meriva"
-var_desc = "\nenkel carrosserie schade\nauto rijdt\n"
-var_price = "4500"
+var_brand = "Renault"
+var_model = "Clio"
+var_desc = "\n1 jaar garantie\nCAR PASS\nwordt gekeurd met roos formulier\neerste eigenaar\n"
+var_price = "11890"
 var_picspath = "car109"
-var_carroserie = "Monovolume"
+var_carroserie = "Break"
 var_month = ""
-var_year = "2015"
+var_year = "2016"
 var_gas = "Benzine"
-var_transmissie = "Hand"
-var_km = "136000"
+var_transmissie = "Auto"
+var_km = "114000"
 var_doors = ""
 var_pk = ""
-var_cilinder = "1364"
-var_co2 = "139"
+var_cilinder = "1197"
+var_co2 = "120"
 var_euro = "Euro 6"
 var_options = """Alarm
 Bluetooth
-Parkeercamera
 Elektrische buitenspiegels
 Mistlampen
 Radio
@@ -43,7 +42,7 @@ Isofix
 Lichtmetalen velgen
 Metaalkleur
 Navigatiesysteem
-Parkeersensor
+Trekhaak
 Cruise Control"""
 var_carcolor = ""
 var_interiorcolor = ""

@@ -7,7 +7,7 @@ Created on Jun 3, 2018
 
 var_title = "toyota prius 1.5 benzine/hybrid,GEKEURD,78000 km,AUTOMAAT"
 var_categorie = "Auto's"
-var_brand = "Toyiota"
+var_brand = "Toyota"
 var_model = "Prius"
 var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n"
 var_price = "9880"

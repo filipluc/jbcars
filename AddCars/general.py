@@ -12,6 +12,7 @@ from selenium.common.exceptions import NoSuchElementException
 import time
 import os
 from selenium.webdriver.support.ui import Select
+import regex
 
 class GeneralFunctions():
     
@@ -78,7 +79,7 @@ class GeneralFunctions():
         time.sleep(2)
         elem102.click()
         time.sleep(2)
-        elem103 = driver.find_element_by_xpath("//input[contains(@id, 'DEAL_VIA_MP')]")
+        elem103 = driver.find_element_by_xpath("//button[contains(text(), 'Verkocht via 2dehands')]")
         time.sleep(1)
         elem103.click()
         time.sleep(2)
@@ -226,8 +227,8 @@ class GeneralFunctions():
 
 
         #optiuni
-        # for x in car_detail.var_options.split(', '):
-        for x in car_detail.var_options.split('\n'):
+        #for x in car_detail.var_options.split(','):
+        for x in regex.split(',|\n', car_detail.var_options):
             y = ''
             if x == "4x4":
                 y = "4x4"

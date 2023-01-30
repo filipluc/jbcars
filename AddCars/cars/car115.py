@@ -23,27 +23,6 @@ var_pk = ""
 var_cilinder = "1199"
 var_co2 = "103"
 var_euro = "euro 6"
-var_options = """Alarm
-Bluetooth
-Elektrische buitenspiegels
-Climate control
-Mistlampen
-Radio
-Traction-control
-Verwarmde buitenspiegels
-ABS
-Airbags
-Boordcomputer
-Centrale vergrendeling
-USB
-Airconditioning
-Elektrische ramen
-Electronic Stability Program (ESP)
-Isofix
-Lichtmetalen velgen
-Metaalkleur
-Navigatiesysteem
-Parkeersensor
-Cruise Control"""
+var_options = """ABS,Airbags,Airconditioning,Alarm,Bluetooth,Boordcomputer,Centrale vergrendeling,Climate control,Cruise Control,Electronic Stability Program (ESP),Elektrische buitenspiegels,Elektrische ramen,Isofix,Lichtmetalen velgen,Metaalkleur,Mistlampen,Navigatiesysteem,Parkeersensor,Radio,Traction-control,USB,Verwarmde buitenspiegels"""
 var_carcolor = ""
 var_interiorcolor = ""

@@ -12,7 +12,7 @@
 112. peugeot 207 sw, 1600 benzine,99000 km,bwj 2011,euro 5
 113. nissan almera 1.5 benzine,Garantie,CAR PASS,airco
 114. mercedes E220 cdi,AUTOMAAT,bwj.2006
-115. Fiat 500 AUTOMAAT 1.2 i,Garantie,CAR PASS,euro 6b
+115. peugeot 208 Allure 1.2 i,CAR PASS,garantie,Euro 6b
 116. nissan micra 1.2 i,Garantie,CAR PASS,euro 5,NAVIGATIE,5 d
 117. toyota prius 1.5 benzine/hybrid,GEKEURD,78000 km,AUTOMAAT
 118. dacia logan 1.4 benzine,Garantie,CAR PASS

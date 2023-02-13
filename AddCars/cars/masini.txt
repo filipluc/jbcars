@@ -5,7 +5,7 @@
 105. mercedes S 500
 106. audi a4,break,2.0 tdi-136 pk,Leder,Airco,EXPORT of Handelaar
 107. peugeot 207,1.6 hdi-92pk,CAR PASS,garantie,Euro 5,airco,5 d
-108. dacia duster PRESTIGE 1.5 dci,CAR PASS,garantie,Euro 5b
+108. fiat punto 1.2 i,CAR PASS,garantie,Euro 6b,€3300+btw/tva
 109. renault clio break 1.2 Tce,AUTOMAAT,euro 6,Garantie,CAR PASS
 110. renault clio 0,9 Tce,CAR PASS,garantie,Euro 6b
 111. peugeot 807 AUTOMAAT,2.0 benzine,6 zit,euro 4
@@ -19,12 +19,12 @@
 119. fiat 500C cabrio 1.2 i ,CAR PASS,garantie,Euro 5
 120. vw golf sw 1.6 d,bwj 10/2019,39000 km,€16363 +btw/tva,Euro6d
 121. vw golf 1.6 d,bwj 2019,30000 km,Euro 6d,€ 16487+btw/tva
-122. ---
+122. peugeot partner 1.6 hdi,CAR PASS,garantie,Euro 5
 123. citroen berlingo XTR 1.6 hdi 68 kw CAR PASS,garantie,Euro 5
 124. ---
 125. mercedes GLC coupe 250, 4-Matic
 126. volvo v50 ,1.6 d,EURO 5,export of autohandel
-127. ---
+127. citroen berlingo 1.6 hdi GEKEURD,lichte vracht 3 zit,Euro 5
 128. ---
 129. ---
 130. ---

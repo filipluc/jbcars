@@ -24,8 +24,8 @@
 124. peugeot 307,AUTOMAAT,1.6 i,CAR PASS,garantie,Airco
 125. mercedes GLC coupe 250, 4-Matic
 126. volvo v50 ,1.6 d,EURO 5,export of autohandel
-127. ---
-128. ---
+127. opel vivaro 2.0 cdti,GEKEURD,5 zit,Lang chassis,bwj 2014
+128. opel vivaro 2.0 cdti,GEKEURD,lichte vracht 5 zit,Bwj 2014
 129. vw polo 1.9 tdi-130 pk,6 vit.,Euro 4
 130. bmw x3 ,2.0d ,4x4,AUTOMAAT,leder,CAR PASS
 131. toyota avensis 2.0 d,EURO 5,navigatie,PANORAMISCHE DAK

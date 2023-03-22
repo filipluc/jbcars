@@ -5,11 +5,11 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "citroen c4 picasso 1.6 hdi,7 zit,CAR PASS,garantie"
+var_title = "citroen c4 picasso 1.6 hdi,GEKEURD,7 zit,garantie,CAR PASS"
 var_categorie = "Auto's"
 var_brand = "Citroën"
 var_model = "C4"
-var_desc = "\n1 jaar garantie\nCAR PASS\nwordt gekeurd met roos formulier\n80 kw\n7 zit\n144000 km\n"
+var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n80 kw\n7 zit\n144000 km\nnieuwe distributieriem+waterpomp\n"
 var_price = "5995"
 var_picspath = "car102"
 var_carroserie = "Monovolume"

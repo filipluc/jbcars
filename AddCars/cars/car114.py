@@ -5,44 +5,24 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "mercedes E220 cdi,AUTOMAAT,bwj.2006"
+var_title = "renault laguna 1.9 dci,CAR PASS,164000 km"
 var_categorie = "Auto's"
-var_brand = "Mercedes-Benz"
-var_model = "E-Klasse"
-var_desc = "\nenkel voor export of handelaar\nCAR PASS\ntrekhaak =1900 kg\ntweede eigenaar vanaf 03/2007\nmet oh boekje\n"
-var_price = "4400"
+var_brand = "Renault"
+var_model = "Laguna"
+var_desc = "\nenkel voor autohandel\nCAR PASS\neerste eigenaar\ngoede staat\n"
+var_price = "1850"
 var_picspath = "car114"
-var_carroserie = "Berline"
+var_carroserie = "Break"
 var_month = ""
-var_year = "2006"
+var_year = "2004"
 var_gas = "Diesel"
 var_transmissie = "Auto"
-var_km = "341000"
+var_km = "164000"
 var_doors = ""
 var_pk = ""
-var_cilinder = "2148"
+var_cilinder = "1900"
 var_co2 = ""
-var_euro = "euro 4"
-var_options = """Alarm
-Elektrische buitenspiegels
-Elektrische stoelverstelling
-Mistlampen
-Radio
-Traction-control
-Verwarmde buitenspiegels
-ABS
-Airbags
-Boordcomputer
-Centrale vergrendeling
-Airconditioning
-Elektrische ramen
-Electronic Stability Program (ESP)
-Isofix
-Lichtmetalen velgen
-Metaalkleur
-Navigatiesysteem
-Parkeersensor
-Trekhaak
-Cruise Control"""
+var_euro = ""
+var_options = """ABS,Airbags,Airconditioning,Alarm,Boordcomputer,Centrale vergrendeling,Climate control,Cruise Control,Electronic Stability Program (ESP),Elektrische buitenspiegels,Elektrische ramen,Isofix,Lichtmetalen velgen,Metaalkleur,Radio,Traction-control,Verwarmde buitenspiegels"""
 var_carcolor = ""
 var_interiorcolor = ""

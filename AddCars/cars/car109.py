@@ -5,7 +5,7 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "vw caddy 1.9 tdi,MONOSPACE 5 zit,Airco,CAR PASS"
+var_title = "vw caddy 1.9 tdi,MONOSPACE  5 zit,Airco,CAR PASS"
 var_categorie = "Auto's"
 var_brand = "Volkswagen"
 var_model = "Caddy Combi"

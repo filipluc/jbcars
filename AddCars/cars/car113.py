@@ -5,35 +5,24 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "nissan almera 1.5 benzine,Garantie,CAR PASS,airco"
+var_title = "bmw 520 i,CAR PASS,navigatie"
 var_categorie = "Auto's"
-var_brand = "Nissan"
-var_model = "Almera"
-var_desc = "\n1 jaar garantie\nCAR PASS\nwordt gekeurd met roos formulier\n"
-var_price = "3500"
+var_brand = "BMW"
+var_model = "5 Reeks"
+var_desc = "\nenkel voor export of autohandel\nCAR PASS\n1995 cc/125 kw\n"
+var_price = "4950"
 var_picspath = "car113"
-var_carroserie = ""
+var_carroserie = "Break"
 var_month = ""
-var_year = "2002"
+var_year = "2008"
 var_gas = "Benzine"
 var_transmissie = "Hand"
-var_km = "154000"
+var_km = "177000"
 var_doors = ""
 var_pk = ""
-var_cilinder = "1498"
+var_cilinder = "2000"
 var_co2 = ""
 var_euro = "euro 4"
-var_options = """Alarm
-Elektrische buitenspiegels
-Radio
-Traction-control
-ABS
-Airbags
-Boordcomputer
-Centrale vergrendeling
-Airconditioning
-Elektrische ramen
-Electronic Stability Program (ESP)
-Metaalkleur"""
+var_options = """ABS,Airbags,Airconditioning,Alarm,Boordcomputer,Centrale vergrendeling,Climate control,Cruise Control,Electronic Stability Program (ESP),Elektrische buitenspiegels,Elektrische ramen,Elektrische stoelverstelling,Isofix,Lichtmetalen velgen,Metaalkleur,Parkeercamera,Parkeersensor,Radio,Traction-control,Verwarmde buitenspiegels,Xenon verlichting,Zetelverwarming"""
 var_carcolor = ""
 var_interiorcolor = ""

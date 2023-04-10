@@ -14,13 +14,13 @@
 114. renault laguna 1.9 dci,CAR PASS,164000 km
 115. peugeot 206+,1.1 i,CAR PASS,garantie,Euro 5
 116. nissan micra 1.2 i,Garantie,CAR PASS,euro 5,NAVIGATIE,5 d
-117. ---
+117. jeep compass 2.1 crd 4x4,CAR PASS,61000 km,Garantie,euro 5
 118. dacia logan 1.4 benzine,Garantie,CAR PASS
 119. fiat 500C cabrio 1.2 i ,CAR PASS,garantie,Euro 5
 120. vw golf sw 1.6 d,bwj 10/2019,39000 km,€16363 +btw/tva,Euro6d
 121. vw golf 1.6 d,bwj 2019,30000 km,Euro 6d,€ 16487+btw/tva
 122. peugeot partner 1.6 hdi,CAR PASS,garantie,Euro 5
-123. citroen berlingo XTR 1.6 hdi 68 kw CAR PASS,garantie,Euro 5
+123. hyundai tucson 1.6 i,CAR PASS,garantie,Euro 6b
 124. peugeot 307,AUTOMAAT,1.6 i,CAR PASS,garantie,Airco
 125. mercedes GLC coupe 250, 4-Matic
 126. volvo v50 ,1.6 d,EURO 5,export of autohandel

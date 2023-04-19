@@ -1,12 +1,12 @@
 101. jeep grand cherokee 3.0 crd ,START NIET, export,Demarre pas
-102. citroen c4 picasso 1.6 hdi,GEKEURD,7 zit,garantie,CAR PASS
+102. toyota verso-s 1.3 i,CAR PASS,77000 km,Bwj 2014,Garantie
 103. alfa romeo STELVIO 2.0 T,Q4,280 pk,€20660+btw/tva
 104. renault clio 1.5 dci,CAR PASS,garantie
 105. mercedes S 500
 106. audi a4,break,2.0 tdi-136 pk,Leder,Airco,EXPORT of Handelaar
-107. peugeot partner 1.6 hdi,CAR PASS,garantie,104000km,Bwj 2013
+107. ---
 108. fiat punto 1.2 i,GEKEURD,CAR PASS,garantie,Euro 6b
-109. vw caddy 1.9 tdi,MONOSPACE  5 zit,Airco,CAR PASS
+109. ---
 110. renault clio 0,9 Tce,CAR PASS,garantie,Euro 6b
 111. peugeot 807 AUTOMAAT,2.0 benzine,6 zit,euro 4
 112. peugeot 207 sw, 1600 benzine,99000 km,bwj 2011,euro 5
@@ -18,7 +18,7 @@
 118. dacia logan 1.4 benzine,Garantie,CAR PASS
 119. fiat 500C cabrio 1.2 i ,CAR PASS,garantie,Euro 5
 120. vw golf sw 1.6 d,bwj 10/2019,39000 km,€16363 +btw/tva,Euro6d
-121. vw golf 1.6 d,bwj 2019,30000 km,Euro 6d,€ 16487+btw/tva
+121. ---
 122. peugeot partner 1.6 hdi,CAR PASS,garantie,Euro 5
 123. hyundai tucson 1.6 i,CAR PASS,garantie,Euro 6b
 124. peugeot 307,AUTOMAAT,1.6 i,CAR PASS,garantie,Airco

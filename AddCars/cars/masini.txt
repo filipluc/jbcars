@@ -1,5 +1,5 @@
 101. jeep grand cherokee 3.0 crd ,START NIET, export,Demarre pas
-102. toyota verso-s 1.3 i,CAR PASS,77000 km,Bwj 2014,Garantie
+102. dacia duster 1.5 dci,EURO 5,CAR PASS
 103. alfa romeo STELVIO 2.0 T,Q4,280 pk,€20660+btw/tva
 104. renault clio 1.5 dci,CAR PASS,garantie
 105. mercedes S 500
@@ -25,10 +25,10 @@
 125. mercedes GLC coupe 250, 4-Matic
 126. volvo v50 ,1.6 d,EURO 5,export of autohandel
 127. ---
-128. ---
+128. vw crafter 2.5 tdi,L2H1,GEKEURD,147000km,€ 7500+btw/tva
 129. vw polo 1.9 tdi-130 pk,6 vit.,Euro 4
 130. bmw x3 ,2.0d ,4x4,AUTOMAAT,leder,CAR PASS
 131. toyota avensis 2.0 d,EURO 5,navigatie,PANORAMISCHE DAK
-132. ---
-133. ---
+132. renault kangoo 1.5 dci,GEKEURD,airco,CAR PASS,33000 km,L.V.
+133. renault kangoo 1.5 dci,GEKEURD,33000 km,CAR PASS,airco
 134. ---

@@ -5,7 +5,7 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "bmw 520 i,CAR PASS,navigatie"
+var_title = "bmw 520 i,CAR PASS"
 var_categorie = "Auto's"
 var_brand = "BMW"
 var_model = "5 Reeks"

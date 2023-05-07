@@ -10,7 +10,7 @@
 110. renault clio 0,9 Tce,CAR PASS,garantie,Euro 6b
 111. peugeot 807 AUTOMAAT,2.0 benzine,6 zit,euro 4
 112. peugeot 207 sw, 1600 benzine,99000 km,bwj 2011,euro 5
-113. bmw 520 i,CAR PASS,navigatie
+113. bmw 520 i,CAR PASS
 114. renault laguna 1.9 dci,CAR PASS,164000 km
 115. peugeot 206+,1.1 i,CAR PASS,garantie,Euro 5
 116. nissan micra 1.2 i,Garantie,CAR PASS,euro 5,NAVIGATIE,5 d
@@ -20,13 +20,13 @@
 120. vw golf sw 1.6 d,bwj 10/2019,39000 km,€16363 +btw/tva,Euro6d
 121. ---
 122. peugeot partner 1.6 hdi,CAR PASS,garantie,Euro 5
-123. hyundai tucson 1.6 i,CAR PASS,garantie,Euro 6b
+123. ---
 124. peugeot 307,AUTOMAAT,1.6 i,CAR PASS,garantie,Airco
 125. mercedes GLC coupe 250, 4-Matic
 126. volvo v50 ,1.6 d,EURO 5,export of autohandel
 127. ---
 128. vw crafter 2.5 tdi,L2H1,GEKEURD,147000km,€ 7500+btw/tva
-129. vw polo 1.9 tdi-130 pk,6 vit.,Euro 4
+129. ---
 130. bmw x3 ,2.0d ,4x4,AUTOMAAT,leder,CAR PASS
 131. toyota avensis 2.0 d,EURO 5,navigatie,PANORAMISCHE DAK
 132. renault kangoo 1.5 dci,GEKEURD,airco,CAR PASS,33000 km,L.V.

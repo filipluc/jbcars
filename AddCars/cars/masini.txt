@@ -16,8 +16,8 @@
 116. nissan micra 1.2 i,Garantie,CAR PASS,euro 5,NAVIGATIE,5 d
 117. jeep compass 2.1 crd 4x4,CAR PASS,61000 km,Garantie,euro 5
 118. dacia logan 1.4 benzine,Garantie,CAR PASS
-119. fiat 500C cabrio 1.2 i ,CAR PASS,garantie,Euro 5
-120. ---
+119. renault megane 1.2 tce,CAR PASS,29000 km,Garantie
+120. peugeot partner 1.6 hdi ,GEKEURD,airco
 121. ---
 122. peugeot partner 1.6 hdi,CAR PASS,garantie,Euro 5
 123. ---
@@ -27,7 +27,7 @@
 127. ---
 128. fiat ducato 2.3 jtd,CAR PASS,laadlift,euro 4
 129. ---
-130. bmw x3 ,2.0d ,4x4,AUTOMAAT,leder,CAR PASS
+130. ---
 131. toyota avensis 2.0 d,EURO 5,navigatie,PANORAMISCHE DAK
 132. ---
 133. ---

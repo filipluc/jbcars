@@ -21,7 +21,7 @@
 121. peugeot partner 1.6 i,CAR PASS,€9916 excl. btw/tva,Euro 6b
 122. peugeot partner 1.6 hdi,CAR PASS,garantie,Euro 5
 123. ---
-124. peugeot 307,AUTOMAAT,1.6 i,CAR PASS,garantie,Airco
+124. peugeot 206 sw 1.4 i,CAR PASS,airco,Garantie
 125. mercedes GLC coupe 250, 4-Matic
 126. volvo v50 ,1.6 d,EURO 5,export of autohandel
 127. ---

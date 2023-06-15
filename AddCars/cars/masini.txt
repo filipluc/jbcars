@@ -20,7 +20,7 @@
 120. peugeot partner 1.6 hdi ,GEKEURD,airco
 121. peugeot partner 1.6 i,CAR PASS,€9916 excl. btw/tva,Euro 6b
 122. peugeot partner 1.6 hdi,CAR PASS,garantie,Euro 5
-123. ---
+123. renault clio 1.2-16 V,garantie,CAR PASS,65000 km,Euro 6b
 124. peugeot 206 sw 1.4 i,CAR PASS,airco,Garantie
 125. mercedes GLC coupe 250, 4-Matic
 126. volvo v50 ,1.6 d,EURO 5,export of autohandel

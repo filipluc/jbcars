@@ -24,7 +24,7 @@
 124. peugeot 206 sw 1.4 i,CAR PASS,airco,Garantie
 125. mercedes GLC coupe 250, 4-Matic
 126. volvo v50 ,1.6 d,EURO 5,export of autohandel
-127. ---
+127. citroen c3, 1.4 hdi,CAR PASS,82000 km,Garantie,Airco
 128. fiat ducato 2.3 jtd,CAR PASS,laadlift,euro 4
 129. ---
 130. ---

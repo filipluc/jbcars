@@ -29,6 +29,6 @@
 129. kia picanto 1.0 i,CAR PASS,garantie,AIRCO
 130. alfa romeo GIULIETTA 2.0 jtd,AUTOMAAT,garantie,Euro 5
 131. toyota avensis 2.0 d,EURO 5,navigatie,PANORAMISCHE DAK
-132. ---
-133. ---
+132. citroen c4 PICASSO,1.6 hdi,82 kw,7 zit,Euro 5
+133. peugeot 2008,1.2 benzine,bwj.11/2015,Euro 6b
 134. ---

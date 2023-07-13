@@ -17,7 +17,7 @@
 117. ---jeep compass 2.1 crd 4x4,CAR PASS,61000 km,Garantie,euro 5
 118. dacia logan 1.4 benzine,Garantie,CAR PASS
 119. renault megane 1.2 tce,CAR PASS,29000 km,Garantie
-120. peugeot 207, 1.4 hdi,CAR PASS,86000 km,Garantie,Airco,euro 5
+120. skoda superb 2.0 tdi,CAR PASS,garantie,Euro 5
 121. peugeot partner 1.6 i,CAR PASS,€9916 excl. btw/tva,Euro 6b
 122. peugeot partner 1.6 hdi,CAR PASS,garantie,Euro 5
 123. renault clio 1.2-16 V,garantie,CAR PASS,65000 km,Euro 6b
@@ -31,4 +31,4 @@
 131. toyota avensis 2.0 d,EURO 5,navigatie,PANORAMISCHE DAK
 132. citroen c4 PICASSO,1.6 hdi,82 kw,7 zit,Euro 5
 133. peugeot 2008,1.2 benzine,bwj.11/2015,Euro 6b
-134. audi A4,break,1.9 TDI-115pk,CAR PASS,euro 4
+134. ---

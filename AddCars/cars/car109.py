@@ -5,7 +5,7 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "peugeot partner 1.6 hdi,Euro 6b,Bwj 2018,CAR PASS,€11500+btw"
+var_title = "peugeot partner OUTDOOR,1.6 hdi,Euro 6b,Bwj 2018,€11500+btw"
 var_categorie = "Auto's"
 var_brand = "Peugeot"
 var_model = "Partner"

@@ -145,8 +145,8 @@ class AdaugaMasini(unittest.TestCase):
     def test_car119(self):
         GeneralFunctions.deleteAddCarFunction(self, car119)
 
-    def test_car120(self):
-        GeneralFunctions.deleteAddCarFunction(self, car120)
+    # def test_car120(self):
+    #     GeneralFunctions.deleteAddCarFunction(self, car120)
 
     def test_car121(self):
         GeneralFunctions.deleteAddCarFunction(self, car121)
@@ -184,8 +184,8 @@ class AdaugaMasini(unittest.TestCase):
     def test_car132(self):
         GeneralFunctions.deleteAddCarFunction(self, car132)
 
-    def test_car133(self):
-        GeneralFunctions.deleteAddCarFunction(self, car133)
+    # def test_car133(self):
+    #     GeneralFunctions.deleteAddCarFunction(self, car133)
 
     # def test_car134(self):
     #     GeneralFunctions.deleteAddCarFunction(self, car134)

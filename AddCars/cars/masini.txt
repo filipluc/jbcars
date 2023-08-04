@@ -14,10 +14,10 @@
 114. renault laguna 1.9 dci,CAR PASS,164000 km
 115. peugeot 206+,1.1 i,CAR PASS,garantie,Euro 5
 116. nissan micra 1.2 i,Garantie,CAR PASS,euro 5,NAVIGATIE,5 d
-117. ---jeep compass 2.1 crd 4x4,CAR PASS,61000 km,Garantie,euro 5
+117. ---
 118. dacia logan 1.4 benzine,Garantie,CAR PASS
 119. renault megane 1.2 tce,CAR PASS,29000 km,Garantie
-120. ---
+120. toyota yaris 1.0 benzine,CAR PASS, 1 jaar garantie, 5 deurs
 121. peugeot partner 1.6 i,CAR PASS,€9916 excl. btw/tva,Euro 6b
 122. peugeot partner 1.6 hdi,CAR PASS,garantie,Euro 5
 123. renault clio 1.2-16 V,garantie,CAR PASS,65000 km,Euro 6b
@@ -29,6 +29,6 @@
 129. kia picanto 1.0 i,CAR PASS,garantie,AIRCO
 130. alfa romeo GIULIETTA 2.0 jtd,AUTOMAAT,garantie,Euro 5
 131. toyota avensis 2.0 d,EURO 5,navigatie,PANORAMISCHE DAK
-132. citroen c4 PICASSO,1.6 hdi,82 kw,7 zit,Euro 5
+132. dacia lodgy STEPWAY 1.2 benzine,Airco,NAVIGATIE,5zit,euro 5b
 133. ---
 134. ---

@@ -14,7 +14,7 @@
 114. renault laguna 1.9 dci,CAR PASS,164000 km
 115. peugeot 206+,1.1 i,CAR PASS,garantie,Euro 5
 116. nissan micra 1.2 i,Garantie,CAR PASS,euro 5,NAVIGATIE,5 d
-117. ---
+117. peugeot partner OUTDOOR 1.6 hdi-90pk,CAR PASS,garantie
 118. dacia logan 1.4 benzine,Garantie,CAR PASS
 119. renault megane 1.2 tce,CAR PASS,29000 km,Garantie
 120. toyota yaris 1.0 benzine,CAR PASS, 1 jaar garantie, 5 deurs
@@ -29,6 +29,6 @@
 129. kia picanto 1.0 i,CAR PASS,garantie,AIRCO
 130. alfa romeo GIULIETTA 2.0 jtd,AUTOMAAT,garantie,Euro 5
 131. toyota avensis 2.0 d,EURO 5,navigatie,PANORAMISCHE DAK
-132. dacia lodgy STEPWAY 1.2 benzine,Airco,NAVIGATIE,5zit,euro 5b
-133. ---
+132. peugeot 2008 ,1.2 i,CAR PASS,euro 6b,Airco,64000 km
+133. peugeot 2008 Feline,1.6 benzine,CAR PASS,garantie,Euro 5b
 134. ---

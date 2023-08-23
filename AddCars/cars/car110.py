@@ -10,9 +10,9 @@ var_categorie = "Auto's"
 var_brand = "Renault"
 var_model = "Clio"
 var_desc = "\n1 jaar garantie\nCAR PASS\nwordt gekeurd met roos formulier\neerste eigenaar/onderhoud altijd bij renault\n66 kw\n898 cc benzine\n"
-var_price = "8995"
+var_price = "7995"
 var_picspath = "car110"
-var_carroserie = ""
+var_carroserie = "Monovolume"
 var_month = ""
 var_year = "2016"
 var_gas = "Benzine"
@@ -42,5 +42,5 @@ Isofix
 Lichtmetalen velgen
 Navigatiesysteem
 Cruise Control"""
-var_carcolor = ""
+var_carcolor = "Wit"
 var_interiorcolor = ""

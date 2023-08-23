@@ -10,9 +10,9 @@ var_categorie = "Auto's"
 var_brand = "Volvo"
 var_model = "V50"
 var_desc = "\nenkel voor export of autohandel\n"
-var_price = "2000"
+var_price = "1450"
 var_picspath = "car126"
-var_carroserie = ""
+var_carroserie = "Break"
 var_month = ""
 var_year = "2008"
 var_gas = "Diesel"
@@ -39,5 +39,5 @@ Isofix
 Lichtmetalen velgen
 Metaalkleur
 Cruise Control"""
-var_carcolor = ""
+var_carcolor = "Zwart"
 var_interiorcolor = ""

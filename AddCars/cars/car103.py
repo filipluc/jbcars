@@ -5,12 +5,12 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "alfa romeo STELVIO 2.0 T,Q4,280 pk,€20660+btw/tva"
+var_title = "alfa romeo STELVIO 2.0 T,Q4,280 pk"
 var_categorie = "Auto's"
 var_brand = "Alfa Romeo"
 var_model = "Stelvio"
-var_desc = "\n€ 20660 +btw/tva\nCAR PASS\ngekeurd met roos formulier\n"
-var_price = "24999"
+var_desc = "\nCAR PASS\ngekeurd met roos formulier\n"
+var_price = "19995"
 var_picspath = "car103"
 var_carroserie = "SUV"
 var_month = ""
@@ -59,5 +59,5 @@ Zetelverwarming
 Trekhaak
 Cruise Control
 Climate control"""
-var_carcolor = ""
+var_carcolor = "Bruin"
 var_interiorcolor = ""

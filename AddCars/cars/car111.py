@@ -9,8 +9,8 @@ var_title = "peugeot 807 AUTOMAAT,2.0 benzine,6 zit,euro 4"
 var_categorie = "Auto's"
 var_brand = "Peugeot"
 var_model = "807"
-var_desc = "\nenkel voor export of handelaar\nauto rijdt goed\n"
-var_price = "2350"
+var_desc = "\nenkel voor export of handelaar\n"
+var_price = "1000"
 var_picspath = "car111"
 var_carroserie = "Monovolume"
 var_month = ""
@@ -38,5 +38,5 @@ Elektrische ramen
 Electronic Stability Program (ESP)
 Isofix
 Metaalkleur"""
-var_carcolor = ""
+var_carcolor = "Beige"
 var_interiorcolor = ""

@@ -45,5 +45,5 @@ Parkeersensor
 Zetelverwarming
 Trekhaak
 Cruise Control"""
-var_carcolor = ""
+var_carcolor = "Zwart"
 var_interiorcolor = ""

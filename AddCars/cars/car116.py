@@ -10,9 +10,9 @@ var_categorie = "Auto's"
 var_brand = "Nissan"
 var_model = "Micra"
 var_desc = "\n1 jaar garantie\nCAR PASS\nwordt gekeurd met roos formulier\n"
-var_price = "4950"
+var_price = "3995"
 var_picspath = "car116"
-var_carroserie = ""
+var_carroserie = "Monovolume"
 var_month = ""
 var_year = "2011"
 var_gas = "Benzine"
@@ -42,5 +42,5 @@ Isofix
 Metaalkleur
 Navigatiesysteem
 Cruise Control"""
-var_carcolor = ""
+var_carcolor = "Wit"
 var_interiorcolor = ""

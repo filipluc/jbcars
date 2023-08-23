@@ -10,7 +10,7 @@ var_categorie = "Auto's"
 var_brand = "Mercedes-Benz"
 var_model = "S-Klasse"
 var_desc = "\nenkel voor export of handelaar\n"
-var_price = "12500"
+var_price = "9500"
 var_picspath = "car105"
 var_carroserie = "Berline"
 var_month = ""
@@ -49,5 +49,5 @@ Open dak
 Parkeersensor
 Zetelverwarming
 Cruise Control"""
-var_carcolor = ""
+var_carcolor = "Zilver of Grijs"
 var_interiorcolor = ""

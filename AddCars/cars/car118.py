@@ -10,9 +10,9 @@ var_categorie = "Auto's"
 var_brand = "Dacia"
 var_model = "Logan"
 var_desc = "\n1 jaar garantie\nCAR PASS\nwordt gekeurd met roos formulier\n"
-var_price = "3500"
+var_price = "2995"
 var_picspath = "car118"
-var_carroserie = ""
+var_carroserie = "Berline"
 var_month = ""
 var_year = "2007"
 var_gas = "Benzine"
@@ -29,5 +29,5 @@ Trekhaak
 Alarm
 Radio
 Boordcomputer"""
-var_carcolor = ""
+var_carcolor = "Zilver of Grijs"
 var_interiorcolor = ""

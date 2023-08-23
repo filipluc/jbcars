@@ -10,9 +10,9 @@ var_categorie = "Auto's"
 var_brand = "Peugeot"
 var_model = "207"
 var_desc = "\nexport of autohandel\nrondom carosserieschade\nCAR PASS\neerste eigenaar met oh-boekje\n"
-var_price = "3350"
+var_price = "1950"
 var_picspath = "car112"
-var_carroserie = ""
+var_carroserie = "Break"
 var_month = ""
 var_year = "2011"
 var_gas = "Benzine"
@@ -41,5 +41,5 @@ Isofix
 Lichtmetalen velgen
 Metaalkleur
 Parkeersensor"""
-var_carcolor = ""
+var_carcolor = "Zilver of Grijs"
 var_interiorcolor = ""

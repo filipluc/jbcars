@@ -51,5 +51,5 @@ Airbags
 Zetelverwarming
 Radio
 Sportpakket"""
-var_carcolor = ""
+var_carcolor = "Zwart"
 var_interiorcolor = ""

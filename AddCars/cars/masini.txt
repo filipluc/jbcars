@@ -32,3 +32,4 @@
 132. peugeot 2008 ,1.2 i,CAR PASS,euro 6b,Airco,64000 km
 133. ---peugeot 2008 Feline,1.6 benzine,CAR PASS,garantie,Euro 5b
 134. opel corsa 1.2 i,AUTOMAAT,32000km,CAR PASS,euro 5
+135. skoda roomster 1.2 tsi,CAR PASS,64000 km,EURO 5,garantie

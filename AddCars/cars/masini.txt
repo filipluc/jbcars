@@ -7,8 +7,8 @@
 107. ford ecosport 1.0 i,CAR PASS,39000km
 108. fiat punto 1.2 i,CAR PASS,garantie,Euro 6b
 109. citroen c4 picasso 1.6 hdi AUTOMAAT,51000 km,CAR PASS
-110. renault clio 0,9 Tce,CAR PASS,garantie,Euro 6b
-111. peugeot 807 AUTOMAAT,2.0 benzine,6 zit,euro 4
+110. ---
+111. ---
 112. peugeot 207 sw, 1600 benzine,99000 km,bwj 2011,euro 5
 113. bmw 520 i,CAR PASS
 114. renault laguna 1.9 dci,CAR PASS,164000 km
@@ -19,7 +19,7 @@
 119. renault megane 1.2 tce,CAR PASS,29000 km,Garantie
 120. renault kangoo 1.2i -114 pk,CAR PASS,78000 km,€ 6198+btw/tva
 121. peugeot partner 1.6 i,CAR PASS,Euro 6b
-122. peugeot partner 1.6 hdi,CAR PASS,garantie,Euro 5
+122. ---
 123. renault clio 1.2-16 V,garantie,CAR PASS,65000 km,Euro 6b
 124. peugeot 206 sw 1.4 i,CAR PASS,airco,Garantie
 125. mercedes GLC coupe 250, 4-Matic
@@ -32,4 +32,4 @@
 132. peugeot 2008 ,1.2 i,CAR PASS,euro 6b,Airco,64000 km
 133. ---peugeot 2008 Feline,1.6 benzine,CAR PASS,garantie,Euro 5b
 134. opel corsa 1.2 i,AUTOMAAT,32000km,CAR PASS,euro 5
-135. skoda roomster 1.2 tsi,CAR PASS,64000 km,EURO 5,garantie
+135. ---

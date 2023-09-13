@@ -1,6 +1,6 @@
 101. jeep grand cherokee 3.0 crd ,START NIET, export,Demarre pas
-102. ---
-103. ---
+102. peugeot partner 1.6 hdi,CAR PASS,garantie,Euro 5
+103. peugeot 3008, AUTOMAAT,1.6 hdi,CAR PASS,garantie,,euro 5
 104. renault clio 1.5 dci,CAR PASS,garantie
 105. mercedes S 500
 106. audi a4,break,2.0 tdi-136 pk,Leder,Airco,EXPORT of Handelaar
@@ -28,7 +28,7 @@
 128. fiat ducato 2.3 jtd,CAR PASS,laadlift,euro 4
 129. kia picanto 1.0 i,CAR PASS,garantie,AIRCO
 130. alfa romeo GIULIETTA 2.0 jtd,AUTOMAAT,garantie,Euro 5
-131. toyota avensis 2.0 d,EURO 5,navigatie,PANORAMISCHE DAK
+131. ---
 132. peugeot 2008 ,1.2 i,CAR PASS,euro 6b,Airco,64000 km
 133. ---peugeot 2008 Feline,1.6 benzine,CAR PASS,garantie,Euro 5b
 134. opel corsa 1.2 i,AUTOMAAT,32000km,CAR PASS,euro 5

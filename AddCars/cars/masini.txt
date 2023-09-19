@@ -1,9 +1,9 @@
 101. jeep grand cherokee 3.0 crd ,START NIET, export,Demarre pas
-102. peugeot partner 1.6 hdi,CAR PASS,garantie,Euro 5
+102. audi a2 , 1.4 tdi,CAR PASS,export of handelaar
 103. peugeot 3008, AUTOMAAT,1.6 hdi,CAR PASS,garantie,,euro 5
-104. renault clio 1.5 dci,CAR PASS,garantie
+104. Lexus IS300H,CAR PASS,€19834+btw/tva,Euro 6c
 105. mercedes S 500
-106. audi a4,break,2.0 tdi-136 pk,Leder,Airco,EXPORT of Handelaar
+106. ---
 107. ford ecosport 1.0 i,CAR PASS,39000km
 108. fiat punto 1.2 i,CAR PASS,garantie,Euro 6b
 109. citroen c4 picasso 1.6 hdi AUTOMAAT,51000 km,CAR PASS
@@ -13,15 +13,15 @@
 113. bmw 520 i,CAR PASS
 114. renault laguna 1.9 dci,CAR PASS,164000 km
 115. peugeot 206+,1.1 i,CAR PASS,garantie,Euro 5
-116. nissan micra 1.2 i,Garantie,CAR PASS,euro 5,NAVIGATIE,5 d
+116. ---
 117. peugeot partner OUTDOOR 1.6 hdi-90pk,CAR PASS,garantie
 118. dacia logan 1.4 benzine,Garantie,CAR PASS
 119. renault megane 1.2 tce,CAR PASS,29000 km,Garantie
-120. renault kangoo 1.2i -114 pk,CAR PASS,78000 km,€ 6198+btw/tva
+120. ---
 121. peugeot partner 1.6 i,CAR PASS,Euro 6b
 122. ---
 123. renault clio 1.2-16 V,garantie,CAR PASS,65000 km,Euro 6b
-124. peugeot 206 sw 1.4 i,CAR PASS,airco,Garantie
+124. ---
 125. mercedes GLC coupe 250, 4-Matic
 126. volvo v50 ,1.6 d,EURO 5,export of autohandel
 127. ---
@@ -30,6 +30,6 @@
 130. alfa romeo GIULIETTA 2.0 jtd,AUTOMAAT,garantie,Euro 5
 131. ---
 132. peugeot 2008 ,1.2 i,CAR PASS,euro 6b,Airco,64000 km
-133. ---peugeot 2008 Feline,1.6 benzine,CAR PASS,garantie,Euro 5b
+133. ---
 134. opel corsa 1.2 i,AUTOMAAT,32000km,CAR PASS,euro 5
 135. ---

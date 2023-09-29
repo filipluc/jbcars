@@ -5,42 +5,24 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "renault clio 0,9 Tce,CAR PASS,garantie,Euro 6b"
+var_title = "fiat 500,0.9 i,CAR PASS,enkel voor handelaar/marchand"
 var_categorie = "Auto's"
-var_brand = "Renault"
-var_model = "Clio"
-var_desc = "\n1 jaar garantie\nCAR PASS\nwordt gekeurd met roos formulier\neerste eigenaar/onderhoud altijd bij renault\n66 kw\n898 cc benzine\n"
-var_price = "7995"
+var_brand = "Fiat"
+var_model = "500"
+var_desc = "\nNiet te koop voor particulieren\nPas a vendre pour la particulière\nGeen keuring,geen garantie\nPas de contrôle technique ,pas de garantie\nenkel voor handelaar\nUniquement pour marchand\nCAR PASS\n"
+var_price = "3800"
 var_picspath = "car110"
 var_carroserie = "Monovolume"
 var_month = ""
-var_year = "2016"
+var_year = "2011"
 var_gas = "Benzine"
 var_transmissie = "Hand"
-var_km = "114000"
+var_km = "125000"
 var_doors = ""
 var_pk = ""
-var_cilinder = "898"
-var_co2 = "105"
-var_euro = "euro 6"
-var_options = """Alarm
-Bluetooth
-Elektrische buitenspiegels
-Mistlampen
-Radio
-Traction-control
-Verwarmde buitenspiegels
-ABS
-Airbags
-Boordcomputer
-Centrale vergrendeling
-USB
-Airconditioning
-Elektrische ramen
-Electronic Stability Program (ESP)
-Isofix
-Lichtmetalen velgen
-Navigatiesysteem
-Cruise Control"""
+var_cilinder = "900"
+var_co2 = ""
+var_euro = "euro 5"
+var_options = """ABS,Airbags,Airconditioning,Alarm,Bluetooth,Boordcomputer,Centrale vergrendeling,Electronic Stability Program (ESP),Elektrische buitenspiegels,Elektrische ramen,Isofix,Lichtmetalen velgen,Metaalkleur,Radio,Traction-control,Verwarmde buitenspiegels"""
 var_carcolor = "Wit"
 var_interiorcolor = ""

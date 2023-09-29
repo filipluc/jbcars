@@ -104,8 +104,8 @@ class AdaugaMasini(unittest.TestCase):
     def test_car105(self):
         GeneralFunctions.deleteAddCarFunction(self, car105)
     
-    # def test_car106(self):
-    #     GeneralFunctions.deleteAddCarFunction(self, car106)
+    def test_car106(self):
+        GeneralFunctions.deleteAddCarFunction(self, car106)
 
     def test_car107(self):
         GeneralFunctions.deleteAddCarFunction(self, car107)
@@ -116,9 +116,9 @@ class AdaugaMasini(unittest.TestCase):
     def test_car109(self):
         GeneralFunctions.deleteAddCarFunction(self, car109)
 
-    # def test_car110(self):
-    #     GeneralFunctions.deleteAddCarFunction(self, car110)
-    #
+    def test_car110(self):
+        GeneralFunctions.deleteAddCarFunction(self, car110)
+
     # def test_car111(self):
     #     GeneralFunctions.deleteAddCarFunction(self, car111)
 
@@ -131,22 +131,23 @@ class AdaugaMasini(unittest.TestCase):
     def test_car114(self):
         GeneralFunctions.deleteAddCarFunction(self, car114)
         
-    def test_car115(self):
-        GeneralFunctions.deleteAddCarFunction(self, car115)
+    # def test_car115(self):
+    #     GeneralFunctions.deleteAddCarFunction(self, car115)
 
     # def test_car116(self):
     #     GeneralFunctions.deleteAddCarFunction(self, car116)
 
-    def test_car117(self):
-        GeneralFunctions.deleteAddCarFunction(self, car117)
-
-    def test_car118(self):
-        GeneralFunctions.deleteAddCarFunction(self, car118)
+    # def test_car117(self):
+    #     GeneralFunctions.deleteAddCarFunction(self, car117)
+    #
+    # def test_car118(self):
+    #     GeneralFunctions.deleteAddCarFunction(self, car118)
         
     def test_car119(self):
         GeneralFunctions.deleteAddCarFunction(self, car119)
 
-
+    # def test_car120(self):
+    #     GeneralFunctions.deleteAddCarFunction(self, car120)
 
     def test_car121(self):
         GeneralFunctions.deleteAddCarFunction(self, car121)
@@ -181,8 +182,8 @@ class AdaugaMasini(unittest.TestCase):
     # def test_car131(self):
     #     GeneralFunctions.deleteAddCarFunction(self, car131)
 
-    def test_car132(self):
-        GeneralFunctions.deleteAddCarFunction(self, car132)
+    # def test_car132(self):
+    #     GeneralFunctions.deleteAddCarFunction(self, car132)
 
     # def test_car133(self):
     #     GeneralFunctions.deleteAddCarFunction(self, car133)

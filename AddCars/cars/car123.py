@@ -5,7 +5,7 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "renault clio 1.2-16 V,garantie,CAR PASS,65000 km,Euro 6b"
+var_title = "renault clio 1.2 i ,CAR PASS,65000 km,Euro 6b,Garantie"
 var_categorie = "Auto's"
 var_brand = "Renault"
 var_model = "Clio"

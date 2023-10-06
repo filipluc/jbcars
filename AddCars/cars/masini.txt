@@ -9,10 +9,10 @@
 109. citroen c4 picasso 1.6 hdi AUTOMAAT,51000 km,CAR PASS
 110. fiat 500,0.9 i,CAR PASS,enkel voor handelaar/marchand
 111. mini one D ,1.6 d,CAR PASS,102000km,Garantie,Euro 5
-112. ---
+112. mercedes B 200 cdi,AUTOMAAT,112000km,CAR PASS, garantie 12 m
 113. bmw 520 i,CAR PASS
 114. renault laguna 1.9 dci,CAR PASS,164000 km
-115. ---
+115. peugeot 3008, 1.6 hdi,CAR PASS,124000 km,Garantie
 116. ---
 117. ---
 118. ---
@@ -26,7 +26,7 @@
 126. volvo v50 ,1.6 d,EURO 5,export of autohandel
 127. ---
 128. fiat ducato 2.3 jtd,CAR PASS,laadlift,euro 4
-129. kia picanto 1.0 i,CAR PASS,garantie,AIRCO
+129. ---kia picanto 1.0 i,GEKEURD,airco,CAR PASS,1 jaar garantie
 130. alfa romeo GIULIETTA 2.0 jtd,AUTOMAAT,garantie,Euro 5
 131. ---
 132. ---

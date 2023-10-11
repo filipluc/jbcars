@@ -13,7 +13,7 @@
 113. bmw 520 i,CAR PASS
 114. renault laguna 1.9 dci,CAR PASS,164000 km
 115. peugeot 3008, 1.6 hdi,CAR PASS,124000 km,Garantie
-116. ---
+116. peugeot partner 1.6 hdi,CAR PASS,garantie,Euro 5,Airco
 117. ---
 118. ---
 119. renault megane 1.2 tce,CAR PASS,29000 km,Garantie
@@ -26,7 +26,7 @@
 126. volvo v50 ,1.6 d,EURO 5,export of autohandel
 127. ---
 128. fiat ducato 2.3 jtd,CAR PASS,laadlift,euro 4
-129. ---kia picanto 1.0 i,GEKEURD,airco,CAR PASS,1 jaar garantie
+129. ---
 130. alfa romeo GIULIETTA 2.0 jtd,AUTOMAAT,garantie,Euro 5
 131. ---
 132. ---

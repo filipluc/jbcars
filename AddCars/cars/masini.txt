@@ -14,7 +14,7 @@
 114. renault laguna 1.9 dci,CAR PASS,164000 km
 115. peugeot 3008, 1.6 hdi,CAR PASS,124000 km,Garantie
 116. peugeot partner 1.6 hdi,CAR PASS,garantie,Euro 5,Airco
-117. ---
+117. renault Grand Scenic 1.5 dci,CAR PASS,53000 km,7 zit,Euro 6b
 118. ---
 119. renault megane 1.2 tce,CAR PASS,29000 km,Garantie
 120. ---
@@ -31,5 +31,5 @@
 131. ---
 132. ---
 133. ---
-134. opel corsa 1.2 i,AUTOMAAT,32000km,CAR PASS,euro 5
+134. opel corsa 1.2 i,AUTOMAAT,32000km,CAR PASS,gekeurd
 135. ---

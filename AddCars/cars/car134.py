@@ -5,11 +5,11 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "opel corsa 1.2 i,AUTOMAAT,32000km,CAR PASS,euro 5"
+var_title = "opel corsa 1.2 i,AUTOMAAT,32000km,CAR PASS,gekeurd"
 var_categorie = "Auto's"
 var_brand = "Opel"
 var_model = "Corsa"
-var_desc = "\n1 jaar garantie\nCAR PASS\nwordt gekeurd met roos formulier\n1229 cc benzine\63 kw\n125 co2\n32903 km\n"
+var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd met roos formulier\n1229 cc benzine\63 kw\n125 co2\n32000 km\n"
 var_price = "9990"
 var_picspath = "car134"
 var_carroserie = "Monovolume"

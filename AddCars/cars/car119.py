@@ -8,7 +8,7 @@ Created on Jun 3, 2018
 var_title = "renault megane 1.2 tce,CAR PASS,29000 km,Garantie"
 var_categorie = "Auto's"
 var_brand = "Renault"
-var_model = "Megane"
+var_model = "Mégane"
 var_desc = "\n1 jaar garantie\nCAR PASS\nwordt gekeurd met roos formulier\neerste eigenaar\n1197 cc\n85 kw\n29900 km\n"
 var_price = "7990"
 var_picspath = "car119"

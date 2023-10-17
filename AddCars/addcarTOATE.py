@@ -16,7 +16,7 @@ from xmlrunner import *
 import time
 from AddCars.general import GeneralFunctions
 from AddCars.cars import car101
-# from AddCars.cars import car102
+from AddCars.cars import car102
 from AddCars.cars import car103
 from AddCars.cars import car104
 from AddCars.cars import car105
@@ -113,8 +113,8 @@ class AdaugaMasini(unittest.TestCase):
     def test_car108(self):
         GeneralFunctions.deleteAddCarFunction(self, car108)
 
-    # def test_car109(self):
-    #     GeneralFunctions.deleteAddCarFunction(self, car109)
+    def test_car109(self):
+        GeneralFunctions.deleteAddCarFunction(self, car109)
 
     def test_car110(self):
         GeneralFunctions.deleteAddCarFunction(self, car110)
@@ -131,8 +131,8 @@ class AdaugaMasini(unittest.TestCase):
     def test_car114(self):
         GeneralFunctions.deleteAddCarFunction(self, car114)
         
-    # def test_car115(self):
-    #     GeneralFunctions.deleteAddCarFunction(self, car115)
+    def test_car115(self):
+        GeneralFunctions.deleteAddCarFunction(self, car115)
 
     def test_car116(self):
         GeneralFunctions.deleteAddCarFunction(self, car116)
@@ -140,8 +140,8 @@ class AdaugaMasini(unittest.TestCase):
     def test_car117(self):
         GeneralFunctions.deleteAddCarFunction(self, car117)
 
-    # def test_car118(self):
-    #     GeneralFunctions.deleteAddCarFunction(self, car118)
+    def test_car118(self):
+        GeneralFunctions.deleteAddCarFunction(self, car118)
         
     def test_car119(self):
         GeneralFunctions.deleteAddCarFunction(self, car119)
@@ -155,8 +155,8 @@ class AdaugaMasini(unittest.TestCase):
     # def test_car122(self):
     #     GeneralFunctions.deleteAddCarFunction(self, car122)
 
-    def test_car123(self):
-        GeneralFunctions.deleteAddCarFunction(self, car123)
+    # def test_car123(self):
+    #     GeneralFunctions.deleteAddCarFunction(self, car123)
 
     # def test_car124(self):
     #     GeneralFunctions.deleteAddCarFunction(self, car124)

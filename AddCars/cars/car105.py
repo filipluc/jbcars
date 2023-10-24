@@ -5,49 +5,24 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "mercedes S 500"
+var_title = "peugeot 3008 blue hdi,1.6,Euro 6b,CAR PASS,37000 km,Garantie"
 var_categorie = "Auto's"
-var_brand = "Mercedes-Benz"
-var_model = "S-Klasse"
-var_desc = "\nenkel voor export of handelaar\n"
-var_price = "9500"
+var_brand = "Peugeot"
+var_model = "3008"
+var_desc = "\n1 jaar garantie\nCAR PASS\nwordt gekeurd met roos formulier\n37710 km\neuro 6b\n1560 cc\n85 kw\nco2=108\n"
+var_price = "14290"
 var_picspath = "car105"
-var_carroserie = "Berline"
+var_carroserie = "Monovolume"
 var_month = ""
-var_year = "2008"
-var_gas = "Benzine"
-var_transmissie = "Auto"
-var_km = "269000"
+var_year = "2016"
+var_gas = "Diesel"
+var_transmissie = "Hand"
+var_km = "37000"
 var_doors = ""
 var_pk = ""
-var_cilinder = "5461"
-var_co2 = "279"
-var_euro = "euro 4"
-var_options = """Alarm
-Elektrische buitenspiegels
-Elektrische stoelverstelling
-Climate control
-Mistlampen
-Radio
-Traction-control
-Verwarmde buitenspiegels
-Xenon verlichting
-Elektrische koffer
-ABS
-Airbags
-Lederen bekleding
-Boordcomputer
-Centrale vergrendeling
-Airconditioning
-Elektrische ramen
-Electronic Stability Program (ESP)
-Isofix
-Lichtmetalen velgen
-Metaalkleur
-Navigatiesysteem
-Open dak
-Parkeersensor
-Zetelverwarming
-Cruise Control"""
+var_cilinder = "1600"
+var_co2 = "108"
+var_euro = "euro 6"
+var_options = """ABS,Airbags,Airconditioning,Alarm,Bluetooth,Boordcomputer,Centrale vergrendeling,Climate control,Cruise Control,Electronic Stability Program (ESP),Elektrische buitenspiegels,Elektrische ramen,Isofix,Lichtmetalen velgen,Metaalkleur,Mistlampen,Navigatiesysteem,Parkeersensor,Radio,Traction-control,Trekhaak,Verwarmde buitenspiegels"""
 var_carcolor = "Zilver of Grijs"
 var_interiorcolor = ""

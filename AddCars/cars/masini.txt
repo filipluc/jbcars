@@ -2,9 +2,9 @@
 102. audi a2 , 1.4 tdi,CAR PASS,export of handelaar
 103. peugeot 3008, AUTOMAAT,1.6 hdi,CAR PASS,garantie,,euro 5
 104. Lexus IS300H,CAR PASS,€19834+btw/tva,Euro 6c
-105. mercedes S 500
+105. peugeot 3008 blue hdi,1.6,Euro 6b,CAR PASS,37000 km,Garantie
 106. citroen c3, 1.4 hdi,CAR PASS,96000km,Euro 5
-107. ford ecosport 1.0 i,CAR PASS,39000km
+107. ---
 108. fiat punto 1.2 i,CAR PASS,garantie,Euro 6b
 109. fiat panda 1.2 i,Euro 6b, CAR PASS,67000 km,Garantie
 110. fiat 500,0.9 i,CAR PASS,enkel voor handelaar/marchand
@@ -15,10 +15,10 @@
 115. peugeot 5008 ,1.6 hdi,Euro 6,CAR PASS,7 zit,Garantie
 116. peugeot partner 1.6 hdi,CAR PASS,garantie,Euro 5,Airco
 117. renault Grand Scenic 1.5 dci,CAR PASS,53000 km,7 zit,Euro 6b
-118. volvo v70 ,2.0d,CAR PASS,garantie,nieuwe staat
+118. ---
 119. renault megane 1.2 tce,CAR PASS,29000 km,Garantie
 120. ---
-121. peugeot partner 1.6 i,CAR PASS,Euro 6b
+121. ---
 122. ---
 123. ---
 124. ---

@@ -3,8 +3,8 @@
 103. peugeot 3008, AUTOMAAT,1.6 hdi,CAR PASS,garantie,,euro 5
 104. Lexus IS300H,CAR PASS,€19834+btw/tva,Euro 6c
 105. peugeot 3008 blue hdi,1.6,Euro 6b,CAR PASS,37000 km,Garantie
-106. citroen c3, 1.4 hdi,CAR PASS,96000km,Euro 5
-107. ---
+106. peugeot 207, 1.4 benzine,CAR PASS,garantie,Airco
+107. jeep compass 2.0 d,4WD,CAR PASS,140000 km,Export of marchand
 108. fiat punto 1.2 i,CAR PASS,garantie,Euro 6b
 109. fiat panda 1.2 i,Euro 6b, CAR PASS,67000 km,Garantie
 110. fiat 500,0.9 i,CAR PASS,enkel voor handelaar/marchand

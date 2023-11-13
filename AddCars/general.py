@@ -38,13 +38,13 @@ class GeneralFunctions():
         return True
     
     def deleteAddCarFunction(self, car_detail):
-        self.driver.get("https://www.2dehands.be/beheer/advertenties/overzicht/")
+        self.driver.get("https://www.2dehands.be/my-account/sell/index.html/")
         time.sleep(4)
         if GeneralFunctions.check_exists_by_xpath(self, car_detail):
             print(str(car_detail) + '---Masina exista, va fi adaugata din nou')
             GeneralFunctions.addCarFunction(self, car_detail)
             time.sleep(1)
-            self.driver.get("https://www.2dehands.be/beheer/advertenties/overzicht/")
+            self.driver.get("https://www.2dehands.be/my-account/sell/index.html/")
             time.sleep(2)
             if GeneralFunctions.check_exists_by_xpath_multiple(self, car_detail):
                 print(str(car_detail) + '---Masina veche va fi stearsa')

@@ -8,15 +8,15 @@
 108. fiat punto 1.2 i,CAR PASS,garantie,Euro 6b
 109. fiat panda 1.2 i,Euro 6b, CAR PASS,67000 km,Garantie
 110. fiat 500,0.9 i,CAR PASS,enkel voor handelaar/marchand
-111. mini one D ,1.6 d,CAR PASS,102000km,Garantie,Euro 5
-112. mercedes B 200 cdi,AUTOMAAT,112000km,CAR PASS, garantie 12 m
+111. renault twingo 1.0i,CAR PASS,32000 km,Euro 6b,Garantie
+112. ---
 113. bmw 520 i,CAR PASS
 114. renault laguna 1.9 dci,CAR PASS,164000 km
 115. peugeot 5008 ,1.6 hdi,Euro 6,CAR PASS,7 zit,Garantie
-116. peugeot partner 1.6 hdi,CAR PASS,garantie,Euro 5,Airco
+116. ---
 117. renault Grand Scenic 1.5 dci,CAR PASS,53000 km,7 zit,Euro 6b
 118. ---
-119. renault megane 1.2 tce,CAR PASS,29000 km,Garantie
+119. ---
 120. ---
 121. ---
 122. ---

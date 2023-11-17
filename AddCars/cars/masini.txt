@@ -25,7 +25,7 @@
 125. mercedes GLC coupe 250, 4-Matic
 126. volvo v50 ,1.6 d,EURO 5,export of autohandel
 127. ---
-128. fiat ducato 2.3 jtd,CAR PASS,laadlift,euro 4
+128. fiat ducato 2.3 jtd,met Ladlift 400kg,€ 4876+btw/tva
 129. ---
 130. alfa romeo GIULIETTA 2.0 jtd,AUTOMAAT,garantie,Euro 5
 131. ---

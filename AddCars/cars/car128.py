@@ -5,7 +5,7 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "fiat ducato 2.3 jtd,CAR PASS,laadlift,euro 4"
+var_title = "fiat ducato 2.3 jtd,met Ladlift 400kg,€ 4876+btw/tva"
 var_categorie = "Auto's"
 var_brand = "Bestelwagens en Lichte vracht"
 var_model = "Fiat"

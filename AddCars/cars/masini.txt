@@ -9,11 +9,11 @@
 109. fiat panda 1.2 i,Euro 6b, CAR PASS,67000 km,Garantie
 110. fiat 500,0.9 i,CAR PASS,enkel voor handelaar/marchand
 111. renault twingo 1.0i,CAR PASS,32000 km,Euro 6b,Garantie
-112. ---
+112. renault espace 1.6dci-160pk,AUTOMAAT,7 zit,€15579+BTW/TVA
 113. bmw 520 i,CAR PASS
 114. renault laguna 1.9 dci,CAR PASS,164000 km
 115. peugeot 5008 ,1.6 hdi,Euro 6,CAR PASS,7 zit,Garantie
-116. ---
+116. opel astra 1.4 i,EURO 5,CAR PASS,garantie,NAVIGATIE
 117. renault Grand Scenic 1.5 dci,CAR PASS,53000 km,7 zit,Euro 6b
 118. ---
 119. ---

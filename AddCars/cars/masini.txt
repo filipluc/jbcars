@@ -2,7 +2,7 @@
 102. audi a2 , 1.4 tdi,CAR PASS,export of handelaar
 103. peugeot 3008, AUTOMAAT,1.6 hdi,CAR PASS,garantie,,euro 5
 104. Lexus IS300H,CAR PASS,€19834+btw/tva,Euro 6c
-105. peugeot 3008 blue hdi,1.6,Euro 6b,CAR PASS,37000 km,Garantie
+105. Peugeot 206,1.1i,CAR PASS,48000km,Garantie
 106. peugeot 207, 1.4 benzine,CAR PASS,garantie,Airco
 107. jeep compass 2.0 d,4WD,CAR PASS,140000 km,Export of marchand
 108. fiat punto 1.2 i,CAR PASS,garantie,Euro 6b

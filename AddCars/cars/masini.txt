@@ -1,7 +1,7 @@
 101. jeep grand cherokee 3.0 crd ,START NIET, export,Demarre pas
 102. audi a2 , 1.4 tdi,CAR PASS,export of handelaar
 103. peugeot 3008, AUTOMAAT,1.6 hdi,CAR PASS,garantie,,euro 5
-104. Lexus IS300H,CAR PASS,€19834+btw/tva,Euro 6c
+104. Lexus IS300H,2.5 elektrisch+benzine,,€19834+btw/tva,Euro 6c
 105. Peugeot 206,1.1i,CAR PASS,48000km,Garantie
 106. peugeot 207, 1.4 benzine,CAR PASS,garantie,Airco
 107. jeep compass 2.0 d,4WD,CAR PASS,140000 km,Export of marchand

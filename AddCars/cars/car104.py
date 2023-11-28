@@ -5,7 +5,7 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "Lexus IS300H,CAR PASS,€19834+btw/tva,Euro 6c"
+var_title = "Lexus IS300H,2.5 elektrisch+benzine,,€19834+btw/tva,Euro 6c"
 var_categorie = "Auto's"
 var_brand = "Lexus"
 var_model = "IS"

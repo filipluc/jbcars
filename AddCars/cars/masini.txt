@@ -6,7 +6,7 @@
 106. peugeot 207, 1.4 benzine,CAR PASS,garantie,Airco
 107. jeep compass 2.0 d,4WD,CAR PASS,140000 km,Export of marchand
 108. fiat punto 1.2 i,CAR PASS,garantie,Euro 6b
-109. fiat panda 1.2 i,Euro 6b, CAR PASS,67000 km,Garantie
+109. ---
 110. fiat 500,0.9 i,CAR PASS,enkel voor handelaar/marchand
 111. renault twingo 1.0i,CAR PASS,32000 km,Euro 6b,Garantie
 112. renault espace 1.6dci-160pk,AUTOMAAT,7 zit,€15579+BTW/TVA
@@ -31,5 +31,5 @@
 131. ---
 132. ---
 133. ---
-134. opel corsa 1.2 i,AUTOMAAT,32000km,CAR PASS,gekeurd
+134. ---
 135. ---

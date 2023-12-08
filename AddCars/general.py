@@ -168,7 +168,7 @@ class GeneralFunctions():
         elem82.send_keys(Keys.TAB)
         time.sleep(0.5)
 
-        elem83 = driver.find_element_by_xpath("//select[@name='singleSelectAttribute[euronormBE]']")
+        elem83 = driver.find_element_by_xpath("//select[@name='singleSelectAttribute[euronorm]']")
         elem83.click()
         elem83.send_keys(car_detail.var_euro)
         elem83.send_keys(Keys.TAB)

@@ -37,7 +37,6 @@ Adaptieve lichten
 Alarm
 Lichtmetalen velgen
 Metaalkleur
-Lederen bekleding
 Boordcomputer
 Centrale vergrendeling
 Airconditioning

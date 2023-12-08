@@ -29,7 +29,6 @@ Radio
 Traction-control
 ABS
 Airbags
-Lederen bekleding
 Boordcomputer
 Centrale vergrendeling
 Airconditioning

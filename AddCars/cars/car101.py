@@ -41,7 +41,6 @@ Xenon verlichting
 Elektrische koffer
 ABS
 Airbags
-Lederen bekleding
 Boordcomputer
 Centrale vergrendeling
 Airconditioning

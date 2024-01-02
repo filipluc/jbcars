@@ -1,19 +1,19 @@
 101. jeep grand cherokee 3.0 crd ,START NIET, export,Demarre pas
-102. audi a2 , 1.4 tdi,CAR PASS,export of handelaar
+102. ---
 103. peugeot 3008, AUTOMAAT,1.6 hdi,CAR PASS,garantie,,euro 5
 104. Lexus IS300H,2.5 elektrisch+benzine,,€19834+btw/tva,Euro 6c
-105. Peugeot 206,1.1i,CAR PASS,48000km,Garantie
+105. ---
 106. ---
 107. jeep compass 2.0 d,4WD,CAR PASS,140000 km,Export of marchand
 108. fiat punto 1.2 i,CAR PASS,garantie,Euro 6b
 109. ---
 110. ---
 111. renault twingo 1.0i,CAR PASS,32000 km,Euro 6b,Garantie
-112. renault espace 1.6dci-160pk,AUTOMAAT,7 zit,€15579+BTW/TVA
+112. ---
 113. bmw 520 i,CAR PASS
 114. renault laguna 1.9 dci,CAR PASS,164000 km
 115. peugeot 5008 ,1.6 hdi,Euro 6,CAR PASS,7 zit,Garantie
-116. opel astra 1.4 i,EURO 5,CAR PASS,garantie,NAVIGATIE
+116. ---
 117. renault Grand Scenic 1.5 dci,CAR PASS,53000 km,7 zit,Euro 6b
 118. ---
 119. ---

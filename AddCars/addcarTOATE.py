@@ -59,7 +59,7 @@ class AdaugaMasini(unittest.TestCase):
         #options.add_argument("--incognito")
         options.add_experimental_option("debuggerAddress", "127.0.0.1:1111")
         # self.driver = webdriver.Chrome(chrome_options=options)
-        self.driver = webdriver.Chrome(executable_path='C:\SeleniumDrivers\chromedriver.exe', chrome_options=options)
+        self.driver = webdriver.Chrome(options=options)
         driver = self.driver
         time.sleep(5)
 

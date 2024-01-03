@@ -16,7 +16,8 @@ from xmlrunner import *
 from AddCars.general import GeneralFunctions
 # import webbrowser
 import time
-from AddCars.cars import car104
+from selenium.webdriver.chrome.options import Options
+from AddCars.cars import car103
 
 
 
@@ -32,7 +33,7 @@ class AdaugaMasiniSingle(unittest.TestCase):
         #options.add_argument("--incognito")
         options.add_experimental_option("debuggerAddress", "127.0.0.1:1111")
         # self.driver = webdriver.Chrome(chrome_options=options)
-        self.driver = webdriver.Chrome(executable_path='C:\SeleniumDrivers\chromedriver.exe', chrome_options=options)
+        self.driver = webdriver.Chrome(options=options)
         driver = self.driver
         time.sleep(5)
         # #driver.implicitly_wait(5)
@@ -64,8 +65,8 @@ class AdaugaMasiniSingle(unittest.TestCase):
         pass
 
     #@unittest.skip("skip car") 
-    def test_car104(self):
-        GeneralFunctions.deleteAddCarFunction(self, car104)
+    def test_car103(self):
+        GeneralFunctions.deleteAddCarFunction(self, car103)
 
         
 def suite():

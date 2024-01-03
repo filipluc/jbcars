@@ -13,6 +13,7 @@ import time
 import os
 from selenium.webdriver.support.ui import Select
 import regex
+from selenium.webdriver.common.by import By
 
 class GeneralFunctions():
     
@@ -21,7 +22,7 @@ class GeneralFunctions():
     def check_exists_by_xpath_multiple(self, car_detail):
         driver = self.driver
         try:
-            driver.find_elements_by_xpath("//span[contains(text(),'" + str(car_detail.var_title) + "')]")[1]
+            driver.find_elements(By.XPATH, "//span[contains(text(),'" + str(car_detail.var_title) + "')]")[1]
         except NoSuchElementException:        
             return False
         except IndexError:
@@ -32,7 +33,7 @@ class GeneralFunctions():
     def check_exists_by_xpath(self, car_detail):
         driver = self.driver
         try:
-            driver.find_element_by_xpath("//span[contains(text(),'" + str(car_detail.var_title) + "')]")
+            driver.find_element(By.XPATH, "//span[contains(text(),'" + str(car_detail.var_title) + "')]")
         except NoSuchElementException:
             return False
         return True
@@ -58,7 +59,7 @@ class GeneralFunctions():
     def deleteAddCarFunction_old(self, car_detail):
         #not  used
         if GeneralFunctions.check_exists_by_xpath(self, car_detail):
-            print ('Masina exista, va fi stearsa' + str(car_detail))
+            print('Masina exista, va fi stearsa' + str(car_detail))
             GeneralFunctions.deleteCarFunction(self, car_detail)
             time.sleep(2)
             if not GeneralFunctions.check_exists_by_xpath(self, car_detail):
@@ -72,19 +73,19 @@ class GeneralFunctions():
     def deleteCarFunction(self, car_detail):
         driver = self.driver
         time.sleep(2)
-        elem101 = driver.find_elements_by_xpath("//span[contains(text(),'" + str(car_detail.var_title) + "')]")[1]
+        elem101 = driver.find_elements(By.XPATH, "//span[contains(text(),'" + str(car_detail.var_title) + "')]")[1]
         elem101.click()
         time.sleep(2)
-        elem102 = driver.find_element_by_xpath("//span[text()='Verwijder']")
+        elem102 = driver.find_element(By.XPATH, "//span[text()='Verwijder']")
         time.sleep(2)
         elem102.click()
         time.sleep(2)
-        elem103 = driver.find_element_by_xpath("//button[contains(text(), 'Verkocht via 2dehands')]")
+        elem103 = driver.find_element(By.XPATH, "//button[contains(text(), 'Verkocht via 2dehands')]")
         time.sleep(1)
         elem103.click()
         time.sleep(1)
         try:
-            elem104 = driver.find_element_by_xpath("//button[text() = 'Direct']")
+            elem104 = driver.find_element(By.XPATH, "//button[text() = 'Direct']")
             elem104.click()
             time.sleep(1)
         except NoSuchElementException:
@@ -95,7 +96,7 @@ class GeneralFunctions():
     def addCarFunction(self, car_detail):
         driver = self.driver
         #Adauga anunt nou
-        driver.find_element_by_link_text('Plaats zoekertje').click()
+        driver.find_element(By.LINK_TEXT, 'Plaats zoekertje').click()
         try:
             WebDriverWait(driver, 5).until(EC.title_contains("tweedehands"), "Pagina de Adauga anunt nu a fost gasita")
         except TimeoutException:
@@ -103,20 +104,20 @@ class GeneralFunctions():
         finally:
             pass
         time.sleep(1)
-        elem3 = driver.find_element_by_id("category-keywords")
+        elem3 = driver.find_element(By.ID, "category-keywords")
         elem3.clear()
         elem3.send_keys(car_detail.var_title)
         elem3.send_keys(Keys.TAB)
         time.sleep(1)
 
-        select1 = Select(driver.find_element_by_id('cat_sel_1'))
+        select1 = Select(driver.find_element(By.ID, 'cat_sel_1'))
         select1.select_by_visible_text(car_detail.var_categorie)
         time.sleep(1)
 
-        select11 = Select(driver.find_element_by_id('cat_sel_3'))
+        select11 = Select(driver.find_element(By.ID, 'cat_sel_3'))
         select11.select_by_visible_text(car_detail.var_brand)
         time.sleep(1)
-        elem77 = driver.find_element_by_id('category-selection-submit')
+        elem77 = driver.find_element(By.ID, 'category-selection-submit')
         elem77.click()
         time.sleep(3)
 
@@ -128,14 +129,14 @@ class GeneralFunctions():
         for dirname, dirnames, filenames in os.walk(picspath):
             # print(filenames)
             for filename in filenames:
-                elem15 = driver.find_elements_by_xpath("//input[contains(@id, 'html5_')]")[-1]
+                elem15 = (driver.find_elements(By.XPATH, "//input[contains(@id, 'html5_')]"))[-1]
                 time.sleep(0.5)
                 elem15.send_keys(os.path.join(dirname, filename))
                 time.sleep(6)
         time.sleep(2)
 
         # elem8 = driver.find_element_by_id("description_ifr")
-        elem8 = driver.find_element_by_id("description_nl-BE_ifr")
+        elem8 = driver.find_element(By.ID, "description_nl-BE_ifr")
         # elem8.send_keys("\nBeste klanten,\nin de periode 20/07/2020 tot 21/08/2020(vakantie)\nwij zijn open enkel op afspraak 0485/673404\ndank u\n\n")
         # elem8.send_keys("\nVanaf zaterdag 27 maart enkel op afspraak, met maximaal 2 personen.\nU kan telefonisch of per email een afspraak maken.\n")
         elem8.send_keys(car_detail.var_desc)
@@ -143,17 +144,17 @@ class GeneralFunctions():
         elem8.send_keys("\nMeer Info 0485/673404\nE-mail: jb.cars@hotmail.com\nOpgelet: Tijdelijk enkel op afspraak\nAttention: Temporairement uniquement sur rendez-vous\n\nadres\nLIERSESTEENWEG 153\n2547 LINT")
         time.sleep(1)
 
-        elem9 = driver.find_element_by_xpath("//input[contains(@id, 'js-feature-url')]")
+        elem9 = driver.find_element(By.XPATH, "//input[contains(@id, 'js-feature-url')]")
         elem9.send_keys("www.jbcars.be")
         time.sleep(0.2)
 
         elem81 = ""
         try:
-            elem81 = driver.find_element_by_xpath("//select[@name='singleSelectAttribute[model]']")
+            elem81 = driver.find_element(By.XPATH, "//select[@name='singleSelectAttribute[model]']")
             elem81.click()
         except NoSuchElementException:
             try:
-                elem81 = driver.find_element_by_xpath("//select[@name='singleSelectAttribute[brand]']")
+                elem81 = driver.find_element(By.XPATH, "//select[@name='singleSelectAttribute[brand]']")
                 elem81.click()
             except NoSuchElementException:
                 pass
@@ -162,20 +163,20 @@ class GeneralFunctions():
             elem81.send_keys(Keys.TAB)
         time.sleep(0.5)
 
-        elem82 = driver.find_element_by_xpath("//select[@name='singleSelectAttribute[fuel]']")
+        elem82 = driver.find_element(By.XPATH, "//select[@name='singleSelectAttribute[fuel]']")
         elem82.click()
         elem82.send_keys(car_detail.var_gas)
         elem82.send_keys(Keys.TAB)
         time.sleep(0.5)
 
-        elem83 = driver.find_element_by_xpath("//select[@name='singleSelectAttribute[euronormBE]']")
+        elem83 = driver.find_element(By.XPATH, "//select[@name='singleSelectAttribute[euronormBE]']")
         elem83.click()
         elem83.send_keys(car_detail.var_euro)
         elem83.send_keys(Keys.TAB)
         time.sleep(0.5)
 
         try:
-            elem84 = driver.find_element_by_xpath("//select[@name='singleSelectAttribute[body]']")
+            elem84 = driver.find_element(By.XPATH, "//select[@name='singleSelectAttribute[body]']")
             elem84.click()
             elem84.send_keys(car_detail.var_carroserie)
             elem84.send_keys(Keys.TAB)
@@ -183,50 +184,50 @@ class GeneralFunctions():
         except NoSuchElementException:
             pass
 
-        elem85 = driver.find_element_by_xpath("//select[@name='singleSelectAttribute[aantaldeurenBE]']")
+        elem85 = driver.find_element(By.XPATH, "//select[@name='singleSelectAttribute[aantaldeurenBE]']")
         elem85.click()
         elem85.send_keys(car_detail.var_doors)
         elem85.send_keys(Keys.TAB)
         time.sleep(0.5)
 
-        elem86 = driver.find_element_by_xpath("//select[@name='singleSelectAttribute[transmission]']")
+        elem86 = driver.find_element(By.XPATH, "//select[@name='singleSelectAttribute[transmission]']")
         elem86.click()
         elem86.send_keys(car_detail.var_transmissie)
         elem86.send_keys(Keys.TAB)
         time.sleep(0.5)
 
-        elem87 = driver.find_element_by_xpath("//select[@name='singleSelectAttribute[color]']")
+        elem87 = driver.find_element(By.XPATH, "//select[@name='singleSelectAttribute[color]']")
         elem87.click()
         elem87.send_keys(car_detail.var_carcolor)
         elem87.send_keys(Keys.TAB)
         time.sleep(0.5)
 
-        elem87 = driver.find_element_by_xpath("//select[@name='singleSelectAttribute[interiorcolor]']")
+        elem87 = driver.find_element(By.XPATH, "//select[@name='singleSelectAttribute[interiorcolor]']")
         elem87.click()
         elem87.send_keys(car_detail.var_interiorcolor)
         elem87.send_keys(Keys.TAB)
         time.sleep(0.5)
 
-        elem88 = driver.find_element_by_xpath("//input[contains(@id, 'numericAttribute[constructionYear]')]")
+        elem88 = driver.find_element(By.XPATH, "//input[contains(@id, 'numericAttribute[constructionYear]')]")
         elem88.click()
         elem88.send_keys(car_detail.var_year)
         elem88.send_keys(Keys.TAB)
         time.sleep(0.5)
 
-        elem89 = driver.find_element_by_xpath("//input[contains(@id, 'numericAttribute[co2emission]')]")
+        elem89 = driver.find_element(By.XPATH, "//input[contains(@id, 'numericAttribute[co2emission]')]")
         elem89.click()
         elem89.send_keys(car_detail.var_co2)
         elem89.send_keys(Keys.TAB)
         time.sleep(0.5)
 
-        elem90 = driver.find_element_by_xpath("//input[contains(@id, 'numericAttribute[mileage]')]")
+        elem90 = driver.find_element(By.XPATH, "//input[contains(@id, 'numericAttribute[mileage]')]")
         elem90.click()
         elem90.send_keys(car_detail.var_km)
         elem90.send_keys(Keys.TAB)
         time.sleep(0.5)
 
 
-        elem91 = driver.find_element_by_xpath("//input[contains(@id, 'numericAttribute[engineDisplacement]')]")
+        elem91 = driver.find_element(By.XPATH, "//input[contains(@id, 'numericAttribute[engineDisplacement]')]")
         elem91.click()
         elem91.send_keys(car_detail.var_cilinder)
         elem91.send_keys(Keys.TAB)
@@ -335,25 +336,25 @@ class GeneralFunctions():
                 y = "Verwarmde buitenspiegels"
             if x == "Xenon verlichting":
                 y = "Xenon verlichting"
-            driver.find_element_by_xpath("//input[@value='" + str(y) + "']").click()
+            driver.find_element(By.XPATH, "//input[@value='" + str(y) + "']").click()
             time.sleep(0.1)
 
 
 
-        elem92 = driver.find_element_by_xpath("//input[contains(@name, 'price.value')]")
+        elem92 = driver.find_element(By.XPATH, "//input[contains(@name, 'price.value')]")
         elem92.click()
         elem92.send_keys(car_detail.var_price)
         elem92.send_keys(Keys.TAB)
         time.sleep(0.5)
 
-        elem93 = driver.find_element_by_xpath("//input[contains(@id, 'syi-bidding-switch')]")
+        elem93 = driver.find_element(By.XPATH, "//input[contains(@id, 'syi-bidding-switch')]")
         #elem93 = driver.find_element_by_xpath("//span[@class='mp-Toggle-round']")
         elem93.click()
         time.sleep(0.5)
 
 
         try:
-            elem94 = driver.find_element_by_xpath("//span[text()='Gratis']")
+            elem94 = driver.find_element(By.XPATH, "//span[text()='Gratis']")
             elem94.click()
             time.sleep(1)
         # except NoSuchElementException:
@@ -361,10 +362,10 @@ class GeneralFunctions():
         #     elem94.click()
         #     time.sleep(1)
         except NoSuchElementException:
-            elem94 = driver.find_element_by_xpath("//*[@id='feature-bundles']/div/div[2]/div/div[2]/label/div[1]/div[1]")
+            elem94 = driver.find_element(By.XPATH, "//*[@id='feature-bundles']/div/div[2]/div/div[2]/label/div[1]/div[1]")
             elem94.click()
             time.sleep(3)
 
-        elem95 = driver.find_element_by_xpath("//a[contains(@id, 'syi-place-ad-button')]")
+        elem95 = driver.find_element(By.XPATH, "//a[contains(@id, 'syi-place-ad-button')]")
         elem95.click()
         time.sleep(20)

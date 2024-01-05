@@ -252,6 +252,8 @@ class GeneralFunctions():
                 y = "Climate control Airconditioning"
             if x == "Alarm":
                 y = "Alarm"
+            if x == "Achteruitrijcamera":
+                y = "Achteruitrijcamera"
             if x == "Lederen bekleding":
                 y = "Bekleding leder"
             if x == "Bluetooth":
@@ -264,6 +266,8 @@ class GeneralFunctions():
                 y = "Climate control"
             if x == "Cruise Control":
                 y = "Cruise Control"
+            if x == "Dakrails":
+                y = "Dakrails"
             if x == "Dodehoekdetectie":
                 y = "Dodehoekdetectie"
             if x == "Elektrische koffer":
@@ -282,6 +286,10 @@ class GeneralFunctions():
                 y = "Keyless entry"
             if x == "Isofix":
                 y = "Isofix"
+            if x == "Lane Departure Warning":
+                y = "Lane Departure Warning"
+            if x == "Lane Keeping Assist":
+                y = "Lane Keeping Assist"
             if x == "Lichtmetalen velgen":
                 y = "Lichtmetalen velgen"
             if x == "Metaalkleur":

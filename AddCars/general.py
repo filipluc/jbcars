@@ -282,6 +282,8 @@ class GeneralFunctions():
                 y = "Elektrische ramen"
             if x == "Emergency brake assist":
                 y = "Emergency brake assist"
+            if x == "Head-up Display":
+                y = "Head-up Display"
             if x == "Keyless entry":
                 y = "Keyless entry"
             if x == "Isofix":
@@ -292,6 +294,10 @@ class GeneralFunctions():
                 y = "Lane Keeping Assist"
             if x == "Lichtmetalen velgen":
                 y = "Lichtmetalen velgen"
+            if x == "LED verlichting":
+                y = "LED verlichting"
+            if x == "Lichtsensor":
+                y = "Lichtsensor"
             if x == "Metaalkleur":
                 y = "Metallic lak"
             if x == "Mistlampen":
@@ -310,6 +316,8 @@ class GeneralFunctions():
                 y = "Parkeersensor"
             if x == "Radio":
                 y = "Radio"
+            if x == "Regensensor":
+                y = "Regensensor"
             if x == "Schuifdeur":
                 y = "Shuifdeur"
             if x == "Sportpakket":

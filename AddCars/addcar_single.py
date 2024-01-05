@@ -17,7 +17,7 @@ from AddCars.general import GeneralFunctions
 # import webbrowser
 import time
 from selenium.webdriver.chrome.options import Options
-from AddCars.cars import car103
+from AddCars.cars import car102
 
 
 
@@ -65,8 +65,8 @@ class AdaugaMasiniSingle(unittest.TestCase):
         pass
 
     #@unittest.skip("skip car") 
-    def test_car103(self):
-        GeneralFunctions.deleteAddCarFunction(self, car103)
+    def test_car102(self):
+        GeneralFunctions.deleteAddCarFunction(self, car102)
 
         
 def suite():

@@ -5,8 +5,8 @@
 105. peugeot 508,AUTOMAAT,1.6 benzine,Euro 6b,CAR PASS,garantie
 106. fiat bravo 1.4 benzine,69000 km,CAR PASS,garantie
 107. jeep compass 2.0 d,4WD,CAR PASS,140000 km,Export of marchand
-108. fiat punto 1.2 i,CAR PASS,garantie,Euro 6b
-109. ---
+108. skoda octavia 1.9 tdi-90pk(ALH motorcode)
+109. peugeot 107,1.0 benzine,CAR PASS,garantie,Euro 5
 110. ---
 111. renault twingo 1.0i,CAR PASS,32000 km,Euro 6b,Garantie
 112. ---

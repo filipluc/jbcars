@@ -7,7 +7,7 @@
 107. jeep compass 2.0 d,4WD,CAR PASS,140000 km,Export of marchand
 108. skoda octavia 1.9 tdi-90pk(ALH motorcode)
 109. peugeot 107,1.0 benzine,CAR PASS,garantie,Euro 5
-110. ---
+110. Volvo v90,Momentum D4 Geartronic,Automaat,2.0d,euro 6b
 111. renault twingo 1.0i,CAR PASS,32000 km,Euro 6b,Garantie
 112. ---
 113. bmw 520 i,CAR PASS

@@ -13,7 +13,7 @@
 113. bmw 520 i,CAR PASS
 114. renault laguna 1.9 dci,CAR PASS,164000 km
 115. peugeot 5008 ,1.6 hdi,Euro 6,CAR PASS,7 zit,Garantie
-116. ---
+116. opel insignia 2.0 d,CAR PASS,garantie,Euro 5b
 117. renault Grand Scenic 1.5 dci,CAR PASS,53000 km,7 zit,Euro 6b
 118. ---
 119. ---

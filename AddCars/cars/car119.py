@@ -7,7 +7,7 @@ Created on Jun 3, 2018
 
 var_title = "peugeot 308cc,1.6 hdi,CAR PASS,80000 km,Bwj 2013,Euro 5"
 var_categorie = "Auto's"
-var_brand = "p\Peugeot"
+var_brand = "Peugeot"
 var_model = "308"
 var_desc = "\n1 jaar garantie\nCAR PASS\nwordt gekeurd met roos formulier\neerste eigenaar met oh-boekje bij Peugeot\n84 kw\n"
 var_price = "11990"

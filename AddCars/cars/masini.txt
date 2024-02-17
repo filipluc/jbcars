@@ -19,7 +19,7 @@
 119. peugeot partner 1.6 hdi,CAR PASS,euro 6b,Garantie
 120. peugeot bipper 1.3 d,L.V.,GEKEURD,garantie,CAR PASS,euro 5
 121. peugeot bipper 1.3 d,GEKEURD,garantie,CAR PASS,euro 5
-122. ---
+122. kia rio 1.3 benzine,CAR PASS,Euro 5b,Garantie
 123. --
 124. ---
 125. mercedes GLC coupe 250, 4-Matic

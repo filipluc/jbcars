@@ -8,19 +8,19 @@
 108. peugeot 2008,1.2 i,CAR PASS,garantie,Euro 5
 109. peugeot 107,1.0 benzine,CAR PASS,garantie,Euro 5
 110. Volvo v90,Momentum D4 Geartronic,Automaat,2.0d,euro 6b
-111. renault twingo 1.0i,CAR PASS,32000 km,Euro 6b,Garantie
+111. renault twingo 1.0i,GEKEURD,32000km,Euro6b,Garantie,CAR PASS
 112. peugeot partner OUTDOOR 1.6 hdi-90 pk,CAR PASS,garantie
 113. bmw 520 i,CAR PASS
 114. renault laguna 1.9 dci,CAR PASS,164000 km
 115. peugeot 5008 ,1.6 hdi,Euro 6,CAR PASS,7 zit,Garantie
-116. ---
+116. peugeot 5008,1.6 hdi,,7 zit,CAR PASS,euro 5, GARANTIE
 117. renault Grand Scenic 1.5 dci,CAR PASS,53000 km,7 zit,Euro 6b
-118. ---
-119. peugeot 308cc,1.6 hdi,CAR PASS,80000 km,Bwj 2013,Euro 5
+118. renault clio 1.5 dci,CAR PASS,euro 5,Garantie
+119. peugeot partner 1.6 hdi,CAR PASS,euro 6b,Garantie
 120. peugeot bipper 1.3 d,L.V.,GEKEURD,garantie,CAR PASS,euro 5
 121. peugeot bipper 1.3 d,GEKEURD,garantie,CAR PASS,euro 5
-122. peugeot partner 1.6 hdi,GEKEURD,lichte vracht,3 zit,Euro 6b
-123. peugeot partner 1.6 hdi,3 zit,GEKEURD,€ 10743+btw/tva,Euro6b
+122. ---
+123. --
 124. ---
 125. mercedes GLC coupe 250, 4-Matic
 126. volvo v50 ,1.6 d,EURO 5,export of autohandel

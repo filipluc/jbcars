@@ -5,11 +5,11 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "renault twingo 1.0i,CAR PASS,32000 km,Euro 6b,Garantie"
+var_title = "renault twingo 1.0i,GEKEURD,32000km,Euro6b,Garantie,CAR PASS"
 var_categorie = "Auto's"
 var_brand = "Renault"
 var_model = "Twingo"
-var_desc = "\n1 jaar garantie\nCAR PASS\nwordt gekeurd met roos formulier\neerste eigenaar\naltijd bij renault garage gewest voor onderhoud\n999 cc benzine\neuro 6b\n32000 km\n105 co2\n52 kw\n"
+var_desc = "\n1 jaar garantie\nCAR PASS\n gekeurd met roos formulier\neerste eigenaar\naltijd bij renault garage gewest voor onderhoud\n999 cc benzine\neuro 6b\n32000 km\n105 co2\n52 kw\n"
 var_price = "7990"
 var_picspath = "car111"
 var_carroserie = "Stadsauto"

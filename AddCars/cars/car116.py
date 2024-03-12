@@ -5,7 +5,7 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "renault clio 1.5 dci,CAR PASS,euro 6c,Garantie,Bwj 11/2018"
+var_title = "renault clio 1.5 dci,CAR PASS,euro  6c,Garantie,Bwj 11/2018"
 var_categorie = "Auto's"
 var_brand = "Renault"
 var_model = "Clio"

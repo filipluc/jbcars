@@ -1,5 +1,5 @@
 101. jeep grand cherokee 3.0 crd ,START NIET, export,Demarre pas
-102. opel zafira 1.6 benzine,7 zit,CAR PASS,euro 5,Garantie
+102. nissan note 1.4 benzine,CAR PASS,garantie
 103. peugeot 3008,1.6 hdi,AUTOMAAT,garantie,GEKEURD,CAR PASS
 104. Lexus IS300H,2.5 elektrisch+benzine,,€19834+btw/tva,Euro 6c
 105. renault kangoo 1.2 i,CAR PASS,17683 km,Bwj 12/2018,Euro 6b

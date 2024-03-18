@@ -7,7 +7,7 @@
 107. jeep compass 2.0 d,4WD,CAR PASS,140000 km,Export of marchand
 108. peugeot 2008,1.2 i,CAR PASS,garantie,Euro 5
 109. peugeot 107,1.0 benzine,CAR PASS,garantie,Euro 5
-110. Volvo v90,Momentum D4 Geartronic,Automaat,2.0d,euro 6b
+110. ---Volvo v90,Momentum D4 Geartronic,Automaat,2.0d,euro 6b
 111. renault twingo 1.0i,GEKEURD,32000km,Euro6b,Garantie,CAR PASS
 112. peugeot partner OUTDOOR 1.6 hdi-90 pk,CAR PASS,garantie
 113. bmw 520 i,CAR PASS
@@ -18,12 +18,12 @@
 118. renault clio 1.5 dci,CAR PASS,euro 5,Garantie
 119. peugeot partner 1.6 hdi,CAR PASS,euro 6b,Garantie
 120. peugeot partner 1.6 hdi,CAR PASS,euro 5,Garantie
-121. mini one 1.6 benzine,GEKEURD,euro 4,CAR PASS,garantie
-122. kia rio 1.3 benzine,CAR PASS,Euro 5b,Garantie
-123. --
+121. ---mini one 1.6 benzine,GEKEURD,euro 4,CAR PASS,garantie
+122. ---kia rio 1.3 benzine,CAR PASS,Euro 5b,Garantie
+123. mitsubishi asx 1.6 benzine,CAR PASS,euro 5,Garantie
 124. ---
 125. mercedes GLC coupe 250, 4-Matic
-126. volvo v50 ,1.6 d,EURO 5,export of autohandel
+126. ---
 127. ---
 128. ---
 129. ---

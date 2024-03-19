@@ -18,7 +18,7 @@
 118. renault clio 1.5 dci,CAR PASS,euro 5,Garantie
 119. peugeot partner 1.6 hdi,CAR PASS,euro 6b,Garantie
 120. peugeot partner 1.6 hdi,CAR PASS,euro 5,Garantie
-121. ---mini one 1.6 benzine,GEKEURD,euro 4,CAR PASS,garantie
+121. ---
 122. ---kia rio 1.3 benzine,CAR PASS,Euro 5b,Garantie
 123. mitsubishi asx 1.6 benzine,CAR PASS,euro 5,Garantie
 124. ---

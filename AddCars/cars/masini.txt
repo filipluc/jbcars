@@ -1,4 +1,4 @@
-101. jeep grand cherokee 3.0 crd ,START NIET, export,Demarre pas
+101. ford tourneo courier 1.5 tdci,CAR PASS,bwj 2016,euro 5b
 102. nissan note 1.4 benzine,CAR PASS,garantie
 103. peugeot 3008,1.6 hdi,AUTOMAAT,garantie,GEKEURD,CAR PASS
 104. Lexus IS300H,2.5 elektrisch+benzine,,€19834+btw/tva,Euro 6c
@@ -18,10 +18,10 @@
 118. renault clio 1.5 dci,CAR PASS,euro 5,Garantie
 119. peugeot partner 1.6 hdi,CAR PASS,euro 6b,Garantie
 120. peugeot partner 1.6 hdi,CAR PASS,euro 5,Garantie
-121. ---
+121. peugeot partner 1.6 i,Bwj 12/2016,Euro 6b,MOTOR kapot !!!!
 122. ---kia rio 1.3 benzine,CAR PASS,Euro 5b,Garantie
 123. mitsubishi asx 1.6 benzine,CAR PASS,euro 5,Garantie
-124. ---
+124. renault megane cabrio 1.5 dci,GEKEURD,euro 5
 125. mercedes GLC coupe 250, 4-Matic
 126. ---
 127. ---

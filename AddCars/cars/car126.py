@@ -5,38 +5,25 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "volvo v50 ,1.6 d,EURO 5,export of autohandel"
+var_title = "peugeot 206+,1.4 i,GEKEURD,garantie,CAR PASS,airco"
 var_categorie = "Auto's"
-var_brand = "Volvo"
-var_model = "V50"
-var_desc = "\nenkel voor export of autohandel\n"
-var_price = "1450"
+var_brand = "Peugeot"
+var_model = "206"
+var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd voor verkoop\njuist groot onderhoud gehad:\ndistributieriem+waterpomp\nmultiriem set\n.....\nbwj 07/2010\n103000 km\n1360 cc\n55 kw\neuro 4\n149 co2\n"
+var_price = "4990"
 var_picspath = "car126"
-var_carroserie = "Break"
+var_carroserie = "Stadsauto"
 var_month = ""
-var_year = "2008"
-var_gas = "Diesel"
+var_year = "2010"
+var_gas = "Benzine"
 var_transmissie = "Hand"
-var_km = "256000"
+var_km = "100000"
 var_doors = ""
 var_pk = ""
-var_cilinder = "1560"
-var_co2 = "132"
-var_euro = "euro 5"
-var_options = """Alarm
-Elektrische buitenspiegels
-Radio
-Traction-control
-ABS
-Airbags
-Boordcomputer
-Centrale vergrendeling
-Airconditioning
-Elektrische ramen
-Electronic Stability Program (ESP)
-Isofix
-Lichtmetalen velgen
-Metaalkleur
-Cruise Control"""
-var_carcolor = "Zwart"
+var_cilinder = "1400"
+var_co2 = "149"
+var_euro = "euro 4"
+var_options = """ABS,Airbags,Airconditioning,Alarm,Boordcomputer,Centrale vergrendeling,Elektrische ramen,Isofix,Metaalkleur,Mistlampen,Radio,Traction-control"""
+var_carcolor = "
+Zilver of Grijs"
 var_interiorcolor = ""

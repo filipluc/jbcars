@@ -14,7 +14,7 @@
 114. renault laguna 1.9 dci,CAR PASS,164000 km
 115. peugeot 5008 ,1.6 hdi,Euro 6,CAR PASS,7 zit,Garantie
 116. renault clio 1.5 dci,CAR PASS,euro  6c,Garantie,Bwj 11/2018
-117. ---
+117. fiat 500, 1.2 i,36000 km,CAR PASS,euro 6b,Garantie 1 jaar
 118. renault clio 1.5 dci,CAR PASS,euro 5,Garantie
 119. peugeot partner 1.6 hdi,CAR PASS,euro 6b,Garantie
 120. peugeot partner 1.6 hdi,CAR PASS,euro 5,Garantie

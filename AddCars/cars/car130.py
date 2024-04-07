@@ -5,12 +5,12 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "alfa romeo GIULIETTA 2.0 jtd,AUTOMAAT,garantie,Euro 5"
+var_title = "alfa romeo GIULIETTA 2.0 jtd,AUTOMAAT,euro 5"
 var_categorie = "Auto's"
 var_brand = "Alfa Romeo"
 var_model = "Giulietta"
-var_desc = "\n1 jaar garantie\nCAR PASS\nwordt gekeurd met roos formulier\ndistributieriem + waterpomp vervangen op 205541 km\neerste eigenaar met oh-boekje bij ALFA\nco2=119 g\n"
-var_price = "7990"
+var_desc = "\nexport of autohandel\nCAR PASS\ndistributieriem + waterpomp vervangen op 205541 km\neerste eigenaar met oh-boekje bij ALFA\nco2=119 g\n"
+var_price = "5000"
 var_picspath = "car130"
 var_carroserie = "Berline"
 var_month = ""

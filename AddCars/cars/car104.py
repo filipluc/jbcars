@@ -5,12 +5,12 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "Lexus IS300H,2.5 elektrisch+benzine,,€19834+btw/tva,Euro 6c"
+var_title = "Lexus IS300H,2.5 elektrisch+benzine,,€18594+btw/tva,Euro 6c"
 var_categorie = "Auto's"
 var_brand = "Lexus"
 var_model = "IS"
-var_desc = "\n1 jaar garantie\nCAR PASS\nwordt gekeurd met roos formulier\nco2 = 97 g/km\nprijs € 19834+btw/tva\neerste eigenaar met oh-boekje\n2494 cc  HYBRIDE benzine+elektrisch\n133 kw\neuro 6c\nbwj 03/2018\n"
-var_price = "23999"
+var_desc = "\n1 jaar garantie\nCAR PASS\nwordt gekeurd met roos formulier\nco2 = 97 g/km\nprijs € 18594+btw/tva\neerste eigenaar met oh-boekje\n2494 cc  HYBRIDE benzine+elektrisch\n133 kw\neuro 6c\nbwj 03/2018\n89000 km\n"
+var_price = "22499"
 var_picspath = "car104"
 var_carroserie = "Berline"
 var_month = ""

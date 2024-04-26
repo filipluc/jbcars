@@ -8,7 +8,7 @@ Created on Jun 3, 2018
 var_title = "citroen c4, 1.4 benzine,CAR PASS,euro 5,Garantie"
 var_categorie = "Auto's"
 var_brand = "Citroën"
-var_model = "C4"
+var_model = ""
 var_desc = "\n1 jaar garantie\nCAR PASS\nwordt gekeurd voor verkoop\neerste eigenaar met oh-boekje\nbwj 11/2011\n1397 cc\n70 kw\neuro 5\n140 co2\n95000 km\n"
 var_price = "6499"
 var_picspath = "car127"

@@ -19,7 +19,7 @@
 119. peugeot partner 1.6 hdi,CAR PASS,euro 6b,Garantie
 120. peugeot partner 1.6 hdi,CAR PASS,euro 5,Garantie
 121. peugeot partner 1.6 i,Bwj 12/2016,Euro 6b,MOTOR kapot (cassé
-122. ---
+122. peugeot partner 1.6 benzine,CAR PASS,72000 km,1 jaarGarantie
 123. ---
 124. renault megane cabrio 1.5 dci,GEKEURD,euro 5
 125. mercedes GLC coupe 250, 4-Matic

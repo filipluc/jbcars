@@ -1,4 +1,4 @@
-101. ford tourneo courier 1.5 tdci,CAR PASS,bwj 2016,euro 5b
+101. ford tourneo courier 1.5 tdci,GEKEURD/CAR PASS/bwj 2016
 102. nissan note 1.4 benzine,CAR PASS,garantie
 103. peugeot 3008,1.6 hdi,AUTOMAAT,garantie,GEKEURD,CAR PASS
 104. Lexus IS300H,2.5 elektrisch+benzine,,€18594+btw/tva,Euro 6c
@@ -10,7 +10,7 @@
 110. chrysler PT cruiser 1.6 benzine,CAR PASS,eerste eigenaar
 111. skoda fabia 1.2 crdi,Euro 5,export of autohandel
 112. ---peugeot 107, bwj 2008,export of autohandel
-113. ---bmw 520 i,CAR PASS
+113. bmw 520 i,GEKEURD/CAR PASS,125 kw
 114. renault laguna 1.9 dci,CAR PASS,164000 km
 115. peugeot 206 ,1.1 benzine,EXPORT of autohandel
 116. renault clio 1.5 dci,CAR PASS,euro  6c,Garantie,Bwj 11/2018

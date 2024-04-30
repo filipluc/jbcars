@@ -5,12 +5,12 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "ford tourneo courier 1.5 tdci,CAR PASS,bwj 2016,euro 5b"
+var_title = "ford tourneo courier 1.5 tdci,GEKEURD/CAR PASS/bwj 2016"
 var_categorie = "Auto's"
 var_brand = "Ford"
 var_model = "Tourneo"
-var_desc = "\nzo meenemen prijs\nauto rijdt goed\nCAR PASS\nbwj 02/2016\n55 kw\n1499 cc\n108 co2\n"
-var_price = "6500"
+var_desc = "\n1 Jaar garantie\ngekeurd voor verkoop\nCAR PASS\nbwj 02/2016\n55 kw\n201000 km\n1499 cc diesel\n108 co2\neuro 5b\n"
+var_price = "6995"
 var_picspath = "car101"
 var_carroserie = "Monovolume"
 var_month = ""

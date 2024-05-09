@@ -9,12 +9,12 @@
 109. peugeot 107,1.0 benzine,CAR PASS,garantie,Euro 5
 110. chrysler PT cruiser 1.6 benzine,CAR PASS,eerste eigenaar
 111. skoda fabia 1.2 crdi,Euro 5,export of autohandel
-112. ---peugeot 107, bwj 2008,export of autohandel
+112. ---peugeot 107,GEKEURD/CAR PASS,5 deurs,Garantie
 113. bmw 520 i,GEKEURD/CAR PASS,125 kw
 114. renault laguna 1.9 dci,CAR PASS,164000 km
 115. peugeot 206 ,1.1 benzine,EXPORT of autohandel
 116. renault clio 1.5 dci,CAR PASS,euro  6c,Garantie,Bwj 11/2018
-117. peugeot 3008, 1.6 i,CAR PASS,90000 km,Euro 5,garantie,LEDER
+117. dacia sandero STEPWAY 1.5 dci,CAR PASS,euro 6b,FULL OPTION
 118. renault clio 1.5 dci,CAR PASS,euro 5,Garantie
 119. peugeot partner 1.6 hdi,CAR PASS,euro 6b,Garantie
 120. peugeot partner 1.6 hdi,CAR PASS,euro 5,Garantie

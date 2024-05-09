@@ -5,11 +5,11 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "peugeot 107, bwj 2008,export of autohandel"
+var_title = "peugeot 107,GEKEURD/CAR PASS,5 deurs,Garantie"
 var_categorie = "Auto's"
 var_brand = "Peugeot"
 var_model = "107"
-var_desc = "\nexport of autohandel\nbwj 2008\n998 cc\n50 kw\n109 co2\neuro 4\n"
+var_desc = "\n1 jaar garantie\nCAR PASS\ngekeurd voor verkoop\nbwj 2008\n998 cc benzine\n50 kw\n109 co2\n186000km\n"
 var_price = "1850"
 var_picspath = "car112"
 var_carroserie = "Stadsauto"

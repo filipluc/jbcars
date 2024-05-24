@@ -9,7 +9,7 @@
 109. peugeot 107,1.0 benzine,CAR PASS,garantie,Euro 5
 110. chrysler PT cruiser 1.6 benzine,CAR PASS,eerste eigenaar
 111. skoda fabia 1.2 crdi,Euro 5,export of autohandel
-112. ---
+112. citroen c3 , 1124 cc ,CAR PASS,54000 km,Euro 5, bwj 2012
 113. bmw 520 i,GEKEURD/CAR PASS,125 kw
 114. renault laguna 1.9 dci,CAR PASS,164000 km
 115. peugeot 206 ,1.1 benzine,EXPORT of autohandel
@@ -19,7 +19,8 @@
 119. peugeot partner 1.6 hdi,CAR PASS,garantie,Euro 5b
 120. peugeot partner 1.6 hdi,CAR PASS,euro 5,Garantie
 121. peugeot partner 1.6 i,Bwj 12/2016,Euro 6b,MOTOR kapot (cassé
-122. peugeot partner 1.6 benzine,CAR PASS,72000 km,1 jaarGarantie
+122. ---
+122. ---
 123. ---
 124. renault megane cabrio 1.5 dci,GEKEURD,euro 5
 125. mercedes GLC coupe 250, 4-Matic

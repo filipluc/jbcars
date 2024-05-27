@@ -1,6 +1,6 @@
 101. ford tourneo courier 1.5 tdci,GEKEURD/CAR PASS/bwj 2016
 102. nissan note 1.4 benzine,CAR PASS,garantie
-103. peugeot 3008,1.6 hdi,AUTOMAAT,garantie,GEKEURD,CAR PASS
+103. ---
 104. Lexus IS300H,2.5 elektrisch+benzine,,€18594+btw/tva,Euro 6c
 105. renault kangoo 1.2 i,CAR PASS,17683 km,Bwj 12/2018,Euro 6b
 106. fiat bravo 1.4 benzine,69000 km,CAR PASS,garantie

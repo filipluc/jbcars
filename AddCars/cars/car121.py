@@ -5,11 +5,11 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "peugeot partner 1.6 i,Bwj 12/2016,Euro 6b,MOTOR kapot (cassé"
+var_title = "peugeot partner 1.6 i,Bwj 12/2016,Euro 6b,,,,,START NIET,,,"
 var_categorie = "Auto's"
 var_brand = "Peugeot"
 var_model = "Partner"
-var_desc = "\nmotor kapot\ndistributieketting gebroken\nbwj 12/2016\n147000 km\n148 co2\n72 kw\neuro 6b\n1598 cc benzine\n"
+var_desc = "\nmotor kapot/moteur casse !!!!\ndistributieketting gebroken  !!!\nchaine distribution casse !!!!\nbwj 12/2016\n147000 km\n148 co2\n72 kw\neuro 6b\n1598 cc benzine\n"
 var_price = "5000"
 var_picspath = "car121"
 var_carroserie = "Monovolume"

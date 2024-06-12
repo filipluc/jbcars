@@ -18,7 +18,7 @@
 118. renault clio 1.5 dci,CAR PASS,euro 5,Garantie
 119. peugeot partner 1.6 hdi,CAR PASS,garantie,Euro 5b
 120. peugeot partner 1.2 i,CAR PASS,12.000 km,Bwj 06/2018,Euro 6b
-121. peugeot partner 1.6 i,Bwj 12/2016,Euro 6b,MOTOR kapot (cassé
+121. peugeot partner 1.6 i,Bwj 12/2016,Euro 6b,,,,,START NIET,,,
 122. peugeot partner 1.6 hdi ,CAR PASS,bwj 2010,Euro 4,AIRCO
 122. ---
 123. ---

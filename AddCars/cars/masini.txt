@@ -9,7 +9,7 @@
 109. peugeot 107,1.0 benzine,CAR PASS,garantie,Euro 5
 110. chrysler PT cruiser 1.6 benzine,CAR PASS,eerste eigenaar
 111. skoda fabia 1.2 crdi,Euro 5,export of autohandel
-112. citroen c3 , 1124 cc ,CAR PASS,54000 km,Euro 5, bwj 2012
+112. ---
 113. bmw 520 i,GEKEURD/CAR PASS,125 kw
 114. renault laguna 1.9 dci,CAR PASS,164000 km
 115. peugeot 206 ,1.1 benzine,EXPORT of autohandel

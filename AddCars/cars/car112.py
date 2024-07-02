@@ -5,7 +5,7 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "mazda 626 benzine 1991 cc ,AIRCO, export"
+var_title = "mazda 626  benzine 1991 cc ,AIRCO, export"
 var_categorie = "Auto's"
 var_brand = "Mazda"
 var_model = "626"

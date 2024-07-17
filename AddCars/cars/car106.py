@@ -5,11 +5,11 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "fiat bravo 1.4 benzine,69000 km,CAR PASS,garantie"
+var_title = "fiat bravo 1.4 benzine,GEKEURD,,69000 km,CAR PASS,garantie"
 var_categorie = "Auto's"
 var_brand = "Fiat"
 var_model = "Bravo"
-var_desc = "\n1 jaar garantie\nCAR PASS\nwordt gekeurd met roos formulier\nbwj 10/2007\neerste eigenaar\n1368 cc\n66 kw\n158 co2\n"
+var_desc = "\n1 jaar garantie\nCAR PASS\nGEKEURD met roos formulier\nbwj 10/2007\neerste eigenaar\n1368 cc\n66 kw\n158 co2\n"
 var_price = "4990"
 var_picspath = "car106"
 var_carroserie = "Stadsauto"

@@ -17,8 +17,44 @@ from AddCars.general import GeneralFunctions
 # import webbrowser
 import time
 from selenium.webdriver.chrome.options import Options
+from webdriver_manager.chrome import ChromeDriverManager
+from selenium.webdriver.chrome.service import Service
 
+from AddCars.cars import car101
+from AddCars.cars import car102
+from AddCars.cars import car103
+from AddCars.cars import car104
+from AddCars.cars import car105
 from AddCars.cars import car106
+from AddCars.cars import car107
+from AddCars.cars import car108
+from AddCars.cars import car109
+from AddCars.cars import car110
+from AddCars.cars import car111
+from AddCars.cars import car112
+from AddCars.cars import car113
+from AddCars.cars import car114
+from AddCars.cars import car115
+from AddCars.cars import car116
+from AddCars.cars import car117
+from AddCars.cars import car118
+from AddCars.cars import car119
+from AddCars.cars import car120
+from AddCars.cars import car121
+from AddCars.cars import car122
+from AddCars.cars import car123
+from AddCars.cars import car124
+from AddCars.cars import car125
+from AddCars.cars import car126
+from AddCars.cars import car127
+from AddCars.cars import car128
+from AddCars.cars import car129
+from AddCars.cars import car130
+from AddCars.cars import car131
+from AddCars.cars import car132
+from AddCars.cars import car133
+from AddCars.cars import car134
+from AddCars.cars import car135
 
 
 
@@ -32,7 +68,7 @@ class AdaugaMasiniSingle(unittest.TestCase):
         options = webdriver.ChromeOptions()
         # options.add_argument("--start-maximized")
         #options.add_argument("--incognito")
-        options.add_experimental_option("debuggerAddress", "127.0.0.1:1111")
+        options.add_experimental_option("debuggerAddress", "127.0.0.1:2222")
         # self.driver = webdriver.Chrome(chrome_options=options)
         self.driver = webdriver.Chrome(options=options)
         driver = self.driver
@@ -66,8 +102,8 @@ class AdaugaMasiniSingle(unittest.TestCase):
         pass
 
     #@unittest.skip("skip car") 
-    def test_car106(self):
-        GeneralFunctions.deleteAddCarFunction(self, car106)
+    def test_car103(self):
+        GeneralFunctions.deleteAddCarFunction(self, car103)
 
         
 def suite():

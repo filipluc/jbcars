@@ -19,7 +19,7 @@
 119. peugeot partner 1.6 hdi,CAR PASS,garantie,Euro 5b
 120. peugeot partner 1.2 i,CAR PASS,12.000 km,Bwj 06/2018,Euro 6b
 121. peugeot partner 1.6 i,Bwj 12/2016,Euro 6b,,,,,START NIET,,,
-122. peugeot partner 1.6 benzine,Euro 5,CAR PASS,garantie
+122. ---peugeot partner 1.6 benzine,Euro 5,CAR PASS,garantie
 123. peugeot partner 1.6 benzine,CAR PASS,panorama dak,Euro 5
 124. renault megane cabrio 1.5 dci,GEKEURD,euro 5
 125. mercedes GLC coupe 250, 4-Matic

@@ -70,7 +70,7 @@ class AdaugaMasiniSingle(unittest.TestCase):
         start_chrome_command = [
             'start', 'chrome',
             'https://www.2dehands.be/my-account/sell/index.html',
-            '--new-window', '--remote-debugging-port=2222'
+            '--start-maximized', '--new-window', '--remote-debugging-port=2222'
         ]
         # Run the TASKKILL command
         try:

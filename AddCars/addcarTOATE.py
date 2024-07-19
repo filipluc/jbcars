@@ -14,6 +14,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException
 from xmlrunner import *
 import time
+import subprocess
 from AddCars.general import GeneralFunctions
 from AddCars.cars import car101
 from AddCars.cars import car102
@@ -54,6 +55,26 @@ from AddCars.cars import car135
 class AdaugaMasini(unittest.TestCase):
 
     def setUp(self):
+        taskkill_command = ['TASKKILL', '/IM', 'chrome.exe', '/F']
+        start_chrome_command = [
+            'start', 'chrome',
+            'https://www.2dehands.be/my-account/sell/index.html',
+            '--new-window', '--remote-debugging-port=2222'
+        ]
+        # Run the TASKKILL command
+        try:
+            subprocess.run(taskkill_command, check=True)
+            print("All instances of chrome.exe have been terminated.")
+        except subprocess.CalledProcessError as e:
+            print(f"Error terminating chrome.exe: {e}")
+
+        # Run the command to start Chrome
+        try:
+            subprocess.run(start_chrome_command, shell=True, check=True)
+            print("Chrome has been started with the specified URL and options.")
+        except subprocess.CalledProcessError as e:
+            print(f"Error starting Chrome: {e}")
+
         options = webdriver.ChromeOptions()
         #options.add_argument("--start-maximized")
         #options.add_argument("--incognito")

@@ -16,6 +16,7 @@ from xmlrunner import *
 from AddCars.general import GeneralFunctions
 # import webbrowser
 import time
+import subprocess
 from selenium.webdriver.chrome.options import Options
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.chrome.service import Service
@@ -65,6 +66,27 @@ class AdaugaMasiniSingle(unittest.TestCase):
         # chromedir = "C:/Program Files (x86)/Google/Chrome/Application/chrome.exe %s --new-window --remote-debugging-port=1111"
         # webbrowser.get(chromedir).open(myurl, new=1)
 
+        taskkill_command = ['TASKKILL', '/IM', 'chrome.exe', '/F']
+        start_chrome_command = [
+            'start', 'chrome',
+            'https://www.2dehands.be/my-account/sell/index.html',
+            '--new-window', '--remote-debugging-port=2222'
+        ]
+        # Run the TASKKILL command
+        try:
+            subprocess.run(taskkill_command, check=True)
+            print("All instances of chrome.exe have been terminated.")
+        except subprocess.CalledProcessError as e:
+            print(f"Error terminating chrome.exe: {e}")
+
+        # Run the command to start Chrome
+        try:
+            subprocess.run(start_chrome_command, shell=True, check=True)
+            print("Chrome has been started with the specified URL and options.")
+        except subprocess.CalledProcessError as e:
+            print(f"Error starting Chrome: {e}")
+
+
         options = webdriver.ChromeOptions()
         # options.add_argument("--start-maximized")
         #options.add_argument("--incognito")
@@ -102,8 +124,8 @@ class AdaugaMasiniSingle(unittest.TestCase):
         pass
 
     #@unittest.skip("skip car") 
-    def test_car103(self):
-        GeneralFunctions.deleteAddCarFunction(self, car103)
+    def test_car114(self):
+        GeneralFunctions.deleteAddCarFunction(self, car114)
 
         
 def suite():

@@ -5,7 +5,7 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "renault grand scenic 1.6 benzine,CAR PASS,garantie,5 zit"
+var_title = "renault grand scenic  1.6 benzine,CAR PASS,garantie,5 zit"
 var_categorie = "Auto's"
 var_brand = "Renault"
 var_model = "Grand Scenic"

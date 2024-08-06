@@ -4,7 +4,7 @@
 104. Lexus IS300H,2.5 elektrisch+benzine,,€18594+btw/tva,Euro 6c
 105. renault clio 1.2 benzine,CAR PASS,garantie,EURO 5,airco
 106. renault grand scenic  1.6 benzine,CAR PASS,garantie,5 zit
-107. jeep compass 2.0 d,4WD,CAR PASS,140000 km,Export of marchand
+107. peugeot 2008 benzine 1.2,GEKEURD,garantie,CAR PASS,euro 5b
 108. ---
 109. peugeot 107,1.0 benzine,CAR PASS,garantie,Euro 5
 110. chrysler PT cruiser 1.6 benzine,CAR PASS,eerste eigenaar

@@ -5,7 +5,7 @@
 105. renault clio 1.2 benzine,CAR PASS,garantie,EURO 5,airco
 106. renault grand scenic  1.6 benzine,CAR PASS,garantie,5 zit
 107. peugeot 2008 benzine 1.2,GEKEURD,garantie,CAR PASS,euro 5b
-108. ---
+108. alfa romeo giulietta 2.0 d,GEKEURD, AUTOMAAT, CAR PASS,euro5
 109. peugeot 107,1.0 benzine,CAR PASS,garantie,Euro 5
 110. chrysler PT cruiser 1.6 benzine,CAR PASS,eerste eigenaar
 111. skoda fabia 1.2 crdi,Euro 5,export of autohandel

@@ -256,6 +256,8 @@ class GeneralFunctions():
                 y = "Achteruitrijcamera"
             if x == "Apple Carplay":
                 y = "Apple Carplay"
+            if x == "Android Auto":
+                y = "Android Auto"
             if x == "Lederen bekleding":
                 y = "Bekleding leder"
             if x == "Bluetooth":

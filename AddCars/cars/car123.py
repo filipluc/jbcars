@@ -5,12 +5,12 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "peugeot partner 1.6 benzine,CAR PASS,panorama dak,Euro 5"
+var_title = "peugeot partner 1.6 benzine,Euro 5, EXPORT"
 var_categorie = "Auto's"
 var_brand = "Peugeot"
 var_model = "Partner"
-var_desc = "\n1 jaar garantie\nCAR PASS\nwordt gekeurd voor verkoop\neerste eigenaar met oh-boekje \nbwj 11/2012\n191000 km\npanorama dak\n1598 cc benzine\n72 kw\n155 co2\neuro 5\n"
-var_price = "6990"
+var_desc = "\n!!!!! enkel voor export of autohandel !!!/uniquement pour marchand\nNIET voor particulieren (geen keuring ,geen garantie)/pas pour les particulier(pas de CT,pas de garantie)\nCAR PASS\neerste eigenaar met oh-boekje \nbwj 11/2012\n191000 km\npanorama dak\n1598 cc benzine\n72 kw\n155 co2\neuro 5\n"
+var_price = "3750"
 var_picspath = "car123"
 var_carroserie = "Monovolume"
 var_month = ""

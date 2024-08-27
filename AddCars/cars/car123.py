@@ -5,7 +5,7 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "peugeot partner 1.6 benzine,Euro 5, EXPORT"
+var_title = "peugeot partner 1.6 benzine,Euro 5,  EXPORT"
 var_categorie = "Auto's"
 var_brand = "Peugeot"
 var_model = "Partner"

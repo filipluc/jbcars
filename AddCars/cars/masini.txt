@@ -9,15 +9,15 @@
 109. peugeot 107,1.0 benzine,CAR PASS,garantie,Euro 5
 110. chrysler PT cruiser 1.6 benzine,CAR PASS,eerste eigenaar
 111. skoda fabia 1.2 crdi,Euro 5,export of autohandel
-112. fiat bravo 1.4 benzine,CAR PASS,69000 km,Garantie
-113. ---
+112. ---fiat bravo 1.4 benzine,CAR PASS,69000 km,Garantie
+113. citroen c4 grand picasso 1.6 hdi,CAR PASS, 1 jaar Garantie
 114. renault laguna 1.9 dci,CAR PASS,164000 km
 115. ---
 116. opel zafira tourer 2.0 cdti,CAR PASS,euro 5,Garantie,5 zit
 117. citroen c4,1.6 hdi,CAR PASS,euro 6b,Garantie
 118. renault clio 1.5 dci,CAR PASS,euro 5,Garantie
 119. peugeot partner 1.6 hdi,CAR PASS,garantie,Euro 5,airco
-120. peugeot partner 1.2 i,CAR PASS,12.000 km,Bwj 06/2018,Euro 6b
+120. ---peugeot partner 1.2 i,CAR PASS,12.000 km,Bwj 06/2018,Euro 6b
 121. peugeot partner 1.6 i,Bwj 12/2016,Euro 6b,,,,,START NIET,,,
 122. ---
 123. peugeot partner 1.6 benzine,Euro 5, EXPORT

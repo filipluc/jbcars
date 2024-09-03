@@ -12,7 +12,7 @@
 112. citroen berlingo 1.6 hdi,CAR PASS,1 jaar garantie
 113. citroen c4 grand picasso 1.6 hdi,CAR PASS, 1 jaar Garantie
 114. renault laguna 1.9 dci,CAR PASS,164000 km
-115. ---
+115. skoda roomster 1.2 tdi ,CAR PASS, bwj 2011, Euro 5, EXPORT
 116. opel zafira tourer 2.0 cdti,CAR PASS,euro 5,Garantie,5 zit
 117. citroen c4,1.6 hdi,CAR PASS,euro 6b,Garantie
 118. renault clio 1.5 dci,CAR PASS,euro 5,Garantie

@@ -25,7 +25,7 @@
 125. mercedes GLC coupe 250, 4-Matic
 126. citroen c4,1.6 hdi,CAR PASS,euro 5,NAVIGATIE
 127. citroen c4, 1.4 benzine,CAR PASS,euro 5,Garantie
-128. peugeot partner 1.6 hdi ,CAR PASS,bwj 2010,Euro 4,AIRCO
+128. ---
 129. ---
 130. ---
 131. ---

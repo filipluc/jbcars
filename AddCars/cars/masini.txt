@@ -24,7 +24,7 @@
 124. renault megane cabrio 1.5 dci,GEKEURD,euro 5
 125. mercedes GLC coupe 250, 4-Matic
 126. citroen c3, 1124 cc benzine,Euro 5,CAR PASS,garantie
-127. ---
+127. fiat 500 L ,0,9 i,CAR PASS, € 3000+btw/tva
 128. peugeot 3008 AUTOMAAT 1.6 hdi,CAR PASS,12 maanden Garantie
 129. ---
 130. ---

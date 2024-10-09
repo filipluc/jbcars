@@ -1,6 +1,6 @@
 101. ford tourneo courier 1.5 tdci,GEKEURD/CAR PASS/bwj 2016
 102. peugeot 207 sw OUTDOOR,1.6 hdi,CAR PASS,garantie
-103. chevrolet matiz 0,8 i AUTOMAAT,5d,GEKEURD
+103. vw caddy 1.9 tdi , 7 zetels, CAR PASS,airco
 104. Lexus IS300H,2.5 elektrisch+benzine,,€18594+btw/tva,Euro 6c
 105. renault clio 1.2 benzine,CAR PASS,garantie,EURO 5,airco
 106. renault grand scenic  1.6 benzine,CAR PASS,garantie,5 zit
@@ -12,7 +12,7 @@
 112. vw touran 1.6 tdi,CAR PASS,€ 6190+btw/tva,Garantie
 113. citroen c4 grand picasso 1.6 hdi,CAR PASS, 1 jaar Garantie
 114. renault laguna 1.9 dci,CAR PASS,164000 km
-115. skoda roomster 1.2 tdi ,CAR PASS, bwj 2011, Euro 5, EXPORT
+115. kia ceed sw 1.4 i,Euro 6b,CAR PASS,garantie,NAVI camera
 116. opel zafira tourer 2.0 cdti,CAR PASS,euro 5,Garantie,5 zit
 117. citroen c4,1.6 hdi,CAR PASS,euro 6b,Garantie
 118. renault clio 1.5 dci,CAR PASS,euro 5,Garantie
@@ -22,11 +22,11 @@
 122. seat exeo 2.0 tdi,CAR PASS,94000 km,Euro 5,GARANTIE
 123. peugeot partner 1.6 hdi, 7-zit, CAR PASS, 1 jaar Garantie
 124. renault megane cabrio 1.5 dci,GEKEURD,euro 5
-125. mercedes GLC coupe 250, 4-Matic
+125. nissan micra 1.2 i, AUTOMAAT,euro 6b,CAR PASS,garantie
 126. citroen c3, 1124 cc benzine,Euro 5,CAR PASS,garantie
 127. fiat 500 L ,0,9 i,CAR PASS, € 3000+btw/tva
 128. peugeot 3008 AUTOMAAT 1.6 hdi,CAR PASS,12 maanden Garantie
-129. ---
+129. peugeot expert L2H1, GEKEURD voor verkoop
 130. ---
 131. ---
 132. ---

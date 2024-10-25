@@ -5,7 +5,7 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "Peugeot 5008, 2.0hdi,EURO 5,CAR PASS,garantie"
+var_title = "peugeot 5008, 2.0hdi,EURO 5,CAR PASS,garantie"
 var_categorie = "Auto's"
 var_brand = "Peugeot"
 var_model = "5008"

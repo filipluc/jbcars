@@ -22,9 +22,9 @@
 122. seat exeo 2.0 tdi,CAR PASS,94000 km,Euro 5,GARANTIE
 123. ---
 124. renault megane cabrio 1.5 dci,GEKEURD,euro 5
-125. ---
+125. peugeot partner 1.6 hdi,AUTOMAAT/GEKEURD/lichte vracht 3 zit
 126. citroen c3, 1124 cc benzine,Euro 5,CAR PASS,garantie
-127. ---
+127. peugeot partner 1.6 hdi,AUTOMAAT, € 4850+btw/tva, L.V ,3 zit
 128. peugeot 3008 AUTOMAAT 1.6 hdi,CAR PASS,12 maanden Garantie
 129. ---
 130. ---

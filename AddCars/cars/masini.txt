@@ -2,7 +2,7 @@
 102. hyundai i30 break,1.4 i,Euro 6 d,CAR PASS,garantie,bwj 2019
 103. vw caddy 1.9 tdi , 7 zetels, CAR PASS,airco
 104. Lexus IS 300 h , € 16521 + btw/tva,Euro 6c
-105. ---
+105. ford fiesta 1.1 benzine,92000 km,Euro 6
 106. renault grand scenic  1.6 benzine,CAR PASS,garantie,5 zit
 107. vw EOS 2.0 d,GEKEURD,1 jaar garantie,CAR PASS,euro 5
 108. alfa romeo giulietta 2.0 d,GEKEURD, AUTOMAAT, CAR PASS,euro5
@@ -12,7 +12,7 @@
 112. vw touran 1.6 tdi,CAR PASS,€ 6190+btw/tva,Garantie
 113. citroen c4 grand picasso 1.6 hdi,CAR PASS, 1 jaar Garantie
 114. renault laguna 1.9 dci,CAR PASS,164000 km
-115. ---
+115. peugeot rifter GT Line 1.5 d, PANORAMISCHE DAK, euro 6 de
 116. ---
 117. citroen c4,1.6 hdi,CAR PASS,euro 6b,Garantie
 118. ---

@@ -5,7 +5,7 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "hyundai sonata 2.0 crdi ,AUTOMAAT, CAR PASS"
+var_title = "hyundai sonata  2.0 crdi ,AUTOMAAT, CAR PASS"
 var_categorie = "Auto's"
 var_brand = "Hyundai"
 var_model = "Sonata"

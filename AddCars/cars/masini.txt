@@ -15,7 +15,7 @@
 115. peugeot rifter GT Line 1.5 d, PANORAMISCHE DAK, euro 6 de
 116. hyundai matrix 1.5 crdi ,CAR PASS,airco
 117. citroen c4,1.6 hdi,CAR PASS,euro 6b,Garantie
-118. hyundai sonata 2.0 crdi ,AUTOMAAT, CAR PASS
+118. hyundai sonata  2.0 crdi ,AUTOMAAT, CAR PASS
 119. fiat 500 ,0,9 cc,CAR PASS,euro 5
 120. dacia sandero 0.9 benzine,euro 5b,EXPORT of autohandel
 121. peugeot partner 1.6 hdi ,CAR PASS,bwj 2010,Euro 4,AIRCO

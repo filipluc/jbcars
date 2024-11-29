@@ -13,9 +13,9 @@
 113. citroen c4 grand picasso 1.6 hdi,CAR PASS, 1 jaar Garantie
 114. renault laguna 1.9 dci,CAR PASS,164000 km
 115. peugeot rifter GT Line 1.5 d, PANORAMISCHE DAK, euro 6 de
-116. ---
+116. hyundai matrix 1.5 crdi ,CAR PASS,airco
 117. citroen c4,1.6 hdi,CAR PASS,euro 6b,Garantie
-118. ---
+118. hyundai sonata 2.0 crdi ,AUTOMAAT //CAR PASS
 119. fiat 500 ,0,9 cc,CAR PASS,euro 5
 120. dacia sandero 0.9 benzine,euro 5b,EXPORT of autohandel
 121. peugeot partner 1.6 hdi ,CAR PASS,bwj 2010,Euro 4,AIRCO
@@ -23,7 +23,7 @@
 123. ---
 124. renault megane cabrio 1.5 dci,GEKEURD,euro 5
 125. peugeot partner 1.6 hdi,AUTOMAAT/GEKEURD/lichte vracht 3 zit
-126. citroen c3, 1124 cc benzine,Euro 5,CAR PASS,garantie
+126. ---
 127. peugeot partner 1.6 hdi,AUTOMAAT, € 4850+btw/tva, L.V ,3 zit
 128. peugeot 3008 AUTOMAAT 1.6 hdi,CAR PASS,12 maanden Garantie
 129. ---

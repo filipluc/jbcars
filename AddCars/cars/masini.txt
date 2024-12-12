@@ -2,21 +2,21 @@
 102. hyundai i30 break,1.4 i,Euro 6 d,CAR PASS,garantie,bwj 2019
 103. vw caddy 1.9 tdi , 7 zetels, CAR PASS,airco
 104. Lexus IS 300 h , € 16521 + btw/tva,Euro 6c
-105. ---ford fiesta 1.1 benzine,92000 km,Euro 6
+105. mazda 6 , 2191 d /euro 6b/€8252+btw-tva/CAR PASS/garantie
 106. renault grand scenic  1.6 benzine,CAR PASS,garantie,5 zit
 107. ---vw EOS 2.0 d,GEKEURD,1 jaar garantie,CAR PASS,euro 5
 108. alfa romeo giulietta 2.0 d,GEKEURD, AUTOMAAT, CAR PASS,euro5
 109. peugeot 107,1.0 benzine,CAR PASS,garantie,Euro 5
 110. chrysler PT cruiser 1.6 benzine,CAR PASS,eerste eigenaar
 111. skoda fabia 1.2 crdi,Euro 5,export of autohandel
-112. ---vw touran 1.6 tdi,CAR PASS,€ 6190+btw/tva,Garantie
+112. volvo v60 / 2.0 d/euro 6b/119000 km/bwj 10/2015/CAR PASS
 113. citroen c4 grand picasso 1.6 hdi,CAR PASS, 1 jaar Garantie
 114. renault laguna 1.9 dci,CAR PASS,164000 km
-115. ---peugeot rifter GT Line 1.5 d, PANORAMISCHE DAK, euro 6 de
+115. hyundai i 30 /1.4 i /42000 km/CAR PASS/garantie/airco
 116. hyundai matrix 1.5 crdi ,CAR PASS,airco
-117. ---citroen c4,1.6 hdi,CAR PASS,euro 6b,Garantie
+117. ---
 118. hyundai sonata  2.0 crdi ,AUTOMAAT, CAR PASS
-119. ---fiat 500 ,0,9 cc,CAR PASS,euro 5
+119. ---
 120. dacia sandero 0.9 benzine,euro 5b,EXPORT of autohandel
 121. peugeot partner 1.6 hdi ,CAR PASS,bwj 2010,Euro 4,AIRCO
 122. seat exeo 2.0 tdi,CAR PASS,94000 km,Euro 5,GARANTIE

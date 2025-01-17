@@ -5,12 +5,12 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "vw caddy 1.9 tdi , 7 zetels, CAR PASS,airco"
+var_title = "vw caddy 1.9 tdi , 7 zit /GEKEURD/CAR PASS"
 var_categorie = "Auto's"
 var_brand = "Volkswagen"
 var_model = "Caddy Maxi"
-var_desc = "\n7 zetels\n1 jaar garantie\nCAR PASS\nenkel voor autohandel\nauto rijdt goed\nbwj 10/2004\n1896 cc diesel\n77 kw\n247000 km\n"
-var_price = "4400"
+var_desc = "\n7 zetels\nGEKEURD VOOR VERKOOP\nCAR PASS\nauto rijdt goed\nbwj 10/2004\n1896 cc diesel\n77 kw\n247000 km\n"
+var_price = "4700"
 var_picspath = "car103"
 var_carroserie = "Monovolume"
 var_month = ""

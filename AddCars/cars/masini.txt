@@ -9,10 +9,10 @@
 109. peugeot 107,1.0 benzine,CAR PASS,garantie,Euro 5
 110. chrysler PT cruiser 1.6 benzine,CAR PASS,eerste eigenaar
 111. skoda fabia 1.2 crdi,Euro 5,export of autohandel
-112. ---
+112. peugeot partner 1.6 hdi,CAR PASS,euro 5, EXPORT
 113. citroen c4 grand picasso 1.6 hdi,CAR PASS, 1 jaar Garantie
 114. renault laguna 1.9 dci,CAR PASS,164000 km
-115. ---
+115. chevrolet matiz 0.8 i/AUTOMAAT/GEKEURD/63000 km/CAR PASS
 116. hyundai matrix 1.5 crdi ,CAR PASS,airco
 117. ---
 118. hyundai sonata  2.0 crdi ,AUTOMAAT, CAR PASS

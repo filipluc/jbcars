@@ -1,5 +1,5 @@
 101. opel combo 1.3 cdti,Airco,Euro 4
-102. hyundai i30 break,1.4 i,Euro 6 d,CAR PASS,garantie,bwj 2019
+102. ---
 103. vw caddy 1.9 tdi , 7 zit /GEKEURD/CAR PASS
 104. opel astra CABRIO 1.6 benzine /CAR PASS/garantie
 105. jeep wrangler 2.8 crd/GEKEURD/lichte vracht/126dkm/CAR PASS

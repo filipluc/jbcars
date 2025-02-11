@@ -1,15 +1,15 @@
 101. opel combo 1.3 cdti,Airco,Euro 4
-102. ---
+102. citroen c3 /1.4 hdi / CAR PASS /navigatie/Euro 5b/ 99 co2
 103. vw caddy 1.9 tdi , 7 zit /GEKEURD/CAR PASS
 104. opel astra CABRIO 1.6 benzine /CAR PASS/garantie
-105. jeep wrangler 2.8 crd/GEKEURD/lichte vracht/126dkm/CAR PASS
+105. mazda 2 /1.3 benzine /87000 km/CAR PASS/1 jaar garantie
 106. renault grand scenic  1.6 benzine,CAR PASS,garantie,5 zit
-107. hyundai i20 / 1.2 i /23000 km !!!
+107. opel corsa 1.3 cdti /CAR PASS/garantie/euro 5/airco
 108. alfa romeo giulietta 2.0 d,GEKEURD, AUTOMAAT, CAR PASS,euro5
 109. peugeot 107,1.0 benzine,CAR PASS,garantie,Euro 5
 110. chrysler PT cruiser 1.6 benzine,CAR PASS,eerste eigenaar
 111. skoda fabia 1.2 crdi,Euro 5,export of autohandel
-112. ---
+112. fiat 500 /1.2 benzine/CAR PASS/81000 km/Euro 6b/garantie
 113. citroen c4 grand picasso 1.6 hdi,CAR PASS, 1 jaar Garantie
 114. renault laguna 1.9 dci,CAR PASS,164000 km
 115. chevrolet matiz 0.8 i/AUTOMAAT/GEKEURD/63000 km/CAR PASS
@@ -25,7 +25,7 @@
 125. ---
 126. ---
 127. ---
-128. peugeot 3008 AUTOMAAT 1.6 hdi,CAR PASS,12 maanden Garantie
+128. ---
 129. ---
 130. ---
 131. ---

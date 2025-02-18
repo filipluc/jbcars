@@ -5,7 +5,7 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "citroen berlingo 1.6 hdi /GEKEURD/3 zit/airco"
+var_title = "citroen berlingo 1.6 hdi  /GEKEURD/3 zit/airco"
 var_categorie = "Auto's"
 var_brand = "Bestelwagens en Lichte vracht"
 var_model = "Citroën"

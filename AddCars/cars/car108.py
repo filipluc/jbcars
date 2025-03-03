@@ -5,12 +5,12 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "alfa romeo giulietta 2.0 d,GEKEURD, AUTOMAAT, CAR PASS,euro5"
+var_title = "alfa romeo giulietta 2.0 d, AUTOMAAT, CAR PASS,euro5"
 var_categorie = "Auto's"
 var_brand = "Alfa Romeo"
 var_model = "Giulietta"
-var_desc = "\nGEKEURD voor verkoop\nCAR PASS\nbwj 02/2013\n233000 km\neerste eigenaar met oh-boekje bij dealer\n1956 cc diesel\n125 kw\n119 co2\neuro 5\n"
-var_price = "8500"
+var_desc = "\nzo meenemen voor export of autohandel\nCAR PASS\nbwj 02/2013\n233000 km\neerste eigenaar met oh-boekje bij dealer\n1956 cc diesel\n125 kw\n119 co2\neuro 5\n"
+var_price = "6500"
 var_picspath = "car108"
 var_carroserie = "Stadsauto"
 var_month = ""

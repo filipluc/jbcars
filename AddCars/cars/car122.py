@@ -5,7 +5,7 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "seat exeo 2.0 tdi,CAR PASS,94000 km,Euro 5,GARANTIE"
+var_title = "seat exeo 2.0 tdi,GEKEURD/CAR PASS,94000 km,Euro 5,GARANTIE"
 var_categorie = "Auto's"
 var_brand = "Seat"
 var_model = "Exeo"

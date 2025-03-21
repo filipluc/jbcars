@@ -8,8 +8,8 @@
 108. alfa romeo giulietta 2.0 d, AUTOMAAT, CAR PASS,euro5
 109. peugeot 107,1.0 benzine,CAR PASS,garantie,Euro 5
 110. chrysler PT cruiser 1.6 benzine,CAR PASS,eerste eigenaar
-111. peugeot 308 sw GT line 1.2 i/Euro 6b/CAR PASS/garantie
-112. citroen jumper 2.2 hdi/7 zit/GEKEURD/CAR PASS/€7436+btw/tva
+111. ---
+112. ---
 113. citroen c4 grand picasso 1.6 hdi,CAR PASS, 1 jaar Garantie
 114. renault laguna 1.9 dci,CAR PASS,164000 km
 115. renault megane 1.2 i /CAR PASS/69000 km/euro 6b/Garantie
@@ -19,7 +19,7 @@
 119. peugeot 3008 Allure 1.6hdi/AUTOMAAT/GEKEURD/euro 6b
 120. ---
 121. ---
-122. seat exeo 2.0 tdi,CAR PASS,94000 km,Euro 5,GARANTIE
+122. seat exeo 2.0 tdi,GEKEURD/CAR PASS,94000 km,Euro 5,GARANTIE
 123. ---
 124. renault megane cabrio 1.5 dci,GEKEURD,euro 5
 125. ---

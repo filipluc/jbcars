@@ -10,7 +10,7 @@
 110. chrysler PT cruiser 1.6 benzine,CAR PASS,eerste eigenaar
 111. nissan MAXIMA QX 2.0 benzine V6 /161000 km/CAR PASS
 112. peugeot partner 1.6 hdi /CAR PASS/euro 4/ garantie
-113. ---
+113. mercedes clk cabrio/AUTOMAAT/GEKEURD/CAR PASS
 114. renault laguna 1.9 dci,CAR PASS,164000 km
 115. renault megane 1.2 i /CAR PASS/69000 km/euro 6b/Garantie
 116. hyundai matrix 1.5 crdi ,CAR PASS,airco

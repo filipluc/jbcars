@@ -15,6 +15,7 @@ from selenium.common.exceptions import TimeoutException
 from xmlrunner import *
 import time
 import subprocess
+from selenium.webdriver.chrome.options import Options
 from AddCars.general import GeneralFunctions
 from AddCars.cars import car101
 from AddCars.cars import car102

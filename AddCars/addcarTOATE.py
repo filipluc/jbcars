@@ -55,69 +55,57 @@ from AddCars.cars import car135
 class AdaugaMasini(unittest.TestCase):
 
     def setUp(self):
-        # myurl = 'https://www.2dehands.be/my-account/sell/index.html'
-        # chromedir = "C:/Program Files (x86)/Google/Chrome/Application/chrome.exe %s --new-window --remote-debugging-port=1111"
-        # webbrowser.get(chromedir).open(myurl, new=1)
-
-        # Kill all running Chrome instances
         taskkill_command = ['TASKKILL', '/IM', 'chrome.exe', '/F']
+        start_chrome_command = [
+            'chrome',
+            'https://www.2dehands.be/my-account/sell/index.html',
+            '--start-maximized',
+            '--new-window',
+            '--remote-debugging-port=2222'
+        ]
+
+        # Run the TASKKILL command
         try:
-            subprocess.run(taskkill_command, check=True, shell=True)
+            subprocess.run(taskkill_command, check=True)
             print("All instances of chrome.exe have been terminated.")
         except subprocess.CalledProcessError as e:
             print(f"Error terminating chrome.exe: {e}")
 
-        # Define the path to Chrome and setup debugging options
-        chrome_path = r'C:\Program Files\Google\Chrome\Application\chrome.exe'
-        user_data_dir = r'C:\ChromeDebugProfile'
-        url = 'https://www.2dehands.be/my-account/sell/index.html'
-
-        # Start Chrome with remote debugging enabled
+        # Run the command to start Chrome in background
         try:
-            chrome_cmd = f'"{chrome_path}" --remote-debugging-port=2222 --user-data-dir="{user_data_dir}" --start-maximized --new-window "{url}"'
-            subprocess.Popen(chrome_cmd, shell=True)
+            subprocess.Popen(start_chrome_command, shell=True)
             print("Chrome has been started with the specified URL and options.")
         except Exception as e:
             print(f"Error starting Chrome: {e}")
-            raise
 
-        # Give Chrome time to start
-        time.sleep(3)
-
-        # Connect to the running Chrome instance
-        options = Options()
-        # options.add_argument("--start-maximized")
-        # options.add_argument("--incognito")
-        # options.add_experimental_option("debuggerAddress", "127.0.0.1:2222")
+        options = webdriver.ChromeOptions()
         options.debugger_address = "127.0.0.1:2222"
-        # self.driver = webdriver.Chrome(chrome_options=options)
         self.driver = webdriver.Chrome(options=options)
         driver = self.driver
         time.sleep(5)
-        # driver.implicitly_wait(5)
 
+        # #driver.implicitly_wait(5)
         # driver.get("https://www.2dehands.be/login.html")
         # self.assertIn("2dehands", driver.title, "Page was not opened correctly")
-
         # elem1 = driver.find_element_by_name("j_username")
         # elem1.clear()
+        # # elem1.send_keys("ljale@hotmail.com")
         # elem1.send_keys("jb.cars@hotmail.com")
-
         # elem2 = driver.find_element_by_name("j_password")
         # elem2.clear()
+        # # elem2.send_keys("Boni/1994")
         # elem2.send_keys("103robel")
         # elem2.send_keys(Keys.RETURN)
-
-        # using explicit wait with assert
+        #
+        # #using explicit wait with assert
         # try:
-        #     WebDriverWait(driver, 5).until(EC.title_contains("Tweedehands"), "Login was not successful")
+        #     WebDriverWait(driver, 5).until(EC.title_contains("Tweedehands"), "Login was not successfull")
         # except TimeoutException:
-        #     self.assertIn("Tweedehands", driver.title, "Login was not successful")
+        #     self.assertIn("Tweedehands", driver.title, "Login was not successfull")
         # finally:
-        #     driver.quit()
+        #     #driver.quit()
         pass
 
-        
     def tearDown(self):
         # self.driver.quit()
         pass
@@ -130,13 +118,13 @@ class AdaugaMasini(unittest.TestCase):
 
     def test_car103(self):
         GeneralFunctions.deleteAddCarFunction(self, car103)
-     
+
     def test_car104(self):
         GeneralFunctions.deleteAddCarFunction(self, car104)
 
     def test_car105(self):
         GeneralFunctions.deleteAddCarFunction(self, car105)
-    
+
     def test_car106(self):
         GeneralFunctions.deleteAddCarFunction(self, car106)
 
@@ -163,7 +151,7 @@ class AdaugaMasini(unittest.TestCase):
 
     def test_car114(self):
         GeneralFunctions.deleteAddCarFunction(self, car114)
-        
+
     def test_car115(self):
         GeneralFunctions.deleteAddCarFunction(self, car115)
 
@@ -175,7 +163,7 @@ class AdaugaMasini(unittest.TestCase):
 
     def test_car118(self):
         GeneralFunctions.deleteAddCarFunction(self, car118)
-        
+
     def test_car119(self):
         GeneralFunctions.deleteAddCarFunction(self, car119)
 
@@ -226,10 +214,10 @@ class AdaugaMasini(unittest.TestCase):
 
     # def test_car135(self):
     #     GeneralFunctions.deleteAddCarFunction(self, car135)
-        
+
 def suite():
     suite = unittest.TestLoader().loadTestsFromTestCase(AdaugaMasini)
-    return suite        
+    return suite
 
 if __name__ == "__main__":
     unittest.main()

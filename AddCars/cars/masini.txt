@@ -9,17 +9,17 @@
 109. fiat 500/0.9 i/AUTOMAAT/GEKEURD/CAR PASS/garantie
 110. chrysler PT cruiser 1.6 benzine,CAR PASS,eerste eigenaar
 111. nissan MAXIMA QX 2.0 benzine V6 /161000 km/CAR PASS
-112. peugeot partner 1.6 hdi /CAR PASS/euro 4/ garantie
+112. ---
 113. mercedes clk cabrio/AUTOMAAT/GEKEURD/CAR PASS
 114. renault laguna 1.9 dci,CAR PASS,164000 km
 115. renault megane 1.2 i /CAR PASS/69000 km/euro 6b/Garantie
 116. hyundai matrix 1.5 crdi ,CAR PASS,airco
 117. ---
 118. hyundai sonata  2.0 crdi ,AUTOMAAT, CAR PASS
-119. peugeot 3008 Allure 1.6hdi/AUTOMAAT/GEKEURD/euro 6b
+119. ---
 120. ---
 121. peugeot expert 2.0 hdi/6 pl. /GEKEURD/euro 6di/€12000+btw/L3
-122. ---seat exeo 2.0 tdi,GEKEURD/CAR PASS,94000 km,Euro 5,GARANTIE
+122. dacia sandero STEPWAY 1.6 i/CAR PASS/garantie/euro 5
 123. fiat 500L /1.6 d/euro 5/eerste eigenaar
 124. renault megane cabrio 1.5 dci,GEKEURD,euro 5
 125. ---

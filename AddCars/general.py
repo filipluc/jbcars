@@ -104,7 +104,7 @@ class GeneralFunctions():
         finally:
             pass
         time.sleep(1)
-        elem3 = driver.find_element(By.ID, "category-keywords")
+        elem3 = driver.find_element(By.ID, "TextField-vulEenTitelIn")
         elem3.clear()
         elem3.send_keys(car_detail.var_title)
         elem3.send_keys(Keys.TAB)
@@ -114,10 +114,10 @@ class GeneralFunctions():
         select1.select_by_visible_text(car_detail.var_categorie)
         time.sleep(1)
 
-        select11 = Select(driver.find_element(By.ID, 'cat_sel_3'))
+        select11 = Select(driver.find_element(By.ID, 'cat_sel_2'))
         select11.select_by_visible_text(car_detail.var_brand)
         time.sleep(1)
-        elem77 = driver.find_element(By.ID, 'category-selection-submit')
+        elem77 = driver.find_element(By.CLASS_NAME, 'CategorySelection-submitButton')
         elem77.click()
         time.sleep(3)
 

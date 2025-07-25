@@ -18,10 +18,10 @@
 118. hyundai sonata  2.0 crdi ,AUTOMAAT, CAR PASS
 119. peugeot 308 /1.6 hdi-68 kw/CAR PASS/export of autohandel
 120. citroen berlingo 1.6 hdi/CAR PASS/garantie/euro 5
-121. peugeot boxer 2.2hdi/GEKEURD/CAR PASS/euro 6d/€12395+btw/tva
-122. ---
+121. ---peugeot boxer 2.2hdi/GEKEURD/CAR PASS/euro 6d/€12395+btw/tva
+122. ford focus 1.0 i/CAR PASS/garantie/euro 6b/€ 5780+btw/tva
 123. fiat 500L /1.6 d/euro 5/eerste eigenaar
-124. renault megane cabrio 1.5 dci,GEKEURD,euro 5
+124. renault megane cabrio 1.5 dci,,euro 5
 125. ---
 126. ---
 127. ---

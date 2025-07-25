@@ -5,7 +5,7 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "renault megane cabrio 1.5 dci,GEKEURD,euro 5"
+var_title = "renault megane cabrio 1.5 dci,,euro 5"
 var_categorie = "Auto's"
 var_brand = "Renault"
 var_model = "Mégane"

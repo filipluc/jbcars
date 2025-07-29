@@ -4,21 +4,21 @@
 104. fiat qubo 1.4 benzine/CAR PASS/euro 5/garantie
 105. opel combo 1.6 cdti /CAR PASS/euro 5b/bwj 2014
 106. jeep compass 1.6 d/CAR PASS/ //euro 6b/€9909+btw/tva
-107. citroen c5 /2.0 hdi/AUTOMAAT/CAR PASS/garantie
+107. volvo v40 /1.6 diesel/CAR PASS/GARANTIE/euro 5b
 108. alfa romeo giulietta 2.0 d, AUTOMAAT, CAR PASS,euro5
 109. vw passat 1.9 tdi-77kw/CAR PASS/leder
 110. chrysler PT cruiser 1.6 benzine,CAR PASS,eerste eigenaar
 111. nissan MAXIMA QX 2.0 benzine V6 /161000 km/CAR PASS 
-112. skoda fabia 1.0 i/CAR PASS/euro 6dt/Garantie
+112. ---
 113. mercedes clk cabrio/AUTOMAAT/GEKEURD/CAR PASS
 114. renault laguna 1.9 dci,CAR PASS,164000 km
 115. renault megane 1.2 i /CAR PASS/69000 km/euro 6b/Garantie
 116. hyundai matrix 1.5 crdi ,CAR PASS,airco
-117. vw tiguan ALLSPACE 1.4 AUTOMAAT/CAR PASS/euro 6b
+117. ---
 118. hyundai sonata  2.0 crdi ,AUTOMAAT, CAR PASS
 119. peugeot 308 /1.6 hdi-68 kw/CAR PASS/export of autohandel
 120. citroen berlingo 1.6 hdi/CAR PASS/garantie/euro 5
-121. ---peugeot boxer 2.2hdi/GEKEURD/CAR PASS/euro 6d/€12395+btw/tva
+121. ---
 122. ford focus 1.0 i/CAR PASS/garantie/euro 6b/€ 5780+btw/tva
 123. fiat 500L /1.6 d/euro 5/eerste eigenaar
 124. renault megane cabrio 1.5 dci,,euro 5

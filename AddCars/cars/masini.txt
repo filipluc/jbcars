@@ -12,7 +12,7 @@
 112. ---
 113. mercedes clk cabrio/AUTOMAAT/GEKEURD/CAR PASS
 114. renault laguna 1.9 dci,CAR PASS,164000 km
-115. renault megane 1.2 i /CAR PASS/69000 km/euro 6b/Garantie
+115. renault megane 1.2 i GEKEURD/CAR PASS/69000 km/euro 6b
 116. hyundai matrix 1.5 crdi ,CAR PASS,airco
 117. ---
 118. hyundai sonata  2.0 crdi ,AUTOMAAT, CAR PASS

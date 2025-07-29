@@ -5,7 +5,7 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "renault megane 1.2 i /CAR PASS/69000 km/euro 6b/Garantie"
+var_title = "renault megane 1.2 i GEKEURD/CAR PASS/69000 km/euro 6b"
 var_categorie = "Auto's"
 var_brand = "Renault"
 var_model = "Mégane"

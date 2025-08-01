@@ -144,7 +144,7 @@ class GeneralFunctions():
         elem8.send_keys("\nMeer Info 0485/673404\nE-mail: jb.cars@hotmail.com\nOpgelet: Tijdelijk enkel op afspraak\nAttention: Temporairement uniquement sur rendez-vous\n\nadres\nLIERSESTEENWEG 153\n2547 LINT")
         time.sleep(1)
 
-        elem9 = driver.find_element(By.XPATH, "//input[contains(@id, 'js-feature-url')]")
+        elem9 = driver.find_element(By.XPATH, "//input[contains(@id, 'url')]")
         elem9.send_keys("www.jbcars.be")
         time.sleep(0.2)
 

@@ -1,6 +1,6 @@
 101. opel combo 1.3 cdti,Airco,Euro 4
 102. peugeot 407 /1.6 hdi-110pk/CAR PASS/garantie/eerste eigenaar
-103. hyundai i20/1.4 i-74kw/AUTOMAAT/CAR PASS/garantie/87000 km
+103. ---
 104. fiat qubo 1.4 benzine/CAR PASS/euro 5/garantie
 105. opel combo 1.6 cdti /CAR PASS/euro 5b/bwj 2014
 106. jeep compass 1.6 d/CAR PASS/ //euro 6b/€9909+btw/tva
@@ -15,7 +15,7 @@
 115. renault megane 1.2 i GEKEURD/CAR PASS/69000 km/euro 6b
 116. hyundai matrix 1.5 crdi ,CAR PASS,airco
 117. ---
-118. hyundai sonata  2.0 crdi ,AUTOMAAT, CAR PASS
+118. hyundai sonata 2.0 diesel/AUTOMAAT/CAR PASS/garantie
 119. peugeot 308 /1.6 hdi-68 kw/CAR PASS/export of autohandel
 120. citroen berlingo 1.6 hdi/CAR PASS/garantie/euro 5
 121. ---

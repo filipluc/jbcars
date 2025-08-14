@@ -5,12 +5,12 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "jeep compass 1.6 d/CAR PASS/ //euro 6b/€9909+btw/tva"
+var_title = "jeep compass 1.6 d/CAR PASS/ //euro 6b/€8260+btw/tva"
 var_categorie = "Auto's"
 var_brand = "Jeep"
 var_model = "Compass"
 var_desc = "\nPrijs € 9909+btw/tva\nCAR PASS\n1 jaar garantie\nwordt gekeurd voor verkoop\neerste eigenaar\n1598 cc diesel\n88 kw\n117 co2\neuro 6b\n163000 km\n"
-var_price = "11990"
+var_price = "9995"
 var_picspath = "car106"
 var_carroserie = "SUV"
 var_month = ""

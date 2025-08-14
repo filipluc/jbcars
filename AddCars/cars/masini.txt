@@ -3,7 +3,7 @@
 103. peugeot partner 1.6 hdi-92pk/AUTOMAAT/14.000 km !!!!!
 104. fiat qubo 1.4 benzine/CAR PASS/euro 5/garantie
 105. opel combo 1.6 cdti /CAR PASS/euro 5b/bwj 2014
-106. jeep compass 1.6 d/CAR PASS/ //euro 6b/€9909+btw/tva
+106. jeep compass 1.6 d/CAR PASS/ //euro 6b/€8260+btw/tva
 107. volvo v40 /1.6 diesel/CAR PASS/GARANTIE/euro 5b
 108. alfa romeo giulietta 2.0 d, AUTOMAAT, CAR PASS,euro5
 109. vw passat 1.9 tdi-77kw/CAR PASS/leder
@@ -17,7 +17,7 @@
 117. ---
 118. hyundai sonata 2.0 diesel/AUTOMAAT/CAR PASS/garantie
 119. peugeot 308 /1.6 hdi-68 kw/CAR PASS/export of autohandel
-120. citroen berlingo 1.6 hdi/CAR PASS/garantie/euro 5
+120. ---
 121. mercedes vito 3.0- V6-diesel/AUTOMAAT/GEKEURD/euro 5
 122. ford focus 1.0 i/CAR PASS/garantie/euro 6b/€ 5780+btw/tva
 123. fiat 500L /1.6 d/euro 5/eerste eigenaar

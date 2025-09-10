@@ -367,7 +367,7 @@ class GeneralFunctions():
         elem92.send_keys(Keys.TAB)
         time.sleep(0.5)
 
-        elem93 = driver.find_element(By.XPATH, "//input[contains(@id, 'syi-bidding-switch')]")
+        elem93 = driver.find_element(By.XPATH, "//div/label[contains(@id, 'syi-bidding-switch')]")
         #elem93 = driver.find_element_by_xpath("//span[@class='mp-Toggle-round']")
         elem93.click()
         time.sleep(0.5)

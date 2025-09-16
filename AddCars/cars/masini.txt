@@ -17,13 +17,13 @@
 117. citroen c3 /1.0 i/86000km/bwj 2014/joint de cullase
 118. hyundai sonata 2.0 diesel/AUTOMAAT/CAR PASS/garantie
 119. mazda 5 /2.0 d /7 zit/ airco/navigatie
-120. OPEL MOKKA 1.4 i /42000 km/CAR PASS/euro 6b/garantie
+120. ---OPEL MOKKA 1.4 i /42000 km/CAR PASS/euro 6b/garantie
 121. ---
 122. peugeot partner 1.6 hdi/CAR PASS/euro 6b/garantie
 123. fiat 500L /1.6 d/euro 5/eerste eigenaar
 124. renault megane cabrio 1.5 dci,,euro 5
 125. peugeot partner 1.6 hdi/CAR PASS/euro 6b/€ 8256+btw/tva
-126. ---
+126. opel zafira 1.6 i /7 zit /CAR PASS/euro 5/garantie
 127. ---
 128. ---
 129. ---

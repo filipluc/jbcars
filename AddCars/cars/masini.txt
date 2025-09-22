@@ -25,7 +25,7 @@
 125. peugeot partner 1.6 hdi/CAR PASS/euro 6b/€ 8256+btw/tva
 126. opel zafira 1.6 i /7 zit /CAR PASS/euro 5/garantie
 127. ---
-128. bmw 318 i /40000 km/AUTOMAAT/CAR PASS/euro 6
+128. ---bmw 318 i /40000 km/AUTOMAAT/CAR PASS/euro 6
 129. citroen c4/1.2 i/CAR PASS/euro 6if/bwj 2022/garantie
 130. audi a4 /1900 tdi /CAR PASS/garantie	
 131. ---

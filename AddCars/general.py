@@ -262,6 +262,8 @@ class GeneralFunctions():
                 y = "Bekleding leder"
             if x == "Bluetooth":
                 y = "Bluetooth"
+            if x == "Bochtverlichting":
+                y = "Bochtverlichting"
             if x == "Boordcomputer":
                 y = "Boordcomputer"
             if x == "Centrale vergrendeling":
@@ -354,6 +356,8 @@ class GeneralFunctions():
                 y = "Vermoeidheidsdetectie"
             if x == "Verwarmde buitenspiegels":
                 y = "Verwarmde buitenspiegels"
+            if x == "Vooruitrijcamera":
+                y = "Vooruitrijcamera"
             if x == "Xenon verlichting":
                 y = "Xenon verlichting"
             driver.find_element(By.XPATH, "//input[@value='" + str(y) + "']").click()

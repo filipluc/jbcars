@@ -302,7 +302,7 @@ class GeneralFunctions():
                 y = "LED verlichting"
             if x == "Lichtsensor":
                 y = "Lichtsensor"
-            if x == "Lichtmetalenvelgen":
+            if x == "Lichtmetalen velgen":
                 y = "Lichtmetalen velgen"
             if x == "Metaalkleur":
                 y = "Metallic lak"

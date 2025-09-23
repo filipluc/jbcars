@@ -296,14 +296,12 @@ class GeneralFunctions():
                 y = "Lane Departure Warning"
             if x == "Lane Keeping Assist":
                 y = "Lane Keeping Assist"
-            if x == "Lichtmetalen velgen":
-                y = "Lichtmetalen velgen"
             if x == "LED verlichting":
                 y = "LED verlichting"
             if x == "Lichtsensor":
                 y = "Lichtsensor"
             if x == "Lichtmetalenvelgen":
-                y = "Lichtmetalenvelgen"
+                y = "Lichtmetalen velgen"
             if x == "Metaalkleur":
                 y = "Metallic lak"
             if x == "Mistlampen":

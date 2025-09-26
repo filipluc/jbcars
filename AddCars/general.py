@@ -136,7 +136,7 @@ class GeneralFunctions():
         time.sleep(2)
 
         # elem8 = driver.find_element_by_id("description_ifr")
-        elem8 = driver.find_element(By.ID, "description_nl-BE_ifr")
+        elem8 = driver.find_element(By.CSS_SELECTOR, "div.RichTextEditor-module-editorInput[contenteditable='true']")
         # elem8.send_keys("\nBeste klanten,\nin de periode 20/07/2020 tot 21/08/2020(vakantie)\nwij zijn open enkel op afspraak 0485/673404\ndank u\n\n")
         # elem8.send_keys("\nVanaf zaterdag 27 maart enkel op afspraak, met maximaal 2 personen.\nU kan telefonisch of per email een afspraak maken.\n")
         elem8.send_keys(car_detail.var_desc)

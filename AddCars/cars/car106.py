@@ -5,11 +5,11 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "toyota auris 1.8 HYBRID(benz+elekt)/AUTOMAAT/euro 6b"
+var_title = "toyota auris 1.8 HYBRID(benz+elekt)/GEKEURD/AUTOMAAT"
 var_categorie = "Auto's"
 var_brand = "Toyota"
 var_model = "Auris"
-var_desc = "\nHYBRID (benzine+elektrisch)\nCAR PASS\nwordt gekeurd voor verkoop\n1 JAAR GARANTIE\n79000 km\nbwj 06/2016\n1798 cc\nAUTOMAAT\n73 kw\n92 co2\neuro 6b\n4.0 L/100 km\n"
+var_desc = "\nGEKEURD voor verkoop\nHYBRID (benzine+elektrisch)\nCAR PASS\n1 JAAR GARANTIE\n79000 km\nbwj 06/2016\n1798 cc\nAUTOMAAT\n73 kw\n92 co2\neuro 6b\n4.0 L/100 km\n"
 var_price = "13995"
 var_picspath = "car106"
 var_carroserie = "Break"

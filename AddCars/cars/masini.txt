@@ -1,6 +1,6 @@
 101. opel combo 1.3 cdti,Airco,Euro 4
 102. DS ds3 /1.2 benzine/CAR PASS/euro 6b/GARANTIE
-103. fiat 500 /1242 cc i/airco
+103. ---
 104. fiat qubo 1.4 benzine/CAR PASS/euro 5/garantie
 105. opel combo 1.6 cdti /CAR PASS/euro 5b/bwj 2014
 106. toyota auris 1.8 HYBRID(benz+elekt)/GEKEURD/AUTOMAAT

@@ -7,10 +7,10 @@ Created on Jun 3, 2018
 
 var_title = "mazda 5 /2.0 d /7 zit/ airco/navigatie"
 var_categorie = "Auto's"
-var_brand = "Peugeot"
-var_model = "308"
+var_brand = "Mazda"
+var_model = "5"
 var_desc = "\n7 zit\n290000 km\nbwj 09/2006\n1998 cc diesel\n105 kw\neuro 4\n"
-var_price = "1500"
+var_price = "1000"
 var_picspath = "car119"
 var_carroserie = "Monovolume"
 var_month = ""

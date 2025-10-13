@@ -5,12 +5,12 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "peugeot partner 1.6 hdi/CAR PASS/euro 6b/€ 8256+btw/tva"
+var_title = "peugeot partner 1.6 hdi/CAR PASS/euro 6b/garantie"
 var_categorie = "Auto's"
 var_brand = "Peugeot"
 var_model = "Partner"
-var_desc = "\n€ 8256 +btw/tva\nCAR PASS\neerste eigenaar met oh-boekje\n1 jaar garantie\nwordt gekeurd voor verkoop\nbwj 12/2015\n1560cc diesel\n73 kw\neuro 6b\n109 co2\n169090 km\ntrekhaak\n"
-var_price = "9990"
+var_desc = "\nCAR PASS\neerste eigenaar met oh-boekje\n1 jaar garantie\nwordt gekeurd voor verkoop\nbwj 12/2015\n1560cc diesel\n73 kw\neuro 6b\n109 co2\n169090 km\ntrekhaak\n"
+var_price = "8650"
 var_picspath = "car125"
 var_carroserie = "Monovolume"
 var_month = ""

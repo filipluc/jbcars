@@ -5,7 +5,7 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "bmw GT 530 d X drive /CAR PASS/4x4/euro 5"
+var_title = "bmw GT 530 d  X drive /CAR PASS/4x4/euro 5"
 var_categorie = "Auto's"
 var_brand = "bMW"
 var_model = "5 Reeks GT"

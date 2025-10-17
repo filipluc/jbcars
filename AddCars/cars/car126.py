@@ -7,7 +7,7 @@ Created on Jun 3, 2018
 
 var_title = "bmw GT 530 d  X drive /CAR PASS/4x4/euro 5"
 var_categorie = "Auto's"
-var_brand = "bMW"
+var_brand = "BMW"
 var_model = "5 Reeks GT"
 var_desc = "\nX drive\nCAR PASS\nwordt gekeurd voor verkoop\n2993 cc diesel\n190 kw/259 pk\n239000 km\n163 co2\neuro 5\n4x4\nautomaat\nbwj 12/2012\n"
 var_price = "12500"

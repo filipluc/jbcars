@@ -11,7 +11,7 @@ var_brand = "Opel"
 var_model = "Combo Tour"
 var_desc = "\nenkel voor export of autohandel\neerste eigenaar met oh-boekje\nbwj 02/2014\n1598 cc diesel\n77 kw\n145 co2\n169000 km\
 neuro 5b\n"
-var_price = "4500"
+var_price = "5000"
 var_picspath = "car105"
 var_carroserie = "Monovolume"
 var_month = ""

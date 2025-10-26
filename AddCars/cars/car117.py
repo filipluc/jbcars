@@ -8,7 +8,7 @@ Created on Jun 3, 2018
 var_title = "citroen c3 /1.0 i/86000km/bwj 2014/export"
 var_categorie = "Auto's"
 var_brand = "Citroën"
-var_model = "C3"
+var_model = ""
 var_desc = "\nexport\n\nMotorgeluid/bruit du moteur/engine noise !!!\n\nauto rijdt /voiture roule\nbwj 2014\n86000 km\n999 cc\n50 kw\neuro 5b\n"
 var_price = "1750"
 var_picspath = "car117"

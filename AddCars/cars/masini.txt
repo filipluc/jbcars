@@ -1,7 +1,7 @@
 101. opel combo 1.3 cdti,Airco,Euro 4
-102. ---
+102. peugeot partner TEPEE 1.2 i/CAR PASS/euro 6b/Garantie
 103. peugeot 308 /1.6 hdi/CAR PASS/euro 5
-104. ---
+104. citroen c3 AIRCROSS 1.2 i/CAR PLAY/ANDROID/euro 6di/CAR PASS
 105. opel combo 1.6 cdti /CAR PASS/euro 5b/bwj 2014
 106. ---
 107. ---
@@ -14,7 +14,7 @@
 114. nissan qashqai 1.6 dci/CAR PASS/130 pk/full option
 115. fiat qubo 1.4 i/CAR PASS/23000 KM/EURO 6b/airco/garantie
 116. hyundai matrix 1.5 crdi ,CAR PASS,airco
-117. citroen c3 /1.0 i/86000km/bwj 2014/joint de cullase
+117. citroen c3 /1.0 i/86000km/bwj 2014/export
 118. hyundai sonata 2.0 diesel/AUTOMAAT/CAR PASS/garantie
 119. mazda 5 /2.0 d /7 zit/ airco/navigatie
 120. ---
@@ -29,7 +29,7 @@
 129. peugeot partner 1.6 hdi/CAR PASS/PANORAMA dak/euro 6b
 130. audi a4 /1900 tdi /CAR PASS/garantie	
 131. peugeot 208 GT line ,1.2 i/4600 km/alcantara/panorama dak
-132. jeep renegade 2.0 jtd AUTOMAAT,4x4,CAR PASS
+132. jeep renegade 2.0 jtd AUTOMAAT,4x4,euro 6b/car pass
 133. ---
 134. ---
 135. ---

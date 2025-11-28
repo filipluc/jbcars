@@ -129,7 +129,7 @@ class GeneralFunctions():
         for dirname, dirnames, filenames in os.walk(picspath):
             # print(filenames)
             for filename in filenames:
-                elem15 = (driver.find_elements(By.XPATH, "//input[contains(@id, 'html5_')]"))[-1]
+                elem15 = (driver.find_elements(By.XPATH, "//input[contains(@id, 'imageUploader')]"))[-1]
                 time.sleep(0.5)
                 elem15.send_keys(os.path.join(dirname, filename))
                 time.sleep(6)

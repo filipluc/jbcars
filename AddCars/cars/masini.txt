@@ -24,8 +24,8 @@
 124. renault megane cabrio 1.5 dci,,euro 5
 125. ---
 126. bmw GT 530 d  X drive /CAR PASS/4x4/euro 5
-127. peugeot boxer 2.0 hdi/5+1 pl/GEKEURD/euro 6b/€ 10735+btw/tva
-128. peugeot boxer 2.0 hdi/GEKEURD/6 pl./ € 10735+btw/tva/euro 6
+127. ---
+128. ---
 129. peugeot partner 1.6 hdi/CAR PASS/PANORAMA dak/euro 6b
 130. audi a4 /1900 tdi /CAR PASS/garantie	
 131. peugeot 208 GT line ,1.2 i/4600 km/alcantara/panorama dak

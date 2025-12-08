@@ -1,9 +1,9 @@
 101. opel combo 1.3 cdti,Airco,Euro 4
 102. peugeot partner TEPEE 1.2 i/CAR PASS/euro 6b/Garantie
-103. peugeot 308 SW 1.6 hdi /CAR PASS/euro 6b/PANORAMA DAK
+103. ---
 104. citroen c3 AIRCROSS 1.2 i/CAR PLAY/ANDROID/euro 6di/CAR PASS
 105. opel combo 1.6 cdti /CAR PASS/euro 5b/bwj 2014
-106. peugeot 308 CABRIO 1.6 hdi /CAR PASS/124000 km/euro 5
+106. ---
 107. peugeot 208 /1.0 i/CAR PASS/36000 km/euro 6b/GARANTIE
 108. alfa romeo giulietta 2.0 d, AUTOMAAT, CAR PASS,euro5
 109. ---

@@ -390,6 +390,6 @@ class GeneralFunctions():
             elem94.click()
             time.sleep(3)
 
-        elem95 = driver.find_element(By.XPATH, "//button[contains(@id, 'syi-place-ad-button')]")
+        elem95 = driver.find_element(By.XPATH, "//button[contains(@data-testid, 'place-listing-submit-button')]")
         elem95.click()
         time.sleep(20)

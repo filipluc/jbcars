@@ -83,7 +83,7 @@ class GeneralFunctions():
         elem103 = driver.find_element(By.XPATH, "//button[contains(text(), 'Verkocht via 2dehands')]")
         time.sleep(1)
         elem103.click()
-        time.sleep(1)
+        time.sleep(3)
         try:
             elem104 = driver.find_element(By.XPATH, "//button[text() = 'Direct']")
             elem104.click()

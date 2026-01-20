@@ -25,7 +25,7 @@
 125. peugeot expert 1.5 hdi/GEKEURD/CAR PASS/euro 6d
 126. bmw GT 530 d  X drive /CAR PASS/4x4/euro 5
 127. peugeot boxer 2.2 hdi/GEKEURD/euro 6di/CAR PASS/77000 km
-128. renault kangoo express ZE elektrisch/5 zit/CAR PASS/43000 km
+128. renault kangoo express ZE elektrisch/GEKEURD/L.V. 5 zit
 129. renault kangoo express Z.E./elektrisch /GEKEURD/47000 km
 130. audi a4 /1900 tdi /CAR PASS/garantie	
 131. peugeot 208 GT line ,1.2 i/4600 km/alcantara/panorama dak

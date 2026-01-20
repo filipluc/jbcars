@@ -5,11 +5,11 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "renault kangoo express ZE elektrisch/5 zit/CAR PASS/43000 km"
+var_title = "renault kangoo express ZE elektrisch/GEKEURD/L.V. 5 zit"
 var_categorie = "Auto's"
 var_brand = "Bestelwagens en Lichte vracht"
 var_model = "Renault"
-var_desc = "\neerste eigenaar\nbatterij met attest ,nog 95%\nelektrisch\n44 kw\n43815 km\nautomaat\nbwj 10/2018\nkeuring geldig tot 06/11/2026\nCAR PASS\nlichte vracht 5 zit\n"
+var_desc = "\nGEKEURD voor verkoop\neerste eigenaar\nbatterij met attest ,nog 95%\nelektrisch\n44 kw\n43815 km\nautomaat\nbwj 10/2018\nCAR PASS\nlichte vracht 5 zit\nbatterij inbegrepen\nbatterie incluse\nbattery included\n"
 var_price = "8000"
 var_picspath = "car128"
 var_carroserie = "Monovolume"

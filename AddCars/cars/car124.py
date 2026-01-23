@@ -7,7 +7,7 @@ Created on Jun 3, 2018
 
 var_title = "vw T5 /5 pl/LV/AUTOMAAT/lichte vracht/bwj 12/2014/euro 5b"
 var_categorie = "Auto's"
-var_brand = "Volkswagen "
+var_brand = "Volkswagen"
 var_model = "Transporter"
 var_desc = "\nAUTOMAAT\n5 zit\nlichte vracht\nCAR PASS\nwordt gekeurd voor verkoop\nkeuring geldig tot 09/11/2026\n1968 cc diesel\n103 kw\neuro 5b\ntrekhaak 2500 kg\n190177 km\n"
 var_price = "14990"

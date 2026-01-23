@@ -5,11 +5,11 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "peugeot 206+ /1.1 i /CAR PASS/garantie/eerste eigenaar"
+var_title = "peugeot 206+ /1.1 i /CAR PLAY-ANDROID/1 jaar garantie"
 var_categorie = "Auto's"
 var_brand = "Peugeot"
 var_model = "206"
-var_desc = "\nCAR PASS\neerste eigenaar met oh-boekje bij dealer\nCAR\nwordt gekeurd voor verkoop\nbwj 2009\n1124 cc\n44 kw\n116622 km\n135 co2\neuro 4\n2 sleutels\n"
+var_desc = "\nCAR PLAY /ANDROID\nCAR PASS\neerste eigenaar met oh-boekje bij dealer\nCAR\nwordt gekeurd voor verkoop\nbwj 2009\n1124 cc\n44 kw\n116622 km\n135 co2\neuro 4\n2 sleutels\n"
 var_price = "3990"
 var_picspath = "car112"
 var_carroserie = "Stadsauto"

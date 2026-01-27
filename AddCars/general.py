@@ -117,7 +117,7 @@ class GeneralFunctions():
         select11 = Select(driver.find_element(By.ID, 'cat_sel_2'))
         select11.select_by_visible_text(car_detail.var_brand)
         time.sleep(1)
-        elem77 = driver.find_element(By.CLASS_NAME, 'CategorySelection-submitButton')
+        elem77 = driver.find_element(By.CLASS_NAME, 'CategorySelection-module-submitButton')
         elem77.click()
         time.sleep(3)
 

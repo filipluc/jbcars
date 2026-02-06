@@ -5,7 +5,7 @@ Created on Jun 3, 2018
 '''
 
 
-var_title = "peugeot 208 /1.0 i/CAR PASS/36000 km/euro 6b/GARANTIE"
+var_title = "peugeot 208 /1.0 i/CAR PLAY/36000 km/euro 6b/GARANTIE"
 var_categorie = "Auto's"
 var_brand = "Peugeot"
 var_model = "208"

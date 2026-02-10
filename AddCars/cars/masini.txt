@@ -6,7 +6,7 @@
 106. seat alhambra 1.9 tdi-115pk/ 7 zit /bwj 2009
 107. peugeot 208 /1.0 i/CAR PLAY/36000 km/euro 6b/GARANTIE
 108. alfa romeo giulietta 2.0 d, AUTOMAAT, CAR PASS,euro5
-109. ---citroen c4 picasso 1.6 hdi-112pk/CAR PASS/eerste eigenaar
+109. ---
 110. opel astra 1.7 cdti/CAR PASS/garantie/euro 5
 111. nissan MAXIMA QX 2.0 benzine V6 /161000 km/CAR PASS 
 112. peugeot 206+ /1.1 i /CAR PLAY-ANDROID/1 jaar garantie
@@ -22,7 +22,7 @@
 122. volvo v40 /1.6 d/AUTOMAAT/CAR PASS/garantie
 123. ---
 124. peugeot 2008/1.5 hdi/CAR PLAY/euro 6di
-125. ---peugeot expert 1.5 hdi/GEKEURD/CAR PASS/euro 6d
+125. ---
 126. bmw GT 530 d  X drive /CAR PASS/4x4/euro 5
 127. ---
 128. renault kangoo express ZE elektrisch/GEKEURD/L.V. 5 zit
